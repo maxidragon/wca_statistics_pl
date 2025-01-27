@@ -1,3 +1,5 @@
+All statistics are computed only for competitors from Poland/Polish competitions.
+
 - [Average event count by competition](average_event_count_by_competition)
 - [Average of 5](average_of_5)
 - [Average of 12](average_of_12)
@@ -39,6 +41,9 @@
 - [Most visited continents](most_visited_continents)
 - [Most visited countries](most_visited_countries)
 - [Moving average](moving_average)
+- [National records count by person](national_records_by_person)
+- [Polish Championship podiums by person](polish_championship_podiums_by_person)
+- [Polish Championship records](polish_championship_records)
 - [Potentially seen world records](potentially_seen_world_records)
 - [Records in the highest number of events](records_in_most_events)
 - [Shortest amount of time to reach a milestone in competitions count](shortest_time_to_reach_milestone_in_comps_count)
@@ -46,9 +51,7 @@
 - [Shortest time to get all singles and averages](shortest_time_to_get_all_singles_and_averages)
 - [Smallest difference between a single and an average](smallest_diff_between_single_and_average)
 - [Winned week count](winned_week_count)
-- [World Championship podiums by country](world_championship_podiums_by_country)
 - [World Championship podiums by person](world_championship_podiums_by_person)
-- [World Championship records](world_championship_records)
 - [World records count by person](world_records_by_person)
 - [Worst result providing a podium](worst_result_on_podium)
 - [Yearly rankings](yearly_rankings)

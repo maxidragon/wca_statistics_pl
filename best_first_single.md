@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 25 January 2025*
+*Updated on 28 January 2025*
 
 
 ### Rubik's Cube
@@ -87,12 +87,12 @@
 | 3:25.06 | [Mateusz Ziemba](https://www.worldcubeassociation.org/persons/2022ZIEM01) |
 | 3:27.44 | [Krzysztof Chlebowski](https://www.worldcubeassociation.org/persons/2021CHLE01) |
 | 3:34.36 | [Gabriel Marczak](https://www.worldcubeassociation.org/persons/2013MARC03) |
+| 3:36.12 | [Dominik Kądziołka](https://www.worldcubeassociation.org/persons/2023KADZ01) |
 | 3:40.22 | [Mikołaj Zubowicz](https://www.worldcubeassociation.org/persons/2015ZUBO01) |
 | 3:45.01 | [Jerzy Chmiel](https://www.worldcubeassociation.org/persons/2019CHMI01) |
 | 3:55.42 | [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) |
 | 3:57.91 | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) |
 | 3:58.41 | [Piotr Stachurski](https://www.worldcubeassociation.org/persons/2018STAC06) |
-| 3:58.95 | [Szymon Kitel](https://www.worldcubeassociation.org/persons/2022KITE01) |
 
 ### 3x3x3 Blindfolded
 

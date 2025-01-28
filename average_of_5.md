@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 25 January 2025*
+*Updated on 28 January 2025*
 
 
 ### Rubik's Cube
@@ -10,9 +10,9 @@
 | ---: | :--- | :--- |
 | 4.49 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 4.45, 4.72, 4.23, 5.60, 4.30 |
 | 5.24 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 5.44, 5.92, 5.00, 5.27, 4.92 |
+| 5.33 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 5.50, 6.08, 4.91, 5.03, 5.45 |
 | 5.46 | [Szymon Musiał](https://www.worldcubeassociation.org/persons/2018MUSI03) | 5.40, 7.27, 5.46, 4.79, 5.52 |
-| 5.50 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 5.03, 6.27, 4.39, 5.65, 5.81 |
-| 5.63 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | 5.90, 6.43, 5.29, 5.70, 4.38 |
+| 5.50 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | 6.88, 5.79, 5.47, 5.24, 4.88 |
 | 5.78 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | 5.48, 5.46, 6.39, 6.78, 5.15 |
 | 6.63 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | 6.38, 8.53, 5.92, 7.29, 6.22 |
 | 6.74 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 5.82, 6.92, 8.78, 6.75, 6.54 |
@@ -200,7 +200,7 @@
 | 7.22 | [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) | 7.27, 14.95, 6.89, 6.99, 7.39 |
 | 7.52 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | 7.37, 7.71, 7.49, 8.75, 6.89 |
 | 7.55 | [Witold Sołtysik](https://www.worldcubeassociation.org/persons/2015SOLT03) | 7.67, 8.90, 6.98, 8.00, 6.95 |
-| 8.00 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 6.05, 9.93, 7.00, 8.96, 8.04 |
+| 7.89 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 8.83, 6.87, 7.96, 11.17, 6.43 |
 | 8.21 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 6.40, 7.70, 7.49, 9.68, 9.44 |
 | 9.09 | [Oliver Sherlock](https://www.worldcubeassociation.org/persons/2019SHER13) | 9.57, 9.70, 7.80, 11.89, 7.99 |
 

@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 25 January 2025*
+*Updated on 28 January 2025*
 
 
 ### Rubik's Cube
@@ -55,7 +55,7 @@
 
 | Person | Winned weeks |
 | :--- | ---: |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 41 |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 42 |
 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 6 |
 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 5 |
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 5 |

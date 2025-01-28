@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 25 January 2025*
+*Updated on 28 January 2025*
 
 
 ### Rubik's Cube
@@ -29,8 +29,8 @@
 | 3.54 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
 | 3.60 | [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) |
 | 3.65 | [Miłosz Jaśkiewicz](https://www.worldcubeassociation.org/persons/2022JASK01) |
-| 3.68 | [Matviy Berestovskyy](https://www.worldcubeassociation.org/persons/2022BERE02) |
 | 3.68 | [Ksawier Kozak](https://www.worldcubeassociation.org/persons/2023KOZA02) |
+| 3.68 | [Matviy Berestovskyy](https://www.worldcubeassociation.org/persons/2022BERE02) |
 | 3.74 | [Wojciech Piórczyński](https://www.worldcubeassociation.org/persons/2021PIOR01) |
 | 3.74 | [Maciej Kozar](https://www.worldcubeassociation.org/persons/2021KOZA01) |
 
@@ -73,11 +73,11 @@
 | 2:23.08 | [Bartłomiej Gołda](https://www.worldcubeassociation.org/persons/2015GODA01) |
 | 2:24.73 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) |
 | 2:27.66 | [Mikołaj Zubowicz](https://www.worldcubeassociation.org/persons/2015ZUBO01) |
+| 2:33.44 | [Dominik Kądziołka](https://www.worldcubeassociation.org/persons/2023KADZ01) |
 | 2:34.25 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) |
 | 2:36.64 | [Piotr Stachurski](https://www.worldcubeassociation.org/persons/2018STAC06) |
 | 2:37.93 | [Krzysztof Chlebowski](https://www.worldcubeassociation.org/persons/2021CHLE01) |
 | 2:38.50 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) |
-| 2:39.25 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 
 ### 7x7x7 Cube
 
@@ -86,13 +86,13 @@
 | 2:58.39 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) |
 | 3:33.06 | [Gabriel Marczak](https://www.worldcubeassociation.org/persons/2013MARC03) |
 | 3:37.31 | [Krzysztof Chlebowski](https://www.worldcubeassociation.org/persons/2021CHLE01) |
+| 3:39.01 | [Dominik Kądziołka](https://www.worldcubeassociation.org/persons/2023KADZ01) |
 | 3:47.53 | [Mikołaj Zubowicz](https://www.worldcubeassociation.org/persons/2015ZUBO01) |
 | 3:49.89 | [Jerzy Chmiel](https://www.worldcubeassociation.org/persons/2019CHMI01) |
 | 3:50.84 | [Mateusz Ziemba](https://www.worldcubeassociation.org/persons/2022ZIEM01) |
 | 3:51.88 | [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) |
 | 3:55.00 | [Piotr Stachurski](https://www.worldcubeassociation.org/persons/2018STAC06) |
 | 4:01.99 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
-| 4:03.33 | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) |
 
 ### 3x3x3 Blindfolded
 

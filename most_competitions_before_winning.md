@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 25 January 2025*
+*Updated on 28 January 2025*
 
 
 ### Rubik's Cube
@@ -83,6 +83,7 @@
 
 | Competitions | Person | First win |
 | ---: | :--- | :--- |
+| 61 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | [Cube4fun in Tylmanowa 2025](https://www.worldcubeassociation.org/competitions/Cube4funinTylmanowa2025) |
 | 47 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | [Kolla Winter Cup 2024](https://www.worldcubeassociation.org/competitions/KollaWinterCup2024) |
 | 35 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | [PST Biłgoraj 2020](https://www.worldcubeassociation.org/competitions/PSTBilgoraj2020) |
 | 25 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | [K:nummen Kuutionvääntelyt 2022](https://www.worldcubeassociation.org/competitions/KnummenKuutionvaantelyt2022) |
@@ -92,7 +93,6 @@
 | 15 | [Jakub Cabaj](https://www.worldcubeassociation.org/persons/2008CABA03) | [Cannes Open 2012](https://www.worldcubeassociation.org/competitions/VCubeCannesOpen2012) |
 | 14 | [Łukasz Cichecki](https://www.worldcubeassociation.org/persons/2007CICH01) | [Poznan Open 2011](https://www.worldcubeassociation.org/competitions/PoznanOpen2011) |
 | 13 | [Jakub Sokołowski](https://www.worldcubeassociation.org/persons/2012SOKO01) | [PLS Autumn Reda 2014](https://www.worldcubeassociation.org/competitions/PLSAutumnReda2014) |
-| 12 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | [Brno Open 2019](https://www.worldcubeassociation.org/competitions/BrnoOpen2019) |
 
 ### 3x3x3 Blindfolded
 

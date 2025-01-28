@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 25 January 2025*
+*Updated on 28 January 2025*
 
 
 ### 3x3x3 Blindfolded
@@ -8,6 +8,7 @@
 | Attempts | Person |
 | ---: | :--- |
 | 34 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |
+| 34 | [Robert Cegiel](https://www.worldcubeassociation.org/persons/2017CEGI01) |
 | 33 | [Mateusz Kotwica](https://www.worldcubeassociation.org/persons/2016KOTW01) |
 | 26 | [Ignacy Buczek](https://www.worldcubeassociation.org/persons/2013BUCZ01) |
 | 23 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) |
@@ -26,7 +27,6 @@
 | 12 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) |
 | 12 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) |
 | 12 | [Patrycja Michalska](https://www.worldcubeassociation.org/persons/2013MICH02) |
-| 12 | [Jakub Bartos](https://www.worldcubeassociation.org/persons/2014BART06) |
 
 ### 4x4x4 Blindfolded
 
@@ -71,8 +71,8 @@
 | 5 | [Kamil Michalak](https://www.worldcubeassociation.org/persons/2016MICH01) |
 | 4 | [Alan Żeromski](https://www.worldcubeassociation.org/persons/2018ZERO01) |
 | 3 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
-| 3 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 3 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) |
+| 3 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 2 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) |
 | 2 | [Łukasz Gondek](https://www.worldcubeassociation.org/persons/2017GOND01) |
 | 2 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) |

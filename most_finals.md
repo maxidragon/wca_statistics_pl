@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 28 January 2025*
+*Updated on 31 January 2025*
 
 | Finals | Person |
 | ---: | :--- |

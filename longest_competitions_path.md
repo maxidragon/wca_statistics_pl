@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 31 January 2025*
+*Updated on  1 February 2025*
 
 | Person | Distance |
 | :--- | ---: |
@@ -44,7 +44,7 @@
 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 37 485 km |
 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 36 896 km |
 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | 36 820 km |
-| [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) | 34 484 km |
+| [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) | 34 488 km |
 | [Przemysław Malinowski](https://www.worldcubeassociation.org/persons/2022MALI01) | 34 061 km |
 | [Szymon Jaworski](https://www.worldcubeassociation.org/persons/2021JAWO01) | 34 056 km |
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 33 715 km |

@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  1 February 2025*
+*Updated on  4 February 2025*
 
 
 ### Rubik's Cube
@@ -118,10 +118,10 @@
 | 2.60 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | [Cube4fun Żyrardów 2024](https://www.worldcubeassociation.org/competitions/Cube4funCEZyrardow2024/results/by_person#2022STOJ03) |
 | 2.69 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Cube4fun DW Lublin 2024](https://www.worldcubeassociation.org/competitions/Cube4funDWLublin2024/results/by_person#2021KASP01) |
 | 2.69 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Cube4fun DW Lublin 2024](https://www.worldcubeassociation.org/competitions/Cube4funDWLublin2024/results/by_person#2021KASP01) |
+| 2.78 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | [Melbourne Summer 2025](https://www.worldcubeassociation.org/competitions/MelbourneSummer2025/results/by_person#2022STOJ03) |
 | 2.79 | [Marcel Politowicz](https://www.worldcubeassociation.org/persons/2021POLI02) | [No Triangle in Rzeszów 2024](https://www.worldcubeassociation.org/competitions/NoTriangleinRzeszow2024/results/by_person#2021POLI02) |
 | 2.82 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/by_person#2021KASP01) |
 | 2.83 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Dragon Cubing II 2024](https://www.worldcubeassociation.org/competitions/DragonCubingII2024/results/by_person#2021KASP01) |
-| 2.85 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | [Energy Cube Białołęka 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2024/results/by_person#2020REJD01) |
 
 ### Skewb
 

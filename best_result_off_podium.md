@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals at Polish competitions are taken into account.*
-*Updated on  1 February 2025*
+*Updated on  4 February 2025*
 
 
 ### Rubik's Cube
@@ -42,12 +42,12 @@
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 26.72 | **28.05** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e444_f) | 5 |
 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 27.40 | **28.69** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e444_f) | 6 |
 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | 23.85 | **28.77** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e444_f) | 7 |
+| [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 26.24 | **28.99** | [Żory Open 2025](https://www.worldcubeassociation.org/competitions/ZoryOpen2025/results/all#e444_c) | 4 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 24.87 | **29.15** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e444_f) | 8 |
+| [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | 28.33 | **29.31** | [Żory Open 2025](https://www.worldcubeassociation.org/competitions/ZoryOpen2025/results/all#e444_c) | 5 |
+| [Maksymilian Sordyl](https://www.worldcubeassociation.org/persons/2022SORD01) | 26.75 | **29.32** | [Żory Open 2025](https://www.worldcubeassociation.org/competitions/ZoryOpen2025/results/all#e444_c) | 6 |
 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | 26.04 | **29.43** | [Dragon Cubing II 2024](https://www.worldcubeassociation.org/competitions/DragonCubingII2024/results/all#e444_f) | 4 |
 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 27.77 | **29.57** | [GLS Final 2024](https://www.worldcubeassociation.org/competitions/GdanskaLigaSpeedcubinguFinal2024/results/all#e444_f) | 4 |
-| [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | 28.18 | **29.84** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e444_f) | 9 |
-| [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 27.39 | **29.88** | [Energy Cube Ciechanów 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeCiechanow2024/results/all#e444_f) | 4 |
-| [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) | 27.17 | **29.90** | [Beskid Cubing 2023](https://www.worldcubeassociation.org/competitions/BeskidCubing2023/results/all#e444_f) | 4 |
 
 ### 5x5x5 Cube
 
@@ -60,9 +60,9 @@
 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | 49.46 | **54.15** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e555_f) | 8 |
 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | 47.09 | **54.23** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e555_f) | 9 |
 | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) | 48.17 | **54.25** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e555_f) | 10 |
+| [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | 50.87 | **54.26** | [Żory Open 2025](https://www.worldcubeassociation.org/competitions/ZoryOpen2025/results/all#e555_c) | 4 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 51.86 | **54.37** | [Silesian Cubing Pawłowice 2023](https://www.worldcubeassociation.org/competitions/SilesianCubingPawlowice2023/results/all#e555_f) | 4 |
 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) | 51.04 | **54.73** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e555_f) | 11 |
-| [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 48.67 | **54.82** | [SST Rzeszów 2021](https://www.worldcubeassociation.org/competitions/SSTRzeszow2021/results/all#e555_f) | 4 |
 
 ### 6x6x6 Cube
 

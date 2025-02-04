@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  1 February 2025*
+*Updated on  4 February 2025*
 
 
 ### Rubik's Cube
@@ -133,11 +133,11 @@
 | 0.44 | [Krzysztof Boguszewski](https://www.worldcubeassociation.org/persons/2019BOGU01) | 42.19 | 42.63 | [Dragon Cubing 2023](https://www.worldcubeassociation.org/competitions/DragonCubing2023/results/by_person#2019BOGU01) |
 | 0.49 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | 1:01.48 | 1:01.97 | [Speed Days Kraśnik 2015](https://www.worldcubeassociation.org/competitions/SpeedDaysKrasnik2015/results/by_person#2011MAJC01) |
 | 0.50 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 48.54 | 49.04 | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/by_person#2013BURL01) |
+| 0.51 | [Witold Sołtysik](https://www.worldcubeassociation.org/persons/2015SOLT03) | 47.28 | 47.79 | [Żory Open 2025](https://www.worldcubeassociation.org/competitions/ZoryOpen2025/results/by_person#2015SOLT03) |
 | 0.53 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) | 54.36 | 54.89 | [GLS Cup Final 2018](https://www.worldcubeassociation.org/competitions/GLSCupFinal2018/results/by_person#2012KRIS12) |
 | 0.54 | [Cezary Mach](https://www.worldcubeassociation.org/persons/2018MACH04) | 1:01.84 | 1:02.38 | [Szczecin Open 2022](https://www.worldcubeassociation.org/competitions/SzczecinOpen2022/results/by_person#2018MACH04) |
 | 0.54 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) | 1:08.86 | 1:09.40 | [Back To Białystok 2024](https://www.worldcubeassociation.org/competitions/BackToBialystok2024/results/by_person#2021GORE01) |
 | 0.59 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 30.97 | 31.56 | [Castle Mania Niepołomice 2024](https://www.worldcubeassociation.org/competitions/CastleManiaNiepolomice2024/results/by_person#2014ZYCH01) |
-| 0.59 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 35.30 | 35.89 | [Silesian Minx Fest 2023](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2023/results/by_person#2014ZYCH01) |
 
 ### Pyraminx
 
@@ -196,8 +196,8 @@
 | 0.17 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 5.56 | 5.73 | [Cube4fun Siedlce Autumn 2023](https://www.worldcubeassociation.org/competitions/Cube4funSiedlceAutumn2023/results/by_person#2013KRAS02) |
 | 0.21 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 7.77 | 7.98 | [LLS II 2019](https://www.worldcubeassociation.org/competitions/LLSII2019/results/by_person#2013KRAS02) |
 | 0.21 | [Bartosz Miduch](https://www.worldcubeassociation.org/persons/2019MIDU01) | 17.49 | 17.70 | [LLS IV Świdnik 2021](https://www.worldcubeassociation.org/competitions/LLSIVSwidnik2021/results/by_person#2019MIDU01) |
+| 0.21 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 17.99 | 18.20 | [Żory Open 2025](https://www.worldcubeassociation.org/competitions/ZoryOpen2025/results/by_person#2017BRZA01) |
 | 0.22 | [Grzegorz Szumigaj](https://www.worldcubeassociation.org/persons/2013SZUM01) | 21.67 | 21.89 | [Big Cube Krasnik 2014](https://www.worldcubeassociation.org/competitions/BigCubeKrasnik2014/results/by_person#2013SZUM01) |
-| 0.24 | [Tomasz Cepil](https://www.worldcubeassociation.org/persons/2018CEPI01) | 19.15 | 19.39 | [Beskidy Side Days 2024](https://www.worldcubeassociation.org/competitions/BeskidySideDays2024/results/by_person#2018CEPI01) |
 
 ### 4x4x4 Blindfolded
 

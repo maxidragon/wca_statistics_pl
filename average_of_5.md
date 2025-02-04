@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  1 February 2025*
+*Updated on  4 February 2025*
 
 
 ### Rubik's Cube
@@ -38,6 +38,7 @@
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 19.44 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 19.68, 18.28, 20.92, 20.18, 18.46 |
+| 26.26 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | 25.80, 23.37, 25.23, 30.75, 27.75 |
 | 26.46 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | 25.73, 26.80, 24.62, 31.21, 26.85 |
 | 26.49 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | 25.00, 25.41, 27.68, 31.84, 26.38 |
 | 26.93 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 26.93, 26.02, 28.96, 27.58, 26.27 |
@@ -57,6 +58,7 @@
 | 49.68 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | 54.78, 49.18, 49.61, 50.18, 49.26 |
 | 49.75 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 47.28, 52.04, 49.10, 50.94, 49.21 |
 | 51.23 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | 50.68, 48.63, 59.00, 54.37, 47.42 |
+| 51.74 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 59.95, 57.05, 44.96, 45.74, 52.44 |
 
 ### 6x6x6 Cube
 
@@ -78,7 +80,7 @@
 | ---: | :--- | :--- |
 | 1:48.18 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:44.29, 1:44.76, 2:02.05, 1:46.31, 1:53.46 |
 | 2:13.73 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 2:11.32, 2:16.79, 2:13.08, 2:39.40, 2:07.11 |
-| 2:21.42 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | 2:18.73, 2:18.09, 2:19.04, 2:31.19, 2:26.48 |
+| 2:19.76 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | 2:14.50, 2:13.58, 2:24.57, 2:34.70, 2:20.20 |
 | 2:26.01 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 2:52.67, 2:26.44, 2:17.71, 2:27.39, 2:24.21 |
 | 2:27.21 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) | 2:19.85, 2:35.41, 2:27.49, 2:33.50, 2:20.65 |
 | 2:31.44 | [Adam Łyskawa](https://www.worldcubeassociation.org/persons/2017LYSK01) | 2:23.86, 2:31.11, 2:42.07, 2:36.50, 2:26.71 |

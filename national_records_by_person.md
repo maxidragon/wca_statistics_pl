@@ -1,6 +1,6 @@
 ## National records count by person
 
-*Updated on  7 February 2025*
+*Updated on 10 February 2025*
 
 | WRs | Person |
 | ---: | :--- |
@@ -25,8 +25,8 @@
 | 9 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
 | 9 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) |
 | 9 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) |
+| 9 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 8 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
-| 8 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 7 | [Kamil Fiedoruk](https://www.worldcubeassociation.org/persons/2012FIED01) |
 | 7 | [Marek Kurcyus](https://www.worldcubeassociation.org/persons/2005KURC01) |
 | 7 | [Rafał Guzewicz](https://www.worldcubeassociation.org/persons/2006GUZE01) |
@@ -37,11 +37,11 @@
 | 6 | [Piotr Frankowski](https://www.worldcubeassociation.org/persons/2006FRAN01) |
 | 6 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) |
 | 6 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
+| 6 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
 | 5 | [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) |
 | 5 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) |
 | 5 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |
 | 5 | [Stefan Łapicki](https://www.worldcubeassociation.org/persons/2006LAPI01) |
-| 5 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
 | 4 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) |
 | 4 | [Grzegorz Dzikiewicz](https://www.worldcubeassociation.org/persons/2008DZIK01) |
 | 4 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) |

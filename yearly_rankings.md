@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 10 February 2025*
+*Updated on 13 February 2025*
 
 
 ### Rubik's Cube - Single
@@ -195,9 +195,9 @@
 | [Alan Żeromski](https://www.worldcubeassociation.org/persons/2018ZERO01) | **34.96** | Poland | [Piła Open 2025](https://www.worldcubeassociation.org/competitions/PilaOpen2025) | DNF, 34.96, DNF |
 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | **36.40** | Poland | [Cube Factory League Rogów 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueRogow2025) | 41.54, 36.40, DNF |
 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | **36.79** | Poland | [Cube Factory League Rogów 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueRogow2025) | 36.79, 54.31, DNF |
+| [Igor Wojciech Wawrzynski](https://www.worldcubeassociation.org/persons/2019WAWR01) | **1:04.09** | Poland | [Svalbard 2025](https://www.worldcubeassociation.org/competitions/Svalbard2025) | DNF, 1:42.09, 1:04.09 |
 | [Daniel Jamrużka](https://www.worldcubeassociation.org/persons/2012JAMR01) | **1:13.12** | Poland | [Cube Factory League Rogów 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueRogow2025) | DNF, DNF, 1:13.12 |
 | [Marcel Borkowski](https://www.worldcubeassociation.org/persons/2023BORK01) | **1:17.68** | Poland | [Edinburgh Winter 2025](https://www.worldcubeassociation.org/competitions/EdinburghWinter2025) | 1:21.96, 1:17.68, 1:27.30 |
-| [Victor Kiziukiewicz](https://www.worldcubeassociation.org/persons/2023KIZI01) | **1:18.27** | Poland | [Cube Factory League Rogów 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueRogow2025) | 1:18.27, DNF, DNF |
 
 ### 3x3x3 Blindfolded - Average
 

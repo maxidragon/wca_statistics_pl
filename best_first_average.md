@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 13 February 2025*
+*Updated on 16 February 2025*
 
 
 ### Rubik's Cube
@@ -45,9 +45,9 @@
 | 44.10 | [Bruno Fromm](https://www.worldcubeassociation.org/persons/2023FROM01) |
 | 44.13 | [Dominik Smagowski](https://www.worldcubeassociation.org/persons/2023SMAG02) |
 | 44.48 | [Kacper Dłubała](https://www.worldcubeassociation.org/persons/2018DLUB01) |
+| 45.70 | [Jan Pietralski](https://www.worldcubeassociation.org/persons/2024PIET02) |
 | 46.14 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) |
 | 46.21 | [Dawid Centkowski](https://www.worldcubeassociation.org/persons/2022CENT03) |
-| 46.64 | [Szymon Myśliński](https://www.worldcubeassociation.org/persons/2019MYSL01) |
 
 ### 5x5x5 Cube
 

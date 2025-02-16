@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 13 February 2025*
+*Updated on 16 February 2025*
 
 
 ### Rubik's Cube
@@ -167,7 +167,7 @@
 | ---: | :--- | :--- |
 | 1.96 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | 1.90, 1.65, 1.75, 1.41, 2.30, 2.22, 1.35, 1.81, 2.42, 2.47, 4.06, 1.98, 2.37, 1.89, 2.07, 1.65, 3.81, 2.34, 1.96, 1.28, 2.06, 1.67, 1.86, 1.49, 1.79 |
 | 2.07 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 1.67, 1.59, 2.35, 1.44, 2.45, 1.81, 1.67, 1.67, 1.70, 3.78, 1.71, 5.63, 2.01, 1.31, 3.35, 1.87, 4.00, 1.76, 1.87, 2.19, 1.62, 1.87, 1.66, 3.23, 1.68 |
-| 2.21 | [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) | 2.08, 2.10, 2.37, 1.90, 2.32, 2.00, 2.77, 2.25, 1.94, 2.15, 2.26, 2.18, 2.05, 2.52, 2.31, 3.74, 2.31, 2.37, 2.12, 2.46, 1.46, 2.15, 4.65, 1.66, 1.70 |
+| 2.18 | [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) | 2.92, 1.96, 1.89, 2.49, 2.17, 1.78, 3.02, 1.97, 1.60, 2.02, 3.79, 3.33, 2.61, 1.94, 2.00, 2.14, 2.48, 1.90, 1.83, 1.75, 1.96, 4.34, 2.10, 1.55, 1.53 |
 | 2.41 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 2.15, 1.61, 1.73, 2.61, 2.38, 1.87, 1.28, 5.17, 1.76, 2.89, 1.12, 5.73, 2.36, 1.89, 2.65, 3.63, 1.84, 2.76, 4.55, 1.78, 2.17, 3.85, 1.72, 2.25, 2.07 |
 | 2.42 | [Cezary Mach](https://www.worldcubeassociation.org/persons/2018MACH04) | 3.24, 3.06, 1.88, 1.89, 1.93, 2.25, 2.33, 1.85, 2.20, 1.59, 3.84, DNF, 1.84, 2.40, 2.19, 2.73, 2.77, 2.72, 2.26, 3.24, 2.09, 3.46, 1.75, 1.54, 2.82 |
 | 2.62 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 2.61, 2.18, 2.31, 3.58, 2.30, 2.25, 2.55, 1.90, 2.01, 2.42, 2.61, 2.91, 2.78, 2.69, 2.96, 2.56, 2.82, 2.76, 2.46, 3.11, 1.52, 3.16, 5.09, 2.77, 2.75 |

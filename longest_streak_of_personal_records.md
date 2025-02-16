@@ -1,6 +1,6 @@
 ## Longest streak of competitions with a personal record done
 
-*Updated on 13 February 2025*
+*Updated on 16 February 2025*
 
 | Competitions | Person | Started at | Ended at |
 | ---: | :--- | :--- | :--- |
@@ -34,9 +34,9 @@
 | 32 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | [Polish Open 2018](https://www.worldcubeassociation.org/competitions/PolishOpen2018) | [Dragon Cubing II 2023](https://www.worldcubeassociation.org/competitions/DragonCubingII2023) |
 | 31 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | [Olsztyn Open 2017](https://www.worldcubeassociation.org/competitions/OlsztynOpen2017) | [Szansa Cubing Open Warsaw 2023](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2023) |
 | 31 | [Radosław Michałek](https://www.worldcubeassociation.org/persons/2021MICH03) | [Project Pawłowice 2021](https://www.worldcubeassociation.org/competitions/ProjectPawlowice2021) |  |
+| 31 | [Krystian Fiołek](https://www.worldcubeassociation.org/persons/2022FIOL01) | [Cube4fun Jasło 2022](https://www.worldcubeassociation.org/competitions/Cube4funJaslo2022) |  |
 | 30 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | [Polish Nationals 2012](https://www.worldcubeassociation.org/competitions/PolishNationals2012) | [GLS Cup I 2018](https://www.worldcubeassociation.org/competitions/GLSCupI2018) |
 | 30 | [Tomek Bogdanik](https://www.worldcubeassociation.org/persons/2013BOGD04) | [SLS Jastrzebie 2013](https://www.worldcubeassociation.org/competitions/SLSJastrzebie2013) | [FMC Europe 2018](https://www.worldcubeassociation.org/competitions/FMCEurope2018) |
-| 30 | [Krystian Fiołek](https://www.worldcubeassociation.org/persons/2022FIOL01) | [Cube4fun Jasło 2022](https://www.worldcubeassociation.org/competitions/Cube4funJaslo2022) |  |
 | 29 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | [Polish Open 2007](https://www.worldcubeassociation.org/competitions/PolishOpen2007) | [Czech Open 2011](https://www.worldcubeassociation.org/competitions/CzechOpen2011) |
 | 29 | [Łukasz Cichecki](https://www.worldcubeassociation.org/persons/2007CICH01) | [World Championship 2007](https://www.worldcubeassociation.org/competitions/WC2007) |  |
 | 29 | [Krzysztof Kuncki](https://www.worldcubeassociation.org/persons/2010KUNC01) | [Polish Open 2010](https://www.worldcubeassociation.org/competitions/PolishOpen2010) | [Radom Open 2013](https://www.worldcubeassociation.org/competitions/RadomOpen2013) |
@@ -88,8 +88,8 @@
 | 24 | [Marcin Dołoto](https://www.worldcubeassociation.org/persons/2021DOLO01) | [SST Warszawa 2021](https://www.worldcubeassociation.org/competitions/SSTWarszawa2021) | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) |
 | 24 | [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) | [German Mini Open B 2021](https://www.worldcubeassociation.org/competitions/GermanMiniOpenB2021) |  |
 | 24 | [Marcel Politowicz](https://www.worldcubeassociation.org/persons/2021POLI02) | [Cubers Eve Lubartów 2021](https://www.worldcubeassociation.org/competitions/CubersEveLubartow2021) | [Dragon Cubing II 2023](https://www.worldcubeassociation.org/competitions/DragonCubingII2023) |
-| 24 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | [Cube4fun League Koło 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueKolo2022) | [Rzeszów Open 2024](https://www.worldcubeassociation.org/competitions/RzeszowOpen2024) |
 | 24 | [Tymon Sozański](https://www.worldcubeassociation.org/persons/2022SOZA01) | [Cube4fun League Koło 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueKolo2022) | [Mikołajki Open 2023](https://www.worldcubeassociation.org/competitions/MikolajkiOpen2023) |
+| 24 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | [Cube4fun League Koło 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueKolo2022) | [Rzeszów Open 2024](https://www.worldcubeassociation.org/competitions/RzeszowOpen2024) |
 | 23 | [Marek Wójtowicz](https://www.worldcubeassociation.org/persons/2008WOJT01) | [Gdansk Open 2008](https://www.worldcubeassociation.org/competitions/GdanskOpen2008) | [3Mola Open 2011](https://www.worldcubeassociation.org/competitions/3MolaOpen2011) |
 | 23 | [Tomasz Kiełbasa](https://www.worldcubeassociation.org/persons/2009KIEL01) | [Gdansk Open 2009](https://www.worldcubeassociation.org/competitions/GdanskOpen2009) | [Polish Nationals 2014](https://www.worldcubeassociation.org/competitions/PolishNationals2014) |
 | 23 | [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) | [Cubing Spring Grudziadz 2012](https://www.worldcubeassociation.org/competitions/CubingSpringGrudziadz2012) | [SLS Chorzow 2014](https://www.worldcubeassociation.org/competitions/SLSChorzow2014) |

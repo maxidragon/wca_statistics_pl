@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 13 February 2025*
+*Updated on 16 February 2025*
 
 
 ### Rubik's Cube
@@ -71,12 +71,12 @@
 | 8.36 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [No Triangle in Rzeszów 2024](https://www.worldcubeassociation.org/competitions/NoTriangleinRzeszow2024/results/by_person#2022MARC05) |
 | 8.46 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2019KARP03) |
 | 8.65 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | [SLS Grudzień 2023](https://www.worldcubeassociation.org/competitions/SLSGrudzien2023/results/by_person#2019KARP03) |
+| 8.71 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | [Cube4fun Lublin Saturday 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinSaturday2025/results/by_person#2019KARP03) |
 | 8.88 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | [Cube4fun Bełżyce 2023](https://www.worldcubeassociation.org/competitions/Cube4funBelzyceMultiEvents2023/results/by_person#2014ZAKR01) |
 | 8.97 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2019KARP03) |
 | 9.10 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | [Cube Factory League Rogów 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueRogow2025/results/by_person#2022SZUB01) |
 | 9.16 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | [Cube4fun Żyrardów 2024](https://www.worldcubeassociation.org/competitions/Cube4funCEZyrardow2024/results/by_person#2019KARP03) |
 | 9.30 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | [Kaskada Open 2016](https://www.worldcubeassociation.org/competitions/KaskadaOpen2016/results/by_person#2009PLES01) |
-| 9.38 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [Beskidy Side Days 2024](https://www.worldcubeassociation.org/competitions/BeskidySideDays2024/results/by_person#2017PABI01) |
 
 ### Megaminx
 
@@ -132,11 +132,11 @@
 | 1.41 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | [Szansa Cubing Open Warsaw 2024](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2024/results/by_person#2022SAMS03) |
 | 1.46 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | [Cube4fun Bełżyce 2023](https://www.worldcubeassociation.org/competitions/Cube4funBelzyceMultiEvents2023/results/by_person#2013BURL01) |
 | 1.52 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | [Siedlce Open 2024](https://www.worldcubeassociation.org/competitions/SiedlceOpen2024/results/by_person#2021KULA02) |
+| 1.53 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | [Cube4fun Lublin Saturday 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinSaturday2025/results/by_person#2022SAMS03) |
 | 1.55 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | [Dębica Cubing Summer 2024](https://www.worldcubeassociation.org/competitions/DebicaCubingSummer2024/results/by_person#2021KULA02) |
+| 1.55 | [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) | [Cube4fun Lublin Saturday 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinSaturday2025/results/by_person#2021DENK01) |
+| 1.56 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | [Cube4fun Lublin Saturday 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinSaturday2025/results/by_person#2022SAMS03) |
 | 1.57 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | [Siedlce Open 2024](https://www.worldcubeassociation.org/competitions/SiedlceOpen2024/results/by_person#2018HANU02) |
-| 1.57 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | [Cube4fun in Bełchatów 2024](https://www.worldcubeassociation.org/competitions/Cube4funinBelchatow2024/results/by_person#2021PIET01) |
-| 1.57 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | [Cube4fun Żyrardów 2024](https://www.worldcubeassociation.org/competitions/Cube4funCEZyrardow2024/results/by_person#2022SAMS03) |
-| 1.59 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [Siedlce Open 2024](https://www.worldcubeassociation.org/competitions/SiedlceOpen2024/results/by_person#2013KRAS02) |
 
 ### Square-1
 

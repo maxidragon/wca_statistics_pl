@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 16 February 2025*
+*Updated on 19 February 2025*
 
 
 ### Rubik's Cube
@@ -65,7 +65,7 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 1:12.35 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:12.77, 1:12.63, 1:11.65, 1:15.50, 1:11.46 |
+| 1:11.33 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:05.42, 1:15.77, 1:18.06, 1:08.52, 1:09.69 |
 | 1:28.48 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | 1:30.44, 1:26.02, 1:36.10, 1:26.64, 1:28.37 |
 | 1:30.29 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 1:28.26, 1:28.71, 1:36.35, 1:31.27, 1:30.90 |
 | 1:31.83 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 1:29.79, 1:31.27, 1:34.42, 1:39.76, 1:26.92 |

@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 16 February 2025*
+*Updated on 19 February 2025*
 
 
 ### Rubik's Cube
@@ -65,7 +65,7 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 1:14.22 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:11.56, 1:17.40, 1:14.05, 1:14.92, 1:15.90, 1:13.92, 1:08.08, 1:11.44, 1:22.82, 1:18.01, 1:13.36, 1:11.66 |
+| 1:13.47 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:11.85, 1:16.69, 1:09.55, 1:22.62, 1:05.42, 1:15.77, 1:18.06, 1:08.52, 1:09.69, 1:15.73, 1:16.06, 1:12.76 |
 | 1:32.40 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | 1:24.07, 1:50.00, 1:39.39, 1:37.87, 1:38.92, 1:30.44, 1:26.02, 1:36.10, 1:26.64, 1:28.37, 1:34.21, 1:26.07 |
 | 1:33.51 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 1:32.60, 1:28.26, 1:28.71, 1:36.35, 1:31.27, 1:30.90, 1:34.35, 1:33.96, 1:41.74, 1:33.82, 1:43.75, 1:31.39 |
 | 1:34.89 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 1:34.73, 1:30.05, 1:36.57, 1:36.82, 1:30.29, 1:48.41, 1:38.76, 1:32.43, 1:40.81, 1:30.85, 1:22.05, 1:37.60 |

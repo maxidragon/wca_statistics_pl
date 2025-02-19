@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 16 February 2025*
+*Updated on 19 February 2025*
 
 
 ### Rubik's Cube
@@ -72,11 +72,11 @@
 | 8.46 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2019KARP03) |
 | 8.65 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | [SLS Grudzień 2023](https://www.worldcubeassociation.org/competitions/SLSGrudzien2023/results/by_person#2019KARP03) |
 | 8.71 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | [Cube4fun Lublin Saturday 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinSaturday2025/results/by_person#2019KARP03) |
+| 8.74 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | [Cube4fun Biała Podlaska 2025](https://www.worldcubeassociation.org/competitions/Cube4funBialaPodlaska2025/results/by_person#2019KARP03) |
 | 8.88 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | [Cube4fun Bełżyce 2023](https://www.worldcubeassociation.org/competitions/Cube4funBelzyceMultiEvents2023/results/by_person#2014ZAKR01) |
 | 8.97 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2019KARP03) |
 | 9.10 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | [Cube Factory League Rogów 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueRogow2025/results/by_person#2022SZUB01) |
 | 9.16 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | [Cube4fun Żyrardów 2024](https://www.worldcubeassociation.org/competitions/Cube4funCEZyrardow2024/results/by_person#2019KARP03) |
-| 9.30 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | [Kaskada Open 2016](https://www.worldcubeassociation.org/competitions/KaskadaOpen2016/results/by_person#2009PLES01) |
 
 ### Megaminx
 

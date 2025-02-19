@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 16 February 2025*
+*Updated on 19 February 2025*
 
 
 ### Rubik's Cube
@@ -63,7 +63,6 @@
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 4 |
 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 3 |
 | [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) | 1 |
-| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 1 |
 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) | 1 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 1 |
 
@@ -85,7 +84,7 @@
 | Person | Winned weeks |
 | :--- | ---: |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 42 |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 27 |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 28 |
 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 3 |
 | [Łukasz Cichecki](https://www.worldcubeassociation.org/persons/2007CICH01) | 1 |
 | [Jakub Cabaj](https://www.worldcubeassociation.org/persons/2008CABA03) | 1 |
@@ -105,7 +104,7 @@
 | Person | Winned weeks |
 | :--- | ---: |
 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | 26 |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 16 |
+| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 15 |
 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | 13 |
 | [Rafał Guzewicz](https://www.worldcubeassociation.org/persons/2006GUZE01) | 10 |
 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | 6 |
@@ -155,7 +154,6 @@
 | [Grzegorz Dzikiewicz](https://www.worldcubeassociation.org/persons/2008DZIK01) | 3 |
 | [Igor Kowalczyk](https://www.worldcubeassociation.org/persons/2013KOWA04) | 2 |
 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | 2 |
-| [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 2 |
 | [Jarosław Nowicki](https://www.worldcubeassociation.org/persons/2004NOWI01) | 1 |
 | [Kacper Pawlaczyk](https://www.worldcubeassociation.org/persons/2005PAWL01) | 1 |
 | [Tomasz Cyrklaff](https://www.worldcubeassociation.org/persons/2009CYRK01) | 1 |
@@ -164,6 +162,7 @@
 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | 1 |
 | [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) | 1 |
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 1 |
+| [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 1 |
 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | 1 |
 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | 1 |
 
@@ -233,7 +232,6 @@
 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) | 1 |
 | [Marcel Politowicz](https://www.worldcubeassociation.org/persons/2021POLI02) | 1 |
 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) | 1 |
-| [Kacper Bieńkowski](https://www.worldcubeassociation.org/persons/2022BIEN01) | 1 |
 
 ### Skewb
 
@@ -245,11 +243,11 @@
 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | 8 |
 | [Cezary Mach](https://www.worldcubeassociation.org/persons/2018MACH04) | 4 |
 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 3 |
-| [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | 3 |
 | [Filip Pasławski](https://www.worldcubeassociation.org/persons/2013PASA01) | 2 |
 | [Bartłomiej Sordyl](https://www.worldcubeassociation.org/persons/2014SORD01) | 2 |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 2 |
 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 2 |
+| [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | 2 |
 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 1 |
 | [Patryk Szewczyk](https://www.worldcubeassociation.org/persons/2012SZEW01) | 1 |
 | [Wojciech Barciaga](https://www.worldcubeassociation.org/persons/2013BARC03) | 1 |

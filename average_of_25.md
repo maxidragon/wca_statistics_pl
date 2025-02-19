@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 16 February 2025*
+*Updated on 19 February 2025*
 
 
 ### Rubik's Cube
@@ -105,7 +105,7 @@
 
 | Ao25 | Person | Times |
 | ---: | :--- | :--- |
-| 10.56 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 11.68, 10.01, 10.71, 11.17, 13.07, 9.42, 9.81, 9.15, 13.33, 8.66, 9.46, 11.80, 12.18, 8.68, 12.06, 8.97, 11.03, 11.35, 9.44, 8.46, 12.25, 8.00, 12.78, 10.98, 10.21 |
+| 10.43 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 9.94, 12.27, 8.99, 10.08, 10.78, 9.31, 12.59, 10.49, 11.50, 10.54, 8.71, 8.13, 12.10, 10.82, 9.72, 11.86, 9.83, 10.90, 8.69, 11.92, 13.39, 10.21, 11.60, 8.64, 8.74 |
 | 10.65 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | 9.90, 9.20, 8.93, 10.65, 9.54, 10.41, 11.59, 10.59, 10.27, 9.90, 10.74, 10.14, 10.86, 10.71, 10.57, 13.52, 12.43, 13.52, 11.16, 7.89, 11.01, 14.15, 10.32, 11.13, 8.14 |
 | 11.22 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | 11.33, 12.88, 11.88, 11.91, 8.74, 19.66, 14.06, 12.07, 8.99, 11.83, 10.91, 9.42, 11.74, 9.73, 10.53, 12.85, 9.10, 15.20, 9.73, 8.23, 11.61, 13.54, 11.65, 10.71, 9.24 |
 | 11.62 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 12.27, 12.32, 10.72, 12.37, 12.51, 11.53, 14.13, 10.72, 11.89, 11.64, 10.90, 11.20, 11.39, 18.66, 12.42, 10.59, 10.94, 9.73, 16.98, 10.36, 12.03, 9.34, 11.55, 8.15, 12.86 |

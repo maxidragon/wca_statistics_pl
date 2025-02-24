@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 22 February 2025*
+*Updated on 23 February 2025*
 
 
 ### Rubik's Cube
@@ -14,9 +14,9 @@
 | 6.04 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | 5.97, 7.00, 3.96, 6.10, 6.99, 6.21, 6.88, 6.88, 5.79, 5.47, 5.24, 4.88 |
 | 6.22 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | 6.38, 6.89, 5.47, 6.96, 6.81, 6.10, 5.36, 6.54, 5.73, DNF, 5.92, 4.50 |
 | 6.32 | [Szymon Musiał](https://www.worldcubeassociation.org/persons/2018MUSI03) | 5.40, 7.27, 5.46, 4.79, 5.52, 6.31, 7.42, 7.23, 6.64, 7.10, 6.23, 6.05 |
+| 6.64 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | 5.78, 6.73, 6.08, 6.77, 6.79, 8.22, 6.62, 5.38, 7.14, 7.62, 7.10, 5.79 |
 | 7.06 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | 7.22, 7.68, 7.36, 6.60, 7.39, 6.22, 8.18, 5.61, 7.03, 9.65, 5.73, 7.22 |
 | 7.18 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 6.94, 7.57, 7.93, 6.36, 7.12, 7.82, 7.47, 6.73, 7.30, 6.83, 7.62, 5.72 |
-| 7.36 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | 7.43, 6.33, 6.99, 8.81, 7.32, 6.13, 6.63, 6.73, 8.62, 7.74, 8.11, 7.65 |
 | 8.15 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | 6.53, 10.49, 8.31, 7.65, 8.54, 7.95, 9.00, 8.08, 8.61, 7.69, 7.79, 7.92 |
 
 ### 2x2x2 Cube

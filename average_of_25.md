@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 22 February 2025*
+*Updated on 23 February 2025*
 
 
 ### Rubik's Cube
@@ -14,9 +14,9 @@
 | 6.17 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | 6.51, 6.12, 6.83, 5.75, 5.39, 5.97, 7.00, 3.96, 6.10, 6.99, 6.21, 6.88, 6.88, 5.79, 5.47, 5.24, 4.88, 8.86, 9.40, 6.93, 5.47, 5.43, 7.13, 6.41, 5.10 |
 | 6.50 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | 6.07, 6.16, 5.80, 5.47, 5.62, 10.04, 7.10, 6.44, 7.80, 6.49, 6.14, 9.95, 6.56, 6.14, 7.13, 6.31, 6.61, 7.15, 7.41, 6.71, 6.22, 4.87, 6.72, 6.48, 4.67 |
 | 6.51 | [Szymon Musiał](https://www.worldcubeassociation.org/persons/2018MUSI03) | 5.65, 6.46, 6.49, 6.68, 6.39, 7.60, 6.75, 6.92, 6.76, 6.09, 8.42, 6.93, 5.40, 7.27, 5.46, 4.79, 5.52, 6.31, 7.42, 7.23, 6.64, 7.10, 6.23, 6.05, 6.32 |
+| 7.05 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | 6.17, 7.99, 6.23, 6.34, 6.85, 7.34, DNF, 5.78, 6.73, 6.08, 6.77, 6.79, 8.22, 6.62, 5.38, 7.14, 7.62, 7.10, 5.79, 7.95, 6.49, 8.60, 7.66, 7.84, 8.43 |
 | 7.32 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | 6.68, 7.11, 7.12, 7.20, 8.78, 7.62, 6.72, 7.94, 6.00, 7.88, 6.63, 11.67, 8.81, 7.82, 7.68, 6.13, 7.25, 6.62, 11.07, 7.43, 8.35, 7.04, 6.80, 6.21, 5.75 |
 | 7.46 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 7.93, 6.36, 7.12, 7.82, 7.47, 6.73, 7.30, 6.83, 7.62, 5.72, 7.37, 9.08, 7.14, 8.69, 8.31, 8.63, 8.09, 7.55, 7.53, 6.67, 9.41, 7.23, 7.44, 5.82, 6.92 |
-| 7.50 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | 7.71, 6.44, 7.30, 6.46, 8.18, 7.88, 7.84, 8.59, 6.51, 7.03, 12.60, 7.10, 7.41, 6.93, 7.80, 7.48, 7.00, 9.16, 7.48, 9.07, 6.23, 7.06, 4.15, 7.77, 8.55 |
 | 8.23 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | 7.19, 7.88, 8.83, 9.22, 7.06, 8.39, 10.95, 6.98, 9.16, 8.83, 8.52, 8.09, 6.53, 10.49, 8.31, 7.65, 8.54, 7.95, 9.00, 8.08, 8.61, 7.69, 7.79, 7.92, 8.12 |
 
 ### 2x2x2 Cube

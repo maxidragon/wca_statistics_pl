@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 23 February 2025*
+*Updated on 25 February 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -12,6 +12,7 @@
 | 11 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | [Vilnius Open 2016](https://www.worldcubeassociation.org/competitions/VilniusOpen2016/results/podiums) |
 | 10 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | [Brno Open 2019](https://www.worldcubeassociation.org/competitions/BrnoOpen2019/results/podiums) |
 | 12 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [LLS V Final 2019](https://www.worldcubeassociation.org/competitions/LLSVFinal2019/results/podiums) |
+| 11 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [Dębica Cubing Winter 2025](https://www.worldcubeassociation.org/competitions/DebicaCubingWinter2025/results/podiums) |
 | 11 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [PST LLS Lublin 2020](https://www.worldcubeassociation.org/competitions/PSTLLSLublin2020/results/podiums) |
 | 11 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | [Icelandic Nationals 2021](https://www.worldcubeassociation.org/competitions/IcelandicNationals2021/results/podiums) |
 | 12 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | [Cube4fun in Biała Podlaska 2024](https://www.worldcubeassociation.org/competitions/Cube4funinBialaPodlaska2024/results/podiums) |

@@ -1,11 +1,12 @@
 ## Shortest time to get all singles and averages
 
 *Note: Only current official events are taken into account.*
-*Updated on 23 February 2025*
+*Updated on 25 February 2025*
 
 | Days | Person |
 | ---: | :--- |
 | 1170 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 1309 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
 | 1533 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) |
 | 1729 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) |
 | 2100 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) |

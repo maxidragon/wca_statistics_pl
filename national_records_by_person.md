@@ -1,6 +1,6 @@
 ## National records count by person
 
-*Updated on 23 February 2025*
+*Updated on 25 February 2025*
 
 | WRs | Person |
 | ---: | :--- |

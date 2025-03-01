@@ -1,6 +1,6 @@
 ## Most frequent results
 
-*Updated on 28 February 2025*
+*Updated on  1 March 2025*
 
 
 ### Rubik's Cube

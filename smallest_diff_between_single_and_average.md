@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  1 March 2025*
+*Updated on  4 March 2025*
 
 
 ### Rubik's Cube
@@ -227,7 +227,7 @@
 | 43.00 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | 19:35.00 | 20:18.00 | [Big 'n Blind Szczecinek 2023](https://www.worldcubeassociation.org/competitions/BignBlindSzczecinek2023/results/by_person#2018ZYNE01) |
 | 74.37 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) | 7:04.75 | 8:19.12 | [Polish Open 2018](https://www.worldcubeassociation.org/competitions/PolishOpen2018/results/by_person#2015BUAT01) |
 | 83.00 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) | 10:06.00 | 11:29.00 | [Polish Nationals 2017](https://www.worldcubeassociation.org/competitions/PolishNationals2017/results/by_person#2015BUAT01) |
-| 101.00 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | 17:07.00 | 18:48.00 | [Poznań Mental Breakdown 2022](https://www.worldcubeassociation.org/competitions/PoznanMentalBreakdown2022/results/by_person#2018ZYNE01) |
+| 94.00 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 11:30.00 | 13:04.00 | [5BLD Masters Opole 2025](https://www.worldcubeassociation.org/competitions/5BLDMastersOpole2025/results/by_person#2014MILE01) |
 
 ### 3x3x3 With Feet
 

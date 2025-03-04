@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on  1 March 2025*
+*Updated on  4 March 2025*
 
 
 ### World
@@ -110,6 +110,7 @@
 | 1 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Hvidovre NxN 2025](https://www.worldcubeassociation.org/competitions/HvidovreNxN2025/results/by_person#2016KOLA02) |
 | 1 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) | [Polish Championship 2018](https://www.worldcubeassociation.org/competitions/PolishChampionship2018/results/by_person#2017ANON13) |
 | 1 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024/results/by_person#2020BARA02) |
+| 1 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | [5BLD Masters Opole 2025](https://www.worldcubeassociation.org/competitions/5BLDMastersOpole2025/results/by_person#2020BARA02) |
 | 1 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | [Warsaw Cube Masters 2023](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2023/results/by_person#2021ZAJD03) |
 | 1 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [No Triangle in Rzeszów 2024](https://www.worldcubeassociation.org/competitions/NoTriangleinRzeszow2024/results/by_person#2021KASP01) |
 

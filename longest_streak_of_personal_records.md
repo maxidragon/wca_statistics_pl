@@ -1,6 +1,6 @@
 ## Longest streak of competitions with a personal record done
 
-*Updated on  1 March 2025*
+*Updated on  4 March 2025*
 
 | Competitions | Person | Started at | Ended at |
 | ---: | :--- | :--- | :--- |
@@ -76,22 +76,22 @@
 | 25 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) | [Silesia Open 2012](https://www.worldcubeassociation.org/competitions/SilesiaOpen2012) | [Poznan Open 2014](https://www.worldcubeassociation.org/competitions/PoznanOpen2014) |
 | 25 | [Hubert Kwasigroch](https://www.worldcubeassociation.org/persons/2014KWAS01) | [PLS Sopot 2014](https://www.worldcubeassociation.org/competitions/PLSSopot2014) | [GLS Cup V 2018](https://www.worldcubeassociation.org/competitions/GLSCupV2018) |
 | 25 | [Antoni Rumowski](https://www.worldcubeassociation.org/persons/2014RUMO01) | [PLS Marina 2014](https://www.worldcubeassociation.org/competitions/PLSMarina2014) | [Project Łuków 2018](https://www.worldcubeassociation.org/competitions/ProjectLukow2018) |
+| 25 | [Franek Saliński](https://www.worldcubeassociation.org/persons/2015SALI02) | [Polish Championship 2015](https://www.worldcubeassociation.org/competitions/PolishChampionship2015) |  |
 | 25 | [Mateusz Kotwica](https://www.worldcubeassociation.org/persons/2016KOTW01) | [Beskidy Cubing Day 2016](https://www.worldcubeassociation.org/competitions/BeskidyCubingDay2016) | [Project Dębica 2019](https://www.worldcubeassociation.org/competitions/ProjectDebica2019) |
 | 25 | [Stanisław Dąbrowski](https://www.worldcubeassociation.org/persons/2016DABR03) | [CFL Santa Claus Cube Race 2017](https://www.worldcubeassociation.org/competitions/CFLSantaClausCubeRace2017) | [LLS II 2019](https://www.worldcubeassociation.org/competitions/LLSII2019) |
 | 25 | [Oskar Matysik](https://www.worldcubeassociation.org/persons/2019MATY01) | [Wrocław Open 2019](https://www.worldcubeassociation.org/competitions/WroclawOpen2019) |  |
 | 25 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) | [MLS Warszawa 2020](https://www.worldcubeassociation.org/competitions/MLSWarszawa2020) | [BrizZon Side Open 2023](https://www.worldcubeassociation.org/competitions/BrizZonSideOpen2023) |
 | 25 | [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) | [German Mini Open B 2021](https://www.worldcubeassociation.org/competitions/GermanMiniOpenB2021) |  |
 | 25 | [Zuzanna Bogusz](https://www.worldcubeassociation.org/persons/2022BOGU01) | [Mysłowice Big Cube Open 2022](https://www.worldcubeassociation.org/competitions/MyslowiceBigCubeOpen2022) | [Winter Vibe Wrocław 2024](https://www.worldcubeassociation.org/competitions/WinterVibeWroclaw2024) |
+| 25 | [Szymon Gabara](https://www.worldcubeassociation.org/persons/2023GABA01) | [Cube Factory Summer 2023](https://www.worldcubeassociation.org/competitions/CubeFactorySummer2023) |  |
 | 24 | [Konrad Leśniak](https://www.worldcubeassociation.org/persons/2014LENI02) | [Mielec Cube Day 2014](https://www.worldcubeassociation.org/competitions/MielecOpen2014) | [Project Dębica 2019](https://www.worldcubeassociation.org/competitions/ProjectDebica2019) |
 | 24 | [Jakub Bartos](https://www.worldcubeassociation.org/persons/2014BART06) | [Kielce Cube Attack 2014](https://www.worldcubeassociation.org/competitions/KielceCubeAttack2014) | [Wrocław FMC Masters 2019](https://www.worldcubeassociation.org/competitions/WroclawFMCMasters2019) |
-| 24 | [Franek Saliński](https://www.worldcubeassociation.org/persons/2015SALI02) | [Polish Championship 2015](https://www.worldcubeassociation.org/competitions/PolishChampionship2015) |  |
 | 24 | [Alan Żeromski](https://www.worldcubeassociation.org/persons/2018ZERO01) | [GLS Cup III 2018](https://www.worldcubeassociation.org/competitions/GLSCupIII2018) | [GLS Final 2023](https://www.worldcubeassociation.org/competitions/GLSFinal2023) |
 | 24 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | [Project Kedzierzyn-Kozle 2021](https://www.worldcubeassociation.org/competitions/ProjectKedzierzynKozle2021) | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023) |
 | 24 | [Marcin Dołoto](https://www.worldcubeassociation.org/persons/2021DOLO01) | [SST Warszawa 2021](https://www.worldcubeassociation.org/competitions/SSTWarszawa2021) | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) |
 | 24 | [Marcel Politowicz](https://www.worldcubeassociation.org/persons/2021POLI02) | [Cubers Eve Lubartów 2021](https://www.worldcubeassociation.org/competitions/CubersEveLubartow2021) | [Dragon Cubing II 2023](https://www.worldcubeassociation.org/competitions/DragonCubingII2023) |
 | 24 | [Tymon Sozański](https://www.worldcubeassociation.org/persons/2022SOZA01) | [Cube4fun League Koło 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueKolo2022) | [Mikołajki Open 2023](https://www.worldcubeassociation.org/competitions/MikolajkiOpen2023) |
 | 24 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | [Cube4fun League Koło 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueKolo2022) | [Rzeszów Open 2024](https://www.worldcubeassociation.org/competitions/RzeszowOpen2024) |
-| 24 | [Szymon Gabara](https://www.worldcubeassociation.org/persons/2023GABA01) | [Cube Factory Summer 2023](https://www.worldcubeassociation.org/competitions/CubeFactorySummer2023) |  |
 | 24 | [Piotr Bzinkowski](https://www.worldcubeassociation.org/persons/2023BZIN01) | [GLS IV 2023](https://www.worldcubeassociation.org/competitions/GLSIV2023) |  |
 | 23 | [Marek Wójtowicz](https://www.worldcubeassociation.org/persons/2008WOJT01) | [Gdansk Open 2008](https://www.worldcubeassociation.org/competitions/GdanskOpen2008) | [3Mola Open 2011](https://www.worldcubeassociation.org/competitions/3MolaOpen2011) |
 | 23 | [Tomasz Kiełbasa](https://www.worldcubeassociation.org/persons/2009KIEL01) | [Gdansk Open 2009](https://www.worldcubeassociation.org/competitions/GdanskOpen2009) | [Polish Nationals 2014](https://www.worldcubeassociation.org/competitions/PolishNationals2014) |

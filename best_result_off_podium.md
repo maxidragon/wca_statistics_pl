@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals at Polish competitions are taken into account.*
-*Updated on  1 March 2025*
+*Updated on  4 March 2025*
 
 
 ### Rubik's Cube
@@ -116,13 +116,13 @@
 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 22 | **23.67** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e333fm_f) | 4 |
 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 21 | **24.33** | [Winter Side Wrocław 2025](https://www.worldcubeassociation.org/competitions/WinterSideWroclaw2025/results/all#e333fm_f) | 4 |
 | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) | 22 | **24.33** | [3 More FMC Rounds Rzeszów 2023](https://www.worldcubeassociation.org/competitions/3MoreFMCRoundsinRzeszow2023/results/all#e333fm_f) | 4 |
+| [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) | 22 | **24.33** | [CFL Goes Sideways Rogów 2025](https://www.worldcubeassociation.org/competitions/CFLGoesSidewaysRogow2025/results/all#e333fm_f) | 4 |
 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 24 | **25.00** | [Warsaw FMC Tour II Sunday 2024](https://www.worldcubeassociation.org/competitions/WarsawFMCTourIISunday2024/results/all#e333fm_f) | 4 |
 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) | 23 | **25.33** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e333fm_f) | 5 |
 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 24 | **25.33** | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021/results/all#e333fm_f) | 4 |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 21 | **25.67** | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/all#e333fm_f) | 4 |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 22 | **25.67** | [No Triangle in Rzeszów 2024](https://www.worldcubeassociation.org/competitions/NoTriangleinRzeszow2024/results/all#e333fm_f) | 4 |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 22 | **25.67** | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021/results/all#e333fm_f) | 5 |
-| [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 22 | **25.67** | [Szansa Cubing Open Warsaw 2022](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2022/results/all#e333fm_f) | 4 |
 
 ### 3x3x3 One-Handed
 
@@ -151,8 +151,8 @@
 | [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) | 37.67 | **40.50** | [Dębica Cubing Winter 2024](https://www.worldcubeassociation.org/competitions/DebicaCubingWinter2024/results/all#eminx_f) | 4 |
 | [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) | 40.01 | **40.84** | [Dragon Cubing II 2024](https://www.worldcubeassociation.org/competitions/DragonCubingII2024/results/all#eminx_f) | 5 |
 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) | 36.83 | **41.65** | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/all#eminx_f) | 4 |
+| [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 40.83 | **41.98** | [5BLD Masters Opole 2025](https://www.worldcubeassociation.org/competitions/5BLDMastersOpole2025/results/all#eminx_f) | 4 |
 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 39.72 | **42.01** | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/all#eminx_f) | 5 |
-| [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) | 39.97 | **42.34** | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022/results/all#eminx_f) | 4 |
 
 ### Pyraminx
 

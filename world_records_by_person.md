@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on  1 March 2025*
+*Updated on  4 March 2025*
 
 | WRs | Person |
 | ---: | :--- |
@@ -23,6 +23,7 @@
 | 2 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) |
 | 2 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) |
 | 2 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) |
+| 2 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 2 | [Tomasz Kiedrowicz](https://www.worldcubeassociation.org/persons/2006KIED01) |
 | 2 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) |
 | 1 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) |
@@ -31,7 +32,6 @@
 | 1 | [Piotr Alexandrowicz](https://www.worldcubeassociation.org/persons/2007ALEX01) |
 | 1 | [Piotr Tomczyk](https://www.worldcubeassociation.org/persons/2009TOMC01) |
 | 1 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) |
-| 1 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 1 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) |
 | 1 | [Szymon Jeziorski](https://www.worldcubeassociation.org/persons/2013JEZI01) |
 | 1 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |

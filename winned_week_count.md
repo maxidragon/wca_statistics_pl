@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on  1 March 2025*
+*Updated on  4 March 2025*
 
 
 ### Rubik's Cube
@@ -122,7 +122,7 @@
 
 | Person | Winned weeks |
 | :--- | ---: |
-| [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 15 |
+| [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 16 |
 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 11 |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 7 |
 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) | 6 |
@@ -309,7 +309,7 @@
 | Person | Winned weeks |
 | :--- | ---: |
 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | 33 |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 21 |
+| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 22 |
 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 21 |
 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) | 14 |
 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 5 |

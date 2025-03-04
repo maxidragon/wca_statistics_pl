@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  1 March 2025*
+*Updated on  4 March 2025*
 
 
 ### Rubik's Cube
@@ -139,9 +139,9 @@
 | ---: | :--- | :--- |
 | 30.69 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 30.40, 30.10, 30.78, 38.49, 30.90 |
 | 30.94 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 30.92, 36.83, 28.40, 30.63, 31.27 |
-| 34.51 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 34.28, 34.67, 37.70, 34.58, 33.98 |
+| 34.09 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 36.01, 32.01, 38.23, 34.25, 29.94 |
 | 34.72 | [Przemysław Rudziak](https://www.worldcubeassociation.org/persons/2020RUDZ02) | 31.69, 35.98, 36.48, 42.45, 31.41 |
-| 36.11 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 34.16, 41.01, 33.65, 39.03, 35.13 |
+| 35.67 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 37.96, 37.82, 34.07, 34.57, 34.62 |
 | 37.32 | [Ernest Seroczyński](https://www.worldcubeassociation.org/persons/2015SERO02) | 36.90, 36.10, 44.64, 33.86, 38.95 |
 | 37.94 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) | 37.66, 37.79, 40.17, 37.64, 38.36 |
 | 38.40 | [Maksymilian Piskorowski](https://www.worldcubeassociation.org/persons/2017PISK01) | 36.81, 38.02, 42.81, 39.14, 38.04 |

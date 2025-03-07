@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on  4 March 2025*
+*Updated on  7 March 2025*
 
 
 ### Rubik's Cube
@@ -135,13 +135,13 @@
 | 30.67 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) |
 | 30.77 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) |
 | 30.87 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) |
+| 31.04 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) |
 | 31.28 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) |
 | 31.28 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) |
 | 31.36 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) |
 | 31.45 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |
 | 31.65 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
 | 32.02 | [Maksymilian Sordyl](https://www.worldcubeassociation.org/persons/2022SORD01) |
-| 32.32 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) |
 | 32.38 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) |
 | 32.66 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) |
 | 32.70 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
@@ -190,7 +190,7 @@
 | 55.33 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 55.70 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) |
 | 55.88 | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) |
-| 57.08 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) |
+| 56.59 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) |
 | 57.18 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) |
 | 57.28 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) |
 | 57.84 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) |
@@ -243,9 +243,9 @@
 | 1:44.57 | [Adam Łyskawa](https://www.worldcubeassociation.org/persons/2017LYSK01) |
 | 1:44.73 | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) |
 | 1:45.83 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) |
+| 1:46.87 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) |
 | 1:47.00 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) |
 | 1:47.47 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) |
-| 1:47.68 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) |
 | 1:49.68 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) |
 | 1:50.99 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 1:51.57 | [Jan Woźniak](https://www.worldcubeassociation.org/persons/2021WOZN01) |
@@ -502,8 +502,8 @@
 | 58.00 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 58.05 | [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) |
 | 58.13 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
+| 58.42 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) |
 | 58.95 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) |
-| 58.96 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) |
 
 ### Pyraminx
 

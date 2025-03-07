@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on  4 March 2025*
+*Updated on  7 March 2025*
 
 | Person | Distance |
 | :--- | ---: |
@@ -73,8 +73,8 @@
 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 25 341 km |
 | [Mateusz Cichoracki](https://www.worldcubeassociation.org/persons/2011CICH01) | 23 864 km |
 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 23 481 km |
+| [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) | 23 398 km |
 | [Stanisław Dąbrowski](https://www.worldcubeassociation.org/persons/2016DABR03) | 23 368 km |
-| [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) | 23 196 km |
 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 22 935 km |
 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | 22 643 km |
 | [Ernest Zakrzewski](https://www.worldcubeassociation.org/persons/2011ZAKR01) | 22 572 km |

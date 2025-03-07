@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  4 March 2025*
+*Updated on  7 March 2025*
 
 
 ### Rubik's Cube
@@ -41,12 +41,12 @@
 | 19.17 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 22.21, 19.55, 18.95, 17.84, 19.01 |
 | 25.53 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 24.82, 24.84, 26.47, 28.76, 25.28 |
 | 26.26 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | 25.80, 23.37, 25.23, 30.75, 27.75 |
+| 26.33 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) | 25.33, 26.12, 28.42, 26.78, 26.09 |
 | 26.46 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | 25.73, 26.80, 24.62, 31.21, 26.85 |
 | 26.49 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | 25.00, 25.41, 27.68, 31.84, 26.38 |
 | 26.93 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 26.93, 26.02, 28.96, 27.58, 26.27 |
 | 27.01 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 27.24, 30.78, 27.13, 26.66, 25.68 |
 | 28.25 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | 27.47, 30.73, 31.81, 26.35, 26.56 |
-| 28.57 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) | 27.21, 25.32, 27.27, 32.33, 31.23 |
 
 ### 5x5x5 Cube
 

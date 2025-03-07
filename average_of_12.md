@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  4 March 2025*
+*Updated on  7 March 2025*
 
 
 ### Rubik's Cube
@@ -46,7 +46,7 @@
 | 28.51 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | 27.71, 28.36, 29.91, 29.99, 25.30, 29.73, 26.52, 28.98, 31.91, 31.13, 22.17, 27.46 |
 | 28.62 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | 28.82, 30.18, 30.02, 32.71, 28.87, 30.62, 28.18, 25.80, 23.37, 25.23, 30.75, 27.75 |
 | 28.66 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | 27.94, 29.61, 28.69, 30.88, 29.50, 25.45, 29.67, 28.26, 31.52, 28.88, 27.75, 25.29 |
-| 30.42 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) | 29.24, 32.42, 30.78, 28.58, 30.63, 34.48, 28.80, 29.57, 30.14, 34.82, 22.93, 29.54 |
+| 29.69 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) | 30.04, 36.33, 35.46, 30.88, 31.73, 28.66, 32.74, 25.33, 26.12, 28.42, 26.78, 26.09 |
 
 ### 5x5x5 Cube
 

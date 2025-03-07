@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  4 March 2025*
+*Updated on  7 March 2025*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -36,8 +36,8 @@
 | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) | **7** | 2 | 1 | 10 |
 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | **7** | 2 | 0 | 9 |
 | [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) | **6** | 1 | 8 | 15 |
+| [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) | **5** | 11 | 9 | 25 |
 | [Igor Wojciech Wawrzynski](https://www.worldcubeassociation.org/persons/2019WAWR01) | **4** | 12 | 2 | 18 |
-| [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) | **4** | 11 | 8 | 23 |
 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | **4** | 8 | 4 | 16 |
 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | **4** | 8 | 0 | 12 |
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | **4** | 1 | 7 | 12 |

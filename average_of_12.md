@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  7 March 2025*
+*Updated on 10 March 2025*
 
 
 ### Rubik's Cube
@@ -9,7 +9,7 @@
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
 | 4.83 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 4.88, 4.20, 5.80, 4.96, 4.54, 5.29, 4.86, 5.55, 4.84, 4.03, 4.28, 4.88 |
-| 5.63 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 5.89, 5.37, 6.01, 6.01, 5.50, 6.08, 4.91, 5.03, 5.45, 6.36, 6.04, 4.84 |
+| 5.60 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 5.87, 4.97, 5.64, 5.27, 5.68, 5.69, 4.84, 5.61, 6.13, 5.97, 6.83, 5.19 |
 | 5.68 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 5.98, 4.77, 5.31, 6.09, 6.33, 6.13, 8.60, 5.48, 5.41, 5.20, 5.13, 5.75 |
 | 5.90 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | 5.10, 6.79, 4.72, 6.71, 4.77, 6.88, 6.99, 3.99, 6.24, 6.69, 6.00, 5.07 |
 | 6.22 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | 6.38, 6.89, 5.47, 6.96, 6.81, 6.10, 5.36, 6.54, 5.73, DNF, 5.92, 4.50 |
@@ -23,7 +23,7 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 1.10 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 1.04, 0.95, 1.21, 1.03, 1.00, 1.13, 0.90, 1.64, 1.32, 1.16, 1.10, 1.04 |
+| 1.04 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 0.88, 1.20, 1.92, 0.87, 1.10, 1.15, 1.25, 0.85, 1.16, 1.00, 0.92, 0.72 |
 | 1.28 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 1.27, 0.73, 1.17, 1.44, 0.66, 1.85, 1.51, 1.46, 1.68, 1.17, 0.89, 1.49 |
 | 1.28 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 1.63, 0.83, 1.34, 1.17, 1.53, 1.32, 1.46, 1.52, 1.33, 0.78, 1.10, 1.22 |
 | 1.29 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 1.37, 0.97, 2.16, 1.05, 1.26, 1.16, 1.14, 1.24, 1.44, 1.44, 1.35, 1.47 |
@@ -42,9 +42,9 @@
 | 27.51 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 26.76, 24.82, 24.84, 26.47, 28.76, 25.28, 29.16, 28.98, 27.87, 28.77, 31.68, 28.18 |
 | 27.58 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | 28.22, 25.73, 26.80, 24.62, 31.21, 26.85, 32.15, 30.69, 29.58, 24.47, 27.66, 22.27 |
 | 27.72 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 27.40, 28.06, 29.86, 21.51, 30.21, 27.99, 28.10, 26.93, 26.02, 28.96, 27.58, 26.27 |
-| 28.34 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 32.81, 28.68, 27.24, 30.78, 27.13, 26.66, 25.68, 31.33, 27.61, 27.36, 27.24, 29.41 |
+| 27.74 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | 30.62, 28.18, 25.80, 23.37, 25.23, 30.75, 27.75, 33.72, 28.18, 27.39, 28.25, 25.20 |
+| 28.08 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 23.36, 29.62, 28.63, 27.93, 28.78, 31.42, 30.20, 32.04, 27.46, 27.00, 24.05, 25.71 |
 | 28.51 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | 27.71, 28.36, 29.91, 29.99, 25.30, 29.73, 26.52, 28.98, 31.91, 31.13, 22.17, 27.46 |
-| 28.62 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | 28.82, 30.18, 30.02, 32.71, 28.87, 30.62, 28.18, 25.80, 23.37, 25.23, 30.75, 27.75 |
 | 28.66 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | 27.94, 29.61, 28.69, 30.88, 29.50, 25.45, 29.67, 28.26, 31.52, 28.88, 27.75, 25.29 |
 | 29.69 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) | 30.04, 36.33, 35.46, 30.88, 31.73, 28.66, 32.74, 25.33, 26.12, 28.42, 26.78, 26.09 |
 
@@ -55,11 +55,11 @@
 | 35.01 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 38.29, 32.62, 35.45, 34.33, 35.56, 34.96, 34.14, 34.11, 33.03, 39.24, 35.05, 35.20 |
 | 49.52 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) | 47.37, 54.77, 57.07, 49.60, 56.10, 49.20, 50.35, 43.63, 48.92, 40.74, 47.19, 48.03 |
 | 49.60 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 50.66, 51.51, 46.14, 53.86, 50.12, 47.74, 49.15, 49.91, 55.08, 47.25, 49.67, 45.20 |
-| 50.53 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 47.28, 52.04, 49.10, 50.94, 49.21, 54.53, 50.03, 48.87, 54.84, 46.21, 51.92, 51.34 |
+| 50.24 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 56.20, 49.45, 46.74, 51.37, 50.99, 51.49, 48.97, 51.12, 49.97, 50.49, 51.00, 47.50 |
 | 50.80 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | 49.18, 49.61, 50.18, 49.26, 59.03, 50.65, 54.13, 50.44, 48.36, 49.95, 53.66, 50.97 |
 | 51.16 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 55.51, 50.69, 49.26, 47.29, 46.87, 46.90, 55.18, 58.15, 1:00.73, 50.32, 51.38, 46.91 |
-| 52.47 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 51.00, 54.90, 54.13, 50.85, 53.41, 53.58, 59.34, 47.72, 44.54, 1:01.04, 47.35, 52.46 |
-| 52.50 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | 54.35, 50.68, 48.63, 59.00, 54.37, 47.42, 51.00, 1:00.10, 51.79, 51.70, 50.13, 53.38 |
+| 51.86 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 48.26, 49.96, 49.29, 53.57, 51.07, 56.33, 52.08, 49.63, 52.60, 54.98, 53.54, 51.88 |
+| 52.44 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | 49.46, 1:01.42, 58.44, 53.76, 48.76, 59.22, 51.52, 47.63, 50.84, 49.40, 52.96, 50.03 |
 | 56.53 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 49.44, 1:03.82, 52.36, 59.24, 1:12.03, 1:01.13, 1:04.16, 59.95, 57.05, 44.96, 45.74, 52.44 |
 
 ### 6x6x6 Cube
@@ -119,9 +119,9 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 10.11 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | 9.90, 9.90, 9.20, 8.93, 10.65, 9.54, 10.41, 11.59, 10.59, 10.27, 9.90, 10.74 |
+| 9.70 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | 8.90, 12.30, 10.82, 8.64, 9.36, 10.54, 10.11, 9.20, 10.16, 9.30, 7.66, 9.96 |
+| 10.17 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | 9.24, 11.49, 11.61, 13.84, 10.36, 8.29, 8.00, 10.78, 11.57, 9.81, 8.26, 10.27 |
 | 10.26 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 9.42, 9.81, 9.15, 13.33, 8.66, 9.46, 11.80, 12.18, 8.68, 12.06, 8.97, 11.03 |
-| 10.48 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | 8.99, 11.83, 10.91, 9.42, 11.74, 9.73, 10.53, 12.85, 9.10, 15.20, 9.73, 8.23 |
 | 11.24 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 10.59, 10.94, 9.73, 16.98, 10.36, 12.03, 9.34, 11.55, 8.15, 12.86, 12.95, 12.05 |
 | 11.26 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 11.08, 10.27, 11.33, 11.33, 9.98, 12.98, 10.88, 11.66, 10.74, 12.34, 13.06, 9.93 |
 | 11.27 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 12.25, 10.98, 10.72, 12.15, 8.64, 12.22, 16.51, 10.62, 9.38, 12.65, 10.47, 11.24 |
@@ -137,13 +137,13 @@
 | 32.20 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 30.34, 30.86, 31.76, 33.91, 39.54, 32.38, 30.92, 36.83, 28.40, 30.63, 31.27, 33.13 |
 | 32.64 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 32.46, 30.40, 30.10, 30.78, 38.49, 30.90, 34.86, 33.90, 30.52, 40.43, 32.73, 31.38 |
 | 35.04 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 36.01, 32.01, 38.23, 34.25, 29.94, 36.67, 34.36, 33.88, 34.91, 41.70, 37.77, 32.35 |
-| 37.11 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 34.25, 35.28, 39.12, 37.63, 45.70, 37.91, 37.31, 37.08, 35.44, 35.90, 37.82, 37.64 |
+| 36.20 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 37.82, 34.07, 34.57, 34.62, 34.60, 40.20, 39.85, 36.93, 32.21, 35.54, 41.54, 33.76 |
 | 37.44 | [Przemysław Rudziak](https://www.worldcubeassociation.org/persons/2020RUDZ02) | 37.86, 40.77, 34.05, 46.32, 40.09, 38.88, 31.69, 35.98, 36.48, 42.45, 31.41, 36.15 |
 | 39.17 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) | 35.91, 42.23, 37.66, 37.79, 40.17, 37.64, 38.36, 38.61, 40.15, 42.67, 40.78, 38.33 |
 | 39.37 | [Maksymilian Piskorowski](https://www.worldcubeassociation.org/persons/2017PISK01) | 36.81, 38.02, 42.81, 39.14, 38.04, 44.32, 36.33, 40.89, 40.63, 42.46, 38.61, 34.10 |
 | 39.71 | [Ernest Seroczyński](https://www.worldcubeassociation.org/persons/2015SERO02) | 36.44, 39.61, 38.29, 38.78, 44.67, 42.72, 44.74, 36.90, 36.10, 44.64, 33.86, 38.95 |
+| 40.89 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 38.59, 41.22, 41.67, 38.22, 42.66, 38.08, 46.32, 42.51, 42.30, 38.87, 35.50, 44.81 |
 | 40.99 | [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) | 37.65, 43.84, 39.70, 45.47, 37.67, 37.95, 44.28, 48.49, 41.11, 41.26, 37.74, 40.89 |
-| 41.45 | [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) | 45.00, 49.38, 41.48, 38.51, 42.90, 37.05, 36.10, 46.55, 41.82, 44.57, 37.42, 39.21 |
 
 ### Pyraminx
 
@@ -154,11 +154,11 @@
 | 1.97 | [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) | 3.47, 1.35, 2.66, 1.60, 2.30, 1.78, 1.67, 2.28, 1.79, 1.68, 1.52, 2.46 |
 | 1.98 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | 2.34, 1.88, 3.20, 1.78, 1.39, 1.41, 2.06, 2.71, 2.00, 1.50, 2.25, 1.83 |
 | 2.10 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 1.64, 2.49, 2.43, 2.31, 2.08, 1.86, 1.83, 2.06, 2.20, 2.18, 2.21, 1.85 |
+| 2.18 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 3.30, 2.40, 2.23, 1.32, 1.60, 1.79, 1.80, 2.59, 2.33, 2.59, 2.57, 1.90 |
 | 2.22 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 2.65, 2.41, 2.50, 1.72, 2.52, 2.60, 1.23, 1.75, 1.69, 4.34, 2.03, 2.35 |
 | 2.38 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | 2.15, 2.18, 1.30, 2.27, 2.16, 2.66, 1.63, 2.87, 2.64, 2.98, 4.26, 2.21 |
 | 2.39 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 2.29, 2.04, 2.73, 2.88, 3.08, 2.24, 2.45, 4.26, 2.07, 1.11, 2.30, 1.78 |
 | 2.45 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | 2.35, 1.82, 2.35, 2.42, 2.54, 2.68, 3.69, 2.78, 2.44, 2.00, 3.07, 1.80 |
-| 2.46 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 2.73, 2.17, 1.84, 2.32, 4.65, 2.93, 2.87, 2.38, 2.21, 2.62, 2.34, 2.00 |
 
 ### Rubik's Clock
 

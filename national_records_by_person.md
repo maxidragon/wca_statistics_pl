@@ -1,6 +1,6 @@
 ## National records count by person
 
-*Updated on  7 March 2025*
+*Updated on 10 March 2025*
 
 | WRs | Person |
 | ---: | :--- |
@@ -57,6 +57,7 @@
 | 3 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
 | 3 | [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) |
 | 3 | [Michał Robaczyk](https://www.worldcubeassociation.org/persons/2006ROBA01) |
+| 3 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) |
 | 3 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) |
 | 2 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) |
 | 2 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) |
@@ -64,7 +65,6 @@
 | 2 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) |
 | 2 | [Korneliusz Tombarkiewicz](https://www.worldcubeassociation.org/persons/2009TOMB01) |
 | 2 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) |
-| 2 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) |
 | 2 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) |
 | 2 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) |
 | 2 | [Tomasz Seweryn](https://www.worldcubeassociation.org/persons/2006SEWE01) |

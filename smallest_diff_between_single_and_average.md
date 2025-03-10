@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  7 March 2025*
+*Updated on 10 March 2025*
 
 
 ### Rubik's Cube
@@ -14,10 +14,10 @@
 | 0.06 | [Paweł Tomal](https://www.worldcubeassociation.org/persons/2013TOMA01) | 12.27 | 12.33 | [Krakow Cubing Spree 2014](https://www.worldcubeassociation.org/competitions/KrakowCubingSpree2014/results/by_person#2013TOMA01) |
 | 0.07 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 5.26 | 5.33 | [Stevenage May 2024](https://www.worldcubeassociation.org/competitions/StevenageMay2024/results/by_person#2016KOLA02) |
 | 0.07 | [Mikołaj Zubowicz](https://www.worldcubeassociation.org/persons/2015ZUBO01) | 8.13 | 8.20 | [LLS II Biała Podlaska 2021](https://www.worldcubeassociation.org/competitions/LLSIIBialaPodlaska2021/results/by_person#2015ZUBO01) |
+| 0.07 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | 10.61 | 10.68 | [Rzeszów Open 2025](https://www.worldcubeassociation.org/competitions/RzeszowOpen2025/results/by_person#2022SOLO01) |
 | 0.07 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | 10.69 | 10.76 | [Project Radom 2018](https://www.worldcubeassociation.org/competitions/ProjectRadom2018/results/by_person#2013WARY01) |
 | 0.07 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | 11.21 | 11.28 | [Cubing Rising Stars Olesno 2022](https://www.worldcubeassociation.org/competitions/CubingRisingStarsOlesno2022/results/by_person#2020DOZA01) |
 | 0.07 | [Piotr Frankowski](https://www.worldcubeassociation.org/persons/2006FRAN01) | 11.99 | 12.06 | [GLS Cup I 2018](https://www.worldcubeassociation.org/competitions/GLSCupI2018/results/by_person#2006FRAN01) |
-| 0.07 | [Bartosz Kotowicz](https://www.worldcubeassociation.org/persons/2015KOTO02) | 12.07 | 12.14 | [Wrocław Open 2019](https://www.worldcubeassociation.org/competitions/WroclawOpen2019/results/by_person#2015KOTO02) |
 
 ### 2x2x2 Cube
 
@@ -132,12 +132,12 @@
 | 0.41 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 1:25.11 | 1:25.52 | [BrizZon Side Open II 2024](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenII2024/results/by_person#2019ROGO04) |
 | 0.44 | [Krzysztof Boguszewski](https://www.worldcubeassociation.org/persons/2019BOGU01) | 42.19 | 42.63 | [Dragon Cubing 2023](https://www.worldcubeassociation.org/competitions/DragonCubing2023/results/by_person#2019BOGU01) |
 | 0.49 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | 1:01.48 | 1:01.97 | [Speed Days Kraśnik 2015](https://www.worldcubeassociation.org/competitions/SpeedDaysKrasnik2015/results/by_person#2011MAJC01) |
+| 0.49 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | 1:02.83 | 1:03.32 | [Rzeszów Open 2025](https://www.worldcubeassociation.org/competitions/RzeszowOpen2025/results/by_person#2016DURA09) |
 | 0.50 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 48.54 | 49.04 | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/by_person#2013BURL01) |
 | 0.51 | [Witold Sołtysik](https://www.worldcubeassociation.org/persons/2015SOLT03) | 47.28 | 47.79 | [Żory Open 2025](https://www.worldcubeassociation.org/competitions/ZoryOpen2025/results/by_person#2015SOLT03) |
 | 0.53 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) | 54.36 | 54.89 | [GLS Cup Final 2018](https://www.worldcubeassociation.org/competitions/GLSCupFinal2018/results/by_person#2012KRIS12) |
 | 0.54 | [Cezary Mach](https://www.worldcubeassociation.org/persons/2018MACH04) | 1:01.84 | 1:02.38 | [Szczecin Open 2022](https://www.worldcubeassociation.org/competitions/SzczecinOpen2022/results/by_person#2018MACH04) |
 | 0.54 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) | 1:08.86 | 1:09.40 | [Back To Białystok 2024](https://www.worldcubeassociation.org/competitions/BackToBialystok2024/results/by_person#2021GORE01) |
-| 0.59 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 30.97 | 31.56 | [Castle Mania Niepołomice 2024](https://www.worldcubeassociation.org/competitions/CastleManiaNiepolomice2024/results/by_person#2014ZYCH01) |
 
 ### Pyraminx
 

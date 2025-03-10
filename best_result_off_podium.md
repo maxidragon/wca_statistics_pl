@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals at Polish competitions are taken into account.*
-*Updated on  7 March 2025*
+*Updated on 10 March 2025*
 
 
 ### Rubik's Cube
@@ -137,7 +137,7 @@
 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 8.81 | **12.18** | [Cube4fun Żyrardów 2024](https://www.worldcubeassociation.org/competitions/Cube4funCEZyrardow2024/results/all#e333oh_f) | 6 |
 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | 10.45 | **12.20** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e333oh_f) | 7 |
 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | 8.74 | **12.22** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e333oh_f) | 8 |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 11.38 | **12.31** | [Dębica Cubing Winter 2025](https://www.worldcubeassociation.org/competitions/DebicaCubingWinter2025/results/all#e333oh_f) | 4 |
+| [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | 10.14 | **12.24** | [Rzeszów Open 2025](https://www.worldcubeassociation.org/competitions/RzeszowOpen2025/results/all#e333oh_c) | 4 |
 
 ### Megaminx
 
@@ -191,13 +191,13 @@
 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 1.61 | **2.09** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#eskewb_f) | 4 |
 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 1.85 | **2.30** | [Szansa Cubing Open Warsaw 2024](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2024/results/all#eskewb_f) | 4 |
 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 1.12 | **2.31** | [Szansa Cubing Open Warsaw 2024](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2024/results/all#eskewb_f) | 5 |
+| [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | 1.88 | **2.33** | [Rzeszów Open 2025](https://www.worldcubeassociation.org/competitions/RzeszowOpen2025/results/all#eskewb_f) | 4 |
+| [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 2.05 | **2.39** | [Rzeszów Open 2025](https://www.worldcubeassociation.org/competitions/RzeszowOpen2025/results/all#eskewb_f) | 5 |
 | [Cezary Mach](https://www.worldcubeassociation.org/persons/2018MACH04) | 1.56 | **2.42** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#eskewb_f) | 5 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 2.39 | **2.44** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#eskewb_f) | 6 |
 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) | 2.18 | **2.46** | [Szansa Cubing Open Warsaw 2024](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2024/results/all#eskewb_f) | 6 |
 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) | 1.59 | **2.61** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#eskewb_f) | 7 |
 | [Szymon Brągiel](https://www.worldcubeassociation.org/persons/2022BRAG03) | 1.76 | **2.65** | [Silesian Minx Fest 2024](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2024/results/all#eskewb_f) | 4 |
-| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 2.41 | **2.71** | [Siedlce Open 2024](https://www.worldcubeassociation.org/competitions/SiedlceOpen2024/results/all#eskewb_f) | 4 |
-| [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 2.53 | **2.72** | [Siedlce Open 2024](https://www.worldcubeassociation.org/competitions/SiedlceOpen2024/results/all#eskewb_f) | 5 |
 
 ### Square-1
 

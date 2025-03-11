@@ -44,6 +44,7 @@ All statistics are computed only for competitors from Poland/Polish competitions
 - [National records count by person](national_records_by_person)
 - [Polish Championship podiums by person](polish_championship_podiums_by_person)
 - [Polish Championship records](polish_championship_records)
+- [Polish competitors with most competitions in the current year](polish_competitors_with_most_competitions_in_current_year)
 - [Potentially seen world records](potentially_seen_world_records)
 - [Records in the highest number of events](records_in_most_events)
 - [Shortest amount of time to reach a milestone in competitions count](shortest_time_to_reach_milestone_in_comps_count)

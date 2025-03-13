@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 10 March 2025*
+*Updated on 13 March 2025*
 
 
 ### Competition
@@ -44,7 +44,7 @@
 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | **8696** | 9216 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **8448** | 8770 |
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | **7956** | 8230 |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **7788** | 7948 |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **7828** | 7988 |
 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **7682** | 8096 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **7469** | 8546 |
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | **7156** | 7743 |
@@ -66,7 +66,7 @@
 | 2017 | **67139** | 70211 |
 | 2015 | **61174** | 63840 |
 | 2016 | **52628** | 54673 |
-| 2025 | **42386** | 44513 |
+| 2025 | **42480** | 44614 |
 | 2021 | **41153** | 43473 |
 | 2013 | **36996** | 39173 |
 | 2020 | **23365** | 24538 |
@@ -82,25 +82,25 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **298472** | 304593 |
-| 2x2x2 Cube | **195690** | 200997 |
-| Pyraminx | **150936** | 154888 |
-| 4x4x4 Cube | **102449** | 106025 |
-| Skewb | **100766** | 103380 |
-| 3x3x3 One-Handed | **79643** | 82193 |
-| Clock | **53264** | 61651 |
-| 5x5x5 Cube | **47584** | 49392 |
+| 3x3x3 Cube | **298502** | 304623 |
+| 2x2x2 Cube | **195695** | 201002 |
+| Pyraminx | **150946** | 154898 |
+| 4x4x4 Cube | **102456** | 106032 |
+| Skewb | **100775** | 103390 |
+| 3x3x3 One-Handed | **79648** | 82198 |
+| Clock | **53269** | 61656 |
+| 5x5x5 Cube | **47604** | 49412 |
 | Megaminx | **44575** | 46542 |
 | Square-1 | **41345** | 43028 |
 | 6x6x6 Cube | **10283** | 10713 |
-| 3x3x3 Blindfolded | **10064** | 26332 |
+| 3x3x3 Blindfolded | **10067** | 26338 |
 | 7x7x7 Cube | **8773** | 9180 |
 | 3x3x3 Fewest Moves | **5613** | 7507 |
 | Magic | **4230** | 4674 |
 | 3x3x3 With Feet | **2450** | 2650 |
 | Master Magic | **2181** | 2238 |
 | 3x3x3 Multi-Blind | **1869** | 2790 |
-| 4x4x4 Blindfolded | **622** | 2015 |
+| 4x4x4 Blindfolded | **622** | 2018 |
 | 5x5x5 Blindfolded | **304** | 1150 |
 
 

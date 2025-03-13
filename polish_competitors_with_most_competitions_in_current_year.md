@@ -1,6 +1,6 @@
 ## Polish competitors with most competitions in the current year
 
-*Updated on 10 March 2025*
+*Updated on 13 March 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -37,6 +37,7 @@
 | 4 | Amelia Zakrzewska |
 | 4 | Igor Ośmiałowski |
 | 4 | Mateusz Szwugier |
+| 4 | Tymon Kolasiński |
 | 4 | Szymon Brzana |
 | 4 | Krzysztof Pietrusiak |
 | 4 | Radomił Baran |
@@ -64,7 +65,6 @@
 | 3 | Radosław Opoka |
 | 3 | Franek Saliński |
 | 3 | Kacper Szeląg |
-| 3 | Tymon Kolasiński |
 | 3 | Dawid Wójcik |
 | 3 | Robert Cegiel |
 | 3 | Mateusz Kanarski |
@@ -208,6 +208,7 @@
 | 2 | Kacper Grygorewicz |
 | 2 | Krystian Kalicki |
 | 2 | Łukasz Kamiński |
+| 2 | Marcin Karczmarz |
 | 2 | Victor Kiziukiewicz |
 | 2 | Mateusz Kowalczyk |
 | 2 | Kacper Kozak |
@@ -349,6 +350,7 @@
 | 1 | Franciszek Kłos |
 | 1 | Radosław Michałek |
 | 1 | Michał Niedzielski |
+| 1 | Dominik Obara |
 | 1 | Gracjan Paciorkowski |
 | 1 | Jakub Pietrzyk |
 | 1 | Wojciech Piórczyński |
@@ -384,6 +386,7 @@
 | 1 | Tymon Martyński |
 | 1 | Kacper Matuszyński |
 | 1 | Tymon Filar Notecki |
+| 1 | Oskar Obeid |
 | 1 | Tymoteusz Orzechowski |
 | 1 | Jakub Pańka |
 | 1 | Leon Pawłowski |
@@ -434,7 +437,6 @@
 | 1 | Julia Jabłońska |
 | 1 | Jan Jaroszyński |
 | 1 | Dominik Kądziołka |
-| 1 | Marcin Karczmarz |
 | 1 | Kacper Karpierz |
 | 1 | Kamil Kiełkowski |
 | 1 | Aniela Konopacka |

@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 10 March 2025*
+*Updated on 13 March 2025*
 
 
 ### Rubik's Cube - Single
@@ -9,9 +9,9 @@
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | **3.99** | Poland | [Dębica Cubing Winter 2025](https://www.worldcubeassociation.org/competitions/DebicaCubingWinter2025) | 6.99, 3.99, 6.24, 6.69, 6.00 |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **4.11** | Poland | [PBs in Palisades Winter 2025](https://www.worldcubeassociation.org/competitions/PBsinPalisadesWinter2025) | 4.85, 4.83, 4.11, 5.10, 5.25 |
 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | **4.15** | Poland | [Cube Factory League Rogów 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueRogow2025) | 6.23, 7.06, 4.15, 7.77, 8.55 |
 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | **4.39** | Poland | [Gdańska Liga Speedcubingu I 2025](https://www.worldcubeassociation.org/competitions/GdanskaLigaSpeedcubinguI2025) | 6.27, 4.39, 5.65, 5.81, 6.47 |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **4.42** | Poland | [Sandnes Winter 2025](https://www.worldcubeassociation.org/competitions/SandnesWinter2025) | 4.55, 5.02, 4.42, 6.45, 5.89 |
 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | **4.75** | Poland | [GLS II 2025](https://www.worldcubeassociation.org/competitions/GLSII2025) | 4.75, 6.35, 6.29, 5.81, 5.21 |
 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | **5.02** | Poland | [Rzeszów Open 2025](https://www.worldcubeassociation.org/competitions/RzeszowOpen2025) | 7.14, 6.02, 6.41, 6.60, 5.02 |
 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | **5.03** | Poland | [Gdańsk Cubing Day 2025](https://www.worldcubeassociation.org/competitions/GdanskCubingDay2025) | 5.03, 7.96, 7.40, 7.39, 6.02 |
@@ -98,7 +98,7 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **37.94** | Poland | [Hvidovre NxN 2025](https://www.worldcubeassociation.org/competitions/HvidovreNxN2025) | 44.66, 45.06, 37.94, 41.87, 41.21 |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **32.90** | Poland | [PBs in Palisades Winter 2025](https://www.worldcubeassociation.org/competitions/PBsinPalisadesWinter2025) | 37.27, 32.90, 38.33, 33.28, 38.72 |
 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | **44.96** | Poland | [Żory Open 2025](https://www.worldcubeassociation.org/competitions/ZoryOpen2025) | 59.95, 57.05, 44.96, 45.74, 52.44 |
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | **46.74** | Poland | [Dębica Cubing Winter 2025](https://www.worldcubeassociation.org/competitions/DebicaCubingWinter2025) | 46.74, 51.37, 50.99, 51.49, 48.97 |
 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | **47.10** | Poland | [5BLD Masters Opole 2025](https://www.worldcubeassociation.org/competitions/5BLDMastersOpole2025) | 52.12, 50.89, 55.99, 50.58, 47.10 |
@@ -113,7 +113,7 @@
 
 | Person | Result | Country | Competition | Details |
 | :--- | ---: | :--- | :--- | :--- |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **40.67** | Poland | [Hvidovre NxN 2025](https://www.worldcubeassociation.org/competitions/HvidovreNxN2025) | 38.31, 42.94, 40.25, 38.82, 44.65 |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **36.07** | Poland | [PBs in Palisades Winter 2025](https://www.worldcubeassociation.org/competitions/PBsinPalisadesWinter2025) | 36.59, 36.63, 34.98, 37.75, 34.42 |
 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | **50.09** | Poland | [GLS II 2025](https://www.worldcubeassociation.org/competitions/GLSII2025) | 47.63, 50.84, 49.40, 52.96, 50.03 |
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | **50.44** | Poland | [Dębica Cubing Winter 2025](https://www.worldcubeassociation.org/competitions/DebicaCubingWinter2025) | 46.74, 51.37, 50.99, 51.49, 48.97 |
 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | **50.72** | Poland | [Żory Open 2025](https://www.worldcubeassociation.org/competitions/ZoryOpen2025) | 48.68, 54.62, 52.87, 50.60, 47.79 |

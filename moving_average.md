@@ -7,14 +7,14 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on 10 March 2025*
+*Updated on 13 March 2025*
 
 
 ### Rubik's Cube
 
 | Moving average | Person |
 | ---: | :--- |
-| 5.36 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
+| 5.18 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 6.10 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
 | 6.18 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) |
 | 6.32 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) |
@@ -124,7 +124,7 @@
 
 | Moving average | Person |
 | ---: | :--- |
-| 22.11 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
+| 22.13 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 28.73 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
 | 29.29 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) |
 | 29.35 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) |
@@ -179,7 +179,7 @@
 
 | Moving average | Person |
 | ---: | :--- |
-| 38.49 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
+| 37.70 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 52.05 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) |
 | 52.30 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
 | 52.50 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) |

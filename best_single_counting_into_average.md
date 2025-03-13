@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 10 March 2025*
+*Updated on 13 March 2025*
 
 
 ### Rubik's Cube
@@ -52,16 +52,16 @@
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
+| 33.28 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [PBs in Palisades Winter 2025](https://www.worldcubeassociation.org/competitions/PBsinPalisadesWinter2025/results/by_person#2016KOLA02) |
 | 34.11 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Olsztyn Open 2024](https://www.worldcubeassociation.org/competitions/OlsztynOpen2024/results/by_person#2016KOLA02) |
 | 34.33 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Olsztyn Open 2024](https://www.worldcubeassociation.org/competitions/OlsztynOpen2024/results/by_person#2016KOLA02) |
 | 34.76 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [DuPage Fall 2024](https://www.worldcubeassociation.org/competitions/DuPageFall2024/results/by_person#2016KOLA02) |
 | 34.96 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Olsztyn Open 2024](https://www.worldcubeassociation.org/competitions/OlsztynOpen2024/results/by_person#2016KOLA02) |
+| 34.98 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [PBs in Palisades Winter 2025](https://www.worldcubeassociation.org/competitions/PBsinPalisadesWinter2025/results/by_person#2016KOLA02) |
 | 35.05 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Olsztyn Open 2024](https://www.worldcubeassociation.org/competitions/OlsztynOpen2024/results/by_person#2016KOLA02) |
 | 35.20 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Olsztyn Open 2024](https://www.worldcubeassociation.org/competitions/OlsztynOpen2024/results/by_person#2016KOLA02) |
 | 35.45 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Olsztyn Open 2024](https://www.worldcubeassociation.org/competitions/OlsztynOpen2024/results/by_person#2016KOLA02) |
 | 35.90 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Stevenage December 2024](https://www.worldcubeassociation.org/competitions/StevenageDecember2024/results/by_person#2016KOLA02) |
-| 35.94 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/by_person#2016KOLA02) |
-| 36.06 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/by_person#2016KOLA02) |
 
 ### 3x3x3 One-Handed
 

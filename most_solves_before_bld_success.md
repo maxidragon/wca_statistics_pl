@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 16 March 2025*
+*Updated on 19 March 2025*
 
 
 ### 3x3x3 Blindfolded
@@ -22,11 +22,11 @@
 | 16 | [Miłosz Gdula](https://www.worldcubeassociation.org/persons/2013GDUL01) |
 | 16 | [Łukasz Burchard](https://www.worldcubeassociation.org/persons/2016BURC01) |
 | 15 | [Łukasz Cichecki](https://www.worldcubeassociation.org/persons/2007CICH01) |
+| 15 | [Ignacy Chodarcewicz](https://www.worldcubeassociation.org/persons/2023CHOD04) |
 | 13 | [Hubert Badocha](https://www.worldcubeassociation.org/persons/2013BADO01) |
 | 13 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 12 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) |
 | 12 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) |
-| 12 | [Patrycja Michalska](https://www.worldcubeassociation.org/persons/2013MICH02) |
 
 ### 4x4x4 Blindfolded
 

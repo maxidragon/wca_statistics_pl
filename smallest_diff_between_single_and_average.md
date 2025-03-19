@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 16 March 2025*
+*Updated on 19 March 2025*
 
 
 ### Rubik's Cube
@@ -194,10 +194,10 @@
 | 0.14 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | 9.50 | 9.64 | [SST Rzeszów 2021](https://www.worldcubeassociation.org/competitions/SSTRzeszow2021/results/by_person#2017SZUL01) |
 | 0.15 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 6.86 | 7.01 | [BrizZon Side Open V 2022](https://www.worldcubeassociation.org/competitions/BrizzonSideOpenV2022/results/by_person#2013KRAS02) |
 | 0.17 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 5.56 | 5.73 | [Cube4fun Siedlce Autumn 2023](https://www.worldcubeassociation.org/competitions/Cube4funSiedlceAutumn2023/results/by_person#2013KRAS02) |
+| 0.17 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 33.88 | 34.05 | [Cube Factory League Jeżów 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueJezow2025/results/by_person#2014SZWU01) |
 | 0.21 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 7.77 | 7.98 | [LLS II 2019](https://www.worldcubeassociation.org/competitions/LLSII2019/results/by_person#2013KRAS02) |
 | 0.21 | [Bartosz Miduch](https://www.worldcubeassociation.org/persons/2019MIDU01) | 17.49 | 17.70 | [LLS IV Świdnik 2021](https://www.worldcubeassociation.org/competitions/LLSIVSwidnik2021/results/by_person#2019MIDU01) |
 | 0.21 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 17.99 | 18.20 | [Żory Open 2025](https://www.worldcubeassociation.org/competitions/ZoryOpen2025/results/by_person#2017BRZA01) |
-| 0.22 | [Grzegorz Szumigaj](https://www.worldcubeassociation.org/persons/2013SZUM01) | 21.67 | 21.89 | [Big Cube Krasnik 2014](https://www.worldcubeassociation.org/competitions/BigCubeKrasnik2014/results/by_person#2013SZUM01) |
 
 ### 4x4x4 Blindfolded
 

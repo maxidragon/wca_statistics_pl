@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 16 March 2025*
+*Updated on 19 March 2025*
 
 
 ### Rubik's Cube
@@ -206,7 +206,7 @@
 | 7.55 | [Witold Sołtysik](https://www.worldcubeassociation.org/persons/2015SOLT03) | 7.67, 8.90, 6.98, 8.00, 6.95 |
 | 7.89 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 8.83, 6.87, 7.96, 11.17, 6.43 |
 | 8.21 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 6.40, 7.70, 7.49, 9.68, 9.44 |
-| 9.09 | [Oliver Sherlock](https://www.worldcubeassociation.org/persons/2019SHER13) | 9.57, 9.70, 7.80, 11.89, 7.99 |
+| 8.59 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 6.70, 7.42, 7.50, 13.64, 10.84 |
 
 ### 4x4x4 Blindfolded
 

@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 16 March 2025*
+*Updated on 19 March 2025*
 
 
 ### Rubik's Cube
@@ -206,13 +206,13 @@
 | 12.43 | [Brajan Dzieniszewski](https://www.worldcubeassociation.org/persons/2024DZIE03) |
 | 12.53 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) |
 | 12.65 | [Szymon Kornatowski](https://www.worldcubeassociation.org/persons/2017KORN03) |
+| 13.59 | [Franciszek Syguła](https://www.worldcubeassociation.org/persons/2022SYGU01) |
 | 15.26 | [Bartosz Kobyliński](https://www.worldcubeassociation.org/persons/2019KOBY01) |
 | 15.39 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) |
 | 16.91 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |
 | 17.07 | [Przemysław Rudziak](https://www.worldcubeassociation.org/persons/2020RUDZ02) |
 | 17.08 | [Mateusz Hardejewicz](https://www.worldcubeassociation.org/persons/2023HARD15) |
 | 17.20 | [Tobiasz Urbanowicz](https://www.worldcubeassociation.org/persons/2019URBA01) |
-| 17.48 | [Mateusz Gołaś](https://www.worldcubeassociation.org/persons/2021GOLA01) |
 
 ### 4x4x4 Blindfolded
 

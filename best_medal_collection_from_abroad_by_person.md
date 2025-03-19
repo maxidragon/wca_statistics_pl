@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 16 March 2025*
+*Updated on 19 March 2025*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -80,6 +80,7 @@
 | [Tomasz Kiedrowicz](https://www.worldcubeassociation.org/persons/2006KIED01) | **1** | 1 | 0 | 2 |
 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | **1** | 0 | 4 | 5 |
 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) | **1** | 0 | 2 | 3 |
+| [Michal J. Sekulski](https://www.worldcubeassociation.org/persons/2023SEKU01) | **1** | 0 | 2 | 3 |
 | [Grzegorz Prusak](https://www.worldcubeassociation.org/persons/2006PRUS01) | **1** | 0 | 1 | 2 |
 | [Igor Kowalczyk](https://www.worldcubeassociation.org/persons/2013KOWA04) | **1** | 0 | 1 | 2 |
 | [Kalina Jakubowska](https://www.worldcubeassociation.org/persons/2009BRZE01) | **1** | 0 | 1 | 2 |
@@ -89,7 +90,6 @@
 | [Jarosław Nowicki](https://www.worldcubeassociation.org/persons/2004NOWI01) | **1** | 0 | 0 | 1 |
 | [Maksymilian Piskorowski](https://www.worldcubeassociation.org/persons/2017PISK01) | **1** | 0 | 0 | 1 |
 | [Mateusz Fydrych](https://www.worldcubeassociation.org/persons/2011FYDR01) | **1** | 0 | 0 | 1 |
-| [Michal J. Sekulski](https://www.worldcubeassociation.org/persons/2023SEKU01) | **1** | 0 | 0 | 1 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **1** | 0 | 0 | 1 |
 | [Michał Nikiel](https://www.worldcubeassociation.org/persons/2011NIKI01) | **1** | 0 | 0 | 1 |
 | [Patryk Kozieł](https://www.worldcubeassociation.org/persons/2014KOZI01) | **1** | 0 | 0 | 1 |

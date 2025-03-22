@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 19 March 2025*
+*Updated on 22 March 2025*
 
 
 ### Rubik's Cube
@@ -72,7 +72,6 @@
 | 1:34.89 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 1:34.73, 1:30.05, 1:36.57, 1:36.82, 1:30.29, 1:48.41, 1:38.76, 1:32.43, 1:40.81, 1:30.85, 1:22.05, 1:37.60 |
 | 1:35.15 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) | 1:32.99, 1:28.76, 1:37.64, 1:35.89, 1:49.64, 1:30.60, 1:47.48, 1:30.37, 1:38.59, 1:31.77, 1:37.45, 1:19.03 |
 | 1:40.27 | [Adam Łyskawa](https://www.worldcubeassociation.org/persons/2017LYSK01) | 1:36.00, 1:37.61, 1:39.01, 1:52.44, 1:37.35, 1:33.44, 1:39.40, 1:35.49, 1:33.67, 1:45.25, 1:54.02, 1:46.44 |
-| 1:41.30 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) | 1:37.77, 1:39.52, 1:36.39, 1:46.56, 1:41.12, 1:50.83, 1:41.29, 1:35.14, 1:45.25, 1:44.81, 1:41.18, 1:39.06 |
 | 1:42.25 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) | 1:41.36, 1:43.64, 1:27.23, 1:47.21, 1:43.83, 1:40.50, 1:45.82, 1:45.43, 1:48.65, 1:32.36, 1:45.69, 1:36.63 |
 | 1:49.90 | [Jan Woźniak](https://www.worldcubeassociation.org/persons/2021WOZN01) | 2:20.28, DNF, 2:28.21, 1:43.12, 1:24.75, 1:42.25, 1:50.77, 1:44.73, 1:38.49, 1:38.35, 1:39.36, 1:33.44 |
 

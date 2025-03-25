@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 22 March 2025*
+*Updated on 25 March 2025*
 
 
 ### Rubik's Cube
@@ -12,27 +12,27 @@
 | 9.06 | [Denys Shkarupa](https://www.worldcubeassociation.org/persons/2023SHKA01) |
 | 9.36 | [Wojciech Piórczyński](https://www.worldcubeassociation.org/persons/2021PIOR01) |
 | 9.97 | [Maksymilian Sordyl](https://www.worldcubeassociation.org/persons/2022SORD01) |
+| 10.06 | [Mikołaj Wróbel](https://www.worldcubeassociation.org/persons/2025WROB01) |
 | 10.10 | [Jan Woźniak](https://www.worldcubeassociation.org/persons/2021WOZN01) |
 | 10.37 | [Igor Wawrzeńczak](https://www.worldcubeassociation.org/persons/2024WAWR01) |
 | 10.77 | [Aleksander Kołodziński](https://www.worldcubeassociation.org/persons/2021KOLO01) |
 | 10.78 | [Daniel Rolek](https://www.worldcubeassociation.org/persons/2022ROLE01) |
 | 10.87 | [Tomasz Czerny](https://www.worldcubeassociation.org/persons/2024CZER01) |
-| 10.97 | [Szymon Kitel](https://www.worldcubeassociation.org/persons/2022KITE01) |
 
 ### 2x2x2 Cube
 
 | First average | Person |
 | ---: | :--- |
 | 2.63 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) |
+| 3.20 | [Mikołaj Wróbel](https://www.worldcubeassociation.org/persons/2025WROB01) |
 | 3.29 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) |
 | 3.43 | [Jan Woźniak](https://www.worldcubeassociation.org/persons/2021WOZN01) |
 | 3.54 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
 | 3.60 | [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) |
 | 3.65 | [Miłosz Jaśkiewicz](https://www.worldcubeassociation.org/persons/2022JASK01) |
-| 3.68 | [Ksawier Kozak](https://www.worldcubeassociation.org/persons/2023KOZA02) |
 | 3.68 | [Matviy Berestovskyy](https://www.worldcubeassociation.org/persons/2022BERE02) |
+| 3.68 | [Ksawier Kozak](https://www.worldcubeassociation.org/persons/2023KOZA02) |
 | 3.74 | [Wojciech Piórczyński](https://www.worldcubeassociation.org/persons/2021PIOR01) |
-| 3.74 | [Maciej Kozar](https://www.worldcubeassociation.org/persons/2021KOZA01) |
 
 ### 4x4x4 Cube
 

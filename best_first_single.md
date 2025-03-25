@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 22 March 2025*
+*Updated on 25 March 2025*
 
 
 ### Rubik's Cube
@@ -14,10 +14,10 @@
 | 9.87 | [Tomasz Czerny](https://www.worldcubeassociation.org/persons/2024CZER01) |
 | 9.89 | [Maksymilian Sordyl](https://www.worldcubeassociation.org/persons/2022SORD01) |
 | 9.93 | [Kacper Dłubała](https://www.worldcubeassociation.org/persons/2018DLUB01) |
+| 10.41 | [Mikołaj Wróbel](https://www.worldcubeassociation.org/persons/2025WROB01) |
 | 10.49 | [Igor Kamiński](https://www.worldcubeassociation.org/persons/2023KAMI04) |
 | 10.53 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) |
 | 10.60 | [Ignacy Tomczak](https://www.worldcubeassociation.org/persons/2022TOMC01) |
-| 10.71 | [Piotr Roziński](https://www.worldcubeassociation.org/persons/2024ROZI02) |
 
 ### 2x2x2 Cube
 
@@ -76,8 +76,8 @@
 | 2:35.89 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) |
 | 2:36.55 | [Jan Zachwatowicz](https://www.worldcubeassociation.org/persons/2022ZACH01) |
 | 2:38.08 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
+| 2:38.58 | [Marcin Wawiórko](https://www.worldcubeassociation.org/persons/2023WAWI01) |
 | 2:39.86 | [Sebastian Owieczko](https://www.worldcubeassociation.org/persons/2018OWIE01) |
-| 2:40.09 | [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) |
 
 ### 7x7x7 Cube
 

@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 22 March 2025*
+*Updated on 25 March 2025*
 
 
 ### 3x3x3 Blindfolded
@@ -23,10 +23,10 @@
 | 16 | [Łukasz Burchard](https://www.worldcubeassociation.org/persons/2016BURC01) |
 | 15 | [Łukasz Cichecki](https://www.worldcubeassociation.org/persons/2007CICH01) |
 | 15 | [Ignacy Chodarcewicz](https://www.worldcubeassociation.org/persons/2023CHOD04) |
+| 14 | [Marcin Wawiórko](https://www.worldcubeassociation.org/persons/2023WAWI01) |
 | 13 | [Hubert Badocha](https://www.worldcubeassociation.org/persons/2013BADO01) |
 | 13 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 12 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) |
-| 12 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) |
 
 ### 4x4x4 Blindfolded
 
@@ -46,12 +46,12 @@
 | 5 | [Tomasz Korzeniewski](https://www.worldcubeassociation.org/persons/2007KORZ01) |
 | 5 | [Kamil Pomietło](https://www.worldcubeassociation.org/persons/2013POMI01) |
 | 5 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
+| 5 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
 | 5 | [Szymon Ruksza](https://www.worldcubeassociation.org/persons/2013RUKS01) |
 | 4 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) |
 | 4 | [Kamil Michalak](https://www.worldcubeassociation.org/persons/2016MICH01) |
 | 4 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) |
 | 4 | [Igor Wojciech Wawrzynski](https://www.worldcubeassociation.org/persons/2019WAWR01) |
-| 4 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 
 ### 5x5x5 Blindfolded
 
@@ -71,8 +71,8 @@
 | 5 | [Kamil Michalak](https://www.worldcubeassociation.org/persons/2016MICH01) |
 | 4 | [Alan Żeromski](https://www.worldcubeassociation.org/persons/2018ZERO01) |
 | 3 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
-| 3 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 3 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) |
+| 3 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 2 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) |
 | 2 | [Łukasz Gondek](https://www.worldcubeassociation.org/persons/2017GOND01) |
 | 2 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) |

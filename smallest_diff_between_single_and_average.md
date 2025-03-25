@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 22 March 2025*
+*Updated on 25 March 2025*
 
 
 ### Rubik's Cube
@@ -68,6 +68,7 @@
 
 | Diff | Person | Single | Average | Results |
 | ---: | :--- | ---: | ---: | :--- |
+| 0.04 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 2:28.29 | 2:28.33 | [Manchester 7x7 Day 2025](https://www.worldcubeassociation.org/competitions/Manchester7x7Day2025/results/by_person#2011SZAT01) |
 | 0.13 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 2:44.64 | 2:44.77 | [Cube4fun in Bełchatów 2024](https://www.worldcubeassociation.org/competitions/Cube4funinBelchatow2024/results/by_person#2018KUZM02) |
 | 0.14 | [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) | 1:53.07 | 1:53.21 | [Silesian Minx Fest 2023](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2023/results/by_person#2017KROK01) |
 | 0.20 | [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) | 2:47.66 | 2:47.86 | [Cube4fun Bełżyce 2022](https://www.worldcubeassociation.org/competitions/Cube4funBelzyce2022/results/by_person#2014NOWI01) |
@@ -77,7 +78,6 @@
 | 0.30 | [Stanisław Tochowicz](https://www.worldcubeassociation.org/persons/2023TOCH01) | 2:20.42 | 2:20.72 | [Cube4fun Wisła Masters 2024](https://www.worldcubeassociation.org/competitions/Cube4funWislaMasters2024/results/by_person#2023TOCH01) |
 | 0.37 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 1:52.21 | 1:52.58 | [Żory Open 2024](https://www.worldcubeassociation.org/competitions/ZoryOpen2024/results/by_person#2018HAMK01) |
 | 0.46 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 1:52.64 | 1:53.10 | [Mysłowice Big Cube Open 2022](https://www.worldcubeassociation.org/competitions/MyslowiceBigCubeOpen2022/results/by_person#2014ZAKR01) |
-| 0.50 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 1:57.59 | 1:58.09 | [Żory Open 2024](https://www.worldcubeassociation.org/competitions/ZoryOpen2024/results/by_person#2014ZAKR01) |
 
 ### 7x7x7 Cube
 

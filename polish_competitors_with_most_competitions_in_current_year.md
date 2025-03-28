@@ -1,6 +1,6 @@
 ## Polish competitors with most competitions in the current year
 
-*Updated on 25 March 2025*
+*Updated on 28 March 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -199,6 +199,7 @@
 | 2 | Piotr Kamiński |
 | 2 | Bartłomiej Krokos |
 | 2 | Magdalena Pabisz |
+| 2 | Patryk Pałka |
 | 2 | Adrian Permus |
 | 2 | Tomasz Cepil |
 | 2 | Jakub Hamkało |
@@ -388,7 +389,6 @@
 | 1 | Bartosz Krzysztoszek |
 | 1 | Adam Łyskawa |
 | 1 | Maksymilian Misiak |
-| 1 | Patryk Pałka |
 | 1 | Mateusz Szulik |
 | 1 | Oliwier Tkaczyk |
 | 1 | Zygmunt Baranowski |

@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 25 March 2025*
+*Updated on 28 March 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -45,6 +45,7 @@
 | 10 | [Alexander Gacek](https://www.worldcubeassociation.org/persons/2024GACE01) |
 | 9 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
 | 9 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) |
+| 9 | [Patryk Pałka](https://www.worldcubeassociation.org/persons/2017PALK01) |
 | 9 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) |
 | 9 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) |
 | 9 | [Michał Kaczmarek](https://www.worldcubeassociation.org/persons/2021KACZ01) |
@@ -54,7 +55,6 @@
 | 8 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) |
 | 8 | [Wojciech Barciaga](https://www.worldcubeassociation.org/persons/2013BARC03) |
 | 8 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) |
-| 8 | [Patryk Pałka](https://www.worldcubeassociation.org/persons/2017PALK01) |
 | 8 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
 | 8 | [Mateusz Nowak](https://www.worldcubeassociation.org/persons/2022NOWA05) |
 | 8 | [Marcel Borkowski](https://www.worldcubeassociation.org/persons/2023BORK01) |

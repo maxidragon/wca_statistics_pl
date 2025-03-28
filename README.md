@@ -19,7 +19,7 @@ All statistics are computed only for competitors from Poland/Polish competitions
 - [Fewest competitors contest](fewest_competitors_contest)
 - [Longest competitions path](longest_competitions_path)
 - [Longest standing records](longest_standing_records)
-- [Longest streak of competitions in own country](longest_streak_of_competitions_in_own_country)
+- [Longest streak of competitions in Poland](longest_streak_of_competitions_in_own_country)
 - [Longest streak of competitions with a personal record done](longest_streak_of_personal_records)
 - [Longest streak of podiums](longest_streak_of_podiums)
 - [Longest streak of world records of the same type in the given event](longest_streak_of_world_records)

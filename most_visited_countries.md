@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 28 March 2025*
+*Updated on 31 March 2025*
 
 | Countries | Person |
 | ---: | :--- |
@@ -13,7 +13,7 @@
 | 15 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 14 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 13 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
-| 12 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
+| 13 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
 | 11 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) |
 | 11 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) |
 | 10 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) |

@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals at Polish competitions are taken into account.*
-*Updated on 28 March 2025*
+*Updated on 31 March 2025*
 
 
 ### Rubik's Cube
@@ -62,7 +62,7 @@
 | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) | 48.17 | **54.25** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e555_f) | 10 |
 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | 50.87 | **54.26** | [Żory Open 2025](https://www.worldcubeassociation.org/competitions/ZoryOpen2025/results/all#e555_c) | 4 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 51.86 | **54.37** | [Silesian Cubing Pawłowice 2023](https://www.worldcubeassociation.org/competitions/SilesianCubingPawlowice2023/results/all#e555_f) | 4 |
-| [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) | 51.04 | **54.73** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e555_f) | 11 |
+| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 52.08 | **54.59** | [Silesian Cubing Mysłowice 2025](https://www.worldcubeassociation.org/competitions/SilesianCubingMyslowice2025/results/all#e555_f) | 4 |
 
 ### 6x6x6 Cube
 
@@ -151,8 +151,8 @@
 | [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) | 37.67 | **40.50** | [Dębica Cubing Winter 2024](https://www.worldcubeassociation.org/competitions/DebicaCubingWinter2024/results/all#eminx_f) | 4 |
 | [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) | 40.01 | **40.84** | [Dragon Cubing II 2024](https://www.worldcubeassociation.org/competitions/DragonCubingII2024/results/all#eminx_f) | 5 |
 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) | 36.83 | **41.65** | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/all#eminx_f) | 4 |
+| [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | 40.49 | **41.65** | [Silesian Cubing Mysłowice 2025](https://www.worldcubeassociation.org/competitions/SilesianCubingMyslowice2025/results/all#eminx_c) | 4 |
 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 40.83 | **41.98** | [5BLD Masters Opole 2025](https://www.worldcubeassociation.org/competitions/5BLDMastersOpole2025/results/all#eminx_f) | 4 |
-| [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 39.72 | **42.01** | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/all#eminx_f) | 5 |
 
 ### Pyraminx
 

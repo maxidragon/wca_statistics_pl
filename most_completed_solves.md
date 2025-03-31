@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 28 March 2025*
+*Updated on 31 March 2025*
 
 
 ### Competition
@@ -32,22 +32,22 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **16668** | 17280 |
-| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **13650** | 14190 |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **11785** | 12112 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **16712** | 17328 |
+| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **13739** | 14282 |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **11862** | 12189 |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **11470** | 11924 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **11139** | 11962 |
 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | **10288** | 10627 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | **10264** | 10451 |
 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **9403** | 9924 |
+| [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | **8781** | 9311 |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | **8699** | 8902 |
-| [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | **8696** | 9216 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **8472** | 8795 |
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | **7956** | 8230 |
+| [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **7882** | 8313 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **7828** | 7988 |
-| [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **7803** | 8229 |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **7546** | 8641 |
-| [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | **7156** | 7743 |
+| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **7572** | 8674 |
+| [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | **7224** | 7820 |
 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | **7069** | 7198 |
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | **7055** | 7202 |
 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) | **6953** | 7261 |
@@ -65,8 +65,8 @@
 | 2018 | **72278** | 75262 |
 | 2017 | **67139** | 70211 |
 | 2015 | **61174** | 63840 |
+| 2025 | **54253** | 57244 |
 | 2016 | **52628** | 54673 |
-| 2025 | **50919** | 53642 |
 | 2021 | **41153** | 43473 |
 | 2013 | **36996** | 39173 |
 | 2020 | **23365** | 24538 |
@@ -82,24 +82,24 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **300499** | 306650 |
-| 2x2x2 Cube | **196834** | 202175 |
-| Pyraminx | **151956** | 155932 |
-| 4x4x4 Cube | **102858** | 106450 |
-| Skewb | **101647** | 104280 |
-| 3x3x3 One-Handed | **80392** | 82971 |
-| Clock | **54112** | 62647 |
-| 5x5x5 Cube | **47669** | 49477 |
-| Megaminx | **45211** | 47202 |
-| Square-1 | **41782** | 43476 |
-| 6x6x6 Cube | **10359** | 10792 |
-| 3x3x3 Blindfolded | **10165** | 26635 |
-| 7x7x7 Cube | **8844** | 9253 |
+| 3x3x3 Cube | **301030** | 307195 |
+| 2x2x2 Cube | **197320** | 202675 |
+| Pyraminx | **151961** | 155937 |
+| 4x4x4 Cube | **102877** | 106469 |
+| Skewb | **101904** | 104550 |
+| 3x3x3 One-Handed | **80809** | 83398 |
+| Clock | **54472** | 63059 |
+| 5x5x5 Cube | **47978** | 49793 |
+| Megaminx | **45602** | 47601 |
+| Square-1 | **42060** | 43760 |
+| 6x6x6 Cube | **10467** | 10903 |
+| 3x3x3 Blindfolded | **10230** | 26820 |
+| 7x7x7 Cube | **8933** | 9349 |
 | 3x3x3 Fewest Moves | **5644** | 7555 |
 | Magic | **4230** | 4674 |
 | 3x3x3 With Feet | **2450** | 2650 |
 | Master Magic | **2181** | 2238 |
-| 3x3x3 Multi-Blind | **1878** | 2805 |
+| 3x3x3 Multi-Blind | **1897** | 2838 |
 | 4x4x4 Blindfolded | **629** | 2042 |
 | 5x5x5 Blindfolded | **306** | 1163 |
 

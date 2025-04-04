@@ -1,6 +1,6 @@
 ## Polish competitors with most competitions in the current year
 
-*Updated on  1 April 2025*
+*Updated on  4 April 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -562,6 +562,7 @@
 | 1 | [Nikodem Biernacki](https://www.worldcubeassociation.org/persons/2024BIER01) |
 | 1 | [Błażej Bogucki](https://www.worldcubeassociation.org/persons/2024BOGU02) |
 | 1 | [Piotr Bortko](https://www.worldcubeassociation.org/persons/2024BORT04) |
+| 1 | [Lars Ryszard Bubela](https://www.worldcubeassociation.org/persons/2024BUBE01) |
 | 1 | [Jakub Burlikowski](https://www.worldcubeassociation.org/persons/2024BURL02) |
 | 1 | [Antoni Chawrilski](https://www.worldcubeassociation.org/persons/2024CHAW03) |
 | 1 | [Filip Ciećwierz](https://www.worldcubeassociation.org/persons/2024CIEC01) |

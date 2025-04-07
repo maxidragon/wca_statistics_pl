@@ -1,6 +1,6 @@
 ## National records count by person
 
-*Updated on  4 April 2025*
+*Updated on  7 April 2025*
 
 | WRs | Person |
 | ---: | :--- |
@@ -85,6 +85,7 @@
 | 1 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 1 | [Marcin Bloch](https://www.worldcubeassociation.org/persons/2013BLOC01) |
 | 1 | [Marek Pepke](https://www.worldcubeassociation.org/persons/2008PEPK01) |
+| 1 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) |
 | 1 | [Patryk Szewczyk](https://www.worldcubeassociation.org/persons/2012SZEW01) |
 | 1 | [Piotr Kuchta](https://www.worldcubeassociation.org/persons/2012KUCH01) |
 | 1 | [Piotr Pojda](https://www.worldcubeassociation.org/persons/2012POJD01) |

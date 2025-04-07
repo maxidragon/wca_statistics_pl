@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  4 April 2025*
+*Updated on  7 April 2025*
 
 
 ### Rubik's Cube
@@ -32,7 +32,7 @@
 | 0.04 | [Wojciech Kozłowski](https://www.worldcubeassociation.org/persons/2023KOZL04) | 4.08 | 4.12 | [Cube Factory Brzeziny 2024](https://www.worldcubeassociation.org/competitions/CubeFactoryBrzeziny2024/results/by_person#2023KOZL04) |
 | 0.05 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 1.14 | 1.19 | [Energy Cube Tomaszów 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2024/results/by_person#2021ZAJD03) |
 | 0.05 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | 1.52 | 1.57 | [Winter Vibe Wrocław 2024](https://www.worldcubeassociation.org/competitions/WinterVibeWroclaw2024/results/by_person#2022GLAD01) |
-| 0.05 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 3.26 | 3.31 | [Polish Open 2015](https://www.worldcubeassociation.org/competitions/PolishOpen2015/results/by_person#2013BURL01) |
+| 0.05 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) | 3.14 | 3.19 | [Energy Cube Konin 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeKonin2025/results/by_person#2021GORE01) |
 
 ### 4x4x4 Cube
 
@@ -62,7 +62,7 @@
 | 0.44 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 1:08.53 | 1:08.97 | [Polish Open 2017](https://www.worldcubeassociation.org/competitions/PolishOpen2017/results/by_person#2011KNOT01) |
 | 0.46 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 1:01.95 | 1:02.41 | [Dragon Cubing 2022](https://www.worldcubeassociation.org/competitions/DragonCubing2022/results/by_person#2021PIET01) |
 | 0.50 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | 49.18 | 49.68 | [Silesian Cubing Pawłowice 2024](https://www.worldcubeassociation.org/competitions/SilesianCubingPawlowice2024/results/by_person#2017SZUL01) |
-| 0.52 | [Jakub Wojtaszewski](https://www.worldcubeassociation.org/persons/2013WOJT02) | 1:26.89 | 1:27.41 | [Świdnik Open 2015](https://www.worldcubeassociation.org/competitions/SwidnikOpen2015/results/by_person#2013WOJT02) |
+| 0.51 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | 50.65 | 51.16 | [Energy Cube Konin 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeKonin2025/results/by_person#2023ZAST01) |
 
 ### 6x6x6 Cube
 

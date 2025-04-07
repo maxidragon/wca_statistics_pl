@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  4 April 2025*
+*Updated on  7 April 2025*
 
 
 ### Rubik's Cube
@@ -9,12 +9,12 @@
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 4.49 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 4.45, 4.72, 4.23, 5.60, 4.30 |
+| 5.17 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 6.92, 5.42, 5.22, 4.83, 4.86 |
 | 5.24 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 5.44, 5.92, 5.00, 5.27, 4.92 |
-| 5.33 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 5.50, 6.08, 4.91, 5.03, 5.45 |
 | 5.46 | [Szymon Musiał](https://www.worldcubeassociation.org/persons/2018MUSI03) | 5.40, 7.27, 5.46, 4.79, 5.52 |
 | 5.50 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | 6.88, 5.79, 5.47, 5.24, 4.88 |
-| 5.78 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | 5.48, 5.46, 6.39, 6.78, 5.15 |
-| 6.47 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | 6.17, 7.99, 6.23, 6.34, 6.85 |
+| 5.71 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | 7.38, 6.16, 5.63, 5.35, 5.02 |
+| 6.44 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | DNF, 5.82, 5.43, 6.16, 7.34 |
 | 6.63 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | 6.38, 8.53, 5.92, 7.29, 6.22 |
 | 6.74 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 5.82, 6.92, 8.78, 6.75, 6.54 |
 | 7.72 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | 7.78, 7.76, 8.82, 7.62, 7.51 |
@@ -121,9 +121,9 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
+| 9.14 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | 8.98, 8.19, 9.53, 12.77, 8.92 |
 | 9.46 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 9.42, 9.81, 9.15, 13.33, 8.66 |
 | 9.49 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | 9.20, 10.16, 9.30, 7.66, 9.96 |
-| 9.62 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | 8.00, 10.78, 11.57, 9.81, 8.26 |
 | 9.89 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 9.60, 12.84, 9.35, 8.86, 10.72 |
 | 9.93 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 10.58, 8.88, 7.49, 15.41, 10.33 |
 | 9.99 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 8.08, 12.49, 10.81, 8.81, 10.36 |
@@ -167,15 +167,15 @@
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 2.52 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | 2.44, 3.36, 2.59, 2.40, 2.52 |
-| 2.96 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 2.88, 4.05, 2.90, 3.11, 2.58 |
+| 2.74 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 2.35, 2.73, 2.56, 3.90, 2.93 |
 | 2.99 | [Filip Brokos](https://www.worldcubeassociation.org/persons/2022BROK03) | 2.54, 2.83, 3.63, 3.02, 3.11 |
 | 3.19 | [Marcel Politowicz](https://www.worldcubeassociation.org/persons/2021POLI02) | 2.79, 4.02, 2.66, 3.10, 3.67 |
 | 3.25 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | 2.96, 3.32, 3.46, 5.04, 2.91 |
-| 3.46 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | 4.64, 3.17, 3.68, 3.49, 3.22 |
+| 3.43 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | 2.74, 3.60, 3.83, 3.22, 3.46 |
+| 3.46 | [Kacper Bieńkowski](https://www.worldcubeassociation.org/persons/2022BIEN01) | 3.49, 3.59, 3.29, 4.86, 2.75 |
 | 3.48 | [Ignacy Malinowski](https://www.worldcubeassociation.org/persons/2021MALI02) | 3.05, 3.53, 3.72, 3.45, 3.45 |
 | 3.48 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | 3.63, 3.55, 3.51, 3.38, 3.38 |
-| 3.53 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 2.97, 3.87, 3.61, 4.31, 3.11 |
-| 3.53 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) | 4.49, 3.37, 4.06, 3.06, 3.15 |
+| 3.51 | [Kazimierz Cywiński](https://www.worldcubeassociation.org/persons/2022CYWI01) | 2.99, 4.55, 3.66, 3.10, 3.78 |
 
 ### Skewb
 

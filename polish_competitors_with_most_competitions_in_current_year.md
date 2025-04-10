@@ -1,6 +1,6 @@
 ## Polish competitors with most competitions in the current year
 
-*Updated on  7 April 2025*
+*Updated on 10 April 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -165,6 +165,7 @@
 | 3 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
 | 3 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) |
 | 3 | [Łukasz Pawłowski](https://www.worldcubeassociation.org/persons/2020PAWL01) |
+| 3 | [Michał Kaczmarek](https://www.worldcubeassociation.org/persons/2021KACZ01) |
 | 3 | [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) |
 | 3 | [Maciej Kozar](https://www.worldcubeassociation.org/persons/2021KOZA01) |
 | 3 | [Zuzanna Kozicka](https://www.worldcubeassociation.org/persons/2021KOZI01) |
@@ -196,6 +197,7 @@
 | 3 | [Rafał Gawełczyk](https://www.worldcubeassociation.org/persons/2023GAWE01) |
 | 3 | [Julian Helowicz](https://www.worldcubeassociation.org/persons/2023HELO01) |
 | 3 | [Robert Jastrzębski](https://www.worldcubeassociation.org/persons/2023JAST01) |
+| 3 | [Marcin Karczmarz](https://www.worldcubeassociation.org/persons/2023KARC01) |
 | 3 | [Bartosz Kramkowski](https://www.worldcubeassociation.org/persons/2023KRAM02) |
 | 3 | [Artur Kubicki](https://www.worldcubeassociation.org/persons/2023KUBI02) |
 | 3 | [Kajetan Kwiatkowski](https://www.worldcubeassociation.org/persons/2023KWIA01) |
@@ -265,7 +267,6 @@
 | 2 | [Kuba Adamczyk](https://www.worldcubeassociation.org/persons/2021ADAM03) |
 | 2 | [Aleksandra Bystrova](https://www.worldcubeassociation.org/persons/2021BYST01) |
 | 2 | [Marcin Dołoto](https://www.worldcubeassociation.org/persons/2021DOLO01) |
-| 2 | [Michał Kaczmarek](https://www.worldcubeassociation.org/persons/2021KACZ01) |
 | 2 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
 | 2 | [Magnus Miłosz Birecki](https://www.worldcubeassociation.org/persons/2022BIRE01) |
 | 2 | [Kazimierz Cywiński](https://www.worldcubeassociation.org/persons/2022CYWI01) |
@@ -297,7 +298,6 @@
 | 2 | [Wiktor Gugulski](https://www.worldcubeassociation.org/persons/2023GUGU01) |
 | 2 | [Dominik Kądziołka](https://www.worldcubeassociation.org/persons/2023KADZ01) |
 | 2 | [Łukasz Kamiński](https://www.worldcubeassociation.org/persons/2023KAMI07) |
-| 2 | [Marcin Karczmarz](https://www.worldcubeassociation.org/persons/2023KARC01) |
 | 2 | [Kacper Karpierz](https://www.worldcubeassociation.org/persons/2023KARP06) |
 | 2 | [Victor Kiziukiewicz](https://www.worldcubeassociation.org/persons/2023KIZI01) |
 | 2 | [Patrick Koprek](https://www.worldcubeassociation.org/persons/2023KOPR03) |

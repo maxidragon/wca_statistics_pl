@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  7 April 2025*
+*Updated on 10 April 2025*
 
 
 ### Rubik's Cube
@@ -144,7 +144,7 @@
 | 2.45 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 2.05, 2.83, 2.58, 2.65, 2.41, 2.50, 1.72, 2.52, 2.60, 1.23, 1.75, 1.69, 4.34, 2.03, 2.35, 4.54, 1.62, 2.11, 2.23, 2.97, 2.44, 4.32, 2.12, 3.03, 2.64 |
 | 2.58 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 1.56, 3.24, 2.60, 3.52, 2.78, 2.63, 2.08, 2.51, 2.73, 2.17, 1.84, 2.32, 4.65, 2.93, 2.87, 2.38, 2.21, 2.62, 2.34, 2.00, 3.02, 2.11, 2.91, 4.26, 2.13 |
 | 2.59 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | 2.76, 3.34, 2.33, 1.90, 2.48, 2.60, 2.70, 2.67, 2.53, 1.80, 2.79, 2.32, DNF, 1.78, 2.87, 2.52, 2.34, 2.95, 3.26, 2.48, 2.47, 5.64, 2.53, 1.95, 2.67 |
-| 2.60 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | 2.41, 1.54, 2.45, 1.90, 3.22, 2.09, 1.43, 3.22, 5.04, 2.46, 3.21, DNF, 3.61, 2.35, 1.82, 2.35, 2.42, 2.54, 2.68, 3.69, 2.78, 2.44, 2.00, 3.07, 1.80 |
+| 2.71 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 2.28, 3.13, 2.26, 3.63, 3.20, 2.72, 2.08, 4.04, 2.29, 2.04, 2.73, 2.88, 3.08, 2.24, 2.45, 4.26, 2.07, 1.11, 2.30, 1.78, 2.32, 3.37, 3.65, 6.13, 2.24 |
 
 ### Rubik's Clock
 

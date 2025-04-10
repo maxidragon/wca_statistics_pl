@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on  7 April 2025*
+*Updated on 10 April 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -41,6 +41,7 @@
 | 10 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) |
 | 10 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |
 | 10 | [Adelina Ilnicki](https://www.worldcubeassociation.org/persons/2020ILNI01) |
+| 10 | [Michał Kaczmarek](https://www.worldcubeassociation.org/persons/2021KACZ01) |
 | 10 | [Liam Stuart Ferreira](https://www.worldcubeassociation.org/persons/2022FERR14) |
 | 10 | [Michal J. Sekulski](https://www.worldcubeassociation.org/persons/2023SEKU01) |
 | 10 | [Alexander Gacek](https://www.worldcubeassociation.org/persons/2024GACE01) |
@@ -50,7 +51,6 @@
 | 9 | [Patryk Pałka](https://www.worldcubeassociation.org/persons/2017PALK01) |
 | 9 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) |
 | 9 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) |
-| 9 | [Michał Kaczmarek](https://www.worldcubeassociation.org/persons/2021KACZ01) |
 | 8 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) |
 | 8 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) |
 | 8 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) |

@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 10 April 2025*
+*Updated on 13 April 2025*
 
 
 ### Rubik's Cube
@@ -146,13 +146,13 @@
 | 50.95 | [Przemysław Rudziak](https://www.worldcubeassociation.org/persons/2020RUDZ02) |
 | 58.78 | [Krzysztof Boguszewski](https://www.worldcubeassociation.org/persons/2019BOGU01) |
 | 1:05.53 | [Wojciech Piórczyński](https://www.worldcubeassociation.org/persons/2021PIOR01) |
+| 1:16.74 | [Szczepan Rozwadowski](https://www.worldcubeassociation.org/persons/2025ROZW02) |
 | 1:17.18 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 1:17.88 | [Grzegorz Chudzik](https://www.worldcubeassociation.org/persons/2018CHUD02) |
 | 1:19.38 | [Krzysztof Natusiewicz](https://www.worldcubeassociation.org/persons/2011NATU01) |
 | 1:19.51 | [Michał Mielniczek](https://www.worldcubeassociation.org/persons/2009MIEL01) |
 | 1:19.56 | [Igor Kamiński](https://www.worldcubeassociation.org/persons/2023KAMI04) |
 | 1:19.80 | [Olaf Niechciał](https://www.worldcubeassociation.org/persons/2022NIEC01) |
-| 1:20.19 | [Maksymilian Sordyl](https://www.worldcubeassociation.org/persons/2022SORD01) |
 
 ### Pyraminx
 

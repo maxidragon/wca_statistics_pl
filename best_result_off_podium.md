@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals at Polish competitions are taken into account.*
-*Updated on 10 April 2025*
+*Updated on 13 April 2025*
 
 
 ### Rubik's Cube
@@ -113,6 +113,7 @@
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
+| [Jan Riedl](https://www.worldcubeassociation.org/persons/2019RIED01) | 22 | **23.33** | [Fun with FM in Kraków 2025](https://www.worldcubeassociation.org/competitions/FunwithFMinKrakow2025/results/all#e333fm_f) | 4 |
 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 22 | **23.67** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e333fm_f) | 4 |
 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 21 | **24.33** | [Winter Side Wrocław 2025](https://www.worldcubeassociation.org/competitions/WinterSideWroclaw2025/results/all#e333fm_f) | 4 |
 | [Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02) | 22 | **24.33** | [3 More FMC Rounds Rzeszów 2023](https://www.worldcubeassociation.org/competitions/3MoreFMCRoundsinRzeszow2023/results/all#e333fm_f) | 4 |
@@ -122,7 +123,6 @@
 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 24 | **25.33** | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021/results/all#e333fm_f) | 4 |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 21 | **25.67** | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/all#e333fm_f) | 4 |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 22 | **25.67** | [No Triangle in Rzeszów 2024](https://www.worldcubeassociation.org/competitions/NoTriangleinRzeszow2024/results/all#e333fm_f) | 4 |
-| [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 22 | **25.67** | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021/results/all#e333fm_f) | 5 |
 
 ### 3x3x3 One-Handed
 

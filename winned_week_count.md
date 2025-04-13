@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 10 April 2025*
+*Updated on 13 April 2025*
 
 
 ### Rubik's Cube
@@ -117,20 +117,21 @@
 | [Daniel Chudecki](https://www.worldcubeassociation.org/persons/2011CHUD01) | 1 |
 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | 1 |
 | [Stanisław Szyszka](https://www.worldcubeassociation.org/persons/2016SZYS02) | 1 |
+| [Dominik Kobinski](https://www.worldcubeassociation.org/persons/2019KOBI01) | 1 |
 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 1 |
 
 ### 3x3x3 Fewest Moves
 
 | Person | Winned weeks |
 | :--- | ---: |
-| [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 16 |
-| [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 11 |
+| [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 17 |
+| [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 12 |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 7 |
 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) | 6 |
 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) | 5 |
 | [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) | 5 |
+| [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) | 4 |
 | [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) | 3 |
-| [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) | 3 |
 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) | 2 |
 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 2 |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 2 |
@@ -166,6 +167,7 @@
 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 1 |
 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | 1 |
 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | 1 |
+| [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | 1 |
 
 ### Megaminx
 
@@ -187,6 +189,7 @@
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 1 |
 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) | 1 |
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 1 |
+| [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 1 |
 
 ### Pyraminx
 

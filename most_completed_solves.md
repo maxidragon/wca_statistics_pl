@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 10 April 2025*
+*Updated on 13 April 2025*
 
 
 ### Competition
@@ -32,26 +32,26 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **16774** | 17393 |
-| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **13773** | 14317 |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **11940** | 12269 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **16779** | 17399 |
+| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **13818** | 14362 |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **11975** | 12304 |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **11470** | 11924 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **11211** | 12045 |
 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | **10288** | 10627 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | **10264** | 10451 |
-| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **9472** | 9994 |
-| [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | **8809** | 9341 |
+| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **9507** | 10030 |
+| [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | **8856** | 9391 |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | **8734** | 8937 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **8472** | 8795 |
+| [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **7958** | 8391 |
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | **7956** | 8230 |
-| [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **7950** | 8383 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **7864** | 8024 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **7628** | 8731 |
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | **7224** | 7820 |
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | **7090** | 7237 |
 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | **7069** | 7198 |
 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) | **6953** | 7261 |
-| [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | **6694** | 7108 |
+| [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | **6738** | 7156 |
 
 ### Year
 
@@ -64,7 +64,7 @@
 | 2014 | **76324** | 80953 |
 | 2018 | **72278** | 75262 |
 | 2017 | **67139** | 70211 |
-| 2025 | **61298** | 64543 |
+| 2025 | **63397** | 66765 |
 | 2015 | **61174** | 63840 |
 | 2016 | **52628** | 54673 |
 | 2021 | **41153** | 43473 |
@@ -82,20 +82,20 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **302873** | 309070 |
-| 2x2x2 Cube | **198535** | 203920 |
+| 3x3x3 Cube | **303686** | 309900 |
+| 2x2x2 Cube | **199213** | 204620 |
 | Pyraminx | **152838** | 156844 |
 | 4x4x4 Cube | **103355** | 106971 |
 | Skewb | **102474** | 105135 |
-| 3x3x3 One-Handed | **81511** | 84114 |
-| Clock | **55157** | 63821 |
+| 3x3x3 One-Handed | **81806** | 84419 |
+| Clock | **55160** | 63825 |
 | 5x5x5 Cube | **48427** | 50257 |
-| Megaminx | **45780** | 47782 |
+| Megaminx | **46007** | 48017 |
 | Square-1 | **42079** | 43780 |
 | 6x6x6 Cube | **10482** | 10918 |
-| 3x3x3 Blindfolded | **10232** | 26829 |
+| 3x3x3 Blindfolded | **10270** | 26920 |
 | 7x7x7 Cube | **8942** | 9358 |
-| 3x3x3 Fewest Moves | **5644** | 7556 |
+| 3x3x3 Fewest Moves | **5689** | 7613 |
 | Magic | **4230** | 4674 |
 | 3x3x3 With Feet | **2450** | 2650 |
 | Master Magic | **2181** | 2238 |

@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 10 April 2025*
+*Updated on 13 April 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -36,6 +36,7 @@
 | 11 | [Wiktor Syrytczyk](https://www.worldcubeassociation.org/persons/2022SYRY01) |
 | 11 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) |
 | 11 | [Naama Anbar](https://www.worldcubeassociation.org/persons/2023ANBA01) |
+| 11 | [Alexander Gacek](https://www.worldcubeassociation.org/persons/2024GACE01) |
 | 10 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
 | 10 | [Rafał Studnicki](https://www.worldcubeassociation.org/persons/2005STUD01) |
 | 10 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) |
@@ -44,7 +45,6 @@
 | 10 | [Michał Kaczmarek](https://www.worldcubeassociation.org/persons/2021KACZ01) |
 | 10 | [Liam Stuart Ferreira](https://www.worldcubeassociation.org/persons/2022FERR14) |
 | 10 | [Michal J. Sekulski](https://www.worldcubeassociation.org/persons/2023SEKU01) |
-| 10 | [Alexander Gacek](https://www.worldcubeassociation.org/persons/2024GACE01) |
 | 9 | [Wojciech Barciaga](https://www.worldcubeassociation.org/persons/2013BARC03) |
 | 9 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
 | 9 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) |

@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on 13 April 2025*
+*Updated on 19 April 2025*
 
 
 ### Rubik's Cube
@@ -344,11 +344,11 @@
 
 | Moving average | Person |
 | ---: | :--- |
-| 21.75 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
-| 21.89 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
-| 23.03 | [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) |
+| 22.04 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
+| 22.13 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
+| 23.42 | [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) |
+| 24.55 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) |
 | 24.92 | [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) |
-| 24.93 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) |
 | 25.38 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) |
 | 25.98 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) |
 | 26.46 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
@@ -356,7 +356,7 @@
 | 28.53 | [Szymon Jeziorski](https://www.worldcubeassociation.org/persons/2013JEZI01) |
 | 29.63 | [Michał Nikiel](https://www.worldcubeassociation.org/persons/2011NIKI01) |
 | 29.86 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) |
-| 30.33 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 30.53 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 30.66 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 30.67 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
 | 30.69 | [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) |
@@ -392,7 +392,7 @@
 | 38.24 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
 | 38.27 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |
 | 38.34 | [Kalina Jakubowska](https://www.worldcubeassociation.org/persons/2009BRZE01) |
-| 39.24 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) |
+| 39.34 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) |
 | 40.20 | [Tomasz Stawowy](https://www.worldcubeassociation.org/persons/2021STAW01) |
 
 ### 3x3x3 One-Handed
@@ -552,13 +552,13 @@
 | 4.03 | [Mateusz Kotwica](https://www.worldcubeassociation.org/persons/2016KOTW01) |
 | 4.10 | [Franciszek Kłos](https://www.worldcubeassociation.org/persons/2021KLOS02) |
 | 4.18 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 4.19 | [Tymoteusz Zmudzki Piskorska](https://www.worldcubeassociation.org/persons/2024PISK02) |
 | 4.20 | [Liam Stuart Ferreira](https://www.worldcubeassociation.org/persons/2022FERR14) |
 | 4.24 | [Antoni Czarnecki](https://www.worldcubeassociation.org/persons/2015CZAR01) |
 | 4.27 | [Ryszard Kędziora](https://www.worldcubeassociation.org/persons/2022KEDZ01) |
 | 4.28 | [Michał Mlostek](https://www.worldcubeassociation.org/persons/2015MLOS01) |
 | 4.35 | [Mateusz Gil](https://www.worldcubeassociation.org/persons/2013GILM01) |
 | 4.36 | [Adam Zakrzewski](https://www.worldcubeassociation.org/persons/2022ZAKR02) |
-| 4.39 | [Hubert Seelieb](https://www.worldcubeassociation.org/persons/2023SEEL02) |
 
 ### Rubik's Clock
 

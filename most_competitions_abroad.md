@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 13 April 2025*
+*Updated on 19 April 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -73,6 +73,7 @@
 | 7 | [Adam Steuer](https://www.worldcubeassociation.org/persons/2023STEU01) |
 | 7 | [Krzysztof Wawrzyniak](https://www.worldcubeassociation.org/persons/2023WAWR01) |
 | 7 | [Zbigniew Mróz](https://www.worldcubeassociation.org/persons/2023MROZ03) |
+| 7 | [Tymoteusz Zmudzki Piskorska](https://www.worldcubeassociation.org/persons/2024PISK02) |
 | 6 | [Łukasz Cichecki](https://www.worldcubeassociation.org/persons/2007CICH01) |
 | 6 | [Marek Pepke](https://www.worldcubeassociation.org/persons/2008PEPK01) |
 | 6 | [Kamil Zieliński](https://www.worldcubeassociation.org/persons/2008ZIEL01) |
@@ -92,7 +93,6 @@
 | 6 | [Patryk Kluk](https://www.worldcubeassociation.org/persons/2023KLUK01) |
 | 6 | [Kacper Borkowski](https://www.worldcubeassociation.org/persons/2023BORK03) |
 | 6 | [Antoni Baránski](https://www.worldcubeassociation.org/persons/2024BARA01) |
-| 6 | [Tymoteusz Zmudzki Piskorska](https://www.worldcubeassociation.org/persons/2024PISK02) |
 | 5 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) |
 | 5 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) |
 | 5 | [Rafał Guzewicz](https://www.worldcubeassociation.org/persons/2006GUZE01) |

@@ -29,6 +29,7 @@ All statistics are computed only for competitors from Poland/Polish competitions
 - [Most attended competitions in a single week](most_attended_competitions_in_single_week)
 - [Most competitions abroad](most_competitions_abroad)
 - [Most competitions before winning](most_competitions_before_winning)
+- [Most competitions organized](most_competitions_organized)
 - [Most completed solves](most_completed_solves)
 - [Most delegated competitions](most_delegated_competitions)
 - [Most distinct dates competed on](most_distinct_dates_competed_on)

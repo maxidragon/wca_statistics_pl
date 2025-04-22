@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 19 April 2025*
+*Updated on 22 April 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -19,16 +19,16 @@
 | 16 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 16 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) |
 | 15 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) |
-| 14 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
+| 15 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
 | 14 | [Magnus Miłosz Birecki](https://www.worldcubeassociation.org/persons/2022BIRE01) |
 | 14 | [Alex Myrus](https://www.worldcubeassociation.org/persons/2022MYRU01) |
 | 13 | [Wojciech Poljanowski](https://www.worldcubeassociation.org/persons/2010POLJ01) |
 | 13 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 13 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
+| 13 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) |
 | 12 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) |
 | 12 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) |
 | 12 | [Nathaniel Bigaj](https://www.worldcubeassociation.org/persons/2019BIGA01) |
-| 12 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) |
 | 11 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 11 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 11 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) |
@@ -83,6 +83,7 @@
 | 6 | [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) |
 | 6 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
 | 6 | [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) |
+| 6 | [Joanna Dubicka](https://www.worldcubeassociation.org/persons/2018DUBI04) |
 | 6 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) |
 | 6 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 6 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
@@ -90,6 +91,7 @@
 | 6 | [Marcin Szacki](https://www.worldcubeassociation.org/persons/2022SZAC01) |
 | 6 | [Franciszek Gawlik](https://www.worldcubeassociation.org/persons/2022GAWL01) |
 | 6 | [Tymon Filar Notecki](https://www.worldcubeassociation.org/persons/2022NOTE01) |
+| 6 | [Arkadiusz Dubicki](https://www.worldcubeassociation.org/persons/2023DUBI01) |
 | 6 | [Patryk Kluk](https://www.worldcubeassociation.org/persons/2023KLUK01) |
 | 6 | [Kacper Borkowski](https://www.worldcubeassociation.org/persons/2023BORK03) |
 | 6 | [Antoni Baránski](https://www.worldcubeassociation.org/persons/2024BARA01) |
@@ -107,7 +109,6 @@
 | 5 | [Stanisław Dąbrowski](https://www.worldcubeassociation.org/persons/2016DABR03) |
 | 5 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) |
 | 5 | [Bartek Mirecki](https://www.worldcubeassociation.org/persons/2017MIRE01) |
-| 5 | [Joanna Dubicka](https://www.worldcubeassociation.org/persons/2018DUBI04) |
 | 5 | [Jarosław Chodyniecki](https://www.worldcubeassociation.org/persons/2018CHOD01) |
 | 5 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) |
 | 5 | [Ignacy Malinowski](https://www.worldcubeassociation.org/persons/2021MALI02) |
@@ -116,7 +117,6 @@
 | 5 | [Pamela Szponder](https://www.worldcubeassociation.org/persons/2022SZPO01) |
 | 5 | [Marceli Wieczorek](https://www.worldcubeassociation.org/persons/2022WIEC03) |
 | 5 | [Jakub Pietroń](https://www.worldcubeassociation.org/persons/2023PIET02) |
-| 5 | [Arkadiusz Dubicki](https://www.worldcubeassociation.org/persons/2023DUBI01) |
 | 5 | [Nathan Truś](https://www.worldcubeassociation.org/persons/2023TRUS01) |
 | 5 | [Leon Wrzos](https://www.worldcubeassociation.org/persons/2023WRZO01) |
 | 5 | [Maksymilian Kurowski](https://www.worldcubeassociation.org/persons/2023KURO03) |

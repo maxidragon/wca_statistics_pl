@@ -12,6 +12,7 @@ All statistics are computed only for competitors from Poland/Polish competitions
 - [Best potential FMC mean](best_potential_fmc_mean)
 - [Best result not providing a podium](best_result_off_podium)
 - [Best single counting into an average of 5](best_single_counting_into_average)
+- [Biggest rounds in Poland](biggest_rounds)
 - [Competitions count by week](competitions_count_by_week)
 - [Competitions per year by person](competitions_per_year_by_person)
 - [Complete competition winners](complete_competition_winners)

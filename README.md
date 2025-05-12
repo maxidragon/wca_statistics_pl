@@ -28,6 +28,7 @@ All statistics are computed only for competitors from Poland/Polish competitions
 - [Most 4th places](most_4th_places)
 - [Most attended competitions in a single month](most_attended_competitions_in_single_month)
 - [Most attended competitions in a single week](most_attended_competitions_in_single_week)
+- [Most common delegate teams in Poland](most_common_delegates_team)
 - [Most competitions abroad](most_competitions_abroad)
 - [Most competitions before winning](most_competitions_before_winning)
 - [Most competitions organized](most_competitions_organized)

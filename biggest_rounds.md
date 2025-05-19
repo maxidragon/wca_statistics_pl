@@ -1,6 +1,6 @@
 ## Biggest rounds in Poland
 
-*Updated on 16 May 2025*
+*Updated on 19 May 2025*
 
 
 ### Rubik's Cube
@@ -148,9 +148,9 @@
 | 80 | [Dragon Cubing II 2023](https://www.worldcubeassociation.org/competitions/DragonCubingII2023) |
 | 77 | [Polish Nationals 2017](https://www.worldcubeassociation.org/competitions/PolishNationals2017) |
 | 74 | [Dragon Cubing II 2024](https://www.worldcubeassociation.org/competitions/DragonCubingII2024) |
+| 72 | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023) |
 | 72 | [Polish Open 2018](https://www.worldcubeassociation.org/competitions/PolishOpen2018) |
 | 72 | [Polish Championship 2016](https://www.worldcubeassociation.org/competitions/PolishChampionship2016) |
-| 72 | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023) |
 | 71 | [Dragon Cubing I 2024](https://www.worldcubeassociation.org/competitions/DragonCubingI2024) |
 
 ### Pyraminx

@@ -1,7 +1,7 @@
 ## Most delegated competitions with another delegate
 
 *Note: Shows how many times each delegate has co-delegated with others. Only Polish delegates are included, and only competitions that have taken place in Poland and have results posted are considered.*
-*Updated on 19 May 2025*
+*Updated on 22 May 2025*
 
 
 ### [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01)
@@ -35,7 +35,7 @@ _Total delegated competitions: 8 (8 in Poland)_
 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 1 |
 
 ### [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01)
-_Total delegated competitions: 8 (8 in Poland)_
+_Total delegated competitions: 9 (9 in Poland)_
 
 | Co-delegate | Count |
 | :--- | ---: |
@@ -46,6 +46,7 @@ _Total delegated competitions: 8 (8 in Poland)_
 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 1 |
 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 1 |
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 1 |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 1 |
 
 ### [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01)
 _Total delegated competitions: 62 (57 in Poland)_
@@ -97,7 +98,7 @@ _Total delegated competitions: 72 (68 in Poland)_
 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 1 |
 
 ### [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01)
-_Total delegated competitions: 91 (89 in Poland)_
+_Total delegated competitions: 92 (90 in Poland)_
 
 | Co-delegate | Count |
 | :--- | ---: |
@@ -109,6 +110,7 @@ _Total delegated competitions: 91 (89 in Poland)_
 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 5 |
 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 1 |
 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 1 |
+| [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 1 |
 
 ### [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01)
 _Total delegated competitions: 102 (99 in Poland)_

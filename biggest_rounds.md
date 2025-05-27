@@ -1,6 +1,6 @@
 ## Biggest rounds in Poland
 
-*Updated on 25 May 2025*
+*Updated on 26 May 2025*
 
 
 ### Rubik's Cube
@@ -55,11 +55,11 @@
 | 116 | [Polish Nationals 2017](https://www.worldcubeassociation.org/competitions/PolishNationals2017) |
 | 109 | [Euro 2012](https://www.worldcubeassociation.org/competitions/Euro2012) |
 | 95 | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) |
+| 84 | [Dragon Cubing II 2023](https://www.worldcubeassociation.org/competitions/DragonCubingII2023) |
 | 84 | [Polish Nationals 2014](https://www.worldcubeassociation.org/competitions/PolishNationals2014) |
 | 84 | [Polish Open 2015](https://www.worldcubeassociation.org/competitions/PolishOpen2015) |
 | 84 | [Polish Open 2018](https://www.worldcubeassociation.org/competitions/PolishOpen2018) |
 | 84 | [Żory Open 2025](https://www.worldcubeassociation.org/competitions/ZoryOpen2025) |
-| 84 | [Dragon Cubing II 2023](https://www.worldcubeassociation.org/competitions/DragonCubingII2023) |
 | 82 | [Energy Cube Konin 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeKonin2023) |
 | 82 | [Energy Cube Konin 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeKonin2025) |
 
@@ -148,9 +148,9 @@
 | 80 | [Dragon Cubing II 2023](https://www.worldcubeassociation.org/competitions/DragonCubingII2023) |
 | 77 | [Polish Nationals 2017](https://www.worldcubeassociation.org/competitions/PolishNationals2017) |
 | 74 | [Dragon Cubing II 2024](https://www.worldcubeassociation.org/competitions/DragonCubingII2024) |
+| 72 | [Polish Championship 2016](https://www.worldcubeassociation.org/competitions/PolishChampionship2016) |
 | 72 | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023) |
 | 72 | [Polish Open 2018](https://www.worldcubeassociation.org/competitions/PolishOpen2018) |
-| 72 | [Polish Championship 2016](https://www.worldcubeassociation.org/competitions/PolishChampionship2016) |
 | 71 | [Dragon Cubing I 2024](https://www.worldcubeassociation.org/competitions/DragonCubingI2024) |
 
 ### Pyraminx

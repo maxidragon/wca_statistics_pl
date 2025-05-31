@@ -1,6 +1,6 @@
 ## Biggest rounds in Poland
 
-*Updated on 29 May 2025*
+*Updated on 31 May 2025*
 
 
 ### Rubik's Cube
@@ -73,10 +73,10 @@
 | 50 | [Siedlce Open 2023](https://www.worldcubeassociation.org/competitions/SiedlceOpen2023) |
 | 49 | [LLS I Bełżyce 2021](https://www.worldcubeassociation.org/competitions/LLSIBelzyce2021) |
 | 49 | [Silesian Cubing Pawłowice 2024](https://www.worldcubeassociation.org/competitions/SilesianCubingPawlowice2024) |
+| 48 | [CFL Koluszki 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueKoluszki2025) |
 | 46 | [Silesian Cubing Pawłowice 2023](https://www.worldcubeassociation.org/competitions/SilesianCubingPawlowice2023) |
 | 45 | [Cube4fun Bełżyce 2022](https://www.worldcubeassociation.org/competitions/Cube4funBelzyce2022) |
 | 45 | [Cube4fun Pawłowice 2022](https://www.worldcubeassociation.org/competitions/Cube4funPawlowice2022) |
-| 45 | [Euro 2012](https://www.worldcubeassociation.org/competitions/Euro2012) |
 
 ### 7x7x7 Cube
 
@@ -115,13 +115,13 @@
 | 90 | [Euro 2012](https://www.worldcubeassociation.org/competitions/Euro2012) |
 | 61 | [Warsaw Cube Masters 2023](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2023) |
 | 50 | [CFL Brzeziny Spring 2025](https://www.worldcubeassociation.org/competitions/CFLBrzezinySpring2025) |
+| 49 | [CFL Koluszki 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueKoluszki2025) |
 | 48 | [Polish Nationals 2017](https://www.worldcubeassociation.org/competitions/PolishNationals2017) |
 | 46 | [Polish Nationals 2014](https://www.worldcubeassociation.org/competitions/PolishNationals2014) |
 | 44 | [Polish Open 2018](https://www.worldcubeassociation.org/competitions/PolishOpen2018) |
 | 43 | [Polish Open 2014](https://www.worldcubeassociation.org/competitions/PolishOpen2014) |
 | 42 | [GLS Cup IV 2018](https://www.worldcubeassociation.org/competitions/GLSCupIV2018) |
 | 42 | [Polish Championship 2015](https://www.worldcubeassociation.org/competitions/PolishChampionship2015) |
-| 41 | [Polish Open 2015](https://www.worldcubeassociation.org/competitions/PolishOpen2015) |
 
 ### 3x3x3 One-Handed
 

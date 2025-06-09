@@ -1,7 +1,7 @@
 ## Most common delegate teams in Poland
 
 *Note: This statistic shows the most common teams of delegates in Poland. It is based on the number of competitions where the exact team of delegates was listed.*
-*Updated on  4 June 2025*
+*Updated on  8 June 2025*
 
 | Number of competitions | Team |
 | :--- | :--- |

@@ -1,17 +1,17 @@
 ## Average results submission time by Polish delegates
 
-*Updated on  8 June 2025*
+*Updated on 10 June 2025*
 
 | Delegate | Average time |
 | ---: | :--- |
 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | -0.61082727e0 |
 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 0.1350298889e2 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 0.180228871e2 |
-| [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 0.3245048298e2 |
+| [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 0.3184735417e2 |
 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 0.464482e2 |
+| [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 0.5178154444e2 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 0.5416953107e2 |
-| [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 0.578167e2 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 0.6278668054e2 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 0.62391438e2 |
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 0.6622866389e2 |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 0.7307829211e2 |
 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 0.11251652778e3 |

@@ -17,14 +17,23 @@ class MostAttendedCompetitionsInSingleMonthUnique < Statistic
           MONTHNAME(c.start_date) AS month_name,
           YEAR(c.start_date) AS competitions_year,
           COUNT(*) AS attended_within_month,
-          GROUP_CONCAT(
-            DISTINCT CONCAT('[', c.cell_name, '](https://www.worldcubeassociation.org/competitions/', c.id, ')')
-            ORDER BY c.start_date ASC
-            SEPARATOR ', '
+          (
+            SELECT GROUP_CONCAT(competition_link ORDER BY start_date)
+            FROM (
+              SELECT 
+                CONCAT('[', c2.cell_name, '](https://www.worldcubeassociation.org/competitions/', c2.id, ')') AS competition_link,
+                c2.start_date
+              FROM unique_competitions uc2
+              JOIN competitions c2 ON c2.id = uc2.competition_id
+              WHERE uc2.person_id = uc.person_id AND
+                    MONTH(c2.start_date) = MONTH(c.start_date) AND
+                    YEAR(c2.start_date) = YEAR(c.start_date)
+              GROUP BY c2.id, c2.cell_name, c2.start_date
+            ) AS links
           ) AS competition_links
         FROM unique_competitions uc
         JOIN competitions c ON c.id = uc.competition_id
-        GROUP BY uc.person_id, YEAR(c.start_date), MONTH(c.start_date)
+        GROUP BY uc.person_id, MONTHNAME(c.start_date), YEAR(c.start_date)
       ),
       ranked_competitions AS (
         SELECT

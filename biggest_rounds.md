@@ -1,6 +1,6 @@
 ## Biggest rounds in Poland
 
-*Updated on 22 June 2025*
+*Updated on 25 June 2025*
 
 
 ### Rubik's Cube
@@ -225,8 +225,8 @@
 | 16 | [5BLD Masters Opole 2025](https://www.worldcubeassociation.org/competitions/5BLDMastersOpole2025) |
 | 16 | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022) |
 | 16 | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023) |
+| 15 | [CF Sideways Brzeziny II 2025](https://www.worldcubeassociation.org/competitions/CFSidewaysBrzezinyII2025) |
 | 15 | [Poznań Mental Breakdown 2022](https://www.worldcubeassociation.org/competitions/PoznanMentalBreakdown2022) |
-| 15 | [Poznań Summer Side Open 2022](https://www.worldcubeassociation.org/competitions/PoznanSummerSideOpen2022) |
 
 ### 5x5x5 Blindfolded
 

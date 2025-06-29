@@ -19,6 +19,7 @@ All statistics are computed only for competitors from Poland/Polish competitions
 - [Complete competition winners](complete_competition_winners)
 - [Delegated competitions per year](delegated_competition_per_year)
 - [Fewest competitors contest](fewest_competitors_contest)
+- [Longest competitions in Poland](longest_competitions)
 - [Longest competitions path](longest_competitions_path)
 - [Longest standing records](longest_standing_records)
 - [Longest streak of competitions in Poland](longest_streak_of_competitions_in_own_country)

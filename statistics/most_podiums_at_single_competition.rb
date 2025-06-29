@@ -28,6 +28,7 @@ class MostPodiumsAtSingleCompetition < Statistic
       ) AS podiums_count_by_person_by_competition
       JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1 AND person.country_id = 'Poland'
       JOIN competitions competition ON competition.id = competition_id
+      ORDER BY podiums_count DESC, person.name
     SQL
   end
 end

@@ -1,8 +1,8 @@
 require_relative "../core/statistic"
 
-class MostDelegatedCompetitions < Statistic
+class MostDelegatedCompetitionsInTheCurrentYear < Statistic
   def initialize
-    @title = "Most delegated competitions"
+    @title = "Most delegated competitions in the current year"
     @table_header = { "Delegated" => :right, "Person" => :left, "List on WCA" => :center }
   end
 
@@ -18,7 +18,7 @@ class MostDelegatedCompetitions < Statistic
           delegate_id
         FROM competition_delegates
         JOIN competitions competition ON competition.id = competition_id
-        WHERE show_at_all = 1 AND cancelled_at IS NULL AND start_date < CURDATE() AND results_posted_at IS NOT NULL
+        WHERE show_at_all = 1 AND cancelled_at IS NULL AND start_date < CURDATE() AND results_posted_at IS NOT NULL AND competition_id LIKE CONCAT('%', YEAR(CURDATE())) 
         GROUP BY delegate_id
       ) AS delegated_count_by_user
       JOIN users user ON user.id = delegate_id

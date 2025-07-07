@@ -1,19 +1,19 @@
 ## Medals to competitions ratio
 
 *Note: Only Polish competitors included*
-*Updated on  4 July 2025*
+*Updated on  7 July 2025*
 
 | Ratio | Competitions | Medals | Person |
 | ---: | ---: | ---: | :--- |
-| [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 333 | 77 | 4.32 |
+| [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 341 | 78 | 4.37 |
+| [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 242 | 60 | 4.03 |
 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 389 | 97 | 4.01 |
-| [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 231 | 59 | 3.92 |
 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | 168 | 43 | 3.91 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 539 | 167 | 3.23 |
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 351 | 112 | 3.13 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 557 | 181 | 3.08 |
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 318 | 108 | 2.94 |
-| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 535 | 189 | 2.83 |
+| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 541 | 190 | 2.85 |
 | [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) | 135 | 49 | 2.76 |
 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | 245 | 90 | 2.72 |
 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | 192 | 73 | 2.63 |
@@ -25,7 +25,7 @@
 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 86 | 39 | 2.21 |
 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) | 135 | 62 | 2.18 |
 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | 107 | 50 | 2.14 |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 456 | 220 | 2.07 |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 457 | 221 | 2.07 |
 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | 134 | 65 | 2.06 |
 
 

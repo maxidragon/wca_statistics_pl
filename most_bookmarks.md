@@ -1,6 +1,6 @@
 ## Most bookmarks compared to competitor limit
 
-*Updated on  4 July 2025*
+*Updated on  7 July 2025*
 
 | Competition | Bookmarks | Competitor limit | Ratio |
 | ---: | :--- | :--- | :--- |
@@ -11,8 +11,8 @@
 | Warsaw FMC Tour II Sunday 2024 | 10 | 10 | 1.0 |
 | Cubing Mine Rybnik II 2024 | 48 | 50 | 0.96 |
 | Winter Side Wrocław 2025 | 33 | 35 | 0.94286 |
-| Silesian Minx Fest 2025 | 37 | 40 | 0.925 |
 | 2 Rounds of FMC in Rzeszów 2023 | 12 | 13 | 0.92308 |
+| Silesian Minx Fest 2025 | 35 | 40 | 0.875 |
 | 5BLD Masters Opole 2025 | 25 | 30 | 0.83333 |
 | Warsaw FMC Tour II Friday 2024 | 10 | 12 | 0.83333 |
 | BrizZon Sylwester Open 2024 | 28 | 35 | 0.8 |

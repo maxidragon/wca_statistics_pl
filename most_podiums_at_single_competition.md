@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  4 July 2025*
+*Updated on  7 July 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -14,6 +14,7 @@
 | 11 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [Dębica Cubing Winter 2025](https://www.worldcubeassociation.org/competitions/DebicaCubingWinter2025/results/podiums) |
 | 11 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [PST LLS Lublin 2020](https://www.worldcubeassociation.org/competitions/PSTLLSLublin2020/results/podiums) |
 | 11 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | [Cube4fun in Biała Podlaska 2023](https://www.worldcubeassociation.org/competitions/Cube4funinBialaPodlaska2023/results/podiums) |
+| 11 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | [Czechowice-Dziedzice Open 2025](https://www.worldcubeassociation.org/competitions/CzechowiceDziedziceOpen2025/results/podiums) |
 | 10 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | [Industrial Cube 2012](https://www.worldcubeassociation.org/competitions/IndustrialCube2012/results/podiums) |
 | 10 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | [Manufaktura Open 2013](https://www.worldcubeassociation.org/competitions/ManufakturaOpen2013/results/podiums) |
 | 10 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | [Brno Open 2019](https://www.worldcubeassociation.org/competitions/BrnoOpen2019/results/podiums) |

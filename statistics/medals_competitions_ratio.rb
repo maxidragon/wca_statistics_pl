@@ -4,7 +4,7 @@ class MedalsCompetitionsRatio < Statistic
   def initialize
     @title = "Medals to competitions ratio"
     @note = "Only Polish competitors included"
-    @table_header = { "Ratio" => :right, "Competitions" => :right, "Medals" => :right, "Person" => :left }
+    @table_header = { "Person" => :left, "Medals" => :right, "Competitions" => :right, "Ratio" => :right }
   end
 
   def query

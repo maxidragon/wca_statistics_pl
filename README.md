@@ -29,6 +29,7 @@ All statistics are computed only for competitors from Poland/Polish competitions
 - [Longest streak of world records of the same type in the given event](longest_streak_of_world_records)
 - [Longest time to achieve sub 10 3x3x3 average](longest_time_to_sub_10)
 - [Medals to competitions ratio](medals_competitions_ratio)
+- [Megaminx results compared to 3x3 (Poland)](minx_to_333)
 - [Most 4th places](most_4th_places)
 - [Most attended competitions in a single month](most_attended_competitions_in_single_month)
 - [Most attended competitions in a single month (unique)](most_attended_competitions_in_single_month_unique)

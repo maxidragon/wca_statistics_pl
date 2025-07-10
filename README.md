@@ -18,6 +18,7 @@ All statistics are computed only for competitors from Poland/Polish competitions
 - [Competitions per year by person](competitions_per_year_by_person)
 - [Complete competition winners](complete_competition_winners)
 - [Delegated competitions per year](delegated_competition_per_year)
+- [Delegated to attended competition ratio in the current year (Poland)](delegated_to_attended_competitions_ratio_in_current_year)
 - [Fewest competitors contest](fewest_competitors_contest)
 - [Longest competitions in Poland](longest_competitions)
 - [Longest competitions path](longest_competitions_path)

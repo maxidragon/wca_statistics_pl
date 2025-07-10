@@ -1,15 +1,15 @@
 ## Medals to competitions ratio
 
 *Note: Only Polish competitors included*
-*Updated on  7 July 2025*
+*Updated on 10 July 2025*
 
-| Ratio | Competitions | Medals | Person |
-| ---: | ---: | ---: | :--- |
+| Person | Medals | Competitions | Ratio |
+| :--- | ---: | ---: | ---: |
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 341 | 78 | 4.37 |
 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 242 | 60 | 4.03 |
 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 389 | 97 | 4.01 |
 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | 168 | 43 | 3.91 |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 539 | 167 | 3.23 |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 544 | 168 | 3.24 |
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 351 | 112 | 3.13 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 557 | 181 | 3.08 |
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 318 | 108 | 2.94 |

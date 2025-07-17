@@ -16,6 +16,7 @@ All statistics are computed only for competitors from Poland/Polish competitions
 - [Biggest rounds in Poland](biggest_rounds)
 - [Competitions count by week](competitions_count_by_week)
 - [Competitions per year by person](competitions_per_year_by_person)
+- [Competitions with the least number of no-shows in Poland](least_no_shows)
 - [Complete competition winners](complete_competition_winners)
 - [Delegated competitions per year](delegated_competition_per_year)
 - [Delegated to attended competition ratio in the current year (Poland)](delegated_to_attended_competitions_ratio_in_current_year)

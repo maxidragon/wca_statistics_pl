@@ -26,6 +26,7 @@ module Database
     venue_rooms
     competition_venues
     bookmarked_competitions
+    registrations
   )
   INDICES = [
     "CREATE INDEX index_Results_on_competitionId_personId ON results (competition_id, person_id);",

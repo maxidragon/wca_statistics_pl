@@ -81,6 +81,6 @@ class CompetedInMostVoivodeships < Statistic
         missed.size,
         missed.join(", ")
       ]
-    end.sort_by { |row| [-row[1], row[2], row[0]] }
+    end.sort_by { |row| [-row[1], row[2], row[0]] }.first(100)
   end
 end

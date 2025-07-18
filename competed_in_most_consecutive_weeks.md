@@ -1,6 +1,6 @@
 ## Most consecutive weeks with competitions
 
-*Note: Only includes people from Poland (sub_id = 1). Weeks are counted as ISO weeks (Monday–Sunday). Multiple competitions in the same week count as one.*
+*Note: Only includes people from Poland. Weeks are counted as ISO weeks (Monday-Sunday). Multiple competitions in the same week count as one.*
 *Updated on 16 July 2025*
 
 | Count | Person | Start comp | End comp |

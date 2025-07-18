@@ -43,6 +43,7 @@ All statistics are computed only for competitors from Poland/Polish competitions
 - [Most competitions organized](most_competitions_organized)
 - [Most competitions together](most_competitions_together)
 - [Most completed solves](most_completed_solves)
+- [Most consecutive weeks with competitions](competed_in_most_consecutive_weeks)
 - [Most delegated competitions](most_delegated_competitions)
 - [Most delegated competitions in the current year](most_delegated_competitions_in_the_current_year)
 - [Most delegated competitions with another delegate](most_delegated_with_another_delegate)

@@ -44,7 +44,7 @@ class CompetedInMostVoivodeships < Statistic
       "świętokrzyskie" => [50.30, 51.15, 19.90, 21.45],
       "warmińsko-mazurskie" => [53.50, 54.45, 19.20, 22.95],
       "wielkopolskie" => [51.60, 53.50, 16.10, 18.90],
-      "zachodniopomorskie" => [53.05, 54.35, 14.10, 16.35]
+      "zachodniopomorskie" => [53.05, 54.35, 14.10, 16.70]
     }    
     
     

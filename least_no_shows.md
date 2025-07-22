@@ -1,7 +1,7 @@
 ## Competitions with the least number of no-shows in Poland
 
 *Note: This statistic shows the competitions in Poland with the least number of no-shows.*
-*Updated on 19 July 2025*
+*Updated on 22 July 2025*
 
 | Competition | Total registered | Total competed | No-shows |
 | :--- | ---: | ---: | ---: |
@@ -9,18 +9,18 @@
 | [CFL Justynów 2025](https://www.worldcubeassociation.org/competitions/CFLJustynow2025) | 95 | 95 | 0 |
 | [Winter Vibe Wrocław 2024](https://www.worldcubeassociation.org/competitions/WinterVibeWroclaw2024) | 80 | 80 | 0 |
 | [Santa Claus Mysłowice 2024](https://www.worldcubeassociation.org/competitions/SantaClausCubeRaceMyslowice2024) | 60 | 60 | 0 |
-| [Cube Factory Rogów 2024](https://www.worldcubeassociation.org/competitions/CubeFactoryRogow2024) | 60 | 60 | 0 |
 | [Mysłowice Big Cube Open 2022](https://www.worldcubeassociation.org/competitions/MyslowiceBigCubeOpen2022) | 60 | 60 | 0 |
+| [Cube Factory Rogów 2024](https://www.worldcubeassociation.org/competitions/CubeFactoryRogow2024) | 60 | 60 | 0 |
 | [Cubing Mine Rybnik 2024](https://www.worldcubeassociation.org/competitions/CubingMineRybnik2024) | 52 | 52 | 0 |
 | [Cube Factory Brzeziny 2023](https://www.worldcubeassociation.org/competitions/CubeFactoryBrzeziny2023) | 50 | 50 | 0 |
 | [Cube Factory Summer 2023](https://www.worldcubeassociation.org/competitions/CubeFactorySummer2023) | 50 | 50 | 0 |
 | [Silesian Minx Fest 2024](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2024) | 40 | 40 | 0 |
 | [BrizZon Side Open 2025](https://www.worldcubeassociation.org/competitions/BrizZonSideOpen2025) | 35 | 35 | 0 |
 | [BrizZon Side Open 2024](https://www.worldcubeassociation.org/competitions/BrizZonSideOpen2024) | 35 | 35 | 0 |
-| [BrizZon Side Open IV 2023](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenIV2023) | 35 | 35 | 0 |
 | [Winter Side Wrocław 2025](https://www.worldcubeassociation.org/competitions/WinterSideWroclaw2025) | 35 | 35 | 0 |
-| [BrizZon Side Open III 2024](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenIII2024) | 35 | 35 | 0 |
 | [BrizZon Side Open V 2023](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenV2023) | 35 | 35 | 0 |
+| [BrizZon Side Open IV 2023](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenIV2023) | 35 | 35 | 0 |
+| [BrizZon Side Open III 2024](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenIII2024) | 35 | 35 | 0 |
 | [BrizZon Sylwester Open 2024](https://www.worldcubeassociation.org/competitions/BrizZonSylwesterOpen2024) | 34 | 34 | 0 |
 | [BrizZon Side Open II 2025](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenII2025) | 33 | 33 | 0 |
 | [CF Sideways Brzeziny II 2025](https://www.worldcubeassociation.org/competitions/CFSidewaysBrzezinyII2025) | 30 | 30 | 0 |

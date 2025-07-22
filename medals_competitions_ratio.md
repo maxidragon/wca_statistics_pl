@@ -1,7 +1,7 @@
 ## Medals to competitions ratio
 
 *Note: Only Polish competitors included*
-*Updated on 19 July 2025*
+*Updated on 22 July 2025*
 
 | Person | Medals | Competitions | Ratio |
 | :--- | ---: | ---: | ---: |
@@ -13,13 +13,13 @@
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 351 | 112 | 3.13 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 557 | 181 | 3.08 |
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 318 | 108 | 2.94 |
-| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 541 | 190 | 2.85 |
+| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 542 | 191 | 2.84 |
 | [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) | 135 | 49 | 2.76 |
 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | 245 | 90 | 2.72 |
 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | 192 | 73 | 2.63 |
 | [Kamil Zieliński](https://www.worldcubeassociation.org/persons/2008ZIEL01) | 87 | 34 | 2.56 |
 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | 85 | 34 | 2.50 |
-| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 297 | 125 | 2.38 |
+| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 298 | 126 | 2.37 |
 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 185 | 79 | 2.34 |
 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | 139 | 62 | 2.24 |
 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 86 | 39 | 2.21 |

@@ -1,7 +1,7 @@
 ## Most consecutive weeks with competitions
 
 *Note: Only includes people from Poland. Weeks are counted as ISO weeks (Monday-Sunday). Multiple competitions in the same week count as one.*
-*Updated on 25 July 2025*
+*Updated on 28 July 2025*
 
 | Count | Person | Start comp | End comp |
 | ---: | :--- | :--- | :--- |
@@ -44,6 +44,7 @@
 | 5 | [Kamil Więcławek](https://www.worldcubeassociation.org/persons/2014WICA01) | [Kaliska Open 2014](https://www.worldcubeassociation.org/competitions/KaliskaOpen2014) | [PLS Gdańsk 2014](https://www.worldcubeassociation.org/competitions/PLSGdansk2014) |
 | 5 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Project Mielec 2018](https://www.worldcubeassociation.org/competitions/ProjectMielec2018) | [GLS Cup III 2018](https://www.worldcubeassociation.org/competitions/GLSCupIII2018) |
 | 5 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | [Chorzów Open 2024](https://www.worldcubeassociation.org/competitions/ChorzowOpen2024) | [SLS Marzec 2024](https://www.worldcubeassociation.org/competitions/SLSMarzec2024) |
+| 5 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | [Warm-Up Warsaw 2025](https://www.worldcubeassociation.org/competitions/WarmUpWarsaw2025) | [Dragon Cubing X 2025](https://www.worldcubeassociation.org/competitions/DragonCubingX2025) |
 | 5 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | [Energy Cube Tomaszów Mazowiecki 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2024) | [Energy Cube Białołęka 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2024) |
 | 5 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022) | [Cube4fun League VII Pawłowice 2022](https://www.worldcubeassociation.org/competitions/Cube4funPawlowice2022) |
 | 5 | [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) | [Energy Cube Tomaszów Mazowiecki 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2024) | [Energy Cube Białołęka 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2024) |
@@ -75,7 +76,6 @@
 | 4 | [Michał Wroński](https://www.worldcubeassociation.org/persons/2015WRON01) | [BrizZon Side Open IV 2023](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenIV2023) | [GLS V 2023](https://www.worldcubeassociation.org/competitions/GLSV2023) |
 | 4 | [Aleksander Arefiew](https://www.worldcubeassociation.org/persons/2016AREF01) | [Byczy Cube Race 2019](https://www.worldcubeassociation.org/competitions/ByczyCubeRace2019) | [Lubelska Liga Speedcubingu III 2019](https://www.worldcubeassociation.org/competitions/LLSIII2019) |
 | 4 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | [Reach Your Limits Wrocław 2022](https://www.worldcubeassociation.org/competitions/ReachYourLimitsWroclaw2022) | [Rubik's WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022) |
-| 4 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | [Warm-Up Warsaw 2025](https://www.worldcubeassociation.org/competitions/WarmUpWarsaw2025) | [Sicily Summer 2025](https://www.worldcubeassociation.org/competitions/SicilySummer2025) |
 | 4 | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) | [Szczecin Open 2022](https://www.worldcubeassociation.org/competitions/SzczecinOpen2022) | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022) |
 | 4 | [Wiktoria Waryszak](https://www.worldcubeassociation.org/persons/2018WARY01) | [Cube4fun Bełżyce Multi Events 2023](https://www.worldcubeassociation.org/competitions/Cube4funBelzyceMultiEvents2023) | [Cube4fun Double Weekend Pilzno 2023](https://www.worldcubeassociation.org/competitions/Cube4funDWPilzno2023) |
 | 4 | [Michał Kopeć](https://www.worldcubeassociation.org/persons/2020KOPE01) | [Ice Cubing Szczecinek 2023](https://www.worldcubeassociation.org/competitions/IceCubingSzczecinek2023) | [GLS II 2023](https://www.worldcubeassociation.org/competitions/GLSII2023) |

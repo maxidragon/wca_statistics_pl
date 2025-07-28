@@ -1,7 +1,7 @@
 ## Megaminx results compared to 3x3 (Poland)
 
 *Note: This statistic compares the best Megaminx average to the best 3x3 average for Polish competitors.*
-*Updated on 25 July 2025*
+*Updated on 28 July 2025*
 
 | Person | Megaminx | 3x3 | Ratio |
 | :--- | ---: | ---: | ---: |
@@ -9,7 +9,7 @@
 | [Przemysław Rudziak](https://www.worldcubeassociation.org/persons/2020RUDZ02) | 37.25 | 10.16 | 3.67 |
 | [Kacper Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC06) | 1:01.59 | 16.22 | 3.80 |
 | [Klaudia Milewczyk](https://www.worldcubeassociation.org/persons/2022MILE05) | 1:56.11 | 30.16 | 3.85 |
-| [Szczepan Rozwadowski](https://www.worldcubeassociation.org/persons/2025ROZW02) | 1:08.95 | 17.40 | 3.96 |
+| [Szczepan Rozwadowski](https://www.worldcubeassociation.org/persons/2025ROZW02) | 1:06.56 | 17.11 | 3.89 |
 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | 49.83 | 12.53 | 3.98 |
 | [Ernest Seroczyński](https://www.worldcubeassociation.org/persons/2015SERO02) | 36.75 | 9.12 | 4.03 |
 | [Maksymilian Piskorowski](https://www.worldcubeassociation.org/persons/2017PISK01) | 38.75 | 9.52 | 4.07 |
@@ -17,13 +17,13 @@
 | [Mikołaj Dorosiński](https://www.worldcubeassociation.org/persons/2016DORO01) | 1:00.02 | 13.97 | 4.30 |
 | [Marcel Borkowski](https://www.worldcubeassociation.org/persons/2023BORK01) | 45.19 | 10.45 | 4.32 |
 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 46.01 | 10.51 | 4.38 |
+| [Grzegorz Chudzik](https://www.worldcubeassociation.org/persons/2018CHUD02) | 45.17 | 10.18 | 4.44 |
 | [Jakub Bacela](https://www.worldcubeassociation.org/persons/2018BACE01) | 2:06.48 | 28.42 | 4.45 |
 | [Dominik Unijewski](https://www.worldcubeassociation.org/persons/2017UNIJ01) | 1:00.26 | 13.47 | 4.47 |
 | [Małgorzata Wójtowicz](https://www.worldcubeassociation.org/persons/2018WOJT01) | 1:41.37 | 22.49 | 4.51 |
-| [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 31.21 | 6.91 | 4.52 |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 31.56 | 6.97 | 4.53 |
 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 40.99 | 9.05 | 4.53 |
-| [Tadeusz Walat](https://www.worldcubeassociation.org/persons/2024WALA02) | 1:12.88 | 16.07 | 4.54 |
+| [Tadeusz Walat](https://www.worldcubeassociation.org/persons/2024WALA02) | 1:12.88 | 16.01 | 4.55 |
 | [Jędrzej Topolski](https://www.worldcubeassociation.org/persons/2024TOPO01) | 49.61 | 10.88 | 4.56 |
 
 

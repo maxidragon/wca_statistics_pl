@@ -1,7 +1,7 @@
 ## Most consecutive weeks with a delegated competition
 
 *Note: Only includes delegates from Poland. Weeks are counted as ISO weeks (Monday-Sunday). Multiple competitions in the same week count as one.*
-*Updated on 31 July 2025*
+*Updated on  1 August 2025*
 
 | Count | Person | Start comp | End comp |
 | ---: | :--- | :--- | :--- |
@@ -12,9 +12,9 @@
 | 5 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | [Silesian Minx Fest 2023](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2023) | [Cube4fun Double Weekend Pilzno 2023](https://www.worldcubeassociation.org/competitions/Cube4funDWPilzno2023) |
 | 4 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | [Bydgoszcz Summer 2014](https://www.worldcubeassociation.org/competitions/BydgoszczSummer2014) | [PLS Gdańsk 2014](https://www.worldcubeassociation.org/competitions/PLSGdansk2014) |
 | 4 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) | [Ekonomik Elektryk Cube Race 2018](https://www.worldcubeassociation.org/competitions/EkonomikElektrykCubeRace2018) | [Polish Championship 2018](https://www.worldcubeassociation.org/competitions/PolishChampionship2018) |
+| 4 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | [Szansa Cubing Open Warsaw 2025](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2025) | [Gniezno Side Open 2025](https://www.worldcubeassociation.org/competitions/GnieznoSideOpen2025) |
 | 4 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | [Winter Side Wrocław 2025](https://www.worldcubeassociation.org/competitions/WinterSideWroclaw2025) | [Gdańska Liga Speedcubingu II 2025](https://www.worldcubeassociation.org/competitions/GLSII2025) |
 | 3 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) | [CFL Goes Sideways 2019](https://www.worldcubeassociation.org/competitions/CFLGoesSideways2019) | [Polish Speedcubing Tour Mielec 2019](https://www.worldcubeassociation.org/competitions/PolishSpeedcubingTourMielec2019) |
-| 3 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | [Czechowice-Dziedzice Open 2025](https://www.worldcubeassociation.org/competitions/CzechowiceDziedziceOpen2025) | [Brizzon Side Open III 2025](https://www.worldcubeassociation.org/competitions/BrizzonSideOpenIII2025) |
 | 3 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | [Cube4fun in Warsaw 2022](https://www.worldcubeassociation.org/competitions/Cube4funWarsaw2022) | [Speedcubing Slovakia 2022](https://www.worldcubeassociation.org/competitions/SpeedcubingSlovakia2022) |
 | 3 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | [BrizZon Side Open 2025](https://www.worldcubeassociation.org/competitions/BrizZonSideOpen2025) | [CF Goes Sideways Brzeziny 2025](https://www.worldcubeassociation.org/competitions/CFGoesSidewaysBrzeziny2025) |
 | 3 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | [Rzeszów Open 2025](https://www.worldcubeassociation.org/competitions/RzeszowOpen2025) | [Cubing Mine Rybnik III 2025](https://www.worldcubeassociation.org/competitions/CubingMineRybnikIII2025) |

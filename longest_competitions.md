@@ -1,19 +1,19 @@
 ## Longest competitions in Poland
 
-*Updated on  4 August 2025*
+*Updated on  7 August 2025*
 
 | Days | Competition |
 | ---: | :--- |
 | 5 | BrizZon Side Open II 2024 |
 | 5 | GLS Winter Camp 2019 |
 | 5 | Gdańsk Cubing Summer Camp 2019 |
-| 4 | Silesian Minx Fest 2024 |
+| 4 | Silesian Minx Fest 2025 |
 | 4 | BrizZon Side Open II 2025 |
+| 4 | Silesian Minx Fest 2024 |
 | 4 | BrizZon Side Open III 2024 |
 | 4 | Polish Championship 2024 |
-| 3 | Polish Championship 2016 |
-| 3 | No Triangle in Dębica 2023 |
 | 3 | Polish Championship 2018 |
+| 3 | No Triangle in Dębica 2023 |
 | 3 | Polish Championship 2019 |
 | 3 | Polish Championship 2021 |
 | 3 | Polish Championship 2022 |
@@ -24,6 +24,7 @@
 | 3 | Polish Open 2019 |
 | 3 | Santa Claus Cube Race Poland 2019 |
 | 3 | Siedlce Open 2024 |
+| 3 | Polish Championship 2016 |
 | 3 | Polish Championship 2015 |
 | 3 | No Triangle in Rzeszów 2024 |
 | 3 | Big 'n Blind Szczecinek 2023 |

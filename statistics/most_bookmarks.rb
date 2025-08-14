@@ -9,7 +9,7 @@ class MostBookmarks < Statistic
   def query
     <<-SQL
       SELECT 
-        c.name, 
+        CONCAT('[', c.cell_name, '](https://www.worldcubeassociation.org/competitions/', c.id, ')') competition_link,
         COUNT(*) AS bookmarks, 
         competitor_limit, 
         ROUND(CAST(COUNT(*) AS FLOAT) / competitor_limit, 5) AS bookmark_ratio

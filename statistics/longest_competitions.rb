@@ -8,7 +8,9 @@ class LongestCompetitions < Statistic
 
   def query
     <<-SQL
-      SELECT (DATEDIFF(end_date, start_date) + 1) AS days, name
+      SELECT 
+        (DATEDIFF(end_date, start_date) + 1) AS days,
+        CONCAT('[', cell_name, '](https://www.worldcubeassociation.org/competitions/', id, ')') competition_link
       FROM competitions
       WHERE country_id = "Poland" AND results_posted_at IS NOT null
       HAVING days >= 3

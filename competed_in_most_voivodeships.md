@@ -1,7 +1,7 @@
 ## Competed in most voivodeships in Poland
 
 *Note: Voivodeships are inferred from competition coordinates. Approximate bounding box classification.*
-*Updated on 31 August 2025*
+*Updated on  1 September 2025*
 
 | Person | Completed | Missed | Missed Voivodeships | Completed At |
 | :--- | ---: | ---: | :--- | :--- |
@@ -15,6 +15,7 @@
 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 16 | 0 |  | [Back To Białystok 2024](https://www.worldcubeassociation.org/competitions/BackToBialystok2024) |
 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 15 | 1 | świętokrzyskie |  |
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 15 | 1 | świętokrzyskie |  |
+| [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) | 15 | 1 | warmińsko-mazurskie |  |
 | [Tomasz Stawowy](https://www.worldcubeassociation.org/persons/2021STAW01) | 15 | 1 | lubelskie |  |
 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) | 14 | 2 | podlaskie, warmińsko-mazurskie |  |
 | [Adam Łyskawa](https://www.worldcubeassociation.org/persons/2017LYSK01) | 14 | 2 | podkarpackie, świętokrzyskie |  |
@@ -28,7 +29,6 @@
 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 14 | 2 | lubelskie, świętokrzyskie |  |
 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 14 | 2 | lubuskie, warmińsko-mazurskie |  |
 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 14 | 2 | kujawsko-pomorskie, lubuskie |  |
-| [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) | 14 | 2 | podlaskie, warmińsko-mazurskie |  |
 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 14 | 2 | kujawsko-pomorskie, świętokrzyskie |  |
 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 14 | 2 | lubuskie, warmińsko-mazurskie |  |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 14 | 2 | lubuskie, podlaskie |  |
@@ -44,6 +44,7 @@
 | [Kalina Jakubowska](https://www.worldcubeassociation.org/persons/2009BRZE01) | 13 | 3 | lubuskie, opolskie, świętokrzyskie |  |
 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 13 | 3 | lubuskie, opolskie, podlaskie |  |
 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 13 | 3 | małopolskie, podkarpackie, świętokrzyskie |  |
+| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 13 | 3 | kujawsko-pomorskie, lubuskie, świętokrzyskie |  |
 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | 13 | 3 | lubuskie, opolskie, świętokrzyskie |  |
 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | 13 | 3 | lubuskie, podkarpackie, świętokrzyskie |  |
 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | 13 | 3 | lubuskie, świętokrzyskie, zachodniopomorskie |  |
@@ -62,7 +63,6 @@
 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | 12 | 4 | kujawsko-pomorskie, lubuskie, podlaskie, zachodniopomorskie |  |
 | [Kamil Zieliński](https://www.worldcubeassociation.org/persons/2008ZIEL01) | 12 | 4 | lubuskie, opolskie, warmińsko-mazurskie, zachodniopomorskie |  |
 | [Krzysztof Kuncki](https://www.worldcubeassociation.org/persons/2010KUNC01) | 12 | 4 | lubuskie, świętokrzyskie, warmińsko-mazurskie, zachodniopomorskie |  |
-| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 12 | 4 | kujawsko-pomorskie, lubuskie, podlaskie, świętokrzyskie |  |
 | [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) | 12 | 4 | kujawsko-pomorskie, podkarpackie, podlaskie, warmińsko-mazurskie |  |
 | [Marek Dąbrowski](https://www.worldcubeassociation.org/persons/2016DABR02) | 12 | 4 | lubuskie, podkarpackie, śląskie, zachodniopomorskie |  |
 | [Marek Wójtowicz](https://www.worldcubeassociation.org/persons/2008WOJT01) | 12 | 4 | lubuskie, świętokrzyskie, warmińsko-mazurskie, zachodniopomorskie |  |

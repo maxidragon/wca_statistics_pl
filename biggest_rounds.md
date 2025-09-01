@@ -1,6 +1,6 @@
 ## Biggest rounds in Poland
 
-*Updated on 31 August 2025*
+*Updated on  1 September 2025*
 
 
 ### Rubik's Cube
@@ -284,8 +284,8 @@
 | 32 | [Polish Nationals 2012](https://www.worldcubeassociation.org/competitions/PolishNationals2012) |
 | 31 | [Polish Open 2012](https://www.worldcubeassociation.org/competitions/PolishOpen2012) |
 | 27 | [Warszawa Open 2012](https://www.worldcubeassociation.org/competitions/WarsawaOpen2012) |
-| 25 | [Cubing Spring Grudziadz 2012](https://www.worldcubeassociation.org/competitions/CubingSpringGrudziadz2012) |
 | 25 | [Silesia Open 2012](https://www.worldcubeassociation.org/competitions/SilesiaOpen2012) |
+| 25 | [Cubing Spring Grudziadz 2012](https://www.worldcubeassociation.org/competitions/CubingSpringGrudziadz2012) |
 | 23 | [Bialystok Open 2011](https://www.worldcubeassociation.org/competitions/BialystokOpen2011) |
 
 ### Master Magic

@@ -1,6 +1,6 @@
 ## Longest competitions in Poland
 
-*Updated on  7 September 2025*
+*Updated on 10 September 2025*
 
 | Days | Competition |
 | ---: | :--- |
@@ -12,9 +12,8 @@
 | 4 | [Silesian Minx Fest 2024](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2024) |
 | 4 | [BrizZon Side Open III 2024](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenIII2024) |
 | 4 | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) |
-| 3 | [Polish Championship 2016](https://www.worldcubeassociation.org/competitions/PolishChampionship2016) |
-| 3 | [No Triangle in Dębica 2023](https://www.worldcubeassociation.org/competitions/NoTriangleinDebica2023) |
 | 3 | [Polish Championship 2018](https://www.worldcubeassociation.org/competitions/PolishChampionship2018) |
+| 3 | [No Triangle in Dębica 2023](https://www.worldcubeassociation.org/competitions/NoTriangleinDebica2023) |
 | 3 | [Polish Championship 2019](https://www.worldcubeassociation.org/competitions/PolishChampionship2019) |
 | 3 | [Polish Championship 2021](https://www.worldcubeassociation.org/competitions/PolishChampionship2021) |
 | 3 | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022) |
@@ -23,8 +22,10 @@
 | 3 | [Polish Open 2015](https://www.worldcubeassociation.org/competitions/PolishOpen2015) |
 | 3 | [Polish Open 2017](https://www.worldcubeassociation.org/competitions/PolishOpen2017) |
 | 3 | [Polish Open 2019](https://www.worldcubeassociation.org/competitions/PolishOpen2019) |
+| 3 | [Polish Open 2025](https://www.worldcubeassociation.org/competitions/PolishOpen2025) |
 | 3 | [Santa Claus Cube Race 2019](https://www.worldcubeassociation.org/competitions/SantaClausCubeRace2019) |
 | 3 | [Siedlce Open 2024](https://www.worldcubeassociation.org/competitions/SiedlceOpen2024) |
+| 3 | [Polish Championship 2016](https://www.worldcubeassociation.org/competitions/PolishChampionship2016) |
 | 3 | [Polish Championship 2015](https://www.worldcubeassociation.org/competitions/PolishChampionship2015) |
 | 3 | [No Triangle in Rzeszów 2024](https://www.worldcubeassociation.org/competitions/NoTriangleinRzeszow2024) |
 | 3 | [Big 'n Blind Szczecinek 2023](https://www.worldcubeassociation.org/competitions/BignBlindSzczecinek2023) |

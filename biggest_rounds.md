@@ -1,6 +1,6 @@
 ## Biggest rounds in Poland
 
-*Updated on 10 September 2025*
+*Updated on 13 September 2025*
 
 
 ### Rubik's Cube

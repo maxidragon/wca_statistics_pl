@@ -53,6 +53,7 @@ All statistics are computed only for competitors from Poland/Polish competitions
 - [Most distinct dates competed on](most_distinct_dates_competed_on)
 - [Most finals](most_finals)
 - [Most frequent results](most_frequent_results)
+- [Most personal records by event](most_personal_records_by_event)
 - [Most podiums at a single competition](most_podiums_at_single_competition)
 - [Most podiums together](most_podiums_together)
 - [Most records at a single competition](most_records_at_single_competition)

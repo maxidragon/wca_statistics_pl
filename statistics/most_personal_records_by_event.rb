@@ -41,6 +41,7 @@ class MostPersonalRecordsByEvent < GroupedStatistic
 
       results = pbs_by_person
         .map { |person_link, stats| [stats["count"], person_link] }
+        .filter { |count, _| count > 0 }
         .sort_by { |count, _| -count }
         .first(10)
 

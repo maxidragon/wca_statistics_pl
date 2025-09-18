@@ -3,7 +3,7 @@
 *Updated on 16 September 2025*
 
 
-### Rubik's Cube
+### 3x3x3 Cube
 
 | Count | Result |
 | ---: | ---: |
@@ -168,7 +168,7 @@
 | 197 | 5.25 |
 | 197 | 6.52 |
 
-### Rubik's Clock
+### Clock
 
 | Count | Result |
 | ---: | ---: |

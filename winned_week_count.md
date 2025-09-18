@@ -4,7 +4,7 @@
 *Updated on 16 September 2025*
 
 
-### Rubik's Cube
+### 3x3x3 Cube
 
 | Person | Winned weeks |
 | :--- | ---: |
@@ -214,7 +214,7 @@
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 1 |
 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | 1 |
 
-### Rubik's Clock
+### Clock
 
 | Person | Winned weeks |
 | :--- | ---: |
@@ -359,7 +359,7 @@
 | [Kamil Fiedoruk](https://www.worldcubeassociation.org/persons/2012FIED01) | 2 |
 | [Rafał Studnicki](https://www.worldcubeassociation.org/persons/2005STUD01) | 1 |
 
-### Rubik's Cube: Multiple blind old style
+### 3x3x3 Multi-Blind Old-Style
 
 | Person | Winned weeks |
 | :--- | ---: |

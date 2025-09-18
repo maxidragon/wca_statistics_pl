@@ -10,7 +10,7 @@
 *Updated on 16 September 2025*
 
 
-### Rubik's Cube
+### 3x3x3 Cube
 
 | Moving average | Person |
 | ---: | :--- |
@@ -560,7 +560,7 @@
 | 4.28 | [Michał Mlostek](https://www.worldcubeassociation.org/persons/2015MLOS01) |
 | 4.33 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 
-### Rubik's Clock
+### Clock
 
 | Moving average | Person |
 | ---: | :--- |

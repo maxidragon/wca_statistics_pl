@@ -4,7 +4,7 @@
 *Updated on 16 September 2025*
 
 
-### Rubik's Cube
+### 3x3x3 Cube
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
@@ -169,7 +169,7 @@
 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 1.65 | **2.37** | [Polish Open 2025](https://www.worldcubeassociation.org/competitions/PolishOpen2025/results/all#epyram_f) | 6 |
 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 1.74 | **2.37** | [Dragon Cubing 2022](https://www.worldcubeassociation.org/competitions/DragonCubing2022/results/all#epyram_f) | 4 |
 
-### Rubik's Clock
+### Clock
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |

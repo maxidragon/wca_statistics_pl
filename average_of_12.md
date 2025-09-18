@@ -4,7 +4,7 @@
 *Updated on 16 September 2025*
 
 
-### Rubik's Cube
+### 3x3x3 Cube
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
@@ -169,7 +169,7 @@
 | 2.13 | [Aleksander Arefiew](https://www.worldcubeassociation.org/persons/2016AREF01) | 2.28, 1.52, 3.07, 2.41, 1.58, 1.94, 1.86, 1.94, 3.50, 2.59, 1.97, 1.67 |
 | 2.13 | [Henryk Gabor](https://www.worldcubeassociation.org/persons/2024GABO02) | 2.73, 2.10, 2.59, 1.72, 1.76, 2.26, 2.40, 1.88, 1.92, 1.64, 2.22, 2.45 |
 
-### Rubik's Clock
+### Clock
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |

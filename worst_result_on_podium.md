@@ -4,7 +4,7 @@
 *Updated on 16 September 2025*
 
 
-### Rubik's Cube
+### 3x3x3 Cube
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
@@ -169,7 +169,7 @@
 | [Jakub Cabaj](https://www.worldcubeassociation.org/persons/2008CABA03) | 5.52 | **9.79** | [Galeries Lafayette Open 2011](https://www.worldcubeassociation.org/competitions/GaleriesLafayetteOpen2011/results/podiums#epyram) | 2 |
 | [Kamil Górski](https://www.worldcubeassociation.org/persons/2006GORS01) | 6.40 | **9.45** | [Czech Open 2008](https://www.worldcubeassociation.org/competitions/CzechOpen2008/results/podiums#epyram) | 2 |
 
-### Rubik's Clock
+### Clock
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |

@@ -4,7 +4,7 @@
 *Updated on 16 September 2025*
 
 
-### Rubik's Cube
+### 3x3x3 Cube
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
@@ -169,7 +169,7 @@
 | 1.73 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 2.23, 1.32, 1.60, 1.79, 1.80 |
 | 1.80 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 1.83, 2.12, 1.86, 1.70, 1.67 |
 
-### Rubik's Clock
+### Clock
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |

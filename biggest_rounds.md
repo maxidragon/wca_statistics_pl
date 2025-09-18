@@ -3,7 +3,7 @@
 *Updated on 16 September 2025*
 
 
-### Rubik's Cube
+### 3x3x3 Cube
 
 | Number of competitors | Competition |
 | ---: | :--- |
@@ -168,7 +168,7 @@
 | 129 | [Cube4fun in Warsaw 2024](https://www.worldcubeassociation.org/competitions/Cube4funinWarsaw2024) |
 | 128 | [Santa Claus Cube Race 2015](https://www.worldcubeassociation.org/competitions/SantaClausCubeRace2015) |
 
-### Rubik's Clock
+### Clock
 
 | Number of competitors | Competition |
 | ---: | :--- |

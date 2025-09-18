@@ -4,7 +4,7 @@
 *Updated on 16 September 2025*
 
 
-### Rubik's Cube
+### 3x3x3 Cube
 
 | First single | Person |
 | ---: | :--- |
@@ -169,7 +169,7 @@
 | 4.68 | [Wojciech Piórczyński](https://www.worldcubeassociation.org/persons/2021PIOR01) |
 | 4.80 | [Bartek Mazurek](https://www.worldcubeassociation.org/persons/2017MAZU01) |
 
-### Rubik's Clock
+### Clock
 
 | First single | Person |
 | ---: | :--- |
@@ -300,7 +300,7 @@
 | 3.94 | [Jakub Zawiślak](https://www.worldcubeassociation.org/persons/2006ZAWI02) |
 | 4.30 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 
-### Rubik's Cube: Multiple blind old style
+### 3x3x3 Multi-Blind Old-Style
 
 | First single | Person |
 | ---: | :--- |

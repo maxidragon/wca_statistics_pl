@@ -4,7 +4,7 @@
 *Updated on 16 September 2025*
 
 
-### Rubik's Cube
+### 3x3x3 Cube
 
 | First average | Person |
 | ---: | :--- |
@@ -165,7 +165,7 @@
 | 5.79 | [Kajetan Stefanek](https://www.worldcubeassociation.org/persons/2025STEF01) |
 | 5.87 | [Dominik Podolak](https://www.worldcubeassociation.org/persons/2023PODO02) |
 
-### Rubik's Clock
+### Clock
 
 | First average | Person |
 | ---: | :--- |

@@ -4,7 +4,7 @@
 *Updated on 16 September 2025*
 
 
-### Rubik's Cube
+### 3x3x3 Cube
 
 | Diff | Person | Single | Average | Results |
 | ---: | :--- | ---: | ---: | :--- |
@@ -154,7 +154,7 @@
 | 0.07 | [Mikołaj Tyra](https://www.worldcubeassociation.org/persons/2016TYRA02) | 4.30 | 4.37 | [LLS IV 2019](https://www.worldcubeassociation.org/competitions/LubelskaLigaSpeedcubinguIV2019/results/by_person#2016TYRA02) |
 | 0.07 | [Maciej Hebel](https://www.worldcubeassociation.org/persons/2019HEBE01) | 5.96 | 6.03 | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/by_person#2019HEBE01) |
 
-### Rubik's Clock
+### Clock
 
 | Diff | Person | Single | Average | Results |
 | ---: | :--- | ---: | ---: | :--- |

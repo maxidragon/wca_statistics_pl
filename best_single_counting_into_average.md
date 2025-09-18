@@ -3,7 +3,7 @@
 *Updated on 16 September 2025*
 
 
-### Rubik's Cube
+### 3x3x3 Cube
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
@@ -108,7 +108,7 @@
 | 1.47 | [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) | [Energy Cube Tomaszów 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2025/results/by_person#2021MAJC01) |
 | 1.47 | [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) | [Warm-Up Warsaw 2025](https://www.worldcubeassociation.org/competitions/WarmUpWarsaw2025/results/by_person#2023ROMA10) |
 
-### Rubik's Clock
+### Clock
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |

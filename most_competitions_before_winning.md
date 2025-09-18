@@ -4,7 +4,7 @@
 *Updated on 16 September 2025*
 
 
-### Rubik's Cube
+### 3x3x3 Cube
 
 | Competitions | Person | First win |
 | ---: | :--- | :--- |
@@ -169,7 +169,7 @@
 | 30 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) | [Moldova Open 2020](https://www.worldcubeassociation.org/competitions/MoldovaOpen2020) |
 | 28 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | [Byczy Cube Race 2017](https://www.worldcubeassociation.org/competitions/ByczyCubeRace2017) |
 
-### Rubik's Clock
+### Clock
 
 | Competitions | Person | First win |
 | ---: | :--- | :--- |
@@ -303,7 +303,7 @@
 | 0 | [Marcin Karnicki](https://www.worldcubeassociation.org/persons/2008KARN01) | [Polish Open 2009](https://www.worldcubeassociation.org/competitions/PolishOpen2009) |
 | 0 | [Kamil Fiedoruk](https://www.worldcubeassociation.org/persons/2012FIED01) | [Polish Open 2012](https://www.worldcubeassociation.org/competitions/PolishOpen2012) |
 
-### Rubik's Cube: Multiple blind old style
+### 3x3x3 Multi-Blind Old-Style
 
 | Competitions | Person | First win |
 | ---: | :--- | :--- |

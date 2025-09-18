@@ -4,7 +4,7 @@
 *Updated on 16 September 2025*
 
 
-### Rubik's Cube - Single
+### 3x3x3 Cube - Single
 
 | Person | Result | Competition | Details |
 | :--- | ---: | :--- | :--- |
@@ -19,7 +19,7 @@
 | [Ryszard Kędziora](https://www.worldcubeassociation.org/persons/2022KEDZ01) | **5.10** |  | [Polish Open 2025](https://www.worldcubeassociation.org/competitions/PolishOpen2025) | 7.20, 7.95, 5.10, 10.46, 8.78 |
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | **5.18** |  | [Polish Open 2025](https://www.worldcubeassociation.org/competitions/PolishOpen2025) | 7.22, 5.18, 8.45, 7.16, 8.59 |
 
-### Rubik's Cube - Average
+### 3x3x3 Cube - Average
 
 | Person | Result | Competition | Details |
 | :--- | ---: | :--- | :--- |
@@ -334,7 +334,7 @@
 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | **2.04** |  | [Polish Open 2025](https://www.worldcubeassociation.org/competitions/PolishOpen2025) | 2.14, 2.10, 2.30, 1.77, 1.87 |
 | [Aleksander Arefiew](https://www.worldcubeassociation.org/persons/2016AREF01) | **2.07** |  | [CFL Justynów 2025](https://www.worldcubeassociation.org/competitions/CFLJustynow2025) | 3.07, 2.41, 1.58, 1.94, 1.86 |
 
-### Rubik's Clock - Single
+### Clock - Single
 
 | Person | Result | Competition | Details |
 | :--- | ---: | :--- | :--- |
@@ -349,7 +349,7 @@
 | [Kacper Bieńkowski](https://www.worldcubeassociation.org/persons/2022BIEN01) | **2.65** |  | [GLS IV 2025](https://www.worldcubeassociation.org/competitions/GLSIV2025) | 2.65, 7.62, 5.31, 3.59, 3.22 |
 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | **2.71** |  | [Energy Cube Tomaszów 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2025) | 2.71, 4.46, DNF, 2.71, 5.36 |
 
-### Rubik's Clock - Average
+### Clock - Average
 
 | Person | Result | Competition | Details |
 | :--- | ---: | :--- | :--- |

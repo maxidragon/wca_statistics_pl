@@ -8,7 +8,7 @@
 
 | Event | Result | Person | Citizen of | Competition |
 | :--- | ---: | :--- | :--- | :--- |
-| Rubik's Cube | 4.23 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023) |
+| 3x3x3 Cube | 4.23 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023) |
 | 2x2x2 Cube | 0.52 | [Mikołaj Zubowicz](https://www.worldcubeassociation.org/persons/2015ZUBO01) | [Polish Championship 2021](https://www.worldcubeassociation.org/competitions/PolishChampionship2021) |
 | 4x4x4 Cube | 18.90 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Polish Championship 2021](https://www.worldcubeassociation.org/competitions/PolishChampionship2021) |
 | 5x5x5 Cube | 33.61 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) |
@@ -19,7 +19,7 @@
 | 3x3x3 One-Handed | 8.14 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) |
 | Megaminx | 29.67 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) |
 | Pyraminx | 1.11 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023) |
-| Rubik's Clock | 2.31 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) |
+| Clock | 2.31 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) |
 | Skewb | 1.17 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022) |
 | Square-1 | 5.11 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) |
 | 4x4x4 Blindfolded | 1:40.08 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) |
@@ -30,7 +30,7 @@
 
 | Event | Result | Person | Citizen of | Competition |
 | :--- | ---: | :--- | :--- | :--- |
-| Rubik's Cube | 5.06 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) |
+| 3x3x3 Cube | 5.06 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) |
 | 2x2x2 Cube | 1.02 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) |
 | 4x4x4 Cube | 21.97 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) |
 | 5x5x5 Cube | 37.44 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) |
@@ -41,7 +41,7 @@
 | 3x3x3 One-Handed | 10.66 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) |
 | Megaminx | 33.45 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) |
 | Pyraminx | 1.80 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023) |
-| Rubik's Clock | 2.94 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) |
+| Clock | 2.94 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) |
 | Skewb | 1.87 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) |
 | Square-1 | 6.22 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023) |
 | 4x4x4 Blindfolded | 2:15.31 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | [Polish Championship 2021](https://www.worldcubeassociation.org/competitions/PolishChampionship2021) |

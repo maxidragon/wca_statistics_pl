@@ -1,7 +1,7 @@
 ## Competitions with the least number of no-shows in Poland
 
 *Note: This statistic shows the competitions in Poland with the least number of no-shows.*
-*Updated on 16 September 2025*
+*Updated on 19 September 2025*
 
 | Competition | Total registered | Total competed | No-shows |
 | :--- | ---: | ---: | ---: |
@@ -16,9 +16,9 @@
 | [Cube Factory Brzeziny 2023](https://www.worldcubeassociation.org/competitions/CubeFactoryBrzeziny2023) | 50 | 50 | 0 |
 | [Cube Factory Summer 2023](https://www.worldcubeassociation.org/competitions/CubeFactorySummer2023) | 50 | 50 | 0 |
 | [Silesian Minx Fest 2024](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2024) | 40 | 40 | 0 |
-| [BrizZon Side Open 2025](https://www.worldcubeassociation.org/competitions/BrizZonSideOpen2025) | 35 | 35 | 0 |
 | [BrizZon Side Open 2024](https://www.worldcubeassociation.org/competitions/BrizZonSideOpen2024) | 35 | 35 | 0 |
 | [BrizZon Side Open III 2024](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenIII2024) | 35 | 35 | 0 |
+| [BrizZon Side Open 2025](https://www.worldcubeassociation.org/competitions/BrizZonSideOpen2025) | 35 | 35 | 0 |
 | [Winter Side Wrocław 2025](https://www.worldcubeassociation.org/competitions/WinterSideWroclaw2025) | 35 | 35 | 0 |
 | [BrizZon Side Open IV 2023](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenIV2023) | 35 | 35 | 0 |
 | [BrizZon Side Open V 2023](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenV2023) | 35 | 35 | 0 |

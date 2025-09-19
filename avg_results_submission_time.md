@@ -1,6 +1,6 @@
 ## Average results submission time by Polish delegates
 
-*Updated on 16 September 2025*
+*Updated on 19 September 2025*
 
 | Delegate | Average time | Total delegated |
 | ---: | :--- | ---: |

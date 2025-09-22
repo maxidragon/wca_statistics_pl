@@ -1,7 +1,7 @@
 ## Most common delegate teams in Poland
 
 *Note: This statistic shows the most common teams of delegates in Poland. It is based on the number of competitions where the exact team of delegates was listed.*
-*Updated on 19 September 2025*
+*Updated on 22 September 2025*
 
 | Number of competitions | Team |
 | :--- | :--- |
@@ -15,13 +15,13 @@
 | 5 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) + [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 4 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) + [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) |
 | 4 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) + [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) |
+| 4 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) + [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) + [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) + [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
 | 3 | [Krzysztof Kuncki](https://www.worldcubeassociation.org/persons/2010KUNC01) + [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) |
 | 3 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) + [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 3 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) + [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 3 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) + [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) + [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 3 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) + [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) + [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 3 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) + [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
-| 3 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) + [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) + [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) + [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
 | 3 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) + [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) |
 | 3 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) + [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) + [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) + [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 3 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) + [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) + [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |

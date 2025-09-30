@@ -1,8 +1,8 @@
 require_relative "../core/statistic"
 
-class AvgResultsSubmissionTime < Statistic
+class AvgResultsSubmissionTimeInTheCurrentYear < Statistic
   def initialize
-    @title = "Average results submission time by Polish delegates"
+    @title = "Average results submission time in the current year by Polish delegates"
     @table_header = { "Delegate" => :right, "Average time" => :left, "Total delegated" => :right }
   end
 
@@ -64,6 +64,7 @@ JOIN
 WHERE 
     c.results_submitted_at IS NOT NULL
     AND c.country_id NOT IN ('XA', 'XE', 'XF', 'XM', 'XN', 'XO', 'XS', 'XW')
+    AND YEAR(c.start_date) = YEAR(CURDATE())
 GROUP BY 
     d.id, d.name, d.wca_id
 HAVING 

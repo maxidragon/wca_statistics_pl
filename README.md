@@ -7,6 +7,7 @@ All statistics are computed only for competitors from Poland/Polish competitions
 - [Average of 50](average_of_50)
 - [Average of 100](average_of_100)
 - [Average results submission time by Polish delegates](avg_results_submission_time)
+- [Average results submission time in the current year by Polish delegates](avg_results_submission_time_in_the_current_year)
 - [Best first average](best_first_average)
 - [Best first single](best_first_single)
 - [Best medal collection from abroad by person](best_medal_collection_from_abroad_by_person)

@@ -1,6 +1,6 @@
 ## Biggest rounds in Poland
 
-*Updated on  1 October 2025*
+*Updated on  6 October 2025*
 
 
 ### 3x3x3 Cube
@@ -256,7 +256,7 @@
 | 25 | [Polish Championship 2021](https://www.worldcubeassociation.org/competitions/PolishChampionship2021) |
 | 25 | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021) |
 | 25 | [BrizZon Side Open V 2022](https://www.worldcubeassociation.org/competitions/BrizzonSideOpenV2022) |
-| 24 | [Brizzon Side Open III 2025](https://www.worldcubeassociation.org/competitions/BrizzonSideOpenIII2025) |
+| 24 | [BrizZon Side Open III 2025](https://www.worldcubeassociation.org/competitions/BrizzonSideOpenIII2025) |
 
 ### 3x3x3 With Feet
 

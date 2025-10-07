@@ -1,14 +1,14 @@
 ## Most bookmarks compared to competitor limit
 
-*Updated on  6 October 2025*
+*Updated on  7 October 2025*
 
 | Competition | Bookmarks | Competitor limit | Ratio |
 | ---: | :--- | :--- | :--- |
 | [Góraszka FMC Sunday 2024](https://www.worldcubeassociation.org/competitions/GoraszkaFMCSunday2024) | 12 | 10 | 1.2 |
 | [Warsaw FMC Tour Saturday 2024](https://www.worldcubeassociation.org/competitions/WarsawFMCTourSaturday2024) | 12 | 10 | 1.2 |
 | [BrizZon Sylwester Open 2023](https://www.worldcubeassociation.org/competitions/BrizZonSylwesterOpen2023) | 38 | 35 | 1.08571 |
+| [Cube Zone Katowice 2025](https://www.worldcubeassociation.org/competitions/CubeZoneKatowice2025) | 54 | 50 | 1.08 |
 | [Monday Night in Gdańsk 2025](https://www.worldcubeassociation.org/competitions/MondayNightinGdansk2025) | 17 | 16 | 1.0625 |
-| [Cube Zone Katowice 2025](https://www.worldcubeassociation.org/competitions/CubeZoneKatowice2025) | 52 | 50 | 1.04 |
 | [BrizZon Side Open V 2023](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenV2023) | 35 | 35 | 1.0 |
 | [Warsaw FMC Tour II Sunday 2024](https://www.worldcubeassociation.org/competitions/WarsawFMCTourIISunday2024) | 10 | 10 | 1.0 |
 | [Cubing Mine Rybnik II 2024](https://www.worldcubeassociation.org/competitions/CubingMineRybnikII2024) | 48 | 50 | 0.96 |

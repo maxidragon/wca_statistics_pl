@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on  6 October 2025*
+*Updated on  7 October 2025*
 
 
 ### 3x3x3 Cube
@@ -188,7 +188,6 @@
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 1 |
 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) | 1 |
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 1 |
-| [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 1 |
 
 ### Pyraminx
 

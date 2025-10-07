@@ -1,7 +1,7 @@
 ## Average of 100
 
 *Note: 100 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  6 October 2025*
+*Updated on  7 October 2025*
 
 
 ### 3x3x3 Cube

@@ -1,6 +1,7 @@
 All statistics are computed only for competitors from Poland/Polish competitions.
 
 - [Average event count by competition](average_event_count_by_competition)
+- [Average number of competitions of listed delegates at Polish competitions](avg_comps_number_of_delegates)
 - [Average of 5](average_of_5)
 - [Average of 12](average_of_12)
 - [Average of 25](average_of_25)

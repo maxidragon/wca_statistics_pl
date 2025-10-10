@@ -1,7 +1,7 @@
 ## Average number of competitions of listed delegates at Polish competitions
 
 *Note: Number of competitions is counted up to and including the competition where the person was a delegate. Only competitions with more than one delegate are included in the average.*
-*Updated on  7 October 2025*
+*Updated on 10 October 2025*
 
 | Competition | Delegates | Average number of competitions of listed delegates |
 | :--- | ---: | ---: |

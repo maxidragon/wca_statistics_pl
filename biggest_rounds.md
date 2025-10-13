@@ -1,6 +1,6 @@
 ## Biggest rounds in Poland
 
-*Updated on 10 October 2025*
+*Updated on 13 October 2025*
 
 
 ### 3x3x3 Cube
@@ -219,8 +219,8 @@
 | ---: | :--- |
 | 24 | [Szansa Cubing Open Warsaw 2022](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2022) |
 | 21 | [Polish Open 2025](https://www.worldcubeassociation.org/competitions/PolishOpen2025) |
-| 19 | [Euro 2012](https://www.worldcubeassociation.org/competitions/Euro2012) |
 | 19 | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021) |
+| 19 | [Euro 2012](https://www.worldcubeassociation.org/competitions/Euro2012) |
 | 17 | [Gniezno Big Blind Cubing 2022](https://www.worldcubeassociation.org/competitions/GnieznoBigBlindCubing2022) |
 | 17 | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) |
 | 16 | [5BLD Masters Opole 2025](https://www.worldcubeassociation.org/competitions/5BLDMastersOpole2025) |
@@ -249,13 +249,13 @@
 | ---: | :--- |
 | 36 | [Szansa Cubing Open Warsaw 2022](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2022) |
 | 30 | [Euro 2012](https://www.worldcubeassociation.org/competitions/Euro2012) |
-| 26 | [Warsaw Cube Masters 2023](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2023) |
 | 26 | [BrizZon Side Open III 2022](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenIII2022) |
 | 26 | [BrizZon Side Open IV 2022](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenIV2022) |
 | 26 | [CFL Brzeziny 2025](https://www.worldcubeassociation.org/competitions/CFLBrzeziny2025) |
+| 26 | [Warsaw Cube Masters 2023](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2023) |
+| 25 | [BrizZon Side Open V 2022](https://www.worldcubeassociation.org/competitions/BrizzonSideOpenV2022) |
 | 25 | [Polish Championship 2021](https://www.worldcubeassociation.org/competitions/PolishChampionship2021) |
 | 25 | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021) |
-| 25 | [BrizZon Side Open V 2022](https://www.worldcubeassociation.org/competitions/BrizzonSideOpenV2022) |
 | 24 | [BrizZon Side Open III 2025](https://www.worldcubeassociation.org/competitions/BrizzonSideOpenIII2025) |
 
 ### 3x3x3 With Feet

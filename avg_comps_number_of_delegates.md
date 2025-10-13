@@ -1,7 +1,7 @@
 ## Average number of competitions of listed delegates at Polish competitions by number of delegates
 
 *Note: Competitions are grouped by how many delegates they had. Each table shows the competitions with the highest average number of competitions that listed delegates had participated in up to and including the one they delegated.*
-*Updated on 10 October 2025*
+*Updated on 13 October 2025*
 
 
 ### 6 Delegates
@@ -48,6 +48,7 @@
 | :--- | :--- | ---: |
 | [Energy Cube Białołęka 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2025) | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01), [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 269.67 |
 | [GLS IV 2025](https://www.worldcubeassociation.org/competitions/GLSIV2025) | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 233.67 |
+| [Honey Cube Barcin 2025](https://www.worldcubeassociation.org/competitions/HoneyCubeBarcin2025) | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01), [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 224.33 |
 | [GLS III 2025](https://www.worldcubeassociation.org/competitions/GLSIII2025) | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 221.00 |
 | [GLS II 2025](https://www.worldcubeassociation.org/competitions/GLSII2025) | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 214.00 |
 | [Cool Down Szczecin 2025](https://www.worldcubeassociation.org/competitions/CoolDownSzczecin2025) | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01), [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 212.67 |
@@ -65,7 +66,6 @@
 | [Polish Open 2025](https://www.worldcubeassociation.org/competitions/PolishOpen2025) | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01), [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01), [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 142.67 |
 | [GLS III 2023](https://www.worldcubeassociation.org/competitions/GLSIII2023) | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01), [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 134.67 |
 | [Energy Cube Konin 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeKonin2023) | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01), [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 134.00 |
-| [CFL Rogów Summer 2025](https://www.worldcubeassociation.org/competitions/CFLRogowSummer2025) | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01), [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 133.00 |
 
 ### 2 Delegates
 

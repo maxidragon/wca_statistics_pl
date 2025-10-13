@@ -1,7 +1,7 @@
 ## Most personal records by event
 
 *Note: Counts how many personal records (single or average) a competitor achieved in each event.*
-*Updated on 10 October 2025*
+*Updated on 13 October 2025*
 
 
 ### 3x3x3 Cube
@@ -76,8 +76,8 @@
 | 37 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 34 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 31 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
-| 31 | [Michał Mlostek](https://www.worldcubeassociation.org/persons/2015MLOS01) |
 | 31 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
+| 31 | [Michał Mlostek](https://www.worldcubeassociation.org/persons/2015MLOS01) |
 
 ### 7x7x7 Cube
 
@@ -218,7 +218,7 @@
 
 | PRs | Person |
 | ---: | :--- |
-| 19 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 20 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 14 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 13 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
 | 12 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) |
@@ -242,7 +242,7 @@
 | 7 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) |
 | 5 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) |
 | 5 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
-| 4 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) |
+| 5 | [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) |
 
 ### 3x3x3 Multi-Blind
 

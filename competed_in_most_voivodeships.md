@@ -1,7 +1,7 @@
 ## Competed in most voivodeships in Poland
 
 *Note: Voivodeships are inferred from competition coordinates. Approximate bounding box classification.*
-*Updated on 10 October 2025*
+*Updated on 13 October 2025*
 
 | Person | Completed | Missed | Missed Voivodeships | Completed At |
 | :--- | ---: | ---: | :--- | :--- |
@@ -60,6 +60,7 @@
 | [Tomasz Szubert](https://www.worldcubeassociation.org/persons/2022SZUB02) | 13 | 3 | lubuskie, podlaskie, świętokrzyskie |  |
 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 12 | 4 | lubuskie, opolskie, podkarpackie, świętokrzyskie |  |
 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) | 12 | 4 | lubuskie, podlaskie, warmińsko-mazurskie, zachodniopomorskie |  |
+| [Hubert Darłak](https://www.worldcubeassociation.org/persons/2023DARL03) | 12 | 4 | kujawsko-pomorskie, podlaskie, świętokrzyskie, wielkopolskie |  |
 | [Igor Kowalczyk](https://www.worldcubeassociation.org/persons/2013KOWA04) | 12 | 4 | dolnośląskie, lubuskie, podlaskie, wielkopolskie |  |
 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | 12 | 4 | kujawsko-pomorskie, lubuskie, podlaskie, zachodniopomorskie |  |
 | [Kamil Zieliński](https://www.worldcubeassociation.org/persons/2008ZIEL01) | 12 | 4 | lubuskie, opolskie, warmińsko-mazurskie, zachodniopomorskie |  |
@@ -88,7 +89,6 @@
 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 11 | 5 | dolnośląskie, lubuskie, podlaskie, warmińsko-mazurskie, zachodniopomorskie |  |
 | [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) | 11 | 5 | lubuskie, podkarpackie, podlaskie, warmińsko-mazurskie, zachodniopomorskie |  |
 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | 11 | 5 | kujawsko-pomorskie, lubuskie, podlaskie, świętokrzyskie, zachodniopomorskie |  |
-| [Hubert Darłak](https://www.worldcubeassociation.org/persons/2023DARL03) | 11 | 5 | kujawsko-pomorskie, lubelskie, podlaskie, świętokrzyskie, wielkopolskie |  |
 | [Jakub Bartos](https://www.worldcubeassociation.org/persons/2014BART06) | 11 | 5 | kujawsko-pomorskie, lubuskie, podlaskie, warmińsko-mazurskie, zachodniopomorskie |  |
 | [Jakub Wojtaszewski](https://www.worldcubeassociation.org/persons/2013WOJT02) | 11 | 5 | dolnośląskie, lubuskie, podlaskie, warmińsko-mazurskie, wielkopolskie |  |
 | [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) | 11 | 5 | lubuskie, podkarpackie, świętokrzyskie, warmińsko-mazurskie, zachodniopomorskie |  |

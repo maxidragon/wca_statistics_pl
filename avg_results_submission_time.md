@@ -1,19 +1,19 @@
 ## Average results submission time by Polish delegates
 
-*Updated on 10 October 2025*
+*Updated on 13 October 2025*
 
 | Delegate | Average time | Total delegated |
 | ---: | :--- | ---: |
-| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 1.01h | 20 |
+| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 0.93h | 21 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 16.50h | 102 |
-| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 1d 1.24h | 20 |
-| [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 1d 5.94h | 51 |
-| [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 1d 7.43h | 15 |
+| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 1d 0.01h | 21 |
+| [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 1d 4.74h | 53 |
+| [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 1d 5.42h | 16 |
 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 1d 22.56h | 10 |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 2d 5.21h | 112 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 2d 9.53h | 157 |
+| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 2d 4.74h | 113 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 2d 9.17h | 158 |
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 2d 19.84h | 72 |
-| [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 2d 22.56h | 62 |
+| [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 2d 20.78h | 63 |
 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 4d 22.89h | 76 |
 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) | 5d 19.53h | 28 |
 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) | 6d 14.13h | 29 |

@@ -1,26 +1,26 @@
 ## Most days spent at competitions
 
-*Updated on 13 October 2025*
+*Updated on 14 October 2025*
 
 | Days | Person | Competitions |
 | ---: | :--- | ---: |
-| 644 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 346 |
-| 538 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 305 |
+| 645 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 347 |
+| 539 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 306 |
 | 461 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 234 |
 | 445 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 236 |
 | 394 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 196 |
 | 387 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 199 |
-| 352 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 201 |
+| 353 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 202 |
 | 348 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 171 |
 | 328 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 181 |
 | 328 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | 167 |
-| 326 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 156 |
+| 327 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 157 |
 | 315 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | 183 |
 | 308 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | 155 |
 | 282 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 143 |
 | 270 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 132 |
 | 262 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 128 |
-| 254 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 130 |
+| 255 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 131 |
 | 249 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 142 |
 | 243 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) | 114 |
 | 240 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 126 |

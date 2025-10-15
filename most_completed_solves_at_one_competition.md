@@ -1,15 +1,16 @@
 ## Most completed solves at one competition
 
-*Updated on 13 October 2025*
+*Updated on 14 October 2025*
 
 | Person | Competition | Solves | Attempts |
 | :--- | ---: | ---: | ---: |
+| [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) | [Rhein-Neckar Breakdown 2025](https://www.worldcubeassociation.org/competitions/RheinNeckarBreakdown2025) | 163 | 163 |
 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | [Kārķi Open 2025](https://www.worldcubeassociation.org/competitions/KarkiOpen2025) | 160 | 165 |
 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | [Kuutionvääntelyt 2024](https://www.worldcubeassociation.org/competitions/KirkkonummenKuutionvaantelyt2024) | 150 | 157 |
 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | [K:nummen Kuutionvääntelyt 2022](https://www.worldcubeassociation.org/competitions/KnummenKuutionvaantelyt2022) | 148 | 154 |
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | [Kuutionvääntelyt 2024](https://www.worldcubeassociation.org/competitions/KirkkonummenKuutionvaantelyt2024) | 145 | 152 |
-| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [PST Rzeszów 2019](https://www.worldcubeassociation.org/competitions/PSTRzeszow2019) | 144 | 150 |
 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | [Norwegian Championship 2024](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2024) | 144 | 151 |
+| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [PST Rzeszów 2019](https://www.worldcubeassociation.org/competitions/PSTRzeszow2019) | 144 | 150 |
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [PST Rzeszów 2019](https://www.worldcubeassociation.org/competitions/PSTRzeszow2019) | 143 | 147 |
 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) | [Silesian Minx Fest 2025](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2025) | 143 | 149 |
 | [Szymon Jaworski](https://www.worldcubeassociation.org/persons/2021JAWO01) | [Kārķi Open 2025](https://www.worldcubeassociation.org/competitions/KarkiOpen2025) | 143 | 147 |
@@ -18,11 +19,10 @@
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | [Ukrainian Nationals 2016](https://www.worldcubeassociation.org/competitions/UkrainianNationals2016) | 139 | 143 |
 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | [Silesian Minx Fest 2025](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2025) | 138 | 147 |
 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | [Melbourne Summer 2025](https://www.worldcubeassociation.org/competitions/MelbourneSummer2025) | 138 | 139 |
-| [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | [Czech Championship 2025](https://www.worldcubeassociation.org/competitions/CzechChampionship2025) | 137 | 142 |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | [K:nummen Kuutionvääntelyt 2022](https://www.worldcubeassociation.org/competitions/KnummenKuutionvaantelyt2022) | 137 | 140 |
+| [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | [Czech Championship 2025](https://www.worldcubeassociation.org/competitions/CzechChampionship2025) | 137 | 142 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [Polish Open 2019](https://www.worldcubeassociation.org/competitions/PolishOpen2019) | 136 | 139 |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | [Ukrainian Nationals 2017](https://www.worldcubeassociation.org/competitions/UkrainianNationals2017) | 135 | 141 |
-| [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [LLS I Bełżyce 2021](https://www.worldcubeassociation.org/competitions/LLSIBelzyce2021) | 134 | 134 |
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | [Ukrainian Nationals 2017](https://www.worldcubeassociation.org/competitions/UkrainianNationals2017) | 134 | 143 |
 
 

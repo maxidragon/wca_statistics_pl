@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 16 October 2025*
+*Updated on 19 October 2025*
 
 
 ### 3x3x3 Cube
@@ -173,12 +173,12 @@
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
 | 0.84 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | [Jura Open 2012](https://www.worldcubeassociation.org/competitions/JuraOpen2012/results/by_person#2007JAKU01) |
-| 0.84 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | [Warszawa Open 2012](https://www.worldcubeassociation.org/competitions/WarsawaOpen2012/results/by_person#2010KIPA01) |
+| 0.84 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | [Warszawa Open 2012](https://www.worldcubeassociation.org/competitions/WarszawaOpen2012/results/by_person#2010KIPA01) |
 | 0.84 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | [Jura Open 2012](https://www.worldcubeassociation.org/competitions/JuraOpen2012/results/by_person#2010KIPA01) |
 | 0.86 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | [Polish Open 2012](https://www.worldcubeassociation.org/competitions/PolishOpen2012/results/by_person#2007JAKU01) |
 | 0.86 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | [Polish Open 2012](https://www.worldcubeassociation.org/competitions/PolishOpen2012/results/by_person#2007JAKU01) |
-| 0.86 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | [Warszawa Open 2012](https://www.worldcubeassociation.org/competitions/WarsawaOpen2012/results/by_person#2010KIPA01) |
-| 0.86 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | [Warszawa Open 2012](https://www.worldcubeassociation.org/competitions/WarsawaOpen2012/results/by_person#2010KIPA01) |
+| 0.86 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | [Warszawa Open 2012](https://www.worldcubeassociation.org/competitions/WarszawaOpen2012/results/by_person#2010KIPA01) |
+| 0.86 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | [Warszawa Open 2012](https://www.worldcubeassociation.org/competitions/WarszawaOpen2012/results/by_person#2010KIPA01) |
 | 0.86 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | [Jura Open 2012](https://www.worldcubeassociation.org/competitions/JuraOpen2012/results/by_person#2010KIPA01) |
 | 0.86 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | [Jura Open 2012](https://www.worldcubeassociation.org/competitions/JuraOpen2012/results/by_person#2010KIPA01) |
 | 0.88 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | [3Mola Open 2011](https://www.worldcubeassociation.org/competitions/3MolaOpen2011/results/by_person#2007JAKU01) |

@@ -1,6 +1,6 @@
 ## Polish competitors with most competitions in the current year
 
-*Updated on 16 October 2025*
+*Updated on 19 October 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -151,6 +151,7 @@
 | 9 | [Dominik Kobinski](https://www.worldcubeassociation.org/persons/2019KOBI01) |
 | 9 | [Aleksandra Bury](https://www.worldcubeassociation.org/persons/2023BURY01) |
 | 9 | [Kazimierz Cieślak](https://www.worldcubeassociation.org/persons/2023CIES01) |
+| 9 | [Marcin Karczmarz](https://www.worldcubeassociation.org/persons/2023KARC01) |
 | 9 | [Victor Kiziukiewicz](https://www.worldcubeassociation.org/persons/2023KIZI01) |
 | 9 | [Kacper Kozak](https://www.worldcubeassociation.org/persons/2023KOZA05) |
 | 9 | [Kajtek Kwiatkowski](https://www.worldcubeassociation.org/persons/2023KWIA01) |
@@ -175,7 +176,6 @@
 | 8 | [Bartosz Brudnicki](https://www.worldcubeassociation.org/persons/2023BRUD01) |
 | 8 | [Franciszek Dąbrowski](https://www.worldcubeassociation.org/persons/2023DABR03) |
 | 8 | [Oskar Gralec](https://www.worldcubeassociation.org/persons/2023GRAL01) |
-| 8 | [Marcin Karczmarz](https://www.worldcubeassociation.org/persons/2023KARC01) |
 | 8 | [Bartosz Kramkowski](https://www.worldcubeassociation.org/persons/2023KRAM02) |
 | 8 | [Mikołaj Mikołajczyk](https://www.worldcubeassociation.org/persons/2023MIKO02) |
 | 8 | [Mikołaj Świątek](https://www.worldcubeassociation.org/persons/2023SWIA01) |
@@ -705,6 +705,7 @@
 | 2 | [Tadeusz Czachor](https://www.worldcubeassociation.org/persons/2025CZAC01) |
 | 2 | [Ireneusz Czapla](https://www.worldcubeassociation.org/persons/2025CZAP03) |
 | 2 | [Marko Duda](https://www.worldcubeassociation.org/persons/2025DUDA01) |
+| 2 | [Eden Duquesne](https://www.worldcubeassociation.org/persons/2025DUQU04) |
 | 2 | [Igor Filip](https://www.worldcubeassociation.org/persons/2025FILI04) |
 | 2 | [Bartosz Florek](https://www.worldcubeassociation.org/persons/2025FLOR25) |
 | 2 | [Alicja Gadomska](https://www.worldcubeassociation.org/persons/2025GADO01) |
@@ -1135,7 +1136,6 @@
 | 1 | [Dominik Drożdżowski](https://www.worldcubeassociation.org/persons/2025DROZ01) |
 | 1 | [Szymon Drząszcz](https://www.worldcubeassociation.org/persons/2025DRZA01) |
 | 1 | [Jakub Dulęba](https://www.worldcubeassociation.org/persons/2025DULE01) |
-| 1 | [Eden Duquesne](https://www.worldcubeassociation.org/persons/2025DUQU04) |
 | 1 | [Stefan Dutkowski](https://www.worldcubeassociation.org/persons/2025DUTK01) |
 | 1 | [Jakub Dybek](https://www.worldcubeassociation.org/persons/2025DYBE01) |
 | 1 | [Piotr Dyrka](https://www.worldcubeassociation.org/persons/2025DYRK01) |

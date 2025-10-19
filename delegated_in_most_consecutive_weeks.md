@@ -1,7 +1,7 @@
 ## Most consecutive weeks with a delegated competition
 
 *Note: Only includes delegates from Poland. Weeks are counted as ISO weeks (Monday-Sunday). Multiple competitions in the same week count as one.*
-*Updated on 16 October 2025*
+*Updated on 19 October 2025*
 
 | Count | Person | Start comp | End comp |
 | ---: | :--- | :--- | :--- |

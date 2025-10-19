@@ -1,7 +1,7 @@
 ## Longest streak of podiums
 
 *Note: All competitions that did not hold the given event are ignored. Results without any completed attempt are not eligible for podium. Only finals are taken into account.*
-*Updated on 16 October 2025*
+*Updated on 19 October 2025*
 
 | Count | Person | Event | Started at | Ended at |
 | ---: | :--- | :--- | :--- | :--- |
@@ -15,7 +15,7 @@
 | 52 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 4x4x4 Cube | [Kubsala Winter 2023](https://www.worldcubeassociation.org/competitions/KubsalaWinter2023) |  |
 | 43 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 5x5x5 Cube | [Full Steps in Brest 2016](https://www.worldcubeassociation.org/competitions/FullStepsinBrest2016) | [Project Kedzierzyn-Kozle 2021](https://www.worldcubeassociation.org/competitions/ProjectKedzierzynKozle2021) |
 | 43 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 6x6x6 Cube | [Full Steps in Brest 2016](https://www.worldcubeassociation.org/competitions/FullStepsinBrest2016) | [Project Kedzierzyn-Kozle 2021](https://www.worldcubeassociation.org/competitions/ProjectKedzierzynKozle2021) |
-| 42 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 3x3x3 One-Handed | [Warszawa Open 2012](https://www.worldcubeassociation.org/competitions/WarsawaOpen2012) | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) |
+| 42 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 3x3x3 One-Handed | [Warszawa Open 2012](https://www.worldcubeassociation.org/competitions/WarszawaOpen2012) | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) |
 | 41 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) | Square-1 | [Warsaw Open 2009](https://www.worldcubeassociation.org/competitions/WarsawOpen2009) | [Polish Championship 2016](https://www.worldcubeassociation.org/competitions/PolishChampionship2016) |
 | 41 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 3x3x3 With Feet | [Big Cube Krasnik 2014](https://www.worldcubeassociation.org/competitions/BigCubeKrasnik2014) |  |
 | 40 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | 3x3x3 Multi-Blind | [Poznan Open 2011](https://www.worldcubeassociation.org/competitions/PoznanOpen2011) |  |
@@ -35,7 +35,7 @@
 | 28 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 5x5x5 Cube | [Wroclaw Open 2008](https://www.worldcubeassociation.org/competitions/WroclawOpen2008) | [World Championship 2013](https://www.worldcubeassociation.org/competitions/WC2013) |
 | 27 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 7x7x7 Cube | [Chojnice Open 2013](https://www.worldcubeassociation.org/competitions/ChojniceOpen2013) | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) |
 | 27 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 4x4x4 Cube | [Kaliska Open 2014](https://www.worldcubeassociation.org/competitions/KaliskaOpen2014) | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) |
-| 27 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | 3x3x3 Blindfolded | [Warszawa Open 2012](https://www.worldcubeassociation.org/competitions/WarsawaOpen2012) | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018) |
+| 27 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | 3x3x3 Blindfolded | [Warszawa Open 2012](https://www.worldcubeassociation.org/competitions/WarszawaOpen2012) | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018) |
 | 27 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) | 4x4x4 Blindfolded | [Full Steps in Brest 2016](https://www.worldcubeassociation.org/competitions/FullStepsinBrest2016) |  |
 | 27 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | Square-1 | [Polish Open 2017](https://www.worldcubeassociation.org/competitions/PolishOpen2017) | [SST Kielce 2021](https://www.worldcubeassociation.org/competitions/SSTKielce2021) |
 | 27 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 3x3x3 Fewest Moves | [Cube4fun in Biała Podlaska 2024](https://www.worldcubeassociation.org/competitions/Cube4funinBialaPodlaska2024) |  |
@@ -43,7 +43,7 @@
 | 26 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) | 5x5x5 Blindfolded | [Full Steps in Brest 2016](https://www.worldcubeassociation.org/competitions/FullStepsinBrest2016) |  |
 | 26 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | Pyraminx | [Project Zamość 2018](https://www.worldcubeassociation.org/competitions/ProjectZamosc2018) | [SST Kielce 2021](https://www.worldcubeassociation.org/competitions/SSTKielce2021) |
 | 24 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 7x7x7 Cube | [Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/PolishNationals2009) | [World Championship 2013](https://www.worldcubeassociation.org/competitions/WC2013) |
-| 24 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 4x4x4 Cube | [Warszawa Open 2012](https://www.worldcubeassociation.org/competitions/WarsawaOpen2012) | [Euro 2014](https://www.worldcubeassociation.org/competitions/Euro2014) |
+| 24 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 4x4x4 Cube | [Warszawa Open 2012](https://www.worldcubeassociation.org/competitions/WarszawaOpen2012) | [Euro 2014](https://www.worldcubeassociation.org/competitions/Euro2014) |
 | 24 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 3x3x3 Cube | [Szczecin Summer 2023](https://www.worldcubeassociation.org/competitions/SzczecinSummer2023) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) |
 | 24 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 3x3x3 Fewest Moves | [Poznań Summer Side Open 2022](https://www.worldcubeassociation.org/competitions/PoznanSummerSideOpen2022) | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024) |
 | 23 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) | Skewb | [SLS Bielsko-Biala 2014](https://www.worldcubeassociation.org/competitions/SLSBielskoBiala2014) | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) |
@@ -64,7 +64,7 @@
 | 21 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 3x3x3 Cube | [Summer Vibe Puck 2024](https://www.worldcubeassociation.org/competitions/SummerVibePuck2024) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) |
 | 21 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | Clock | [Żory Cubing Mansion 2024](https://www.worldcubeassociation.org/competitions/ZoryCubingMansion2024) |  |
 | 20 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 2x2x2 Cube | [Polish Nationals 2011](https://www.worldcubeassociation.org/competitions/PolishNationals2011) | [Kielce Cube Attack 2014](https://www.worldcubeassociation.org/competitions/KielceCubeAttack2014) |
-| 20 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | 3x3x3 Multi-Blind | [Warszawa Open 2012](https://www.worldcubeassociation.org/competitions/WarsawaOpen2012) |  |
+| 20 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | 3x3x3 Multi-Blind | [Warszawa Open 2012](https://www.worldcubeassociation.org/competitions/WarszawaOpen2012) |  |
 | 20 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 3x3x3 Blindfolded | [Cube Factory Częstochowa 2018](https://www.worldcubeassociation.org/competitions/CubeFactoryCzestochowa2018) | [PST CFL Częstochowa 2019](https://www.worldcubeassociation.org/competitions/PSTCFLCzestochowa2019) |
 | 20 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 3x3x3 Multi-Blind | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021) | [Big 'n Blind Szczecinek 2023](https://www.worldcubeassociation.org/competitions/BignBlindSzczecinek2023) |
 | 20 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 3x3x3 Blindfolded | [BrizZon Side Open III 2024](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenIII2024) | [Big Side & Blind Olsztyn 2025](https://www.worldcubeassociation.org/competitions/BigSideBlindOlsztyn2025) |

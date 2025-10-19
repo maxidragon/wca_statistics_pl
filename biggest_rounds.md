@@ -1,6 +1,6 @@
 ## Biggest rounds in Poland
 
-*Updated on 16 October 2025*
+*Updated on 19 October 2025*
 
 
 ### 3x3x3 Cube
@@ -283,7 +283,7 @@
 | 33 | [Jura Open 2012](https://www.worldcubeassociation.org/competitions/JuraOpen2012) |
 | 32 | [Polish Nationals 2012](https://www.worldcubeassociation.org/competitions/PolishNationals2012) |
 | 31 | [Polish Open 2012](https://www.worldcubeassociation.org/competitions/PolishOpen2012) |
-| 27 | [Warszawa Open 2012](https://www.worldcubeassociation.org/competitions/WarsawaOpen2012) |
+| 27 | [Warszawa Open 2012](https://www.worldcubeassociation.org/competitions/WarszawaOpen2012) |
 | 25 | [Cubing Spring Grudziadz 2012](https://www.worldcubeassociation.org/competitions/CubingSpringGrudziadz2012) |
 | 25 | [Silesia Open 2012](https://www.worldcubeassociation.org/competitions/SilesiaOpen2012) |
 | 23 | [Bialystok Open 2011](https://www.worldcubeassociation.org/competitions/BialystokOpen2011) |
@@ -298,7 +298,7 @@
 | 19 | [Cubing Spring Grudziadz 2012](https://www.worldcubeassociation.org/competitions/CubingSpringGrudziadz2012) |
 | 19 | [Polish Open 2012](https://www.worldcubeassociation.org/competitions/PolishOpen2012) |
 | 18 | [Silesia Open 2012](https://www.worldcubeassociation.org/competitions/SilesiaOpen2012) |
-| 18 | [Warszawa Open 2012](https://www.worldcubeassociation.org/competitions/WarsawaOpen2012) |
+| 18 | [Warszawa Open 2012](https://www.worldcubeassociation.org/competitions/WarszawaOpen2012) |
 | 15 | [Bialystok Open 2011](https://www.worldcubeassociation.org/competitions/BialystokOpen2011) |
 | 15 | [Polish Open 2007](https://www.worldcubeassociation.org/competitions/PolishOpen2007) |
 | 14 | [Polish Nationals 2012](https://www.worldcubeassociation.org/competitions/PolishNationals2012) |

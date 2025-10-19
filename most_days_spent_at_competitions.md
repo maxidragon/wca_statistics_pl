@@ -1,6 +1,6 @@
 ## Most days spent at competitions
 
-*Updated on 16 October 2025*
+*Updated on 19 October 2025*
 
 | Days | Person | Competitions |
 | ---: | :--- | ---: |

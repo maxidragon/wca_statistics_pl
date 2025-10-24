@@ -1,7 +1,7 @@
 ## Longest streak of competitions in Poland
 
 *Note: The streak ends whenever the person doesn't participate in a competition in Poland.*
-*Updated on 22 October 2025*
+*Updated on 23 October 2025*
 
 | Competitions | Person | Started at | Missed |
 | ---: | :--- | :--- | :--- |
@@ -9,11 +9,11 @@
 | 39 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | [Polish Open 2007](https://www.worldcubeassociation.org/competitions/PolishOpen2007) | [Industrial Cube 2012](https://www.worldcubeassociation.org/competitions/IndustrialCube2012) |
 | 33 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | [Żory Open 2024](https://www.worldcubeassociation.org/competitions/ZoryOpen2024) | [Gniezno Open 2024](https://www.worldcubeassociation.org/competitions/GnieznoOpen2024) |
 | 24 | [Michał Robaczyk](https://www.worldcubeassociation.org/persons/2006ROBA01) | [Polish Open 2006](https://www.worldcubeassociation.org/competitions/PolishOpen2006) | [Kociewie Open 2010](https://www.worldcubeassociation.org/competitions/KociewieOpen2010) |
-| 24 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | [SLS Swierklany 2013](https://www.worldcubeassociation.org/competitions/SLSSwierklany2013) | [Art Rubik 2014](https://www.worldcubeassociation.org/competitions/ArtCubing2014) |
+| 24 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | [SLS Swierklany 2013](https://www.worldcubeassociation.org/competitions/SLSSwierklany2013) | [Art Rubik 2014](https://www.worldcubeassociation.org/competitions/ArtRubik2014) |
 | 24 | [Mateusz Cichoracki](https://www.worldcubeassociation.org/persons/2011CICH01) | [Polish Nationals 2013](https://www.worldcubeassociation.org/competitions/PolishNationals2013) | [PLS Sopot 2014](https://www.worldcubeassociation.org/competitions/PLSSopot2014) |
 | 19 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | [Chojnice Open 2013](https://www.worldcubeassociation.org/competitions/ChojniceOpen2013) | [Aleksandrus Cube 2014](https://www.worldcubeassociation.org/competitions/AleksandrusCube2014) |
 | 18 | [Piotr Alexandrowicz](https://www.worldcubeassociation.org/persons/2007ALEX01) | [Wroclaw Open 2007](https://www.worldcubeassociation.org/competitions/WroclawOpen2007) | [Polish Open 2010](https://www.worldcubeassociation.org/competitions/PolishOpen2010) |
-| 17 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021) | [Fast Minds in Poznań 2022](https://www.worldcubeassociation.org/competitions/FastMindsinPoznan2022) |
+| 16 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | [SST Kielce 2021](https://www.worldcubeassociation.org/competitions/SSTKielce2021) | [Fast Minds in Poznań 2022](https://www.worldcubeassociation.org/competitions/FastMindsinPoznan2022) |
 | 14 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | [Silesia Open 2009](https://www.worldcubeassociation.org/competitions/SilesiaOpen2009) | [Swierklany Open 2011](https://www.worldcubeassociation.org/competitions/SwierklanyOpen2011) |
 | 13 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | [Polish Open 2005](https://www.worldcubeassociation.org/competitions/PolishOpen2005) | [Lublin Open 2009](https://www.worldcubeassociation.org/competitions/LublinOpen2009) |
 | 13 | [Piotr Frankowski](https://www.worldcubeassociation.org/persons/2006FRAN01) | [Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/PolishNationals2009) | [Poznan Open 2010](https://www.worldcubeassociation.org/competitions/PoznanOpen2010) |
@@ -87,7 +87,7 @@
 | 5 | [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) | [LLS III 2018](https://www.worldcubeassociation.org/competitions/LLSIII2018) | [Project Mielec 2018](https://www.worldcubeassociation.org/competitions/ProjectMielec2018) |
 | 5 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | [Polish Nationals 2017](https://www.worldcubeassociation.org/competitions/PolishNationals2017) | [LLS II 2018](https://www.worldcubeassociation.org/competitions/LLSII2018) |
 | 5 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | [Gdańsk Open 2020](https://www.worldcubeassociation.org/competitions/GdanskOpen2020) | [Project Pawłowice 2021](https://www.worldcubeassociation.org/competitions/ProjectPawlowice2021) |
-| 5 | [Antoni Rumowski](https://www.worldcubeassociation.org/persons/2014RUMO01) | [Kielce Cube Attack 2014](https://www.worldcubeassociation.org/competitions/KielceCubeAttack2014) | [Art Rubik 2014](https://www.worldcubeassociation.org/competitions/ArtCubing2014) |
+| 5 | [Antoni Rumowski](https://www.worldcubeassociation.org/persons/2014RUMO01) | [Kielce Cube Attack 2014](https://www.worldcubeassociation.org/competitions/KielceCubeAttack2014) | [Art Rubik 2014](https://www.worldcubeassociation.org/competitions/ArtRubik2014) |
 | 5 | [Bartosz Pawlik](https://www.worldcubeassociation.org/persons/2014PAWL02) | [ŚLS Zawiercie 2015](https://www.worldcubeassociation.org/competitions/SLSZawiercie2015) | [Kaliska Open 2015](https://www.worldcubeassociation.org/competitions/KaliskaOpen2015) |
 | 5 | [Szymon Kowalski](https://www.worldcubeassociation.org/persons/2014KOWA05) | [Kaliska Open 2015](https://www.worldcubeassociation.org/competitions/KaliskaOpen2015) | [ŚLS Wodzisław Śląski 2015](https://www.worldcubeassociation.org/competitions/SLSWodzislawSlaski2015) |
 | 5 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | [BrizZon Side Open II 2022](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenII2022) | [Cube4fun Zawiercie 2022](https://www.worldcubeassociation.org/competitions/Cube4funZawiercie2022) |

@@ -1,7 +1,7 @@
 ## Most consecutive weeks with competitions
 
 *Note: Only includes people from Poland. Weeks are counted as ISO weeks (Monday-Sunday). Multiple competitions in the same week count as one.*
-*Updated on 22 October 2025*
+*Updated on 23 October 2025*
 
 | Count | Person | Start comp | End comp |
 | ---: | :--- | :--- | :--- |
@@ -103,7 +103,7 @@
 | 3 | [Maksymilian Kutyła](https://www.worldcubeassociation.org/persons/2011KUTY01) | [Szczytno Open 2019](https://www.worldcubeassociation.org/competitions/SzczytnoOpen2019) | [GLS Cup I 2019](https://www.worldcubeassociation.org/competitions/GLSCupI2019) |
 | 3 | [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) | [Kaliska Open 2014](https://www.worldcubeassociation.org/competitions/KaliskaOpen2014) | [PLS Marina 2014](https://www.worldcubeassociation.org/competitions/PLSMarina2014) |
 | 3 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) | [CFL Goes Sideways 2019](https://www.worldcubeassociation.org/competitions/CFLGoesSideways2019) | [Polish Speedcubing Tour Mielec 2019](https://www.worldcubeassociation.org/competitions/PolishSpeedcubingTourMielec2019) |
-| 3 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | [Bydgoszcz Summer 2014](https://www.worldcubeassociation.org/competitions/BydgoszczSummer2014) | [Art Rubik 2014](https://www.worldcubeassociation.org/competitions/ArtCubing2014) |
+| 3 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | [Bydgoszcz Summer 2014](https://www.worldcubeassociation.org/competitions/BydgoszczSummer2014) | [Art Rubik 2014](https://www.worldcubeassociation.org/competitions/ArtRubik2014) |
 | 3 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) | [ŚLS Zawiercie 2015](https://www.worldcubeassociation.org/competitions/SLSZawiercie2015) | [SLS Rybnik 2015](https://www.worldcubeassociation.org/competitions/SLSRybnik2015) |
 
 

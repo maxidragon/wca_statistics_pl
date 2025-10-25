@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 23 October 2025*
+*Updated on 25 October 2025*
 
 
 ### Competition
@@ -32,19 +32,19 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **18435** | 19151 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **18441** | 19160 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **14970** | 15590 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **13761** | 14146 |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **12338** | 12803 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **12188** | 13103 |
-| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **10754** | 11333 |
+| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **10760** | 11342 |
 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | **10596** | 10937 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | **10264** | 10451 |
-| [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **9758** | 10282 |
+| [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **9759** | 10288 |
 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | **9248** | 9820 |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | **8906** | 9111 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **8701** | 9031 |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **8453** | 9682 |
+| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **8458** | 9691 |
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | **8286** | 8780 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **8254** | 8415 |
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | **7956** | 8230 |
@@ -58,7 +58,7 @@
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
 | 2024 | **224448** | 235988 |
-| 2025 | **188211** | 198788 |
+| 2025 | **188261** | 198925 |
 | 2023 | **188135** | 198537 |
 | 2022 | **116333** | 123548 |
 | 2019 | **91348** | 95930 |
@@ -93,7 +93,7 @@
 | Megaminx | **54023** | 56274 |
 | Square-1 | **46183** | 48044 |
 | 6x6x6 Cube | **12123** | 12602 |
-| 3x3x3 Blindfolded | **11410** | 29865 |
+| 3x3x3 Blindfolded | **11460** | 30002 |
 | 7x7x7 Cube | **10373** | 10847 |
 | 3x3x3 Fewest Moves | **6171** | 8211 |
 | Magic | **4230** | 4674 |

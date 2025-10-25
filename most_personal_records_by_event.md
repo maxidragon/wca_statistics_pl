@@ -1,7 +1,7 @@
 ## Most personal records by event
 
 *Note: Counts how many personal records (single or average) a competitor achieved in each event.*
-*Updated on 23 October 2025*
+*Updated on 25 October 2025*
 
 
 ### 3x3x3 Cube
@@ -76,8 +76,8 @@
 | 37 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 34 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 31 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
-| 31 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 31 | [Michał Mlostek](https://www.worldcubeassociation.org/persons/2015MLOS01) |
+| 31 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 
 ### 7x7x7 Cube
 
@@ -107,7 +107,7 @@
 | 24 | [Kamil Michalak](https://www.worldcubeassociation.org/persons/2016MICH01) |
 | 24 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 23 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
-| 22 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 23 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 
 ### 3x3x3 Fewest Moves
 

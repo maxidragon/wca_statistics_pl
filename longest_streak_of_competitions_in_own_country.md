@@ -1,7 +1,7 @@
 ## Longest streak of competitions in Poland
 
 *Note: The streak ends whenever the person doesn't participate in a competition in Poland.*
-*Updated on 23 October 2025*
+*Updated on 25 October 2025*
 
 | Competitions | Person | Started at | Missed |
 | ---: | :--- | :--- | :--- |
@@ -13,7 +13,7 @@
 | 24 | [Mateusz Cichoracki](https://www.worldcubeassociation.org/persons/2011CICH01) | [Polish Nationals 2013](https://www.worldcubeassociation.org/competitions/PolishNationals2013) | [PLS Sopot 2014](https://www.worldcubeassociation.org/competitions/PLSSopot2014) |
 | 19 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | [Chojnice Open 2013](https://www.worldcubeassociation.org/competitions/ChojniceOpen2013) | [Aleksandrus Cube 2014](https://www.worldcubeassociation.org/competitions/AleksandrusCube2014) |
 | 18 | [Piotr Alexandrowicz](https://www.worldcubeassociation.org/persons/2007ALEX01) | [Wroclaw Open 2007](https://www.worldcubeassociation.org/competitions/WroclawOpen2007) | [Polish Open 2010](https://www.worldcubeassociation.org/competitions/PolishOpen2010) |
-| 16 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | [SST Kielce 2021](https://www.worldcubeassociation.org/competitions/SSTKielce2021) | [Fast Minds in Poznań 2022](https://www.worldcubeassociation.org/competitions/FastMindsinPoznan2022) |
+| 17 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021) | [Fast Minds in Poznań 2022](https://www.worldcubeassociation.org/competitions/FastMindsinPoznan2022) |
 | 14 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | [Silesia Open 2009](https://www.worldcubeassociation.org/competitions/SilesiaOpen2009) | [Swierklany Open 2011](https://www.worldcubeassociation.org/competitions/SwierklanyOpen2011) |
 | 13 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | [Polish Open 2005](https://www.worldcubeassociation.org/competitions/PolishOpen2005) | [Lublin Open 2009](https://www.worldcubeassociation.org/competitions/LublinOpen2009) |
 | 13 | [Piotr Frankowski](https://www.worldcubeassociation.org/persons/2006FRAN01) | [Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/PolishNationals2009) | [Poznan Open 2010](https://www.worldcubeassociation.org/competitions/PoznanOpen2010) |
@@ -60,7 +60,6 @@
 | 6 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | [Cube4fun Lublin Winter 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2025) | [Gdańsk Cubing Day 2025](https://www.worldcubeassociation.org/competitions/GdanskCubingDay2025) |
 | 6 | [Igor Ośmiałowski](https://www.worldcubeassociation.org/persons/2014OMIA01) | [GLS Cup III 2016](https://www.worldcubeassociation.org/competitions/GLSCupIII2016) | [Elektryk Cube Race 2016](https://www.worldcubeassociation.org/competitions/ElektrykCubeRace2016) |
 | 6 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | [BrizZon Side Open III 2021](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenIII2021) | [Cube4fun League Koło 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueKolo2022) |
-| 6 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | [Cool Down Szczecin 2025](https://www.worldcubeassociation.org/competitions/CoolDownSzczecin2025) | [Szansa Cubing Open Warsaw 2025](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2025) |
 | 5 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) | [Polish Open 2005](https://www.worldcubeassociation.org/competitions/PolishOpen2005) | [WSTIH Open 2008](https://www.worldcubeassociation.org/competitions/WSTIHOpen2008) |
 | 5 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) | [Polish Open 2005](https://www.worldcubeassociation.org/competitions/PolishOpen2005) | [WSTIH Open 2008](https://www.worldcubeassociation.org/competitions/WSTIHOpen2008) |
 | 5 | [Rafał Studnicki](https://www.worldcubeassociation.org/persons/2005STUD01) | [Polish Open 2005](https://www.worldcubeassociation.org/competitions/PolishOpen2005) | [WSTIH Open 2008](https://www.worldcubeassociation.org/competitions/WSTIHOpen2008) |
@@ -98,6 +97,7 @@
 | 5 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | [SST Kielce 2021](https://www.worldcubeassociation.org/competitions/SSTKielce2021) | [BrizZon Side Open III 2021](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenIII2021) |
 | 5 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | [BrizZon Side Open 2022](https://www.worldcubeassociation.org/competitions/BrizZonSideOpen2022) | [Cubing Day Żuromin 2022](https://www.worldcubeassociation.org/competitions/CubingDayZuromin2022) |
 | 5 | [Tomasz Stawowy](https://www.worldcubeassociation.org/persons/2021STAW01) | [Gniezno Big Blind Cubing 2022](https://www.worldcubeassociation.org/competitions/GnieznoBigBlindCubing2022) | [Cube4fun Warsaw 2022](https://www.worldcubeassociation.org/competitions/Cube4funWarsaw2022) |
+| 5 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | [BrizZon Side Open 2025](https://www.worldcubeassociation.org/competitions/BrizZonSideOpen2025) | [Fun with FM in Kraków 2025](https://www.worldcubeassociation.org/competitions/FunwithFMinKrakow2025) |
 | 4 | [Kacper Pawlaczyk](https://www.worldcubeassociation.org/persons/2005PAWL01) | [Wroclaw Open 2007](https://www.worldcubeassociation.org/competitions/WroclawOpen2007) | [Pabianice Open 2008](https://www.worldcubeassociation.org/competitions/PabianiceOpen2008) |
 | 4 | [Dariusz Peta](https://www.worldcubeassociation.org/persons/2005PETA01) | [Polish Open 2005](https://www.worldcubeassociation.org/competitions/PolishOpen2005) | [Gdansk Open 2008](https://www.worldcubeassociation.org/competitions/GdanskOpen2008) |
 | 4 | [Sławomir Wolanin](https://www.worldcubeassociation.org/persons/2005WOLA01) | [Polish Open 2005](https://www.worldcubeassociation.org/competitions/PolishOpen2005) | [Gdansk Open 2008](https://www.worldcubeassociation.org/competitions/GdanskOpen2008) |

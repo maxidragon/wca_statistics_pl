@@ -1,6 +1,6 @@
 ## Most competitions organized
 
-*Updated on 23 October 2025*
+*Updated on 25 October 2025*
 
 | Organized | Person |
 | ---: | :--- |
@@ -22,7 +22,7 @@
 | 16 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 15 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) |
 | 15 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) |
-| 14 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 15 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 13 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 13 | [Piotr Gabara](https://www.worldcubeassociation.org/persons/2024GABA02) |
 | 12 | [Szymon Jeziorski](https://www.worldcubeassociation.org/persons/2013JEZI01) |

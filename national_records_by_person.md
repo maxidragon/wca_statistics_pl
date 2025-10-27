@@ -1,6 +1,6 @@
 ## National records count by person
 
-*Updated on 25 October 2025*
+*Updated on 27 October 2025*
 
 | WRs | Person |
 | ---: | :--- |
@@ -51,6 +51,7 @@
 | 4 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
 | 4 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) |
 | 3 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) |
+| 3 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) |
 | 3 | [Jakub Zawiślak](https://www.worldcubeassociation.org/persons/2006ZAWI02) |
 | 3 | [Kacper Pawlaczyk](https://www.worldcubeassociation.org/persons/2005PAWL01) |
 | 3 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
@@ -62,7 +63,6 @@
 | 2 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) |
 | 2 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) |
 | 2 | [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) |
-| 2 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) |
 | 2 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) |
 | 2 | [Korneliusz Tombarkiewicz](https://www.worldcubeassociation.org/persons/2009TOMB01) |
 | 2 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) |

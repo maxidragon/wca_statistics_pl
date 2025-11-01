@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 31 October 2025*
+*Updated on  1 November 2025*
 
 
 ### Competition
@@ -24,7 +24,7 @@
 | [Energy Cube Białołęka 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2025) | **5692** | 5938 |
 | [Energy Cube Białołęka 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2024) | **5670** | 5900 |
 | [Szansa Cubing Open Warsaw 2024](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2024) | **5638** | 5988 |
-| [CFL Final Łódź 2025](https://www.worldcubeassociation.org/competitions/CFLFinalLodz2025) | **5616** | 5994 |
+| [CFL Final Łódź 2025](https://www.worldcubeassociation.org/competitions/CFLFinalLodz2025) | **5615** | 5994 |
 | [Polish Open 2018](https://www.worldcubeassociation.org/competitions/PolishOpen2018) | **5580** | 5844 |
 | [Energy Cube Tomaszów 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2023) | **5559** | 5862 |
 
@@ -58,7 +58,7 @@
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
 | 2024 | **224448** | 235988 |
-| 2025 | **194192** | 205008 |
+| 2025 | **194191** | 205008 |
 | 2023 | **188135** | 198537 |
 | 2022 | **116333** | 123548 |
 | 2019 | **91348** | 95930 |
@@ -84,7 +84,7 @@
 | :--- | ---: | ---: |
 | 3x3x3 Cube | **333125** | 339820 |
 | 2x2x2 Cube | **218494** | 224467 |
-| Pyraminx | **168383** | 172826 |
+| Pyraminx | **168382** | 172826 |
 | Skewb | **114582** | 117567 |
 | 4x4x4 Cube | **113821** | 117782 |
 | 3x3x3 One-Handed | **91581** | 94522 |

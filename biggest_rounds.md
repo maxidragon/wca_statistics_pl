@@ -1,6 +1,6 @@
 ## Biggest rounds in Poland
 
-*Updated on  1 November 2025*
+*Updated on  4 November 2025*
 
 
 ### 3x3x3 Cube

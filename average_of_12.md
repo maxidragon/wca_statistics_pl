@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  1 November 2025*
+*Updated on  4 November 2025*
 
 
 ### 3x3x3 Cube
@@ -128,8 +128,8 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
+| 9.08 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | 7.79, 11.52, 7.85, 10.88, 9.79, 8.77, 10.18, 8.78, 8.30, 9.37, 8.69, 8.21 |
 | 9.42 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | 9.72, 11.09, 10.12, 8.65, 10.42, 9.52, 8.01, 10.82, 8.23, 9.42, 9.33, 7.87 |
-| 9.59 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | 9.69, 8.42, 9.37, 9.33, 9.90, 11.17, 13.07, 8.84, 9.82, 7.79, 11.52, 7.85 |
 | 9.97 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 8.15, 9.21, 9.62, 7.13, 11.59, 13.77, 10.32, 10.04, 12.23, 10.22, 9.89, 8.43 |
 | 9.99 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | 8.29, 8.00, 10.78, 11.57, 9.81, 8.26, 10.27, 12.48, 10.72, 10.15, 11.60, 8.46 |
 | 11.21 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | 11.26, 11.93, 10.61, 12.25, 11.85, 10.00, 10.98, 11.98, 12.28, 8.41, 17.63, 8.98 |
@@ -150,7 +150,7 @@
 | 37.44 | [Przemysław Rudziak](https://www.worldcubeassociation.org/persons/2020RUDZ02) | 37.86, 40.77, 34.05, 46.32, 40.09, 38.88, 31.69, 35.98, 36.48, 42.45, 31.41, 36.15 |
 | 37.78 | [Ernest Seroczyński](https://www.worldcubeassociation.org/persons/2015SERO02) | 40.29, 39.26, 37.33, 35.67, 37.96, 39.57, 36.22, 34.25, 42.97, 39.57, 34.47, 37.49 |
 | 38.77 | [Wiktor Gugulski](https://www.worldcubeassociation.org/persons/2023GUGU01) | 37.30, 41.83, 41.51, 38.18, 38.18, 36.86, 36.85, 37.74, 37.96, 41.92, 41.30, 35.66 |
-| 39.17 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) | 35.91, 42.23, 37.66, 37.79, 40.17, 37.64, 38.36, 38.61, 40.15, 42.67, 40.78, 38.33 |
+| 39.11 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) | 39.46, 36.39, 39.17, 48.24, 39.54, 37.96, 41.87, 35.43, 40.33, 40.66, 38.29, 37.45 |
 | 39.26 | [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) | 38.41, 37.77, 38.48, 37.89, 41.23, 40.01, 38.95, 38.08, 41.63, 39.40, 41.31, 38.88 |
 | 39.36 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 40.29, 39.56, 41.23, 39.05, 34.89, 40.20, 41.00, 39.69, 39.68, 37.47, 47.57, 35.46 |
 

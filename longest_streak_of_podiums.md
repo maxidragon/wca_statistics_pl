@@ -1,7 +1,7 @@
 ## Longest streak of podiums
 
 *Note: All competitions that did not hold the given event are ignored. Results without any completed attempt are not eligible for podium. Only finals are taken into account.*
-*Updated on  1 November 2025*
+*Updated on  4 November 2025*
 
 | Count | Person | Event | Started at | Ended at |
 | ---: | :--- | :--- | :--- | :--- |
@@ -29,9 +29,9 @@
 | 31 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 3x3x3 Multi-Blind | [Polish Championship 2016](https://www.worldcubeassociation.org/competitions/PolishChampionship2016) | [BrizZon Side Open 2021](https://www.worldcubeassociation.org/competitions/BrizZonSideOpen2021) |
 | 30 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | Skewb | [Staszic Open 2017](https://www.worldcubeassociation.org/competitions/StaszicOpen2017) | [Polish Championship 2018](https://www.worldcubeassociation.org/competitions/PolishChampionship2018) |
 | 30 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) | 3x3x3 Blindfolded | [Bratislava Open 2017](https://www.worldcubeassociation.org/competitions/BratislavaOpen2017) | [Santa Claus Cube Race 2019](https://www.worldcubeassociation.org/competitions/SantaClausCubeRace2019) |
+| 30 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | Megaminx | [Żory Open 2024](https://www.worldcubeassociation.org/competitions/ZoryOpen2024) |  |
 | 29 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 6x6x6 Cube | [Danish Championship 2022](https://www.worldcubeassociation.org/competitions/DanishChampionship2022) | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024) |
 | 29 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | Pyraminx | [Cube4fun Kluczbork 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueIIKluczbork2022) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
-| 29 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | Megaminx | [Żory Open 2024](https://www.worldcubeassociation.org/competitions/ZoryOpen2024) |  |
 | 28 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 5x5x5 Cube | [Wroclaw Open 2008](https://www.worldcubeassociation.org/competitions/WroclawOpen2008) | [World Championship 2013](https://www.worldcubeassociation.org/competitions/WC2013) |
 | 27 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 7x7x7 Cube | [Chojnice Open 2013](https://www.worldcubeassociation.org/competitions/ChojniceOpen2013) | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) |
 | 27 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 4x4x4 Cube | [Kaliska Open 2014](https://www.worldcubeassociation.org/competitions/KaliskaOpen2014) | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) |
@@ -94,13 +94,13 @@
 | 17 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | Megaminx | [Cube4fun Bełżyce 2022](https://www.worldcubeassociation.org/competitions/Cube4funBelzyce2022) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) |
 | 17 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 3x3x3 Fewest Moves | [Imagine FMC in Rzeszów 2023](https://www.worldcubeassociation.org/competitions/ImagineFMCinRzeszow2023) | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024) |
 | 17 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | Square-1 | [Żory Open 2025](https://www.worldcubeassociation.org/competitions/ZoryOpen2025) | [Energy Cube Białołęka 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2025) |
+| 17 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | 3x3x3 One-Handed | [Żory Open 2025](https://www.worldcubeassociation.org/competitions/ZoryOpen2025) |  |
 | 16 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 3x3x3 Cube | [Lodz Open 2011](https://www.worldcubeassociation.org/competitions/LodzOpen2011) | [World Championship 2013](https://www.worldcubeassociation.org/competitions/WC2013) |
 | 16 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | 3x3x3 One-Handed | [Chojnice Open 2013](https://www.worldcubeassociation.org/competitions/ChojniceOpen2013) | [Rumia Open 2014](https://www.worldcubeassociation.org/competitions/RumiaOpen2014) |
 | 16 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 3x3x3 Blindfolded | [Szczecin Summer 2023](https://www.worldcubeassociation.org/competitions/SzczecinSummer2023) | [CFL Brzeziny Spring Open 2024](https://www.worldcubeassociation.org/competitions/CFLBrzezinySpringOpen2024) |
 | 16 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | Pyraminx | [Cube4fun Kluczbork 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueIIKluczbork2022) |  |
 | 16 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 2x2x2 Cube | [Dragon Cubing I 2024](https://www.worldcubeassociation.org/competitions/DragonCubingI2024) | [GLS II 2025](https://www.worldcubeassociation.org/competitions/GLSII2025) |
 | 16 | [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) | Skewb | [Warsaw Cube Masters 2023](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2023) | [Cube4fun Lublin Saturday 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinSaturday2025) |
-| 16 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | 3x3x3 One-Handed | [Żory Open 2025](https://www.worldcubeassociation.org/competitions/ZoryOpen2025) |  |
 | 15 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | Pyraminx | [Wroclaw Open 2009](https://www.worldcubeassociation.org/competitions/WroclawOpen2009) | [Polish Open 2012](https://www.worldcubeassociation.org/competitions/PolishOpen2012) |
 | 15 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) | Pyraminx | [Kociewie Open 2010](https://www.worldcubeassociation.org/competitions/KociewieOpen2010) | [Euro 2012](https://www.worldcubeassociation.org/competitions/Euro2012) |
 | 15 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) | Pyraminx | [Chojnice Open 2013](https://www.worldcubeassociation.org/competitions/ChojniceOpen2013) | [Manhattan Gdańsk Open 2015](https://www.worldcubeassociation.org/competitions/ManhattanGdanskOpen2015) |

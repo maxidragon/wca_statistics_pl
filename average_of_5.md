@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  1 November 2025*
+*Updated on  4 November 2025*
 
 
 ### 3x3x3 Cube
@@ -128,9 +128,9 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 8.84 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | 8.84, 9.82, 7.79, 11.52, 7.85 |
+| 8.43 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | 7.75, 9.10, 7.78, 10.70, 8.42 |
+| 8.59 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | 8.78, 8.30, 9.37, 8.69, 8.21 |
 | 8.99 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 10.47, 8.15, 9.21, 9.62, 7.13 |
-| 8.99 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | 8.01, 10.82, 8.23, 9.42, 9.33 |
 | 9.14 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | 8.98, 8.19, 9.53, 12.77, 8.92 |
 | 9.89 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 9.60, 12.84, 9.35, 8.86, 10.72 |
 | 9.93 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 10.58, 8.88, 7.49, 15.41, 10.33 |

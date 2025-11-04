@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  1 November 2025*
+*Updated on  4 November 2025*
 
 
 ### 3x3x3 Cube
@@ -124,7 +124,7 @@
 | Ao25 | Person | Times |
 | ---: | :--- | :--- |
 | 9.52 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | 8.85, 9.78, 9.18, 9.53, 12.39, 10.34, 9.43, 9.55, 9.30, 8.79, 8.04, 10.31, 10.56, 9.72, 11.09, 10.12, 8.65, 10.42, 9.52, 8.01, 10.82, 8.23, 9.42, 9.33, 7.87 |
-| 9.81 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | 10.22, 8.34, 9.70, 7.85, 12.08, 11.03, 9.64, 8.96, 9.87, 9.27, 10.08, 11.59, 11.37, 9.69, 8.42, 9.37, 9.33, 9.90, 11.17, 13.07, 8.84, 9.82, 7.79, 11.52, 7.85 |
+| 9.61 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | 9.27, 10.08, 11.59, 11.37, 9.69, 8.42, 9.37, 9.33, 9.90, 11.17, 13.07, 8.84, 9.82, 7.79, 11.52, 7.85, 10.88, 9.79, 8.77, 10.18, 8.78, 8.30, 9.37, 8.69, 8.21 |
 | 10.19 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 10.47, 8.15, 9.21, 9.62, 7.13, 11.59, 13.77, 10.32, 10.04, 12.23, 10.22, 9.89, 8.43, 11.91, 10.03, 9.41, 9.97, 9.93, 11.16, 13.71, 8.41, 10.95, 9.98, 9.70, 10.56 |
 | 10.48 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | 9.73, 8.23, 11.61, 13.54, 11.65, 10.71, 9.24, 11.49, 11.61, 13.84, 10.36, 8.29, 8.00, 10.78, 11.57, 9.81, 8.26, 10.27, 12.48, 10.72, 10.15, 11.60, 8.46, 11.88, 9.38 |
 | 11.47 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 11.27, 11.48, 11.20, 12.59, 11.98, 10.91, 9.16, 11.06, 12.09, 13.21, 13.81, 10.17, 12.24, 11.11, 12.21, 10.41, 12.55, 12.54, 15.67, 10.18, 10.64, 11.37, 9.90, 11.57, 10.05 |

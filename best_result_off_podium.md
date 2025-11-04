@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals at Polish competitions are taken into account.*
-*Updated on  1 November 2025*
+*Updated on  4 November 2025*
 
 
 ### 3x3x3 Cube
@@ -31,8 +31,8 @@
 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | 0.98 | **1.57** | [Cube4fun Żyrardów 2024](https://www.worldcubeassociation.org/competitions/Cube4funCEZyrardow2024/results/all#e222_f) | 4 |
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 1.31 | **1.57** | [CFL Koluszki 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueKoluszki2025/results/all#e222_f) | 5 |
 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | 1.38 | **1.57** | [CFL Koluszki 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueKoluszki2025/results/all#e222_f) | 6 |
+| [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 1.31 | **1.61** | [Cube Zone Katowice 2025](https://www.worldcubeassociation.org/competitions/CubeZoneKatowice2025/results/all#e222_f) | 4 |
 | [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) | 1.19 | **1.62** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e222_f) | 5 |
-| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 1.27 | **1.62** | [Chorzów Open 2024](https://www.worldcubeassociation.org/competitions/ChorzowOpen2024/results/all#e222_f) | 4 |
 
 ### 4x4x4 Cube
 

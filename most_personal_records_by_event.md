@@ -1,7 +1,7 @@
 ## Most personal records by event
 
 *Note: Counts how many personal records (single or average) a competitor achieved in each event.*
-*Updated on  1 November 2025*
+*Updated on  4 November 2025*
 
 
 ### 3x3x3 Cube
@@ -25,14 +25,14 @@
 | ---: | :--- |
 | 36 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) |
 | 35 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
-| 34 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) |
+| 35 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) |
 | 33 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 33 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 32 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) |
+| 31 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
 | 31 | [Szymon Brągiel](https://www.worldcubeassociation.org/persons/2022BRAG03) |
-| 30 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
 | 30 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) |
-| 29 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
+| 30 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) |
 
 ### 4x4x4 Cube
 
@@ -134,9 +134,9 @@
 | 40 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 39 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 37 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
+| 37 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) |
 | 36 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 36 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |
-| 36 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) |
 | 35 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) |
 
 ### Megaminx

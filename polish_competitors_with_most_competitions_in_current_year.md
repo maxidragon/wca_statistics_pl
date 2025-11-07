@@ -1,18 +1,18 @@
 ## Polish competitors with most competitions in the current year
 
-*Updated on  4 November 2025*
+*Updated on  7 November 2025*
 
 | Competitions | Person |
 | ---: | :--- |
-| 49 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
-| 48 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
+| 50 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 49 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
 | 44 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 44 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
 | 43 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 35 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 32 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) |
 | 31 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
-| 27 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
+| 28 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 27 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
 | 27 | [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) |
 | 27 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
@@ -126,6 +126,7 @@
 | 11 | [Dominik Żabiński](https://www.worldcubeassociation.org/persons/2022ZABI01) |
 | 11 | [Marek Dojtrowski](https://www.worldcubeassociation.org/persons/2023DOJT01) |
 | 11 | [Adam Dojtrowski](https://www.worldcubeassociation.org/persons/2023DOJT02) |
+| 11 | [Marcin Karczmarz](https://www.worldcubeassociation.org/persons/2023KARC01) |
 | 11 | [Dawid Kowalczyk](https://www.worldcubeassociation.org/persons/2023KOWA07) |
 | 11 | [Kajtek Kwiatkowski](https://www.worldcubeassociation.org/persons/2023KWIA01) |
 | 11 | [Hubert Seelieb](https://www.worldcubeassociation.org/persons/2023SEEL02) |
@@ -145,7 +146,6 @@
 | 10 | [Aleksandra Bury](https://www.worldcubeassociation.org/persons/2023BURY01) |
 | 10 | [Kazimierz Cieślak](https://www.worldcubeassociation.org/persons/2023CIES01) |
 | 10 | [Wiktor Gugulski](https://www.worldcubeassociation.org/persons/2023GUGU01) |
-| 10 | [Marcin Karczmarz](https://www.worldcubeassociation.org/persons/2023KARC01) |
 | 10 | [Jakub Łebkowski](https://www.worldcubeassociation.org/persons/2023LEBK01) |
 | 10 | [Tymoteusz Zmudzki Piskorska](https://www.worldcubeassociation.org/persons/2024PISK02) |
 | 10 | [Tomek Thinlay](https://www.worldcubeassociation.org/persons/2025THIN01) |

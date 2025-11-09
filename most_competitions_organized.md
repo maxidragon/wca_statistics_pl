@@ -1,18 +1,18 @@
 ## Most competitions organized
 
-*Updated on  7 November 2025*
+*Updated on  8 November 2025*
 
 | Organized | Person |
 | ---: | :--- |
 | 128 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
 | 76 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
-| 63 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
+| 64 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 57 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
-| 40 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
-| 35 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
+| 41 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 36 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 30 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) |
 | 28 | [Karolina Wiącek](https://www.worldcubeassociation.org/persons/2008WIAC01) |
-| 27 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
+| 28 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
 | 25 | [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) |
 | 23 | [Radosław Ciuk](https://www.worldcubeassociation.org/persons/2013CIUK01) |
 | 23 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
@@ -24,10 +24,10 @@
 | 15 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) |
 | 15 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 13 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
+| 13 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
 | 13 | [Piotr Gabara](https://www.worldcubeassociation.org/persons/2024GABA02) |
 | 12 | [Szymon Jeziorski](https://www.worldcubeassociation.org/persons/2013JEZI01) |
 | 12 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) |
-| 12 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
 | 11 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
 | 10 | [Krzysztof Kasprzak](https://www.worldcubeassociation.org/persons/2015KASP01) |
 | 10 | [Przemysław Malinowski](https://www.worldcubeassociation.org/persons/2022MALI01) |

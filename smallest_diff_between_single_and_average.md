@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  8 November 2025*
+*Updated on 10 November 2025*
 
 
 ### 3x3x3 Cube
@@ -128,6 +128,7 @@
 
 | Diff | Person | Single | Average | Results |
 | ---: | :--- | ---: | ---: | :--- |
+| 0.23 | [Marcin Chmielewski](https://www.worldcubeassociation.org/persons/2023CHMI01) | 1:15.45 | 1:15.68 | [BrizZon Side Open V 2025](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenV2025/results/by_person#2023CHMI01) |
 | 0.30 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) | 37.64 | 37.94 | [Pilzno in the Mirror 2024](https://www.worldcubeassociation.org/competitions/PilznointheMirror2024/results/by_person#2013MALI03) |
 | 0.41 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | 40.12 | 40.53 | [Pilzno Cubing Holiday 2025](https://www.worldcubeassociation.org/competitions/PilznoCubingHoliday2025/results/by_person#2022SLIW01) |
 | 0.41 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 1:25.11 | 1:25.52 | [BrizZon Side Open II 2024](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenII2024/results/by_person#2019ROGO04) |
@@ -137,7 +138,6 @@
 | 0.50 | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) | 42.23 | 42.73 | [Silesian Minx Fest 2025](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2025/results/by_person#2017TKAC04) |
 | 0.50 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 48.54 | 49.04 | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/by_person#2013BURL01) |
 | 0.51 | [Witold Sołtysik](https://www.worldcubeassociation.org/persons/2015SOLT03) | 47.28 | 47.79 | [Żory Open 2025](https://www.worldcubeassociation.org/competitions/ZoryOpen2025/results/by_person#2015SOLT03) |
-| 0.53 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) | 54.36 | 54.89 | [GLS Cup Final 2018](https://www.worldcubeassociation.org/competitions/GLSCupFinal2018/results/by_person#2012KRIS12) |
 
 ### Pyraminx
 

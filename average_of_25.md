@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 10 November 2025*
+*Updated on 13 November 2025*
 
 
 ### 3x3x3 Cube
@@ -156,7 +156,7 @@
 | 1.96 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | 1.80, 1.71, 2.05, 1.68, 2.08, 2.32, 1.87, 1.69, 2.34, 2.84, 2.19, 1.41, 2.30, 1.53, 1.88, 1.69, 1.98, 1.82, 4.31, 2.95, 1.79, 1.65, 1.73, 1.00, 2.12 |
 | 2.01 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1.75, 1.54, 1.96, 4.05, 1.74, 1.80, 4.55, 1.64, 2.83, 1.68, 1.78, 2.01, 2.23, 2.17, 1.69, 2.24, 2.06, 2.82, 1.85, 1.66, 2.86, 1.87, 1.65, 1.97, 1.50 |
 | 2.03 | [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) | 1.88, 2.41, 1.95, 2.33, 1.18, 3.69, 2.62, 1.94, 1.98, 2.16, 1.95, 2.04, 2.28, 1.15, 2.03, 2.33, 2.12, 1.82, 3.71, 1.95, 1.76, 2.10, 1.55, 1.60, 1.76 |
-| 2.13 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | 1.88, 2.66, 2.09, 2.24, 2.04, 2.34, 1.88, 3.20, 1.78, 1.39, 1.41, 2.06, 2.71, 2.00, 1.50, 2.25, 1.83, 2.56, 3.91, 2.34, 2.01, 2.26, 1.98, 2.33, 2.05 |
+| 2.11 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | 2.25, 2.34, 1.70, 2.55, 2.90, 1.97, 2.23, 2.38, 2.33, 1.89, 1.77, 2.27, 1.31, 2.64, 3.32, 2.19, 1.54, 1.26, 2.52, 3.56, 1.58, 1.65, 2.09, 1.66, 1.96 |
 | 2.15 | [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) | 3.00, 2.15, 1.76, 1.36, 2.36, 1.54, 2.17, 2.91, 2.59, 1.95, 1.86, 2.17, 2.10, 2.36, 2.24, 2.15, 2.31, 2.10, 1.31, 2.21, 2.71, 2.10, 1.95, 2.06, 2.33 |
 | 2.19 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 2.48, 2.51, 2.34, 2.10, 6.70, 1.87, 2.33, 1.94, 2.43, 1.93, 2.13, 2.35, 1.59, 2.45, 1.88, 2.05, 1.69, 2.77, 2.09, 2.55, 2.12, 2.14, 2.37, 2.33, 1.14 |
 | 2.23 | [Henryk Gabor](https://www.worldcubeassociation.org/persons/2024GABO02) | 2.49, 1.81, 2.28, 2.75, 1.89, 1.80, 2.33, 2.71, 1.98, 2.56, 2.43, 1.49, 2.27, 1.54, 1.80, 2.29, 1.79, 3.02, 2.31, 2.30, 3.33, 4.63, 2.63, 1.71, 1.61 |

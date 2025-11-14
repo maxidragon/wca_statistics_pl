@@ -40,10 +40,10 @@
 | 8 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
 | 8 | [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) |
 | 8 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
+| 8 | Stowarzyszenie LIGA NIEZWYKŁYCH |
 | 7 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
 | 7 | [Przemysław Piątek](https://www.worldcubeassociation.org/persons/2013PITE01) |
 | 7 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
-| 7 | Stowarzyszenie LIGA NIEZWYKŁYCH |
 | 6 | [Błażej Morgała](https://www.worldcubeassociation.org/persons/2006MORG01) |
 | 6 | [Mateusz Cichoracki](https://www.worldcubeassociation.org/persons/2011CICH01) |
 | 6 | [Artur Rapiński](https://www.worldcubeassociation.org/persons/2016RAPI01) |

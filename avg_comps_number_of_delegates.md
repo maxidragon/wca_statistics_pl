@@ -1,8 +1,14 @@
 ## Average number of competitions of listed delegates at Polish competitions by number of delegates
 
 *Note: Competitions are grouped by how many delegates they had. Each table shows the competitions with the highest average number of competitions that listed delegates had participated in up to and including the one they delegated.*
-*Updated on 16 November 2025*
+*Updated on 17 November 2025*
 
+
+### 9 Delegates
+
+| Competition | Delegates | Average number of competitions of listed delegates |
+| :--- | :--- | ---: |
+| [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01), [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01), [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01), [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01), [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01), [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01), [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 162.22 |
 
 ### 6 Delegates
 

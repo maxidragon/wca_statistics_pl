@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on 16 November 2025*
+*Updated on 17 November 2025*
 
 
 ### World
@@ -171,6 +171,7 @@
 | 2 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Piła Open 2025](https://www.worldcubeassociation.org/competitions/PilaOpen2025/results/by_person#2016KOLA02) |
 | 2 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Hvidovre NxN 2025](https://www.worldcubeassociation.org/competitions/HvidovreNxN2025/results/by_person#2016KOLA02) |
 | 2 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2016KOLA02) |
+| 2 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/by_person#2016KOLA02) |
 | 2 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | [Bishop's Stortford - BBO 2022](https://www.worldcubeassociation.org/competitions/BishopsStortfordAutumnBBO2022/results/by_person#2017DEBS01) |
 | 2 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Cube4fun Lublin on WEII 2024](https://www.worldcubeassociation.org/competitions/Cube4funLublinonWEII2024/results/by_person#2021KASP01) |
 

@@ -1,6 +1,6 @@
 ## National records count by person
 
-*Updated on 16 November 2025*
+*Updated on 17 November 2025*
 
 | WRs | Person |
 | ---: | :--- |
@@ -43,19 +43,19 @@
 | 5 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |
 | 5 | [Stefan Łapicki](https://www.worldcubeassociation.org/persons/2006LAPI01) |
 | 4 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) |
+| 4 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) |
 | 4 | [Grzegorz Dzikiewicz](https://www.worldcubeassociation.org/persons/2008DZIK01) |
 | 4 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) |
 | 4 | [Jarosław Nowicki](https://www.worldcubeassociation.org/persons/2004NOWI01) |
+| 4 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
 | 4 | [Marcel Politowicz](https://www.worldcubeassociation.org/persons/2021POLI02) |
 | 4 | [Michał Wizner](https://www.worldcubeassociation.org/persons/2005WIZN01) |
 | 4 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
 | 4 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) |
 | 3 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) |
-| 3 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) |
 | 3 | [Jakub Zawiślak](https://www.worldcubeassociation.org/persons/2006ZAWI02) |
 | 3 | [Kacper Pawlaczyk](https://www.worldcubeassociation.org/persons/2005PAWL01) |
 | 3 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
-| 3 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
 | 3 | [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) |
 | 3 | [Michał Robaczyk](https://www.worldcubeassociation.org/persons/2006ROBA01) |
 | 3 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) |

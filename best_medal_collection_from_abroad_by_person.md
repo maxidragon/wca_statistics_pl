@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 16 November 2025*
+*Updated on 17 November 2025*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -64,6 +64,7 @@
 | [Tomasz Cepil](https://www.worldcubeassociation.org/persons/2018CEPI01) | **3** | 1 | 1 | 5 |
 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | **3** | 0 | 0 | 3 |
 | [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) | **2** | 8 | 2 | 12 |
+| [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) | **2** | 6 | 8 | 16 |
 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | **2** | 6 | 1 | 9 |
 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) | **2** | 5 | 4 | 11 |
 | [Rafał Studnicki](https://www.worldcubeassociation.org/persons/2005STUD01) | **2** | 4 | 3 | 9 |
@@ -78,7 +79,6 @@
 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) | **2** | 0 | 0 | 2 |
 | [Szymon Jeziorski](https://www.worldcubeassociation.org/persons/2013JEZI01) | **2** | 0 | 0 | 2 |
 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) | **2** | 0 | 0 | 2 |
-| [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) | **1** | 6 | 8 | 15 |
 | [Victor Kiziukiewicz](https://www.worldcubeassociation.org/persons/2023KIZI01) | **1** | 5 | 1 | 7 |
 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | **1** | 4 | 6 | 11 |
 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) | **1** | 4 | 1 | 6 |

@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 17 November 2025*
+*Updated on 19 November 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -29,12 +29,12 @@
 | 14 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) |
 | 14 | [Alex Myrus](https://www.worldcubeassociation.org/persons/2022MYRU01) |
 | 14 | [Naama Anbar](https://www.worldcubeassociation.org/persons/2023ANBA01) |
+| 14 | [Tymoteusz Zmudzki Piskorska](https://www.worldcubeassociation.org/persons/2024PISK02) |
 | 13 | [Wojciech Poljanowski](https://www.worldcubeassociation.org/persons/2010POLJ01) |
 | 13 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) |
 | 13 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
 | 13 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) |
 | 13 | [Szymon Plesniak](https://www.worldcubeassociation.org/persons/2024PLES01) |
-| 13 | [Tymoteusz Zmudzki Piskorska](https://www.worldcubeassociation.org/persons/2024PISK02) |
 | 12 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) |
 | 12 | [Nathaniel Bigaj](https://www.worldcubeassociation.org/persons/2019BIGA01) |
 | 12 | [Liam Stuart Ferreira](https://www.worldcubeassociation.org/persons/2022FERR14) |
@@ -91,6 +91,7 @@
 | 6 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 6 | [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) |
 | 6 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
+| 6 | [Piotr Tomczyk](https://www.worldcubeassociation.org/persons/2016TOMC01) |
 | 6 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) |
 | 6 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
 | 6 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
@@ -115,7 +116,6 @@
 | 5 | [Igor Kowalczyk](https://www.worldcubeassociation.org/persons/2013KOWA04) |
 | 5 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) |
 | 5 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) |
-| 5 | [Piotr Tomczyk](https://www.worldcubeassociation.org/persons/2016TOMC01) |
 | 5 | [Stanisław Dąbrowski](https://www.worldcubeassociation.org/persons/2016DABR03) |
 | 5 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) |
 | 5 | [Bartek Mirecki](https://www.worldcubeassociation.org/persons/2017MIRE01) |

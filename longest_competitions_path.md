@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 17 November 2025*
+*Updated on 19 November 2025*
 
 | Person | Distance |
 | :--- | ---: |
@@ -598,8 +598,8 @@
 | [Piotr Gabara](https://www.worldcubeassociation.org/persons/2024GABA02) | 2 199 km |
 | [Antoni Bzinkowski](https://www.worldcubeassociation.org/persons/2024BZIN01) | 2 194 km |
 | [Marek Gancarz](https://www.worldcubeassociation.org/persons/2008GANC01) | 2 185 km |
+| [Tymoteusz Zmudzki Piskorska](https://www.worldcubeassociation.org/persons/2024PISK02) | 2 180 km |
 | [Szymon Prajsnar](https://www.worldcubeassociation.org/persons/2019PRAJ03) | 2 179 km |
-| [Tymoteusz Zmudzki Piskorska](https://www.worldcubeassociation.org/persons/2024PISK02) | 2 179 km |
 | [Dominika Dziczek](https://www.worldcubeassociation.org/persons/2019DZIC01) | 2 177 km |
 | [Józef Pietrucha](https://www.worldcubeassociation.org/persons/2022PIET01) | 2 175 km |
 | [Michał Selwesiuk](https://www.worldcubeassociation.org/persons/2023SELW01) | 2 163 km |

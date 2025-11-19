@@ -1,6 +1,6 @@
 ## Most bookmarks compared to competitor limit
 
-*Updated on 17 November 2025*
+*Updated on 19 November 2025*
 
 | Competition | Bookmarks | Competitor limit | Ratio |
 | ---: | :--- | :--- | :--- |
@@ -14,10 +14,10 @@
 | [Cubing Mine Rybnik II 2024](https://www.worldcubeassociation.org/competitions/CubingMineRybnikII2024) | 48 | 50 | 0.96 |
 | [Winter Side Wrocław 2025](https://www.worldcubeassociation.org/competitions/WinterSideWroclaw2025) | 33 | 35 | 0.94286 |
 | [2 Rounds of FMC in Rzeszów 2023](https://www.worldcubeassociation.org/competitions/2RoundsofFMCinRzeszow2023) | 12 | 13 | 0.92308 |
+| [Warsaw Late Solving 2025](https://www.worldcubeassociation.org/competitions/WarsawLateSolving2025) | 27 | 30 | 0.9 |
 | [5BLD Masters Opole 2025](https://www.worldcubeassociation.org/competitions/5BLDMastersOpole2025) | 25 | 30 | 0.83333 |
 | [Warsaw FMC Tour II Friday 2024](https://www.worldcubeassociation.org/competitions/WarsawFMCTourIIFriday2024) | 10 | 12 | 0.83333 |
 | [BrizZon Sylwester Open 2024](https://www.worldcubeassociation.org/competitions/BrizZonSylwesterOpen2024) | 28 | 35 | 0.8 |
-| [Warsaw Late Solving 2025](https://www.worldcubeassociation.org/competitions/WarsawLateSolving2025) | 24 | 30 | 0.8 |
 | [BrizZon Side Open IV 2025](https://www.worldcubeassociation.org/competitions/BrizzonSideOpenIV2025) | 27 | 35 | 0.77143 |
 | [Warsaw FMC Tour II Thursday 2024](https://www.worldcubeassociation.org/competitions/WarsawFMCTourIIThursday2024) | 9 | 12 | 0.75 |
 | [Warsaw FMC Tour Thursday 2024](https://www.worldcubeassociation.org/competitions/WarsawFMCTourThursday2024) | 11 | 15 | 0.73333 |

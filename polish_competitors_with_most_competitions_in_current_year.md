@@ -1,6 +1,6 @@
 ## Polish competitors with most competitions in the current year
 
-*Updated on 17 November 2025*
+*Updated on 19 November 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -145,6 +145,7 @@
 | 11 | [Wiktor Gugulski](https://www.worldcubeassociation.org/persons/2023GUGU01) |
 | 11 | [Dawid Kowalczyk](https://www.worldcubeassociation.org/persons/2023KOWA07) |
 | 11 | [Jakub Łebkowski](https://www.worldcubeassociation.org/persons/2023LEBK01) |
+| 11 | [Tymoteusz Zmudzki Piskorska](https://www.worldcubeassociation.org/persons/2024PISK02) |
 | 11 | [Wiktor Świstowski](https://www.worldcubeassociation.org/persons/2024SWIS01) |
 | 11 | [Tomek Thinlay](https://www.worldcubeassociation.org/persons/2025THIN01) |
 | 10 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
@@ -166,7 +167,6 @@
 | 10 | [Mikołaj Świątek](https://www.worldcubeassociation.org/persons/2023SWIA01) |
 | 10 | [Michał Herzyk](https://www.worldcubeassociation.org/persons/2024HERZ04) |
 | 10 | [Cezary Mańkowski](https://www.worldcubeassociation.org/persons/2024MANK03) |
-| 10 | [Tymoteusz Zmudzki Piskorska](https://www.worldcubeassociation.org/persons/2024PISK02) |
 | 10 | [Kacper Rafalski](https://www.worldcubeassociation.org/persons/2024RAFA06) |
 | 10 | [Adrian Słowik](https://www.worldcubeassociation.org/persons/2024SLOW01) |
 | 10 | [Michał Suski](https://www.worldcubeassociation.org/persons/2025SUSK01) |
@@ -271,6 +271,7 @@
 | 6 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
 | 6 | [Kacper Szeląg](https://www.worldcubeassociation.org/persons/2015SZEL01) |
 | 6 | [Marcel Nycz](https://www.worldcubeassociation.org/persons/2016NYCZ01) |
+| 6 | [Piotr Tomczyk](https://www.worldcubeassociation.org/persons/2016TOMC01) |
 | 6 | [Leon Jakub Wyrobek](https://www.worldcubeassociation.org/persons/2016WYRO01) |
 | 6 | [Adam Łyskawa](https://www.worldcubeassociation.org/persons/2017LYSK01) |
 | 6 | [Krzysztof Bloch](https://www.worldcubeassociation.org/persons/2019BLOC02) |
@@ -327,7 +328,6 @@
 | 5 | [Konrad Leśniak](https://www.worldcubeassociation.org/persons/2014LENI02) |
 | 5 | [Michał Wachowiak](https://www.worldcubeassociation.org/persons/2015WACH01) |
 | 5 | [Michał Wojcieszek](https://www.worldcubeassociation.org/persons/2015WOJC02) |
-| 5 | [Piotr Tomczyk](https://www.worldcubeassociation.org/persons/2016TOMC01) |
 | 5 | [Maciej Jabłoński](https://www.worldcubeassociation.org/persons/2017JABL01) |
 | 5 | [Grzegorz Chudzik](https://www.worldcubeassociation.org/persons/2018CHUD02) |
 | 5 | [Jakub Lorens](https://www.worldcubeassociation.org/persons/2018LORE01) |

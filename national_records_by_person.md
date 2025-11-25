@@ -1,6 +1,6 @@
 ## National records count by person
 
-*Updated on 22 November 2025*
+*Updated on 25 November 2025*
 
 | WRs | Person |
 | ---: | :--- |
@@ -50,6 +50,7 @@
 | 4 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
 | 4 | [Marcel Politowicz](https://www.worldcubeassociation.org/persons/2021POLI02) |
 | 4 | [Michał Wizner](https://www.worldcubeassociation.org/persons/2005WIZN01) |
+| 4 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) |
 | 4 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
 | 4 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) |
 | 3 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) |
@@ -58,7 +59,6 @@
 | 3 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 3 | [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) |
 | 3 | [Michał Robaczyk](https://www.worldcubeassociation.org/persons/2006ROBA01) |
-| 3 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) |
 | 3 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) |
 | 2 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) |
 | 2 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) |

@@ -1,12 +1,12 @@
 ## Most consecutive weeks with competitions
 
 *Note: Only includes people from Poland. Weeks are counted as ISO weeks (Monday-Sunday). Multiple competitions in the same week count as one.*
-*Updated on 22 November 2025*
+*Updated on 25 November 2025*
 
 | Count | Person | Start comp | End comp |
 | ---: | :--- | :--- | :--- |
 | 41 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | [Cubing Mine Rybnik 2024](https://www.worldcubeassociation.org/competitions/CubingMineRybnik2024) | [Cube4fun Lublin Winter 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2025) |
-| 28 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | [Cubing Spring Rybnik 2025](https://www.worldcubeassociation.org/competitions/CubingSpringRybnik2025) | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) |
+| 29 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | [Cubing Spring Rybnik 2025](https://www.worldcubeassociation.org/competitions/CubingSpringRybnik2025) | [Mielec Cubing Days 2025](https://www.worldcubeassociation.org/competitions/MielecCubingDays2025) |
 | 26 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | [Cube Factory League Brzeziny Spring 2025](https://www.worldcubeassociation.org/competitions/CFLBrzezinySpring2025) | [Cube Factory League Final Łódź 2025](https://www.worldcubeassociation.org/competitions/CFLFinalLodz2025) |
 | 24 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | [Cubing in Ružinov: January 2025](https://www.worldcubeassociation.org/competitions/CubinginRuzinovJanuary2025) | [CF Goes Sideways Brzeziny II 2025](https://www.worldcubeassociation.org/competitions/CFSidewaysBrzezinyII2025) |
 | 19 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | [Cube Factory League Brzeziny Spring 2025](https://www.worldcubeassociation.org/competitions/CFLBrzezinySpring2025) | [Lakeside Megaminx Fiesta Augustów 2025](https://www.worldcubeassociation.org/competitions/MegaminxFiestaAugustow2025) |

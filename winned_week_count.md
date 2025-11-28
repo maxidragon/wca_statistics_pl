@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 25 November 2025*
+*Updated on 28 November 2025*
 
 
 ### 3x3x3 Cube
@@ -172,7 +172,7 @@
 
 | Person | Winned weeks |
 | :--- | ---: |
-| [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 14 |
+| [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 13 |
 | [Filip Miazek](https://www.worldcubeassociation.org/persons/2010MIAZ01) | 6 |
 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) | 6 |
 | [Kamil Zieliński](https://www.worldcubeassociation.org/persons/2008ZIEL01) | 5 |

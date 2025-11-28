@@ -1,6 +1,6 @@
 ## Polish competitors with most competitions in the current year
 
-*Updated on 25 November 2025*
+*Updated on 28 November 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -108,6 +108,7 @@
 | 13 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) |
 | 13 | [Rafał Gawełczyk](https://www.worldcubeassociation.org/persons/2023GAWE01) |
 | 13 | [Julian Helowicz](https://www.worldcubeassociation.org/persons/2023HELO01) |
+| 13 | [Marcin Karczmarz](https://www.worldcubeassociation.org/persons/2023KARC01) |
 | 13 | [Sebastian Kierznikiewicz](https://www.worldcubeassociation.org/persons/2023KIER02) |
 | 13 | [Anna Łebkowska](https://www.worldcubeassociation.org/persons/2023LEBK04) |
 | 13 | [Dominik Podolak](https://www.worldcubeassociation.org/persons/2023PODO02) |
@@ -128,7 +129,6 @@
 | 12 | [Dominik Żabiński](https://www.worldcubeassociation.org/persons/2022ZABI01) |
 | 12 | [Marek Dojtrowski](https://www.worldcubeassociation.org/persons/2023DOJT01) |
 | 12 | [Adam Dojtrowski](https://www.worldcubeassociation.org/persons/2023DOJT02) |
-| 12 | [Marcin Karczmarz](https://www.worldcubeassociation.org/persons/2023KARC01) |
 | 12 | [Kajtek Kwiatkowski](https://www.worldcubeassociation.org/persons/2023KWIA01) |
 | 12 | [Hubert Seelieb](https://www.worldcubeassociation.org/persons/2023SEEL02) |
 | 12 | [Mikołaj Seelieb](https://www.worldcubeassociation.org/persons/2023SEEL04) |
@@ -579,6 +579,7 @@
 | 3 | [Wojciech Bujak](https://www.worldcubeassociation.org/persons/2025BUJA02) |
 | 3 | [Michał Burzyński](https://www.worldcubeassociation.org/persons/2025BURZ01) |
 | 3 | [Mikołaj Depta](https://www.worldcubeassociation.org/persons/2025DEPT01) |
+| 3 | [Eden Duquesne](https://www.worldcubeassociation.org/persons/2025DUQU04) |
 | 3 | [Franciszek Filipowski](https://www.worldcubeassociation.org/persons/2025FILI05) |
 | 3 | [Jan Filipowski](https://www.worldcubeassociation.org/persons/2025FILI06) |
 | 3 | [Antoni Flisak](https://www.worldcubeassociation.org/persons/2025FLIS01) |
@@ -677,6 +678,7 @@
 | 2 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) |
 | 2 | [Adam Brzana](https://www.worldcubeassociation.org/persons/2022BRZA01) |
 | 2 | [Omer Yusuf Gonen](https://www.worldcubeassociation.org/persons/2022GONE01) |
+| 2 | [Eryk Haoyan Klimek](https://www.worldcubeassociation.org/persons/2022KLIM01) |
 | 2 | [Miłosz Łaskawiec](https://www.worldcubeassociation.org/persons/2022LASK01) |
 | 2 | [Radosz Mitas](https://www.worldcubeassociation.org/persons/2022MITA02) |
 | 2 | [Filip Nowak](https://www.worldcubeassociation.org/persons/2022NOWA02) |
@@ -763,7 +765,6 @@
 | 2 | [Tadeusz Czachor](https://www.worldcubeassociation.org/persons/2025CZAC01) |
 | 2 | [Ireneusz Czapla](https://www.worldcubeassociation.org/persons/2025CZAP03) |
 | 2 | [Marko Duda](https://www.worldcubeassociation.org/persons/2025DUDA01) |
-| 2 | [Eden Duquesne](https://www.worldcubeassociation.org/persons/2025DUQU04) |
 | 2 | [Stefan Dutkowski](https://www.worldcubeassociation.org/persons/2025DUTK01) |
 | 2 | [Jakub Dybek](https://www.worldcubeassociation.org/persons/2025DYBE01) |
 | 2 | [Dawid Dziuba](https://www.worldcubeassociation.org/persons/2025DZIU02) |
@@ -954,7 +955,6 @@
 | 1 | [Maksymilian Januszewski](https://www.worldcubeassociation.org/persons/2022JANU01) |
 | 1 | [Adam Jedynak](https://www.worldcubeassociation.org/persons/2022JEDY01) |
 | 1 | [Julek Kawczyński](https://www.worldcubeassociation.org/persons/2022KAWC01) |
-| 1 | [Eryk Haoyan Klimek](https://www.worldcubeassociation.org/persons/2022KLIM01) |
 | 1 | [Mikołaj Kopeć](https://www.worldcubeassociation.org/persons/2022KOPE02) |
 | 1 | [Szymon Kostelecki](https://www.worldcubeassociation.org/persons/2022KOST01) |
 | 1 | [Adrian Kowalczyk](https://www.worldcubeassociation.org/persons/2022KOWA01) |

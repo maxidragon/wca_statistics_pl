@@ -4,7 +4,7 @@
 
 | Organized | Person |
 | ---: | :--- |
-| 128 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
+| 129 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
 | 76 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
 | 64 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 58 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
@@ -73,6 +73,7 @@
 | 4 | [Marek Kurcyus](https://www.worldcubeassociation.org/persons/2005KURC01) |
 | 4 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) |
 | 4 | [Maksymilian Januszewski](https://www.worldcubeassociation.org/persons/2022JANU01) |
+| 4 | [Arleta Tokarska](https://www.worldcubeassociation.org/persons/2025TOKA01) |
 | 3 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
 | 3 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) |
 | 3 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) |
@@ -94,7 +95,6 @@
 | 3 | [Kajtek Kwiatkowski](https://www.worldcubeassociation.org/persons/2023KWIA01) |
 | 3 | [Mateusz Ziemba](https://www.worldcubeassociation.org/persons/2022ZIEM01) |
 | 3 | [Roksana Porucznik](https://www.worldcubeassociation.org/persons/2024PORU01) |
-| 3 | [Arleta Tokarska](https://www.worldcubeassociation.org/persons/2025TOKA01) |
 | 3 | [Antoni Osman](https://www.worldcubeassociation.org/persons/2024OSMA01) |
 
 

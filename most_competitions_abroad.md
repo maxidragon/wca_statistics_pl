@@ -1,10 +1,10 @@
 ## Most competitions abroad
 
-*Updated on 28 November 2025*
+*Updated on  1 December 2025*
 
 | Competitions | Person |
 | ---: | :--- |
-| 108 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 109 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 65 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 54 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 36 | [Igor Wojciech Wawrzynski](https://www.worldcubeassociation.org/persons/2019WAWR01) |
@@ -20,8 +20,8 @@
 | 18 | [Wiktor Zegadło](https://www.worldcubeassociation.org/persons/2017ZEGA01) |
 | 17 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) |
 | 17 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
+| 17 | [Michał Kaczmarek](https://www.worldcubeassociation.org/persons/2021KACZ01) |
 | 17 | [Magnus Miłosz Birecki](https://www.worldcubeassociation.org/persons/2022BIRE01) |
-| 16 | [Michał Kaczmarek](https://www.worldcubeassociation.org/persons/2021KACZ01) |
 | 15 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) |
 | 15 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 14 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
@@ -82,6 +82,7 @@
 | 7 | [Kamil Michalak](https://www.worldcubeassociation.org/persons/2016MICH01) |
 | 7 | [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) |
 | 7 | [Piotr Zambrzycki](https://www.worldcubeassociation.org/persons/2018ZAMB02) |
+| 7 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) |
 | 7 | [Adam Steuer](https://www.worldcubeassociation.org/persons/2023STEU01) |
 | 7 | [Oskar Wojtyna](https://www.worldcubeassociation.org/persons/2024WOJT03) |
 | 6 | [Łukasz Cichecki](https://www.worldcubeassociation.org/persons/2007CICH01) |
@@ -92,7 +93,6 @@
 | 6 | [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) |
 | 6 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
 | 6 | [Piotr Tomczyk](https://www.worldcubeassociation.org/persons/2016TOMC01) |
-| 6 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) |
 | 6 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
 | 6 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
 | 6 | [Marcin Szacki](https://www.worldcubeassociation.org/persons/2022SZAC01) |

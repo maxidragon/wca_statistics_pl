@@ -1,7 +1,7 @@
 ## Most personal records by event
 
 *Note: Counts how many personal records (single or average) a competitor achieved in each event.*
-*Updated on 28 November 2025*
+*Updated on  1 December 2025*
 
 
 ### 3x3x3 Cube
@@ -102,7 +102,7 @@
 | 29 | [Stanisław Szyszka](https://www.worldcubeassociation.org/persons/2016SZYS02) |
 | 28 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) |
 | 28 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) |
-| 27 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 28 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 25 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
 | 24 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) |
 | 24 | [Kamil Michalak](https://www.worldcubeassociation.org/persons/2016MICH01) |
@@ -133,9 +133,9 @@
 | 40 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 40 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 39 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
+| 38 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) |
 | 37 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 37 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
-| 37 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) |
 | 36 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |
 | 35 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) |
 
@@ -163,8 +163,8 @@
 | 36 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
 | 33 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 33 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
+| 32 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) |
 | 32 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) |
-| 31 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) |
 | 31 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 31 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) |
 | 31 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) |

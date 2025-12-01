@@ -1,11 +1,11 @@
 ## Average results submission time by Polish delegates
 
-*Updated on 28 November 2025*
+*Updated on  1 December 2025*
 
 | Delegate | Average time | Total delegated |
 | ---: | :--- | ---: |
 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 0.77h | 24 |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 15.85h | 106 |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 15.76h | 107 |
 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 21.02h | 24 |
 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 1d 0.78h | 19 |
 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 1d 4.21h | 54 |

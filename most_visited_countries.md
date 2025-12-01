@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 28 November 2025*
+*Updated on  1 December 2025*
 
 | Countries | Person |
 | ---: | :--- |
@@ -37,13 +37,13 @@
 | 8 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
 | 8 | [Rafał Studnicki](https://www.worldcubeassociation.org/persons/2005STUD01) |
 | 8 | [Wojciech Barciaga](https://www.worldcubeassociation.org/persons/2013BARC03) |
+| 7 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) |
 | 7 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 7 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) |
 | 7 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) |
 | 7 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 7 | [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) |
 | 6 | [Stanisław Dąbrowski](https://www.worldcubeassociation.org/persons/2016DABR03) |
-| 6 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) |
 | 6 | [Kamil Zieliński](https://www.worldcubeassociation.org/persons/2008ZIEL01) |
 | 6 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) |
 | 6 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |

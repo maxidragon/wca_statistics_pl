@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 28 November 2025*
+*Updated on  1 December 2025*
 
 
 ### 3x3x3 Cube - Single
@@ -266,7 +266,7 @@
 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | **8.83** |  | [Mielec Cubing Days 2025](https://www.worldcubeassociation.org/competitions/MielecCubingDays2025) | 7.68, 8.04, 9.28, 9.16, 13.46 |
 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | **8.99** |  | [Chorzów Cubing Days 2025](https://www.worldcubeassociation.org/competitions/ChorzowCubingDays2025) | 10.82, 8.23, 9.42, 9.33, 7.87 |
 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | **9.14** |  | [Energy Cube Konin 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeKonin2025) | 8.98, 8.19, 9.53, 12.77, 8.92 |
-| [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | **9.68** |  | [Cube Zone Katowice 2025](https://www.worldcubeassociation.org/competitions/CubeZoneKatowice2025) | 10.27, 8.65, 9.64, 9.31, 10.09 |
+| [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | **9.58** |  | [Hvidovre Open 2025](https://www.worldcubeassociation.org/competitions/HvidovreOpen2025) | 10.57, 8.72, 9.44, 11.67, 8.48 |
 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | **10.14** |  | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) | 8.97, 14.13, 11.58, 9.88, 8.97 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **10.69** |  | [CFL Brzeziny 2025](https://www.worldcubeassociation.org/competitions/CFLBrzeziny2025) | 10.64, 11.37, 9.90, 11.57, 10.05 |
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | **10.74** |  | [Cube4fun Tylmanowa Spring 2025](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaSpring2025) | 9.48, 11.16, 10.81, 16.70, 10.25 |

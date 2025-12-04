@@ -1,6 +1,6 @@
 ## Polish competitors with most competitions in the current year
 
-*Updated on  1 December 2025*
+*Updated on  4 December 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -94,6 +94,7 @@
 | 14 | [Filip Brokos](https://www.worldcubeassociation.org/persons/2022BROK03) |
 | 14 | [Piotr Brokos](https://www.worldcubeassociation.org/persons/2023BROK01) |
 | 14 | [Arkadiusz Dubicki](https://www.worldcubeassociation.org/persons/2023DUBI01) |
+| 14 | [Marcin Karczmarz](https://www.worldcubeassociation.org/persons/2023KARC01) |
 | 14 | [Paweł Stolarski](https://www.worldcubeassociation.org/persons/2023STOL04) |
 | 14 | [Julia Dąbrowska](https://www.worldcubeassociation.org/persons/2024DABR01) |
 | 14 | [Piotr Gabara](https://www.worldcubeassociation.org/persons/2024GABA02) |
@@ -110,7 +111,6 @@
 | 13 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) |
 | 13 | [Rafał Gawełczyk](https://www.worldcubeassociation.org/persons/2023GAWE01) |
 | 13 | [Julian Helowicz](https://www.worldcubeassociation.org/persons/2023HELO01) |
-| 13 | [Marcin Karczmarz](https://www.worldcubeassociation.org/persons/2023KARC01) |
 | 13 | [Sebastian Kierznikiewicz](https://www.worldcubeassociation.org/persons/2023KIER02) |
 | 13 | [Anna Łebkowska](https://www.worldcubeassociation.org/persons/2023LEBK04) |
 | 13 | [Dominik Podolak](https://www.worldcubeassociation.org/persons/2023PODO02) |

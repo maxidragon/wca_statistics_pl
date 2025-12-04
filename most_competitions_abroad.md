@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on  1 December 2025*
+*Updated on  4 December 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -63,6 +63,7 @@
 | 9 | [Szymon Jaworski](https://www.worldcubeassociation.org/persons/2021JAWO01) |
 | 9 | [Oskar Obeid](https://www.worldcubeassociation.org/persons/2022OBEI01) |
 | 9 | [Eryk Haoyan Klimek](https://www.worldcubeassociation.org/persons/2022KLIM01) |
+| 9 | [Marcin Karczmarz](https://www.worldcubeassociation.org/persons/2023KARC01) |
 | 8 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) |
 | 8 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) |
 | 8 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) |
@@ -73,7 +74,6 @@
 | 8 | [Arkadiusz Dubicki](https://www.worldcubeassociation.org/persons/2023DUBI01) |
 | 8 | [Krzysztof Wawrzyniak](https://www.worldcubeassociation.org/persons/2023WAWR01) |
 | 8 | [Zbigniew Mróz](https://www.worldcubeassociation.org/persons/2023MROZ03) |
-| 8 | [Marcin Karczmarz](https://www.worldcubeassociation.org/persons/2023KARC01) |
 | 7 | [Jakub Cabaj](https://www.worldcubeassociation.org/persons/2008CABA03) |
 | 7 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) |
 | 7 | [Marek Pepke](https://www.worldcubeassociation.org/persons/2008PEPK01) |

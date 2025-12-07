@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  4 December 2025*
+*Updated on  7 December 2025*
 
 
 ### 3x3x3 Cube
@@ -16,8 +16,8 @@
 | 6.32 | [Szymon Musiał](https://www.worldcubeassociation.org/persons/2018MUSI03) | 5.40, 7.27, 5.46, 4.79, 5.52, 6.31, 7.42, 7.23, 6.64, 7.10, 6.23, 6.05 |
 | 6.57 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | 5.52, 6.39, 7.76, 6.66, 6.39, 7.37, 6.70, 4.91, 7.01, 6.37, 7.66, 5.66 |
 | 6.69 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | 7.39, 6.93, 7.56, 6.17, 6.47, 5.80, 6.00, 8.32, 6.59, 6.72, 7.23, 5.69 |
+| 6.78 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 6.55, 6.72, 6.43, 8.20, 6.50, 8.80, 6.29, 6.74, 6.63, 6.91, 6.52, 6.63 |
 | 6.79 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 6.28, 6.49, 7.57, 6.49, 7.35, 7.24, 6.21, 6.54, 6.32, 7.28, 7.40, 6.50 |
-| 6.85 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 7.29, 10.75, 5.33, 6.52, 6.81, 6.44, 7.25, 6.11, 7.26, 6.93, 7.30, 6.55 |
 
 ### 2x2x2 Cube
 

@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on  4 December 2025*
+*Updated on  7 December 2025*
 
 
 ### 3x3x3 Cube - Single
@@ -270,7 +270,7 @@
 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | **10.14** |  | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) | 8.97, 14.13, 11.58, 9.88, 8.97 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **10.69** |  | [CFL Brzeziny 2025](https://www.worldcubeassociation.org/competitions/CFLBrzeziny2025) | 10.64, 11.37, 9.90, 11.57, 10.05 |
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | **10.74** |  | [Cube4fun Tylmanowa Spring 2025](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaSpring2025) | 9.48, 11.16, 10.81, 16.70, 10.25 |
-| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **10.96** |  | [Beskidy Cubing Day 2025](https://www.worldcubeassociation.org/competitions/BeskidyCubingDay2025) | 11.88, 9.59, 11.82, 9.63, 11.44 |
+| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **10.89** |  | [Portugal Championship 2025](https://www.worldcubeassociation.org/competitions/PortugalChampionship2025) | 10.35, 11.71, 12.06, 9.84, 10.60 |
 | [Victor Kiziukiewicz](https://www.worldcubeassociation.org/persons/2023KIZI01) | **11.35** |  | [Olsztyn Open 2025](https://www.worldcubeassociation.org/competitions/OlsztynOpen2025) | 11.32, 12.16, 12.65, 8.97, 10.57 |
 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | **11.67** |  | [CFL Justynów 2025](https://www.worldcubeassociation.org/competitions/CFLJustynow2025) | 9.26, 10.58, 14.01, 10.43, 16.43 |
 

@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on  4 December 2025*
+*Updated on  7 December 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -15,7 +15,7 @@
 | 26 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 21 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 21 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) |
-| 20 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
+| 21 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
 | 18 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) |
 | 18 | [Wiktor Zegadło](https://www.worldcubeassociation.org/persons/2017ZEGA01) |
 | 17 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) |
@@ -67,6 +67,7 @@
 | 8 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) |
 | 8 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) |
 | 8 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) |
+| 8 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 8 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) |
 | 8 | [Joanna Dubicka](https://www.worldcubeassociation.org/persons/2018DUBI04) |
 | 8 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
@@ -78,7 +79,6 @@
 | 7 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) |
 | 7 | [Marek Pepke](https://www.worldcubeassociation.org/persons/2008PEPK01) |
 | 7 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) |
-| 7 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 7 | [Kamil Michalak](https://www.worldcubeassociation.org/persons/2016MICH01) |
 | 7 | [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) |
 | 7 | [Piotr Zambrzycki](https://www.worldcubeassociation.org/persons/2018ZAMB02) |
@@ -122,6 +122,7 @@
 | 5 | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) |
 | 5 | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) |
 | 5 | [Jarosław Chodyniecki](https://www.worldcubeassociation.org/persons/2018CHOD01) |
+| 5 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) |
 | 5 | [Oskar Matysik](https://www.worldcubeassociation.org/persons/2019MATY01) |
 | 5 | [Przemysław Kanarski](https://www.worldcubeassociation.org/persons/2019KANA04) |
 | 5 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) |

@@ -1,19 +1,19 @@
 ## Most competitions organized
 
-*Updated on  4 December 2025*
+*Updated on  7 December 2025*
 
 | Organized | Person |
 | ---: | :--- |
 | 129 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
 | 76 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
-| 64 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
+| 65 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 58 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 41 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 36 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 30 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) |
+| 29 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
 | 28 | [Karolina Wiącek](https://www.worldcubeassociation.org/persons/2008WIAC01) |
-| 28 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
-| 25 | [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) |
+| 26 | [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) |
 | 23 | [Radosław Ciuk](https://www.worldcubeassociation.org/persons/2013CIUK01) |
 | 23 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
 | 21 | [Sylwester Jaroszewski](https://www.worldcubeassociation.org/persons/2014JARO01) |
@@ -24,16 +24,16 @@
 | 15 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) |
 | 15 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 14 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
+| 14 | [Piotr Gabara](https://www.worldcubeassociation.org/persons/2024GABA02) |
 | 13 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
-| 13 | [Piotr Gabara](https://www.worldcubeassociation.org/persons/2024GABA02) |
 | 12 | [Szymon Jeziorski](https://www.worldcubeassociation.org/persons/2013JEZI01) |
 | 12 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) |
 | 11 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
+| 10 | [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) |
 | 10 | [Krzysztof Kasprzak](https://www.worldcubeassociation.org/persons/2015KASP01) |
 | 10 | [Przemysław Malinowski](https://www.worldcubeassociation.org/persons/2022MALI01) |
 | 9 | [Kalina Jakubowska](https://www.worldcubeassociation.org/persons/2009BRZE01) |
 | 9 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) |
-| 9 | [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) |
 | 9 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
 | 9 | [Janusz Łebkowski](https://www.worldcubeassociation.org/persons/2022LEBK01) |
 | 9 | [Tomasz Szubert](https://www.worldcubeassociation.org/persons/2022SZUB02) |

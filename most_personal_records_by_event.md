@@ -1,7 +1,7 @@
 ## Most personal records by event
 
 *Note: Counts how many personal records (single or average) a competitor achieved in each event.*
-*Updated on  4 December 2025*
+*Updated on  7 December 2025*
 
 
 ### 3x3x3 Cube
@@ -85,7 +85,7 @@
 | ---: | :--- |
 | 49 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 43 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) |
-| 42 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
+| 43 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 41 | [Przemysław Kruczek](https://www.worldcubeassociation.org/persons/2013KRUC01) |
 | 34 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 34 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) |
@@ -133,8 +133,8 @@
 | 40 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 40 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 39 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
+| 38 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 38 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) |
-| 37 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 37 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
 | 36 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |
 | 35 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) |
@@ -208,7 +208,7 @@
 | 36 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) |
 | 33 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 33 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) |
-| 32 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
+| 33 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 32 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) |
 | 31 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 30 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |

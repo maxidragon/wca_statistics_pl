@@ -1,16 +1,16 @@
 ## Most consecutive weeks with a delegated competition
 
 *Note: Only includes delegates from Poland. Weeks are counted as ISO weeks (Monday-Sunday). Multiple competitions in the same week count as one.*
-*Updated on  7 December 2025*
+*Updated on 10 December 2025*
 
 | Count | Person | Start comp | End comp |
 | ---: | :--- | :--- | :--- |
 | 9 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | [BrizZon Side Open III 2023](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenIII2023) | [Poznań MBLD Cup 2023](https://www.worldcubeassociation.org/competitions/PoznanMBLDCup2023) |
 | 7 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | [SLS Październik 2023](https://www.worldcubeassociation.org/competitions/SLSPazdziernik2023) | [Cube Factory Brzeziny 2023](https://www.worldcubeassociation.org/competitions/CubeFactoryBrzeziny2023) |
 | 7 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | [Siedlce Open 2024](https://www.worldcubeassociation.org/competitions/SiedlceOpen2024) | [Pilzno in the Mirror 2024](https://www.worldcubeassociation.org/competitions/PilznointheMirror2024) |
+| 6 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | [Cube Factory Santa Claus Race Brzeziny 2025](https://www.worldcubeassociation.org/competitions/CFClausRaceBrzeziny2025) | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) |
 | 5 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | [LLS II 2018](https://www.worldcubeassociation.org/competitions/LLSII2018) | [FMC Europe 2018](https://www.worldcubeassociation.org/competitions/FMCEurope2018) |
 | 5 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | [Silesian Minx Fest 2023](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2023) | [Cube4fun Double Weekend Pilzno 2023](https://www.worldcubeassociation.org/competitions/Cube4funDWPilzno2023) |
-| 5 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | [Cube Factory Santa Claus Race Brzeziny 2025](https://www.worldcubeassociation.org/competitions/CFClausRaceBrzeziny2025) | [Polish Sylwester Tour: Monday Night in Gdańsk 2025](https://www.worldcubeassociation.org/competitions/PSTMondayNightinGdansk2025) |
 | 4 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | [Bydgoszcz Summer 2014](https://www.worldcubeassociation.org/competitions/BydgoszczSummer2014) | [PLS Gdańsk 2014](https://www.worldcubeassociation.org/competitions/PLSGdansk2014) |
 | 4 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) | [Ekonomik Elektryk Cube Race 2018](https://www.worldcubeassociation.org/competitions/EkonomikElektrykCubeRace2018) | [Polish Championship 2018](https://www.worldcubeassociation.org/competitions/PolishChampionship2018) |
 | 4 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | [Szansa Cubing Open Warsaw 2025](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2025) | [Gniezno Side Open 2025](https://www.worldcubeassociation.org/competitions/GnieznoSideOpen2025) |

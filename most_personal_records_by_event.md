@@ -1,7 +1,7 @@
 ## Most personal records by event
 
 *Note: Counts how many personal records (single or average) a competitor achieved in each event.*
-*Updated on  7 December 2025*
+*Updated on 10 December 2025*
 
 
 ### 3x3x3 Cube
@@ -182,7 +182,7 @@
 | 40 | [Joanna Kierznikiewicz](https://www.worldcubeassociation.org/persons/2022KIER01) |
 | 38 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 38 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) |
-| 36 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) |
+| 37 | [Szymon Gabara](https://www.worldcubeassociation.org/persons/2023GABA01) |
 
 ### Skewb
 

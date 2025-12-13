@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 10 December 2025*
+*Updated on 13 December 2025*
 
 
 ### Competition
@@ -46,7 +46,7 @@
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **8761** | 9092 |
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | **8740** | 9253 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **8638** | 9891 |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **8383** | 8545 |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **8439** | 8602 |
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | **7956** | 8230 |
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | **7880** | 8049 |
 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | **7275** | 7408 |
@@ -58,7 +58,7 @@
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
 | 2024 | **224448** | 235988 |
-| 2025 | **220975** | 233082 |
+| 2025 | **221031** | 233139 |
 | 2023 | **188135** | 198537 |
 | 2022 | **116333** | 123548 |
 | 2019 | **91348** | 95930 |
@@ -82,19 +82,19 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **339333** | 346125 |
+| 3x3x3 Cube | **339353** | 346145 |
 | 2x2x2 Cube | **222486** | 228556 |
 | Pyraminx | **171899** | 176416 |
 | Skewb | **117522** | 120560 |
-| 4x4x4 Cube | **115881** | 119889 |
+| 4x4x4 Cube | **115895** | 119904 |
 | 3x3x3 One-Handed | **93381** | 96376 |
 | Clock | **67731** | 78429 |
 | Megaminx | **55643** | 57926 |
-| 5x5x5 Cube | **55401** | 57403 |
+| 5x5x5 Cube | **55411** | 57413 |
 | Square-1 | **47126** | 49016 |
-| 6x6x6 Cube | **12461** | 12947 |
+| 6x6x6 Cube | **12467** | 12953 |
 | 3x3x3 Blindfolded | **11778** | 30710 |
-| 7x7x7 Cube | **10666** | 11145 |
+| 7x7x7 Cube | **10672** | 11151 |
 | 3x3x3 Fewest Moves | **6247** | 8297 |
 | Magic | **4230** | 4674 |
 | 3x3x3 With Feet | **2450** | 2650 |

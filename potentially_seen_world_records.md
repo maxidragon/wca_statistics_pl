@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 10 December 2025*
+*Updated on 13 December 2025*
 
 | WRs | Person |
 | ---: | :--- |
@@ -25,8 +25,8 @@
 | 51 | [Kamil Pawlak](https://www.worldcubeassociation.org/persons/2006PAWL01) |
 | 50 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
 | 49 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |
+| 49 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 48 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) |
-| 48 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 47 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 46 | [Kalina Jakubowska](https://www.worldcubeassociation.org/persons/2009BRZE01) |
 | 46 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) |

@@ -1,6 +1,6 @@
 ## Polish competitors with most competitions in the current year
 
-*Updated on 10 December 2025*
+*Updated on 13 December 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -49,11 +49,11 @@
 | 20 | [Szymon Brągiel](https://www.worldcubeassociation.org/persons/2022BRAG03) |
 | 20 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) |
 | 20 | [Marcin Chmielewski](https://www.worldcubeassociation.org/persons/2023CHMI01) |
+| 19 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 19 | [Stanisław Szyszka](https://www.worldcubeassociation.org/persons/2016SZYS02) |
 | 19 | [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) |
 | 19 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) |
 | 19 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) |
-| 18 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 18 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) |
 | 18 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) |
 | 18 | [Bartosz Łebkowski](https://www.worldcubeassociation.org/persons/2021LEBK01) |

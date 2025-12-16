@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 13 December 2025*
+*Updated on 16 December 2025*
 
 
 ### 3x3x3 Cube
@@ -176,9 +176,9 @@
 | 7.26 | [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) |
 | 7.40 | [Kacper Bieńkowski](https://www.worldcubeassociation.org/persons/2022BIEN01) |
 | 7.69 | [Michał Płotek](https://www.worldcubeassociation.org/persons/2024PLOT01) |
+| 8.17 | [Jakub Jasiński](https://www.worldcubeassociation.org/persons/2025JASI04) |
 | 8.37 | [Piotr Wasilewski](https://www.worldcubeassociation.org/persons/2023WASI03) |
 | 8.39 | [Wojciech Piórczyński](https://www.worldcubeassociation.org/persons/2021PIOR01) |
-| 8.42 | [Brajan Dzieniszewski](https://www.worldcubeassociation.org/persons/2024DZIE03) |
 
 ### Skewb
 
@@ -206,9 +206,9 @@
 | 17.71 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
 | 17.82 | [Bartosz Kobyliński](https://www.worldcubeassociation.org/persons/2019KOBY01) |
 | 18.27 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) |
+| 18.41 | [Kacper Stankiewicz](https://www.worldcubeassociation.org/persons/2025STAN12) |
 | 18.52 | [Mikołaj Salamon](https://www.worldcubeassociation.org/persons/2016SALA18) |
 | 18.71 | [Rafał Sądek](https://www.worldcubeassociation.org/persons/2019SADE03) |
-| 19.34 | [Przemysław Rudziak](https://www.worldcubeassociation.org/persons/2020RUDZ02) |
 
 ### 4x4x4 Blindfolded
 

@@ -1,6 +1,6 @@
 ## Average results submission time by Polish delegates
 
-*Updated on 16 December 2025*
+*Updated on 17 December 2025*
 
 | Delegate | Average time | Total delegated |
 | ---: | :--- | ---: |
@@ -15,7 +15,7 @@
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 2d 6.40h | 166 |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 2d 17.48h | 65 |
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 2d 19.84h | 72 |
-| [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 4d 13.20h | 76 |
+| [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 4d 17.34h | 76 |
 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) | 5d 19.53h | 28 |
 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) | 6d 14.13h | 29 |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 7d 11.09h | 20 |

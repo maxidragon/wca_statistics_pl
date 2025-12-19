@@ -1,6 +1,6 @@
 ## Polish competitors with most competitions in the current year
 
-*Updated on 17 December 2025*
+*Updated on 19 December 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -17,14 +17,14 @@
 | 31 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
 | 31 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) |
 | 30 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
+| 30 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
 | 29 | [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) |
 | 29 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) |
-| 29 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
 | 28 | [Antoni Szcześniak](https://www.worldcubeassociation.org/persons/2023SZCZ04) |
 | 27 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) |
+| 26 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 26 | [Hubert Darłak](https://www.worldcubeassociation.org/persons/2023DARL03) |
 | 25 | [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) |
-| 25 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 25 | [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) |
 | 25 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) |
 | 25 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |

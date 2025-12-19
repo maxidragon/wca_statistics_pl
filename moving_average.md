@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on 17 December 2025*
+*Updated on 19 December 2025*
 
 
 ### 3x3x3 Cube
@@ -447,8 +447,8 @@
 | 16.38 | [Maksymilian Sordyl](https://www.worldcubeassociation.org/persons/2022SORD01) |
 | 16.39 | [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) |
 | 16.48 | [Mateusz Korolkiewicz](https://www.worldcubeassociation.org/persons/2024KORO03) |
+| 16.56 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 16.56 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) |
-| 16.60 | [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) |
 
 ### Megaminx
 

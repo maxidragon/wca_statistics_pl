@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 17 December 2025*
+*Updated on 19 December 2025*
 
 
 ### 3x3x3 Cube - Single

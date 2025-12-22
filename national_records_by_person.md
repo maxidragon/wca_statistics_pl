@@ -1,6 +1,6 @@
 ## National records count by person
 
-*Updated on 19 December 2025*
+*Updated on 22 December 2025*
 
 | WRs | Person |
 | ---: | :--- |
@@ -37,6 +37,7 @@
 | 6 | [Piotr Frankowski](https://www.worldcubeassociation.org/persons/2006FRAN01) |
 | 6 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) |
 | 6 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
+| 6 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) |
 | 6 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
 | 5 | [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) |
 | 5 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) |
@@ -50,7 +51,6 @@
 | 4 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
 | 4 | [Marcel Politowicz](https://www.worldcubeassociation.org/persons/2021POLI02) |
 | 4 | [Michał Wizner](https://www.worldcubeassociation.org/persons/2005WIZN01) |
-| 4 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) |
 | 4 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
 | 4 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) |
 | 3 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) |

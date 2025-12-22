@@ -1,7 +1,7 @@
 ## Longest streak of competitions in Poland
 
 *Note: The streak ends whenever the person doesn't participate in a competition in Poland.*
-*Updated on 19 December 2025*
+*Updated on 22 December 2025*
 
 | Competitions | Person | Started at | Missed |
 | ---: | :--- | :--- | :--- |
@@ -57,7 +57,7 @@
 | 6 | [Magdalena Burnicka](https://www.worldcubeassociation.org/persons/2009BURN01) | [Polish Open 2010](https://www.worldcubeassociation.org/competitions/PolishOpen2010) | [Polish Nationals 2010](https://www.worldcubeassociation.org/competitions/PolishNationals2010) |
 | 6 | [Anna Prabucka](https://www.worldcubeassociation.org/persons/2010PRAB01) | [Polish Open 2010](https://www.worldcubeassociation.org/competitions/PolishOpen2010) | [Polish Nationals 2010](https://www.worldcubeassociation.org/competitions/PolishNationals2010) |
 | 6 | [Krzysztof Cabaj](https://www.worldcubeassociation.org/persons/2010CABA01) | [Cube Factory 2011](https://www.worldcubeassociation.org/competitions/CubeFactory2011) | [Industrial Cube 2012](https://www.worldcubeassociation.org/competitions/IndustrialCube2012) |
-| 6 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | [Cube4fun Lublin Winter 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2025) | [Cube4fun Lublin Saturday 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinSaturday2025) |
+| 6 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | [Cube4fun Lublin Winter 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2025) | [Winter Side Wrocław 2025](https://www.worldcubeassociation.org/competitions/WinterSideWroclaw2025) |
 | 6 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | [WLS Jesień 2016](https://www.worldcubeassociation.org/competitions/WLSJesien2016) | [6 Sides of Silesia 2017](https://www.worldcubeassociation.org/competitions/6SidesofSilesia2017) |
 | 6 | [Igor Ośmiałowski](https://www.worldcubeassociation.org/persons/2014OMIA01) | [GLS Cup III 2016](https://www.worldcubeassociation.org/competitions/GLSCupIII2016) | [Elektryk Cube Race 2016](https://www.worldcubeassociation.org/competitions/ElektrykCubeRace2016) |
 | 6 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | [BrizZon Side Open III 2021](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenIII2021) | [Cube4fun League Koło 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueKolo2022) |
@@ -99,7 +99,7 @@
 | 5 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | [BrizZon Side Open 2022](https://www.worldcubeassociation.org/competitions/BrizZonSideOpen2022) | [Cubing Day Żuromin 2022](https://www.worldcubeassociation.org/competitions/CubingDayZuromin2022) |
 | 5 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | [Olsztyn Squared 2023](https://www.worldcubeassociation.org/competitions/OlsztynSquared2023) | [Korzenna Spring Open 2023](https://www.worldcubeassociation.org/competitions/KorzennaSpringOpen2023) |
 | 5 | [Tomasz Stawowy](https://www.worldcubeassociation.org/persons/2021STAW01) | [Gniezno Big Blind Cubing 2022](https://www.worldcubeassociation.org/competitions/GnieznoBigBlindCubing2022) | [Cube4fun Warsaw 2022](https://www.worldcubeassociation.org/competitions/Cube4funWarsaw2022) |
-| 5 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | [Cool Down Szczecin 2025](https://www.worldcubeassociation.org/competitions/CoolDownSzczecin2025) | [Szansa Cubing Open Warsaw 2025](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2025) |
+| 5 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | [BrizZon Side Open 2025](https://www.worldcubeassociation.org/competitions/BrizZonSideOpen2025) | [Fun with FM in Kraków 2025](https://www.worldcubeassociation.org/competitions/FunwithFMinKrakow2025) |
 | 4 | [Kacper Pawlaczyk](https://www.worldcubeassociation.org/persons/2005PAWL01) | [Wroclaw Open 2007](https://www.worldcubeassociation.org/competitions/WroclawOpen2007) | [Pabianice Open 2008](https://www.worldcubeassociation.org/competitions/PabianiceOpen2008) |
 | 4 | [Dariusz Peta](https://www.worldcubeassociation.org/persons/2005PETA01) | [Polish Open 2005](https://www.worldcubeassociation.org/competitions/PolishOpen2005) | [Gdansk Open 2008](https://www.worldcubeassociation.org/competitions/GdanskOpen2008) |
 | 4 | [Sławomir Wolanin](https://www.worldcubeassociation.org/persons/2005WOLA01) | [Polish Open 2005](https://www.worldcubeassociation.org/competitions/PolishOpen2005) | [Gdansk Open 2008](https://www.worldcubeassociation.org/competitions/GdanskOpen2008) |

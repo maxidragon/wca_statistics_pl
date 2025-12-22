@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 19 December 2025*
+*Updated on 22 December 2025*
 
 
 ### 3x3x3 Cube
@@ -16,8 +16,8 @@
 | 5.64 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | 5.36, 5.73, 5.60, 5.75, 5.58 |
 | 5.87 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | 6.05, 5.73, 7.07, 5.70, 5.83 |
 | 6.21 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | 7.56, 6.17, 6.47, 5.80, 6.00 |
+| 6.37 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 6.53, 7.92, 6.60, 5.32, 5.99 |
 | 6.45 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 5.68, 6.12, 7.64, 7.45, 5.77 |
-| 6.48 | [Nikodem Buda](https://www.worldcubeassociation.org/persons/2022BUDA01) | 7.04, 5.59, 6.19, 6.56, 6.69 |
 
 ### 2x2x2 Cube
 

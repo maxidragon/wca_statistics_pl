@@ -1,18 +1,18 @@
 ## Most days potentially spent at competitions
 
-*Updated on 22 December 2025*
+*Updated on 25 December 2025*
 
 | Days | Person | Competitions |
 | ---: | :--- | ---: |
-| 669 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 360 |
-| 567 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 321 |
+| 671 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 361 |
+| 569 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 322 |
 | 476 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 241 |
 | 465 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 246 |
 | 404 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 201 |
 | 402 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 205 |
 | 366 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 208 |
 | 361 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 176 |
-| 347 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 166 |
+| 349 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 167 |
 | 341 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | 174 |
 | 328 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 181 |
 | 322 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | 187 |

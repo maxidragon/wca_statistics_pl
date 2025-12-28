@@ -1,7 +1,7 @@
 ## Most personal records by event
 
 *Note: Counts how many personal records (single or average) a competitor achieved in each event.*
-*Updated on 25 December 2025*
+*Updated on 28 December 2025*
 
 
 ### 3x3x3 Cube
@@ -237,8 +237,8 @@
 | 11 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 11 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 10 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
+| 10 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) |
 | 9 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) |
-| 9 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) |
 | 7 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) |
 | 5 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) |
 | 5 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |

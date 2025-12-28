@@ -1,7 +1,7 @@
 ## Most delegated competitions with another delegate
 
 *Note: Shows how many times each delegate has co-delegated with others. Only Polish delegates are included, and only competitions that have taken place in Poland and have results posted are considered.*
-*Updated on 25 December 2025*
+*Updated on 28 December 2025*
 
 
 ### [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01)
@@ -107,7 +107,7 @@ _Total delegated competitions: 73 (69 in Poland)_
 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 1 |
 
 ### [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01)
-_Total delegated competitions: 110 (108 in Poland)_
+_Total delegated competitions: 111 (109 in Poland)_
 
 | Co-delegate | Count |
 | :--- | ---: |
@@ -115,7 +115,7 @@ _Total delegated competitions: 110 (108 in Poland)_
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 22 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 16 |
 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 15 |
-| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 10 |
+| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 11 |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 9 |
 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 4 |
 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 2 |
@@ -147,11 +147,11 @@ _Total delegated competitions: 18 (18 in Poland)_
 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 2 |
 
 ### [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01)
-_Total delegated competitions: 27 (23 in Poland)_
+_Total delegated competitions: 28 (24 in Poland)_
 
 | Co-delegate | Count |
 | :--- | ---: |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 10 |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 11 |
 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 8 |
 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 8 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 8 |

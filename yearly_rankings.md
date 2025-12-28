@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 25 December 2025*
+*Updated on 28 December 2025*
 
 
 ### 3x3x3 Cube - Single
@@ -221,11 +221,11 @@
 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | **17** |  | [5BLD Masters Opole 2025](https://www.worldcubeassociation.org/competitions/5BLDMastersOpole2025) | 22, 20, 17 |
 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | **18** |  | [Europe FMC Friends - Winter 2025](https://www.worldcubeassociation.org/competitions/EuropeFMCFriendsWinter2025) | 18, 23, 24 |
 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) | **19** |  | [FMC Fun in Verona 2025](https://www.worldcubeassociation.org/competitions/FMCFuninVerona2025) | DNF, 19, DNF |
+| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | **20** |  | [Please Be Quiet Opole 2025](https://www.worldcubeassociation.org/competitions/PleaseBeQuietOpole2025) | 27, 24, 20 |
 | [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) | **20** |  | [5BLD Masters Opole 2025](https://www.worldcubeassociation.org/competitions/5BLDMastersOpole2025) | DNS, DNS, 20 |
 | [Marcin Chmielewski](https://www.worldcubeassociation.org/persons/2023CHMI01) | **20** |  | [Silesian Minx Fest 2025](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2025) | 20, 26, 22 |
 | [Michał Nikiel](https://www.worldcubeassociation.org/persons/2011NIKI01) | **21** |  | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) | 32, 21, 29 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **21** |  | [Cool Down Szczecin 2025](https://www.worldcubeassociation.org/competitions/CoolDownSzczecin2025) | 21, 35, 27 |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | **21** |  | [Winter Side Wrocław 2025](https://www.worldcubeassociation.org/competitions/WinterSideWroclaw2025) | 26, 26, 21 |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | **22** |  | [Fun with FM in Warsaw 2025](https://www.worldcubeassociation.org/competitions/FunWithFMinWarsaw2025) | 22, 30, DNF |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **22** |  | [Winter Side Wrocław 2025](https://www.worldcubeassociation.org/competitions/WinterSideWroclaw2025) | 32, 25, 22 |
 
@@ -238,11 +238,11 @@
 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | **20.67** |  | [Fun with FM in Kraków 2025](https://www.worldcubeassociation.org/competitions/FunwithFMinKrakow2025) | 20, 20, 22 |
 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) | **22.00** |  | [Cool Down Szczecin 2025](https://www.worldcubeassociation.org/competitions/CoolDownSzczecin2025) | 23, 20, 23 |
 | [Marcin Chmielewski](https://www.worldcubeassociation.org/persons/2023CHMI01) | **22.33** |  | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) | 23, 23, 21 |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | **24.33** |  | [Winter Side Wrocław 2025](https://www.worldcubeassociation.org/competitions/WinterSideWroclaw2025) | 26, 26, 21 |
+| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | **23.67** |  | [Please Be Quiet Opole 2025](https://www.worldcubeassociation.org/competitions/PleaseBeQuietOpole2025) | 27, 24, 20 |
 | [Michał Nikiel](https://www.worldcubeassociation.org/persons/2011NIKI01) | **26.33** |  | [Fun with FM in Warsaw II 2025](https://www.worldcubeassociation.org/competitions/FunWithFMinWarsawII2025) | 24, 31, 24 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **26.33** |  | [Winter Side Wrocław 2025](https://www.worldcubeassociation.org/competitions/WinterSideWroclaw2025) | 32, 25, 22 |
 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | **26.33** |  | [Gniezno Side Open 2025](https://www.worldcubeassociation.org/competitions/GnieznoSideOpen2025) | 23, 24, 32 |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **27.67** |  | [Cool Down Szczecin 2025](https://www.worldcubeassociation.org/competitions/CoolDownSzczecin2025) | 21, 35, 27 |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **27.33** |  | [Please Be Quiet Opole 2025](https://www.worldcubeassociation.org/competitions/PleaseBeQuietOpole2025) | 32, 24, 26 |
 
 ### 3x3x3 One-Handed - Single
 
@@ -469,6 +469,7 @@
 
 | Person | Result | Competition | Details |
 | :--- | ---: | :--- | :--- |
+| [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | **4:54.03** |  | [Please Be Quiet Opole 2025](https://www.worldcubeassociation.org/competitions/PleaseBeQuietOpole2025) | 4:51.52, 4:33.07, 5:17.51 |
 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) | **6:18.50** |  | [Winter Side Wrocław 2025](https://www.worldcubeassociation.org/competitions/WinterSideWroclaw2025) | 6:20.20, 5:41.86, 6:53.43 |
 | [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) | **11:42.00** |  | [Blind Marathon in Rzeszów 2025](https://www.worldcubeassociation.org/competitions/BlindMarathoninRzeszow2025) | 11:06.00, 11:52.00, 12:09.00 |
 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | **13:04.00** |  | [5BLD Masters Opole 2025](https://www.worldcubeassociation.org/competitions/5BLDMastersOpole2025) | 13:36.00, 14:07.00, 11:30.00 |

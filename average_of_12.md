@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 25 December 2025*
+*Updated on 28 December 2025*
 
 
 ### 3x3x3 Cube
@@ -116,10 +116,10 @@
 | 20.90 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 21, 19, 21, 20, 19, 21, 23, 20, 27, 24, 20, 20 |
 | 21.20 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 20, 22, 21, 21, 20, 20, 22, 22, 22, DNF, 20, 22 |
 | 22.30 | [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) | 20, 24, 24, 22, 20, 20, 22, 20, 25, 24, 27, 22 |
+| 23.10 | [Marcin Chmielewski](https://www.worldcubeassociation.org/persons/2023CHMI01) | 23, 23, 21, 22, 21, 26, 25, 23, 22, 29, 25, 20 |
 | 23.50 | [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) | 24, 23, 26, 24, 25, 20, 23, 26, 24, 22, 22, 22 |
 | 23.50 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) | 23, 23, 23, 21, 24, 22, 23, 25, 22, 29, 28, 22 |
 | 23.60 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 25, 21, 19, 24, 25, 23, 23, 23, 23, 26, 25, 24 |
-| 23.90 | [Marcin Chmielewski](https://www.worldcubeassociation.org/persons/2023CHMI01) | 29, DNF, 25, 23, 23, 21, 22, 21, 26, 25, 23, 22 |
 | 24.20 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 25, 25, 23, 22, 25, 28, 22, 30, 22, 23, 27, 22 |
 | 25.40 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 27, 21, 22, 25, 25, 28, 22, 27, 29, 27, 27, 24 |
 | 26.50 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) | 29, 27, 32, 25, 28, 25, 26, 22, 20, DNF, 26, 25 |

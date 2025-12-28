@@ -1,7 +1,7 @@
 ## Average of 50
 
 *Note: 50 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 25 December 2025*
+*Updated on 28 December 2025*
 
 
 ### 3x3x3 Cube
@@ -108,7 +108,7 @@
 | 22.07 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 22, 21, 22, 19, 22, 22, 19, 20, 23, 20, 23, 23, 22, 22, 24, 23, 18, 23, 24, 26, 24, 20, 22, 21, 21, 20, 20, 22, 22, 22, DNF, 20, 22, 24, 25, 21, 23, 24, 22, 24, 23, 24, 20, 21, 23, 23, 22, 20, 23, 22 |
 | 23.98 | [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) | 24, 27, 24, 26, 26, 24, DNF, 26, 23, 23, 21, 25, 23, 22, 25, 27, 26, 24, 25, 20, DNF, 21, 21, 24, 24, 27, 20, 29, 22, 22, DNF, 23, 25, 24, 25, 25, 21, 19, 23, 23, 23, 21, 25, 20, 26, 25, 23, 25, 23, 24 |
 | 25.00 | [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) | 24, 23, 26, 24, 25, 20, 23, 26, 24, 22, 22, 22, 27, DNF, 24, 26, 24, 26, 24, 23, 27, 25, 31, 21, DNF, DNF, 28, 22, 24, 25, 23, 24, 24, 28, 26, 28, 28, 22, 28, 31, 30, 24, 24, 21, 22, 28, 20, 23, 23, 26 |
-| 25.57 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 29, 31, 33, 28, 29, 23, DNF, 34, 28, 27, 27, 23, 25, 28, 23, 23, 22, DNF, 26, 23, 24, 23, 25, 25, 25, 25, 21, 19, 24, 25, 23, 23, 23, 23, 26, 25, 24, 26, 26, 21, 26, 27, 27, 29, 27, 26, 27, 28, 24, 21 |
+| 25.09 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 28, 29, 23, DNF, 34, 28, 27, 27, 23, 25, 28, 23, 23, 22, DNF, 26, 23, 24, 23, 25, 25, 25, 25, 21, 19, 24, 25, 23, 23, 23, 23, 26, 25, 24, 26, 26, 21, 26, 27, 27, 29, 27, 26, 27, 28, 24, 21, 27, 24, 20 |
 | 26.18 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 40, 24, 27, 24, 25, 32, 30, 30, 25, 28, 29, 32, 29, 19, 22, 27, 26, 25, 25, 25, 27, 24, 30, 23, 24, 24, 28, 26, 24, 32, 29, 25, 25, 23, 22, 25, 28, 22, 30, 22, 23, 27, 22, 27, 26, 29, 29, 23, 24, 32 |
 | 26.36 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 28, 23, 27, 23, 26, 26, 27, 24, 26, 28, 27, 22, 28, 27, 27, 29, 29, 23, 25, 26, 26, 26, 30, 23, 35, DNF, 25, 28, 27, 27, 27, 27, 25, 30, 22, 32, 28, 28, 26, 25, 28, 29, 27, 21, 22, 25, 25, 28, 22, 27 |
 | 28.50 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) | 19, 29, 33, 31, 27, 35, 28, 30, 24, 26, 34, 20, 26, 35, 28, 31, 31, 36, 33, 33, 24, 29, 29, 31, 27, 26, DNF, 25, 20, 29, DNF, 27, 24, DNF, 33, 29, 27, 23, 27, 28, 32, 29, 27, 32, 25, 28, 25, 26, 22, 20 |

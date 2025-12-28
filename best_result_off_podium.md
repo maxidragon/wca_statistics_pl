@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals at Polish competitions are taken into account.*
-*Updated on 25 December 2025*
+*Updated on 28 December 2025*
 
 
 ### 3x3x3 Cube

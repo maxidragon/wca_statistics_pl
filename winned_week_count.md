@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 25 December 2025*
+*Updated on 28 December 2025*
 
 
 ### 3x3x3 Cube
@@ -140,10 +140,10 @@
 | [Szymon Jeziorski](https://www.worldcubeassociation.org/persons/2013JEZI01) | 2 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 2 |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 2 |
+| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 2 |
 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 2 |
 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | 1 |
 | [Mateusz Kurek](https://www.worldcubeassociation.org/persons/2008KURE01) | 1 |
-| [Marek Pepke](https://www.worldcubeassociation.org/persons/2008PEPK01) | 1 |
 
 ### 3x3x3 One-Handed
 
@@ -291,7 +291,7 @@
 | [Rafał Guzewicz](https://www.worldcubeassociation.org/persons/2006GUZE01) | 4 |
 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | 4 |
 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 4 |
-| [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | 3 |
+| [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | 4 |
 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) | 1 |
 
 ### 5x5x5 Blindfolded
@@ -302,9 +302,9 @@
 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | 8 |
 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) | 7 |
 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 4 |
+| [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | 4 |
 | [Rafał Guzewicz](https://www.worldcubeassociation.org/persons/2006GUZE01) | 3 |
 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | 3 |
-| [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | 3 |
 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | 2 |
 
 ### 3x3x3 Multi-Blind
@@ -312,7 +312,7 @@
 | Person | Winned weeks |
 | :--- | ---: |
 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | 33 |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 28 |
+| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 29 |
 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 22 |
 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) | 14 |
 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 6 |

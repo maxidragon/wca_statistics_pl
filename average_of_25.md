@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 25 December 2025*
+*Updated on 28 December 2025*
 
 
 ### 3x3x3 Cube
@@ -116,8 +116,8 @@
 | 24.67 | [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) | 32, 24, 23, 26, 24, 25, 20, 23, 26, 24, 22, 22, 22, 27, DNF, 24, 26, 24, 26, 24, 23, 27, 25, 31, 21 |
 | 25.10 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 19, 22, 27, 26, 25, 25, 25, 27, 24, 30, 23, 24, 24, 28, 26, 24, 32, 29, 25, 25, 23, 22, 25, 28, 22 |
 | 26.24 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 33, 28, 23, 27, 23, 26, 26, 27, 24, 26, 28, 27, 22, 28, 27, 27, 29, 29, 23, 25, 26, 26, 26, 30, 23 |
+| 28.57 | [Michał Nikiel](https://www.worldcubeassociation.org/persons/2011NIKI01) | 30, 34, 27, DNF, 23, 30, 30, 31, 29, 29, 26, 29, 29, 24, 31, 24, 26, 28, 32, 32, 21, 29, DNF, 27, 21 |
 | 28.67 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 30, 30, 28, 32, 25, 24, 30, 29, 28, 29, 29, 30, 31, 26, 30, 31, 31, 24, 28, 30, 28, 25, 25, 30, 30 |
-| 28.95 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) | 24, 26, 34, 20, 26, 35, 28, 31, 31, 36, 33, 33, 24, 29, 29, 31, 27, 26, DNF, 25, 20, 29, DNF, 27, 24 |
 
 ### 3x3x3 One-Handed
 

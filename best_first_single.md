@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 25 December 2025*
+*Updated on 28 December 2025*
 
 
 ### 3x3x3 Cube
@@ -237,6 +237,7 @@
 | 18:45.00 | [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) |
 | 24:13.00 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 24:54.00 | [Igor Wojciech Wawrzynski](https://www.worldcubeassociation.org/persons/2019WAWR01) |
+| 26:26.00 | [Gabriel Radosz](https://www.worldcubeassociation.org/persons/2022RADO03) |
 | 27:51.00 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) |
 | 50:15.00 | [Bartosz Krzysztoszek](https://www.worldcubeassociation.org/persons/2017KRZY01) |
 

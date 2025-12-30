@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 28 December 2025*
+*Updated on 30 December 2025*
 
 
 ### 3x3x3 Cube

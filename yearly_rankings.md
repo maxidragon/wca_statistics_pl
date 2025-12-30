@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 28 December 2025*
+*Updated on 30 December 2025*
 
 
 ### 3x3x3 Cube - Single
@@ -282,8 +282,8 @@
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | **27.55** |  | [Mielec Cubing Days 2025](https://www.worldcubeassociation.org/competitions/MielecCubingDays2025) | 34.95, 35.52, 32.33, 27.55, 29.91 |
 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | **28.09** |  | [Polish Open 2025](https://www.worldcubeassociation.org/competitions/PolishOpen2025) | 33.61, 32.65, 32.08, 28.09, 31.61 |
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | **28.21** |  | [Cube4fun Lublin Winter 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2025) | 43.44, 39.93, 40.66, 28.21, 37.96 |
+| [Ernest Seroczyński](https://www.worldcubeassociation.org/persons/2015SERO02) | **30.23** |  | [PST: Monday Night in Gdańsk 2025](https://www.worldcubeassociation.org/competitions/PSTMondayNightinGdansk2025) | 38.16, 30.23, 35.17, 41.72, 37.00 |
 | [Wiktor Gugulski](https://www.worldcubeassociation.org/persons/2023GUGU01) | **31.15** |  | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) | 37.04, 39.86, 33.57, 37.83, 31.15 |
-| [Ernest Seroczyński](https://www.worldcubeassociation.org/persons/2015SERO02) | **32.90** |  | [BrizZon Side Open V 2025](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenV2025) | 41.31, 32.90, 41.48, 34.68, 41.93 |
 | [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) | **33.59** |  | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) | 33.59, 44.65, 45.03, 37.98, 41.24 |
 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) | **33.82** |  | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) | 41.13, 40.07, 38.43, 40.08, 33.82 |
 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | **34.04** |  | [Szansa Cubing Open Warsaw 2025](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2025) | 43.09, 45.62, 39.05, 38.99, 34.04 |

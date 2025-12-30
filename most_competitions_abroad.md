@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 28 December 2025*
+*Updated on 30 December 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -121,6 +121,7 @@
 | 5 | [Bartek Mirecki](https://www.worldcubeassociation.org/persons/2017MIRE01) |
 | 5 | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) |
 | 5 | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) |
+| 5 | [Oleksandr Pryimakov](https://www.worldcubeassociation.org/persons/2018PRYI01) |
 | 5 | [Jarosław Chodyniecki](https://www.worldcubeassociation.org/persons/2018CHOD01) |
 | 5 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) |
 | 5 | [Oskar Matysik](https://www.worldcubeassociation.org/persons/2019MATY01) |

@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 30 December 2025*
+*Updated on 31 December 2025*
 
 
 ### 3x3x3 Cube

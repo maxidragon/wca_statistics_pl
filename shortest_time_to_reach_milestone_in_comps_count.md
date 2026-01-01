@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 31 December 2025*
+*Updated on  1 January 2026*
 
 
 ### 300 Competitions
@@ -52,6 +52,7 @@
 | Days | Person |
 | ---: | :--- |
 | 883 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 1391 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
 | 1407 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 1933 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) |
 | 2010 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
@@ -70,7 +71,6 @@
 | 3039 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 3039 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |
 | 3158 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
-| 3172 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 
 ### 50 Competitions
 

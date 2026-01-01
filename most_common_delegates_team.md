@@ -1,7 +1,7 @@
 ## Most common delegate teams in Poland
 
 *Note: This statistic shows the most common teams of delegates in Poland. It is based on the number of competitions where the exact team of delegates was listed.*
-*Updated on 31 December 2025*
+*Updated on  1 January 2026*
 
 | Number of competitions | Team |
 | :--- | :--- |
@@ -15,8 +15,8 @@
 | 5 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) + [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 5 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) + [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) + [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 5 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) + [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 5 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) + [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) + [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) + [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 4 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) + [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) + [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
-| 4 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) + [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) + [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) + [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 4 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) + [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) |
 | 4 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) + [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) |
 | 3 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) + [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |

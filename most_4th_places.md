@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 31 December 2025*
+*Updated on  1 January 2026*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -73,9 +73,9 @@
 | 21 | [Michał Robaczyk](https://www.worldcubeassociation.org/persons/2006ROBA01) |
 | 20 | [Witold Sołtysik](https://www.worldcubeassociation.org/persons/2015SOLT03) |
 | 20 | [Marek Wójtowicz](https://www.worldcubeassociation.org/persons/2008WOJT01) |
+| 20 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
 | 20 | [Wojciech Piórczyński](https://www.worldcubeassociation.org/persons/2021PIOR01) |
 | 20 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) |
-| 19 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
 | 19 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) |
 | 19 | [Grzegorz Szumigaj](https://www.worldcubeassociation.org/persons/2013SZUM01) |
 | 19 | [Ignacy Malinowski](https://www.worldcubeassociation.org/persons/2021MALI02) |

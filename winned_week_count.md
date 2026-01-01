@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 31 December 2025*
+*Updated on  1 January 2026*
 
 
 ### 3x3x3 Cube
@@ -79,7 +79,6 @@
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 1 |
 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 1 |
 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) | 1 |
-| [Ernest Seroczyński](https://www.worldcubeassociation.org/persons/2015SERO02) | 1 |
 
 ### 6x6x6 Cube
 
@@ -109,11 +108,11 @@
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 17 |
 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | 13 |
 | [Rafał Guzewicz](https://www.worldcubeassociation.org/persons/2006GUZE01) | 10 |
-| [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | 7 |
+| [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | 6 |
+| [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 3 |
 | [Tomasz Korzeniewski](https://www.worldcubeassociation.org/persons/2007KORZ01) | 2 |
 | [Konrad Stawski](https://www.worldcubeassociation.org/persons/2007STAW01) | 2 |
 | [Stanisław Szyszka](https://www.worldcubeassociation.org/persons/2016SZYS02) | 2 |
-| [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 2 |
 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 2 |
 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 1 |
 | [Michał Robaczyk](https://www.worldcubeassociation.org/persons/2006ROBA01) | 1 |
@@ -272,7 +271,6 @@
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 10 |
 | [Grzegorz Prusak](https://www.worldcubeassociation.org/persons/2006PRUS01) | 6 |
 | [Michał Robaczyk](https://www.worldcubeassociation.org/persons/2006ROBA01) | 2 |
-| [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | 2 |
 | [Jakub Cabaj](https://www.worldcubeassociation.org/persons/2008CABA03) | 1 |
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 1 |
 | [Grzegorz Szumigaj](https://www.worldcubeassociation.org/persons/2013SZUM01) | 1 |
@@ -280,6 +278,8 @@
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 1 |
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 1 |
 | [Oliver Sherlock](https://www.worldcubeassociation.org/persons/2019SHER13) | 1 |
+| [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | 1 |
+| [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 1 |
 | [Szymon Knapek](https://www.worldcubeassociation.org/persons/2023KNAP01) | 1 |
 
 ### 4x4x4 Blindfolded

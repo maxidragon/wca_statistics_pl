@@ -1,7 +1,7 @@
 ## Medals to competitions ratio
 
 *Note: Only Polish competitors included*
-*Updated on 31 December 2025*
+*Updated on  1 January 2026*
 
 | Person | Medals | Competitions | Ratio |
 | :--- | ---: | ---: | ---: |
@@ -13,18 +13,18 @@
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 351 | 112 | 3.13 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 557 | 181 | 3.08 |
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 318 | 108 | 2.94 |
-| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 577 | 205 | 2.81 |
+| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 578 | 206 | 2.81 |
 | [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) | 135 | 49 | 2.76 |
 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | 245 | 90 | 2.72 |
 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | 192 | 73 | 2.63 |
 | [Kamil Zieliński](https://www.worldcubeassociation.org/persons/2008ZIEL01) | 87 | 34 | 2.56 |
 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | 105 | 42 | 2.50 |
-| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 303 | 131 | 2.31 |
+| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 304 | 132 | 2.30 |
 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 185 | 81 | 2.28 |
 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 166 | 73 | 2.27 |
 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | 147 | 65 | 2.26 |
-| [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 88 | 40 | 2.20 |
 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) | 135 | 62 | 2.18 |
+| [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 89 | 41 | 2.17 |
 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | 107 | 50 | 2.14 |
 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | 152 | 73 | 2.08 |
 

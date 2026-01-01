@@ -1,7 +1,7 @@
 ## Most personal records by event
 
 *Note: Counts how many personal records (single or average) a competitor achieved in each event.*
-*Updated on 31 December 2025*
+*Updated on  1 January 2026*
 
 
 ### 3x3x3 Cube
@@ -209,7 +209,7 @@
 | 33 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 33 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) |
 | 33 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
-| 32 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) |
+| 33 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) |
 | 31 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 30 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
 | 29 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |

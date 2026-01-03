@@ -6,14 +6,14 @@
 | ---: | :--- |
 | 130 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
 | 77 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
-| 66 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
+| 67 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 61 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 43 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 37 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 30 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) |
 | 30 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
 | 28 | [Karolina Wiącek](https://www.worldcubeassociation.org/persons/2008WIAC01) |
-| 26 | [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) |
+| 27 | [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) |
 | 23 | [Radosław Ciuk](https://www.worldcubeassociation.org/persons/2013CIUK01) |
 | 23 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
 | 22 | [Sylwester Jaroszewski](https://www.worldcubeassociation.org/persons/2014JARO01) |
@@ -24,12 +24,12 @@
 | 15 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 15 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) |
 | 15 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) |
+| 15 | [Piotr Gabara](https://www.worldcubeassociation.org/persons/2024GABA02) |
 | 14 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
-| 14 | [Piotr Gabara](https://www.worldcubeassociation.org/persons/2024GABA02) |
 | 12 | [Szymon Jeziorski](https://www.worldcubeassociation.org/persons/2013JEZI01) |
 | 12 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) |
 | 11 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
-| 10 | [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) |
+| 11 | [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) |
 | 10 | [Krzysztof Kasprzak](https://www.worldcubeassociation.org/persons/2015KASP01) |
 | 10 | [Przemysław Malinowski](https://www.worldcubeassociation.org/persons/2022MALI01) |
 | 9 | [Kalina Jakubowska](https://www.worldcubeassociation.org/persons/2009BRZE01) |

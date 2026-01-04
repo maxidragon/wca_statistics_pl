@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on  1 January 2026*
+*Updated on  4 January 2026*
 
 | Competitions | Person |
 | ---: | :--- |

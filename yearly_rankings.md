@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on  1 January 2026*
+*Updated on  4 January 2026*
 
 
 

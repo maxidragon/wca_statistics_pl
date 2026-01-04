@@ -1,6 +1,6 @@
 ## Most completed solves at one competition
 
-*Updated on  1 January 2026*
+*Updated on  4 January 2026*
 
 | Person | Competition | Solves | Attempts |
 | :--- | ---: | ---: | ---: |

@@ -1,7 +1,7 @@
 ## Most personal records by event
 
 *Note: Counts how many personal records (single or average) a competitor achieved in each event.*
-*Updated on  4 January 2026*
+*Updated on  7 January 2026*
 
 
 ### 3x3x3 Cube
@@ -54,7 +54,7 @@
 | PRs | Person |
 | ---: | :--- |
 | 60 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
-| 57 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
+| 58 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 50 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 49 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) |
 | 48 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
@@ -223,8 +223,8 @@
 | 13 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
 | 12 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) |
 | 12 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) |
+| 10 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) |
 | 9 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) |
-| 9 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) |
 | 8 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
 | 7 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) |
 | 6 | [Daniel Chudecki](https://www.worldcubeassociation.org/persons/2011CHUD01) |
@@ -234,8 +234,8 @@
 | PRs | Person |
 | ---: | :--- |
 | 12 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) |
+| 12 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 11 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
-| 11 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 10 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
 | 10 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) |
 | 9 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) |

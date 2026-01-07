@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  4 January 2026*
+*Updated on  7 January 2026*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -13,7 +13,7 @@
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | **20** | 10 | 8 | 38 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **19** | 20 | 10 | 49 |
 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | **16** | 5 | 5 | 26 |
-| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **15** | 23 | 18 | 56 |
+| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **15** | 23 | 19 | 57 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **13** | 7 | 4 | 24 |
 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) | **12** | 14 | 10 | 36 |
 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) | **12** | 8 | 1 | 21 |
@@ -84,15 +84,15 @@
 | [Tymoteusz Zmudzki Piskorska](https://www.worldcubeassociation.org/persons/2024PISK02) | **1** | 6 | 1 | 8 |
 | [Victor Kiziukiewicz](https://www.worldcubeassociation.org/persons/2023KIZI01) | **1** | 5 | 1 | 7 |
 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | **1** | 4 | 6 | 11 |
+| [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) | **1** | 4 | 4 | 9 |
 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) | **1** | 4 | 1 | 6 |
-| [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) | **1** | 3 | 4 | 8 |
 | [Jakub Grzybowski](https://www.worldcubeassociation.org/persons/2017GRZY02) | **1** | 2 | 2 | 5 |
 | [Liam Stuart Ferreira](https://www.worldcubeassociation.org/persons/2022FERR14) | **1** | 2 | 2 | 5 |
 | [Filip Chudy](https://www.worldcubeassociation.org/persons/2022CHUD02) | **1** | 2 | 1 | 4 |
+| [Dominik Szajek](https://www.worldcubeassociation.org/persons/2023SZAJ01) | **1** | 2 | 0 | 3 |
 | [Bartosz Łebkowski](https://www.worldcubeassociation.org/persons/2021LEBK01) | **1** | 1 | 0 | 2 |
 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | **1** | 1 | 0 | 2 |
 | [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) | **1** | 1 | 0 | 2 |
-| [Dominik Szajek](https://www.worldcubeassociation.org/persons/2023SZAJ01) | **1** | 1 | 0 | 2 |
 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | **1** | 1 | 0 | 2 |
 | [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) | **1** | 1 | 0 | 2 |
 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) | **1** | 1 | 0 | 2 |

@@ -1,7 +1,7 @@
 ## Competed in most voivodeships in Poland
 
 *Note: Voivodeships are inferred from competition coordinates. Approximate bounding box classification.*
-*Updated on  4 January 2026*
+*Updated on  7 January 2026*
 
 | Person | Completed | Missed | Missed Voivodeships | Completed At |
 | :--- | ---: | ---: | :--- | :--- |

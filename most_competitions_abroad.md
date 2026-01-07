@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on  4 January 2026*
+*Updated on  7 January 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -13,23 +13,23 @@
 | 32 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 28 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 26 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
-| 22 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
+| 23 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 21 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) |
 | 21 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
 | 18 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) |
+| 18 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) |
 | 18 | [Wiktor Zegadło](https://www.worldcubeassociation.org/persons/2017ZEGA01) |
 | 18 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
 | 18 | [Michał Kaczmarek](https://www.worldcubeassociation.org/persons/2021KACZ01) |
-| 17 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) |
 | 17 | [Magnus Miłosz Birecki](https://www.worldcubeassociation.org/persons/2022BIRE01) |
 | 15 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) |
 | 15 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
+| 15 | [Szymon Plesniak](https://www.worldcubeassociation.org/persons/2024PLES01) |
 | 14 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 14 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) |
 | 14 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) |
 | 14 | [Alex Myrus](https://www.worldcubeassociation.org/persons/2022MYRU01) |
 | 14 | [Naama Anbar](https://www.worldcubeassociation.org/persons/2023ANBA01) |
-| 14 | [Szymon Plesniak](https://www.worldcubeassociation.org/persons/2024PLES01) |
 | 14 | [Tymoteusz Zmudzki Piskorska](https://www.worldcubeassociation.org/persons/2024PISK02) |
 | 13 | [Wojciech Poljanowski](https://www.worldcubeassociation.org/persons/2010POLJ01) |
 | 13 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) |

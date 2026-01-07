@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  4 January 2026*
+*Updated on  7 January 2026*
 
 
 ### 3x3x3 Cube
@@ -74,10 +74,10 @@
 | 1:28.86 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | 1:26.08, 1:30.98, 1:38.53, 1:29.53, 1:23.25 |
 | 1:30.07 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) | 1:34.09, 1:27.59, 1:47.32, 1:21.22, 1:28.52 |
 | 1:30.29 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 1:28.26, 1:28.71, 1:36.35, 1:31.27, 1:30.90 |
+| 1:30.62 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 1:25.04, 1:29.60, 1:33.75, 1:33.72, 1:28.54 |
 | 1:31.09 | [Jan Woźniak](https://www.worldcubeassociation.org/persons/2021WOZN01) | 1:31.28, 1:31.37, 1:30.62, 1:42.45, 1:30.10 |
 | 1:32.52 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) | 1:41.08, 1:31.70, 1:31.10, 1:34.75, 1:30.49 |
 | 1:34.13 | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) | 1:32.41, 1:35.74, 1:36.91, 1:29.05, 1:34.24 |
-| 1:35.49 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 1:41.46, 1:23.57, 1:36.57, 1:32.15, 1:37.76 |
 
 ### 7x7x7 Cube
 

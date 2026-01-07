@@ -1,7 +1,7 @@
 ## Average number of competitions of listed delegates at Polish competitions by number of delegates
 
 *Note: Competitions are grouped by how many delegates they had. Each table shows the competitions with the highest average number of competitions that listed delegates had participated in up to and including the one they delegated.*
-*Updated on  4 January 2026*
+*Updated on  7 January 2026*
 
 
 ### 9 Delegates
@@ -30,6 +30,7 @@
 
 | Competition | Delegates | Average number of competitions of listed delegates |
 | :--- | :--- | ---: |
+| [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01), [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 240.00 |
 | [Brizzon Sylwester Open 2025](https://www.worldcubeassociation.org/competitions/BrizzonSylwesterOpen2025) | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01), [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01), [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 201.50 |
 | [BrizZon Side Open V 2025](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenV2025) | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01), [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01), [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 195.00 |
 | [Energy Cube Tomaszów 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2025) | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01), [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 186.25 |
@@ -49,7 +50,6 @@
 | [Polish Championship 2021](https://www.worldcubeassociation.org/competitions/PolishChampionship2021) | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01), [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01), [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 105.75 |
 | [Cube Factory League Jeżów 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueJezow2025) | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01), [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01), [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 103.75 |
 | [Polish Championship 2016](https://www.worldcubeassociation.org/competitions/PolishChampionship2016) | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01), [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01), [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01), [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 76.50 |
-| [Polish Championship 2015](https://www.worldcubeassociation.org/competitions/PolishChampionship2015) | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01), [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01), [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01), [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 64.75 |
 
 ### 3 Delegates
 

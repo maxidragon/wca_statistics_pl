@@ -1,6 +1,6 @@
 ## Longest streak of competitions with a personal record done
 
-*Updated on  4 January 2026*
+*Updated on  7 January 2026*
 
 | Competitions | Person | Started at | Ended at |
 | ---: | :--- | :--- | :--- |
@@ -10,11 +10,11 @@
 | 50 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | [Byczy Cube Race 2017](https://www.worldcubeassociation.org/competitions/ByczyCubeRace2017) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
 | 49 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | [SLS Gliwice 2014](https://www.worldcubeassociation.org/competitions/SLSGliwice2014) | [Ekonomik Elektryk Cube Race 2018](https://www.worldcubeassociation.org/competitions/EkonomikElektrykCubeRace2018) |
 | 47 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | [GLS Cup IV 2018](https://www.worldcubeassociation.org/competitions/GLSCupIV2018) | [Cube4fun Skierniewice 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueSkierniewice2022) |
-| 46 | [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) | [SST Warszawa 2021](https://www.worldcubeassociation.org/competitions/SSTWarszawa2021) |  |
+| 47 | [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) | [SST Warszawa 2021](https://www.worldcubeassociation.org/competitions/SSTWarszawa2021) |  |
 | 45 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | [Ekonomik Elektryk Cube Race 2018](https://www.worldcubeassociation.org/competitions/EkonomikElektrykCubeRace2018) | [Gniezno Big Blind Cubing 2022](https://www.worldcubeassociation.org/competitions/GnieznoBigBlindCubing2022) |
 | 44 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | [SLS Jastrzebie 2013](https://www.worldcubeassociation.org/competitions/SLSJastrzebie2013) | [FMC Europe 2018](https://www.worldcubeassociation.org/competitions/FMCEurope2018) |
+| 44 | [Szymon Gabara](https://www.worldcubeassociation.org/persons/2023GABA01) | [Cube Factory Summer 2023](https://www.worldcubeassociation.org/competitions/CubeFactorySummer2023) |  |
 | 43 | [Krystian Fiołek](https://www.worldcubeassociation.org/persons/2022FIOL01) | [Cube4fun Jasło 2022](https://www.worldcubeassociation.org/competitions/Cube4funJaslo2022) |  |
-| 43 | [Szymon Gabara](https://www.worldcubeassociation.org/persons/2023GABA01) | [Cube Factory Summer 2023](https://www.worldcubeassociation.org/competitions/CubeFactorySummer2023) |  |
 | 42 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | [Elektryk Cube Race 2016](https://www.worldcubeassociation.org/competitions/ElektrykCubeRace2016) | [Chorzów Open 2024](https://www.worldcubeassociation.org/competitions/ChorzowOpen2024) |
 | 42 | [Mateusz Otto](https://www.worldcubeassociation.org/persons/2022OTTO01) | [UPP Poznań Cubing 2022](https://www.worldcubeassociation.org/competitions/UPPPoznanCubing2022) | [Cube4fun Warsaw Saturday 2025](https://www.worldcubeassociation.org/competitions/Cube4funWarsawSaturday2025) |
 | 42 | [Filip Brokos](https://www.worldcubeassociation.org/persons/2022BROK03) | [Cube4fun Warsaw 2022](https://www.worldcubeassociation.org/competitions/Cube4funWarsaw2022) | [GLS IV 2025](https://www.worldcubeassociation.org/competitions/GLSIV2025) |
@@ -41,16 +41,16 @@
 | 33 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) | [BrizZon Side Open 2021](https://www.worldcubeassociation.org/competitions/BrizZonSideOpen2021) | [Szansa Cubing Open Warsaw 2023](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2023) |
 | 33 | [Ada Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD01) | [Szczytno Open 2021](https://www.worldcubeassociation.org/competitions/SzczytnoOpen2021) | [Cube Factory Brzeziny 2024](https://www.worldcubeassociation.org/competitions/CubeFactoryBrzeziny2024) |
 | 33 | [Stanisław Ożyński](https://www.worldcubeassociation.org/persons/2022OZYN01) | [UPP Poznań Cubing 2022](https://www.worldcubeassociation.org/competitions/UPPPoznanCubing2022) | [Olsztyn Open 2024](https://www.worldcubeassociation.org/competitions/OlsztynOpen2024) |
+| 32 | [Szymon Ruksza](https://www.worldcubeassociation.org/persons/2013RUKS01) | [SLS Jastrzebie 2013](https://www.worldcubeassociation.org/competitions/SLSJastrzebie2013) |  |
 | 32 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | [SLS Chorzow 2014](https://www.worldcubeassociation.org/competitions/SLSChorzow2014) | [DLS Wrzesień 2017](https://www.worldcubeassociation.org/competitions/DLSWrzesien2017) |
 | 32 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | [Polish Open 2018](https://www.worldcubeassociation.org/competitions/PolishOpen2018) | [Dragon Cubing II 2023](https://www.worldcubeassociation.org/competitions/DragonCubingII2023) |
 | 32 | [Jakub Łebkowski](https://www.worldcubeassociation.org/persons/2023LEBK01) | [Energy Cube Ciechanów 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeCiechanow2023) |  |
 | 32 | [Konrad Wołowiec](https://www.worldcubeassociation.org/persons/2023WOLO01) | [Cube4fun in Dębica 2023](https://www.worldcubeassociation.org/competitions/Cube4funinDebica2023) | [Dragon Cubing XI 2025](https://www.worldcubeassociation.org/competitions/DragonCubingXI2025) |
-| 31 | [Szymon Ruksza](https://www.worldcubeassociation.org/persons/2013RUKS01) | [SLS Jastrzebie 2013](https://www.worldcubeassociation.org/competitions/SLSJastrzebie2013) |  |
 | 31 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | [Olsztyn Open 2017](https://www.worldcubeassociation.org/competitions/OlsztynOpen2017) | [Szansa Cubing Open Warsaw 2023](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2023) |
+| 31 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | [Cubing Rising Stars Olesno 2022](https://www.worldcubeassociation.org/competitions/CubingRisingStarsOlesno2022) |  |
 | 30 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | [Polish Nationals 2012](https://www.worldcubeassociation.org/competitions/PolishNationals2012) | [GLS Cup I 2018](https://www.worldcubeassociation.org/competitions/GLSCupI2018) |
 | 30 | [Tomek Bogdanik](https://www.worldcubeassociation.org/persons/2013BOGD04) | [SLS Jastrzebie 2013](https://www.worldcubeassociation.org/competitions/SLSJastrzebie2013) | [FMC Europe 2018](https://www.worldcubeassociation.org/competitions/FMCEurope2018) |
 | 30 | [Szymon Brągiel](https://www.worldcubeassociation.org/persons/2022BRAG03) | [Pilzno in the Mirror 2024](https://www.worldcubeassociation.org/competitions/PilznointheMirror2024) | [Gift Packs Niepołomice 2025](https://www.worldcubeassociation.org/competitions/GiftPacksNiepolomice2025) |
-| 30 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | [Cubing Rising Stars Olesno 2022](https://www.worldcubeassociation.org/competitions/CubingRisingStarsOlesno2022) |  |
 | 29 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | [Polish Open 2007](https://www.worldcubeassociation.org/competitions/PolishOpen2007) | [Czech Open 2011](https://www.worldcubeassociation.org/competitions/CzechOpen2011) |
 | 29 | [Łukasz Cichecki](https://www.worldcubeassociation.org/persons/2007CICH01) | [World Championship 2007](https://www.worldcubeassociation.org/competitions/WC2007) |  |
 | 29 | [Krzysztof Kuncki](https://www.worldcubeassociation.org/persons/2010KUNC01) | [Polish Open 2010](https://www.worldcubeassociation.org/competitions/PolishOpen2010) | [Radom Open 2013](https://www.worldcubeassociation.org/competitions/RadomOpen2013) |
@@ -59,6 +59,7 @@
 | 29 | [Bartosz Łebkowski](https://www.worldcubeassociation.org/persons/2021LEBK01) | [Cubers Eve Lubartów 2021](https://www.worldcubeassociation.org/competitions/CubersEveLubartow2021) | [Cube Factory Brzeziny 2023](https://www.worldcubeassociation.org/competitions/CubeFactoryBrzeziny2023) |
 | 29 | [Tymoteusz Orzechowski](https://www.worldcubeassociation.org/persons/2022ORZE01) | [Cube4fun Warsaw 2022](https://www.worldcubeassociation.org/competitions/Cube4funWarsaw2022) |  |
 | 29 | [Wiktor Gugulski](https://www.worldcubeassociation.org/persons/2023GUGU01) | [Kęty Open 2023](https://www.worldcubeassociation.org/competitions/KetyOpen2023) |  |
+| 29 | [Marek Dojtrowski](https://www.worldcubeassociation.org/persons/2023DOJT01) | [Cube Factory 2023](https://www.worldcubeassociation.org/competitions/CubeFactory2023) |  |
 | 28 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | [SLS Gliwice 2014](https://www.worldcubeassociation.org/competitions/SLSGliwice2014) | [Speed Day Lublin 2016](https://www.worldcubeassociation.org/competitions/SpeedDayLublin2016) |
 | 28 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | [Polish Open 2012](https://www.worldcubeassociation.org/competitions/PolishOpen2012) | [Kielce Cube Attack 2014](https://www.worldcubeassociation.org/competitions/KielceCubeAttack2014) |
 | 28 | [Ignacy Buczek](https://www.worldcubeassociation.org/persons/2013BUCZ01) | [Polish Nationals 2013](https://www.worldcubeassociation.org/competitions/PolishNationals2013) |  |
@@ -71,7 +72,6 @@
 | 28 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | [Polish Open 2018](https://www.worldcubeassociation.org/competitions/PolishOpen2018) | [Cube4fun Dąbrowa Górnicza 2022](https://www.worldcubeassociation.org/competitions/Cube4funDabrowaGornicza2022) |
 | 28 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) | [LLS I Bełżyce 2021](https://www.worldcubeassociation.org/competitions/LLSIBelzyce2021) | [Energy Cube Koło 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeKolo2023) |
 | 28 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | [Cube4fun Pawłowice 2022](https://www.worldcubeassociation.org/competitions/Cube4funPawlowice2022) | [Cubing Mine Rybnik III 2025](https://www.worldcubeassociation.org/competitions/CubingMineRybnikIII2025) |
-| 28 | [Marek Dojtrowski](https://www.worldcubeassociation.org/persons/2023DOJT01) | [Cube Factory 2023](https://www.worldcubeassociation.org/competitions/CubeFactory2023) |  |
 | 28 | [Piotr Bzinkowski](https://www.worldcubeassociation.org/persons/2023BZIN01) | [GLS IV 2023](https://www.worldcubeassociation.org/competitions/GLSIV2023) |  |
 | 27 | [Szymon Jeziorski](https://www.worldcubeassociation.org/persons/2013JEZI01) | [Polish Nationals 2013](https://www.worldcubeassociation.org/competitions/PolishNationals2013) | [CFL Santa Claus Cube Race 2017](https://www.worldcubeassociation.org/competitions/CFLSantaClausCubeRace2017) |
 | 27 | [Przemysław Kruczek](https://www.worldcubeassociation.org/persons/2013KRUC01) | [LLS VII Final 2018](https://www.worldcubeassociation.org/competitions/LLSVIIFinal2018) | [Cube4fun DW Świdnik II 2023](https://www.worldcubeassociation.org/competitions/Cube4funDWSwidnikII2023) |

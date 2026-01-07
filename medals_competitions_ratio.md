@@ -1,7 +1,7 @@
 ## Medals to competitions ratio
 
 *Note: Only Polish competitors included*
-*Updated on  4 January 2026*
+*Updated on  7 January 2026*
 
 | Person | Medals | Competitions | Ratio |
 | :--- | ---: | ---: | ---: |
@@ -13,7 +13,7 @@
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 351 | 112 | 3.13 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 557 | 181 | 3.08 |
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 318 | 108 | 2.94 |
-| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 578 | 206 | 2.81 |
+| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 581 | 207 | 2.81 |
 | [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) | 135 | 49 | 2.76 |
 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | 245 | 90 | 2.72 |
 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | 192 | 73 | 2.63 |

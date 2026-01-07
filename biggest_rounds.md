@@ -1,6 +1,6 @@
 ## Biggest rounds in Poland
 
-*Updated on  4 January 2026*
+*Updated on  7 January 2026*
 
 
 ### 3x3x3 Cube
@@ -219,6 +219,7 @@
 | ---: | :--- |
 | 24 | [Szansa Cubing Open Warsaw 2022](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2022) |
 | 21 | [Polish Open 2025](https://www.worldcubeassociation.org/competitions/PolishOpen2025) |
+| 20 | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) |
 | 19 | [Euro 2012](https://www.worldcubeassociation.org/competitions/Euro2012) |
 | 19 | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) |
 | 19 | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021) |
@@ -226,7 +227,6 @@
 | 17 | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) |
 | 16 | [5BLD Masters Opole 2025](https://www.worldcubeassociation.org/competitions/5BLDMastersOpole2025) |
 | 16 | [CFL Rogów Summer 2025](https://www.worldcubeassociation.org/competitions/CFLRogowSummer2025) |
-| 16 | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022) |
 
 ### 5x5x5 Blindfolded
 
@@ -234,6 +234,7 @@
 | ---: | :--- |
 | 17 | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021) |
 | 17 | [Szansa Cubing Open Warsaw 2022](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2022) |
+| 16 | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) |
 | 14 | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) |
 | 13 | [CF Goes Crazy Brzeziny 2025](https://www.worldcubeassociation.org/competitions/CFGoesCrazyBrzeziny2025) |
 | 13 | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) |
@@ -241,7 +242,6 @@
 | 12 | [Poznań Mental Breakdown 2022](https://www.worldcubeassociation.org/competitions/PoznanMentalBreakdown2022) |
 | 11 | [CFL Luty 2018](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueLuty2018) |
 | 11 | [Santa Claus Cube Race 2019](https://www.worldcubeassociation.org/competitions/SantaClausCubeRace2019) |
-| 11 | [Szansa Cubing Open Warsaw 2023](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2023) |
 
 ### 3x3x3 Multi-Blind
 

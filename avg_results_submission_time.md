@@ -1,18 +1,18 @@
 ## Average results submission time by Polish delegates
 
-*Updated on  4 January 2026*
+*Updated on  7 January 2026*
 
 | Delegate | Average time | Total delegated |
 | ---: | :--- | ---: |
-| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 0.61h | 28 |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 15.30h | 110 |
+| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 0.58h | 29 |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 15.16h | 111 |
 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 18.66h | 27 |
 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 21.38h | 22 |
 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 1d 4.21h | 54 |
 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 1d 5.06h | 16 |
 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) | 1d 13.27h | 6 |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 2d 1.66h | 120 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 2d 5.75h | 168 |
+| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 2d 1.25h | 121 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 2d 5.43h | 169 |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 2d 17.48h | 65 |
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 2d 19.84h | 72 |
 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 4d 17.34h | 76 |

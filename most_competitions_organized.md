@@ -1,6 +1,6 @@
 ## Most competitions organized
 
-*Updated on  7 January 2026*
+*Updated on 10 January 2026*
 
 | Organized | Person |
 | ---: | :--- |
@@ -20,8 +20,8 @@
 | 21 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) |
 | 19 | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) |
 | 18 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 16 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 16 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
-| 15 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 15 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) |
 | 15 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) |
 | 15 | [Piotr Gabara](https://www.worldcubeassociation.org/persons/2024GABA02) |
@@ -31,10 +31,10 @@
 | 11 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
 | 11 | [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) |
 | 10 | [Krzysztof Kasprzak](https://www.worldcubeassociation.org/persons/2015KASP01) |
+| 10 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
 | 10 | [Przemysław Malinowski](https://www.worldcubeassociation.org/persons/2022MALI01) |
 | 9 | [Kalina Jakubowska](https://www.worldcubeassociation.org/persons/2009BRZE01) |
 | 9 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) |
-| 9 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
 | 9 | [Janusz Łebkowski](https://www.worldcubeassociation.org/persons/2022LEBK01) |
 | 9 | [Tomasz Szubert](https://www.worldcubeassociation.org/persons/2022SZUB02) |
 | 8 | [Klaudia Ciuk](https://www.worldcubeassociation.org/persons/2013CIUK02) |

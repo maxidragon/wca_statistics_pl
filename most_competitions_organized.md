@@ -4,10 +4,10 @@
 
 | Organized | Person |
 | ---: | :--- |
-| 130 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
+| 131 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
 | 77 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
 | 67 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
-| 61 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
+| 62 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 43 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 37 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 30 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) |
@@ -63,6 +63,7 @@
 | 5 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 5 | [Tomasz Stawowy](https://www.worldcubeassociation.org/persons/2021STAW01) |
 | 5 | [Martyna Jarosz](https://www.worldcubeassociation.org/persons/2022JARO01) |
+| 5 | [Arleta Tokarska](https://www.worldcubeassociation.org/persons/2025TOKA01) |
 | 5 | [Michał Robaczyk](https://www.worldcubeassociation.org/persons/2006ROBA01) |
 | 4 | [Krzysztof Kuncki](https://www.worldcubeassociation.org/persons/2010KUNC01) |
 | 4 | [Witold Sołtysik](https://www.worldcubeassociation.org/persons/2015SOLT03) |
@@ -74,7 +75,6 @@
 | 4 | [Marek Kurcyus](https://www.worldcubeassociation.org/persons/2005KURC01) |
 | 4 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) |
 | 4 | [Maksymilian Januszewski](https://www.worldcubeassociation.org/persons/2022JANU01) |
-| 4 | [Arleta Tokarska](https://www.worldcubeassociation.org/persons/2025TOKA01) |
 | 3 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
 | 3 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) |
 | 3 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) |

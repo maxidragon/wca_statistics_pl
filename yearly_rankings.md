@@ -1,72 +1,98 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 10 January 2026*
+*Updated on 13 January 2026*
 
 
 ### 3x3x3 Cube - Single
 
 | Person | Result | Competition | Details |
 | :--- | ---: | :--- | :--- |
-| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **8.48** |  | [Sofia Open 2026](https://www.worldcubeassociation.org/competitions/SofiaOpen2026) | 11.58, 11.27, 9.47, 8.48, 8.89 |
-| [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) | **9.44** |  | [Sofia Open 2026](https://www.worldcubeassociation.org/competitions/SofiaOpen2026) | 10.76, 13.95, 13.82, 9.44, 13.43 |
-| [Dominik Szajek](https://www.worldcubeassociation.org/persons/2023SZAJ01) | **11.44** |  | [Sofia Open 2026](https://www.worldcubeassociation.org/competitions/SofiaOpen2026) | 16.70, 11.44, 13.69, 14.61, 16.31 |
-| [Szymon Plesniak](https://www.worldcubeassociation.org/persons/2024PLES01) | **20.40** |  | [Weston-super-Mare Winter 2026](https://www.worldcubeassociation.org/competitions/WestonsuperMareWinter2026) | 21.59, 24.53, 20.40, 25.86, 22.52 |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **4.05** |  | [Cubing at The Cube 2026](https://www.worldcubeassociation.org/competitions/CubingatTheCube2026) | 5.17, 4.76, 4.05, 5.65, 5.16 |
+| [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | **4.69** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 6.37, 4.71, 5.62, 4.69, 5.82 |
+| [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | **4.94** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 7.38, 5.36, 4.94, 7.02, 5.54 |
+| [Dominik Podolak](https://www.worldcubeassociation.org/persons/2023PODO02) | **6.22** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 10.36, 9.80, 8.48, 6.22, 11.51 |
+| [Victor Kiziukiewicz](https://www.worldcubeassociation.org/persons/2023KIZI01) | **6.25** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 7.85, 10.52, 8.28, 6.25, 8.23 |
+| [Ryszard Kędziora](https://www.worldcubeassociation.org/persons/2022KEDZ01) | **6.34** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 7.56, 7.97, 6.97, 8.05, 6.34 |
+| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **6.40** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 6.40, 6.83, 8.48, 7.82, 10.18 |
+| [Adam Sitek](https://www.worldcubeassociation.org/persons/2024SITE01) | **6.40** |  | [Scrambled Cubes Legnica 2026](https://www.worldcubeassociation.org/competitions/ScrambledCubesLegnica2026) | 10.51, 8.17, 6.40, 9.60, 13.44 |
+| [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | **6.69** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 7.78, 11.36, 10.16, 8.67, 6.69 |
+| [Aleksander Kołodziński](https://www.worldcubeassociation.org/persons/2021KOLO01) | **7.03** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 9.31, 9.35, 11.92, 7.03, 11.00 |
 
 ### 3x3x3 Cube - Average
 
 | Person | Result | Competition | Details |
 | :--- | ---: | :--- | :--- |
-| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **9.88** |  | [Sofia Open 2026](https://www.worldcubeassociation.org/competitions/SofiaOpen2026) | 11.58, 11.27, 9.47, 8.48, 8.89 |
-| [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) | **12.67** |  | [Sofia Open 2026](https://www.worldcubeassociation.org/competitions/SofiaOpen2026) | 10.76, 13.95, 13.82, 9.44, 13.43 |
-| [Dominik Szajek](https://www.worldcubeassociation.org/persons/2023SZAJ01) | **14.87** |  | [Sofia Open 2026](https://www.worldcubeassociation.org/competitions/SofiaOpen2026) | 16.70, 11.44, 13.69, 14.61, 16.31 |
-| [Szymon Plesniak](https://www.worldcubeassociation.org/persons/2024PLES01) | **22.88** |  | [Weston-super-Mare Winter 2026](https://www.worldcubeassociation.org/competitions/WestonsuperMareWinter2026) | 21.59, 24.53, 20.40, 25.86, 22.52 |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **4.80** |  | [Cubing at The Cube 2026](https://www.worldcubeassociation.org/competitions/CubingatTheCube2026) | 4.85, 4.81, 4.59, 4.75, 6.57 |
+| [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | **5.38** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 6.37, 4.71, 5.62, 4.69, 5.82 |
+| [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | **5.97** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 7.38, 5.36, 4.94, 7.02, 5.54 |
+| [Victor Kiziukiewicz](https://www.worldcubeassociation.org/persons/2023KIZI01) | **7.37** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 6.72, 7.90, 6.54, 7.49, 11.24 |
+| [Ryszard Kędziora](https://www.worldcubeassociation.org/persons/2022KEDZ01) | **7.50** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 7.56, 7.97, 6.97, 8.05, 6.34 |
+| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **7.71** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 6.40, 6.83, 8.48, 7.82, 10.18 |
+| [Adam Sitek](https://www.worldcubeassociation.org/persons/2024SITE01) | **7.85** |  | [Scrambled Cubes Legnica 2026](https://www.worldcubeassociation.org/competitions/ScrambledCubesLegnica2026) | 8.66, 7.94, 7.91, 7.26, 7.70 |
+| [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | **8.03** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 7.67, 9.52, 8.84, 7.47, 7.57 |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **8.40** |  | [Scrambled Cubes Legnica 2026](https://www.worldcubeassociation.org/competitions/ScrambledCubesLegnica2026) | 7.57, 7.67, 8.02, 10.51, 9.51 |
+| [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | **8.43** |  | [Scrambled Cubes Legnica 2026](https://www.worldcubeassociation.org/competitions/ScrambledCubesLegnica2026) | 7.34, 8.52, 9.58, 9.19, 7.58 |
 
 ### 2x2x2 Cube - Single
 
 | Person | Result | Competition | Details |
 | :--- | ---: | :--- | :--- |
-| [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) | **2.32** |  | [Sofia Open 2026](https://www.worldcubeassociation.org/competitions/SofiaOpen2026) | 4.88, 3.18, 4.98, 3.77, 2.32 |
-| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **2.91** |  | [Sofia Open 2026](https://www.worldcubeassociation.org/competitions/SofiaOpen2026) | 3.58, 3.06, 3.04, 3.36, 2.91 |
-| [Szymon Plesniak](https://www.worldcubeassociation.org/persons/2024PLES01) | **4.80** |  | [Weston-super-Mare Winter 2026](https://www.worldcubeassociation.org/competitions/WestonsuperMareWinter2026) | 4.91, 4.80, DNF, 4.96, 7.77 |
+| [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | **0.90** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 1.20, 0.91, 1.39, 0.90, 0.94 |
+| [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | **0.99** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | DNF, 0.99, DNF, 1.34, DNF |
+| [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) | **1.06** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 2.51, 3.25, 1.91, 1.75, 1.06 |
+| [Stanisław Ożyński](https://www.worldcubeassociation.org/persons/2022OZYN01) | **1.21** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 1.21, DNF, 1.71, 1.34, 1.53 |
+| [Dominik Podolak](https://www.worldcubeassociation.org/persons/2023PODO02) | **1.23** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 2.90, 1.23, 1.63, 3.38, 3.85 |
+| [Maciej Kozar](https://www.worldcubeassociation.org/persons/2021KOZA01) | **1.24** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 1.24, 4.71, 4.05, 2.81, 3.91 |
+| [Victor Kiziukiewicz](https://www.worldcubeassociation.org/persons/2023KIZI01) | **1.27** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 1.32, 3.21, 1.27, 1.71, 1.81 |
+| [Ryszard Kędziora](https://www.worldcubeassociation.org/persons/2022KEDZ01) | **1.38** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 1.38, 2.69, 2.19, 3.41, 2.40 |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **1.42** |  | [Scrambled Cubes Legnica 2026](https://www.worldcubeassociation.org/competitions/ScrambledCubesLegnica2026) | 4.19, 4.81, 3.28, 1.42, 3.15 |
+| [Sebastian Fornal](https://www.worldcubeassociation.org/persons/2022FORN02) | **1.48** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 2.84, 1.48, 4.01, 4.03, 3.02 |
 
 ### 2x2x2 Cube - Average
 
 | Person | Result | Competition | Details |
 | :--- | ---: | :--- | :--- |
-| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **3.15** |  | [Sofia Open 2026](https://www.worldcubeassociation.org/competitions/SofiaOpen2026) | 3.58, 3.06, 3.04, 3.36, 2.91 |
-| [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) | **3.94** |  | [Sofia Open 2026](https://www.worldcubeassociation.org/competitions/SofiaOpen2026) | 4.88, 3.18, 4.98, 3.77, 2.32 |
-| [Szymon Plesniak](https://www.worldcubeassociation.org/persons/2024PLES01) | **5.88** |  | [Weston-super-Mare Winter 2026](https://www.worldcubeassociation.org/competitions/WestonsuperMareWinter2026) | 4.91, 4.80, DNF, 4.96, 7.77 |
+| [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | **1.02** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 1.20, 0.91, 1.39, 0.90, 0.94 |
+| [Stanisław Ożyński](https://www.worldcubeassociation.org/persons/2022OZYN01) | **1.53** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 1.21, DNF, 1.71, 1.34, 1.53 |
+| [Victor Kiziukiewicz](https://www.worldcubeassociation.org/persons/2023KIZI01) | **1.61** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 1.32, 3.21, 1.27, 1.71, 1.81 |
+| [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | **1.68** |  | [Scrambled Cubes Legnica 2026](https://www.worldcubeassociation.org/competitions/ScrambledCubesLegnica2026) | 1.91, 1.56, 2.29, 1.56, 1.52 |
+| [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) | **1.93** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 1.66, 6.67, 1.76, 2.19, 1.84 |
+| [Maciej Kozar](https://www.worldcubeassociation.org/persons/2021KOZA01) | **2.05** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 1.63, 2.14, 2.20, 1.87, 2.15 |
+| [Hubert Darłak](https://www.worldcubeassociation.org/persons/2023DARL03) | **2.11** |  | [Scrambled Cubes Legnica 2026](https://www.worldcubeassociation.org/competitions/ScrambledCubesLegnica2026) | 2.70, 1.81, 1.81, 1.49, 2.87 |
+| [Ryszard Kędziora](https://www.worldcubeassociation.org/persons/2022KEDZ01) | **2.22** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 2.50, 1.84, 3.97, 1.85, 2.32 |
+| [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | **2.25** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 1.84, 2.40, 5.13, 2.06, 2.30 |
+| [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | **2.25** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 2.01, 1.50, 1.03, 3.25, DNF |
 
 ### 4x4x4 Cube - Single
 
 | Person | Result | Competition | Details |
 | :--- | ---: | :--- | :--- |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **24.43** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 24.43, 27.19, 30.99, 27.59, 24.46 |
+| [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | **24.64** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 27.32, 29.21, 35.79, 24.64, 29.36 |
+| [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | **24.70** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 29.26, 24.70, 27.22, 38.53, 37.01 |
 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | **25.07** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 25.07, 29.75, 31.31, 28.85, 32.81 |
 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | **26.20** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 26.20, 34.77, 30.84, 33.91, 35.95 |
+| [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | **26.94** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 38.06, 41.26, 35.00, 38.10, 26.94 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **27.17** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 32.05, 30.61, 35.34, 27.17, 30.96 |
-| [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | **28.05** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 28.05, 59.64, 36.75, 32.13, 34.59 |
+| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **27.45** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 41.81, 33.16, 27.45, 30.50, 39.03 |
+| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **28.43** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 36.65, 34.09, 31.90, 28.43, 33.16 |
 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **29.24** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 29.24, 36.82, 38.66, 37.10, 36.23 |
-| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **29.50** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 35.55, 31.10, 29.50, 36.28, 33.17 |
-| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **30.24** |  | [Sofia Open 2026](https://www.worldcubeassociation.org/competitions/SofiaOpen2026) | 34.68, 38.99, 30.24, 33.66, 39.30 |
-| [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | **30.72** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 35.97, 32.66, 30.72, 36.57, 31.54 |
-| [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) | **33.12** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 39.56, 49.41, 42.42, 33.12, 39.76 |
 
 ### 4x4x4 Cube - Average
 
 | Person | Result | Competition | Details |
 | :--- | ---: | :--- | :--- |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **26.41** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 24.43, 27.19, 30.99, 27.59, 24.46 |
+| [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | **28.63** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 27.32, 29.21, 35.79, 24.64, 29.36 |
 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | **29.97** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 25.07, 29.75, 31.31, 28.85, 32.81 |
+| [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | **30.78** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 29.11, 30.13, 29.30, 32.91, 38.42 |
+| [Victor Kiziukiewicz](https://www.worldcubeassociation.org/persons/2023KIZI01) | **30.78** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 35.55, 32.76, 29.27, 29.90, 29.67 |
+| [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | **31.16** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 29.26, 24.70, 27.22, 38.53, 37.01 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **31.21** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 32.05, 30.61, 35.34, 27.17, 30.96 |
-| [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | **33.17** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 26.20, 34.77, 30.84, 33.91, 35.95 |
-| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **33.27** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 35.55, 31.10, 29.50, 36.28, 33.17 |
-| [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | **33.39** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 35.97, 32.66, 30.72, 36.57, 31.54 |
-| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **34.40** |  | [Sofia Open 2026](https://www.worldcubeassociation.org/competitions/SofiaOpen2026) | 31.72, 33.68, 34.47, 35.05, DNF |
-| [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | **34.49** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 28.05, 59.64, 36.75, 32.13, 34.59 |
-| [Filip Brokos](https://www.worldcubeassociation.org/persons/2022BROK03) | **35.93** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 35.13, 33.89, 38.78, 42.51, 33.30 |
-| [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **36.72** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 29.24, 36.82, 38.66, 37.10, 36.23 |
+| [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | **32.14** |  | [Scrambled Cubes Legnica 2026](https://www.worldcubeassociation.org/competitions/ScrambledCubesLegnica2026) | 31.91, 33.64, 34.41, 29.21, 30.87 |
+| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **33.00** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 32.87, 30.92, 35.21, 38.28, 30.75 |
+| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **33.05** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 36.65, 34.09, 31.90, 28.43, 33.16 |
 
 ### 5x5x5 Cube - Single
 
@@ -76,12 +102,12 @@
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **45.69** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 51.51, 51.82, 50.78, 45.69, 49.07 |
 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | **50.06** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 52.69, 50.06, 1:03.29, 1:03.04, 58.07 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **51.97** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 57.10, 58.66, 57.52, 58.46, 51.97 |
+| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **53.77** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 1:01.46, 1:05.89, 53.77, 56.31, 1:10.91 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **55.18** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 1:00.15, 55.18, 58.57, 1:05.04, 58.21 |
 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | **56.04** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 1:08.46, 56.04, 1:05.75, 1:05.29, 58.01 |
 | [Filip Brokos](https://www.worldcubeassociation.org/persons/2022BROK03) | **56.93** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 57.38, 1:11.32, 1:03.49, 56.93, 1:11.54 |
-| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **58.81** |  | [Sofia Open 2026](https://www.worldcubeassociation.org/competitions/SofiaOpen2026) | 1:07.26, 1:08.59, 1:09.69, 1:04.91, 58.81 |
-| [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **1:00.16** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 1:02.96, 1:01.48, 1:08.88, 1:10.55, 1:00.16 |
-| [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | **1:01.18** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 1:04.96, 1:05.10, 1:06.24, 1:08.47, 1:01.18 |
+| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **57.47** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 1:03.11, 1:08.54, 1:07.61, 57.47, 1:11.65 |
+| [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) | **58.34** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 1:06.01, 1:05.90, 1:10.52, DNF, 58.34 |
 
 ### 5x5x5 Cube - Average
 
@@ -93,70 +119,70 @@
 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | **57.93** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 52.69, 50.06, 1:03.29, 1:03.04, 58.07 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **58.98** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 1:00.15, 55.18, 58.57, 1:05.04, 58.21 |
 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | **59.83** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 56.87, 1:00.98, 57.36, 1:03.20, 1:01.15 |
+| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **1:01.22** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 1:01.46, 1:05.89, 53.77, 56.31, 1:10.91 |
 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **1:03.63** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 1:04.32, 1:00.23, 1:04.91, 1:05.39, 1:01.66 |
+| [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | **1:03.84** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 1:04.75, 1:01.21, 1:09.57, 1:04.12, 1:02.66 |
 | [Filip Brokos](https://www.worldcubeassociation.org/persons/2022BROK03) | **1:04.06** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 57.38, 1:11.32, 1:03.49, 56.93, 1:11.54 |
-| [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | **1:05.43** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 1:04.96, 1:05.10, 1:06.24, 1:08.47, 1:01.18 |
-| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **1:06.92** |  | [Sofia Open 2026](https://www.worldcubeassociation.org/competitions/SofiaOpen2026) | 1:07.26, 1:08.59, 1:09.69, 1:04.91, 58.81 |
 
 ### 6x6x6 Cube - Single
 
 | Person | Result | Competition | Details |
 | :--- | ---: | :--- | :--- |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **1:06.47** |  | [Cubing at The Cube 2026](https://www.worldcubeassociation.org/competitions/CubingatTheCube2026) | 1:15.47, 1:06.47, 1:14.35 |
 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | **1:25.04** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 1:38.05, 1:32.55, 1:25.04 |
 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | **1:35.96** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 1:37.91, 1:35.96, 1:42.40 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **1:40.83** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 1:40.83, 1:56.83, 1:48.16 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **1:41.27** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 1:46.75, 1:41.27, 1:47.46 |
+| [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) | **1:47.68** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 2:05.97, 1:55.95, 1:47.68 |
+| [Piotr Melczewski](https://www.worldcubeassociation.org/persons/2019MELC02) | **1:50.32** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 1:50.32, 2:09.53, 2:34.90 |
+| [Aron Kasprowicz](https://www.worldcubeassociation.org/persons/2022KASP07) | **1:51.47** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 2:07.62, 1:51.47, 2:13.30 |
+| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | **1:51.50** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 1:51.50, 1:54.55, 2:18.24 |
 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | **1:52.66** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 1:52.66, 2:13.05, 1:55.69 |
-| [Daniel Jamrużka](https://www.worldcubeassociation.org/persons/2012JAMR01) | **1:55.09** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 1:55.09, 2:05.04, 2:10.44 |
-| [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) | **1:59.46** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 2:27.18, 2:21.91, 1:59.46 |
-| [Filip Brokos](https://www.worldcubeassociation.org/persons/2022BROK03) | **1:59.99** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 2:05.75, 2:31.89, 1:59.99 |
-| [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **2:00.83** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 2:08.14, 2:00.83, 2:12.20 |
-| [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | **2:05.25** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 2:33.52, 2:05.25, 2:33.04 |
 
 ### 6x6x6 Cube - Average
 
 | Person | Result | Competition | Details |
 | :--- | ---: | :--- | :--- |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **1:12.10** |  | [Cubing at The Cube 2026](https://www.worldcubeassociation.org/competitions/CubingatTheCube2026) | 1:15.47, 1:06.47, 1:14.35 |
 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | **1:31.85** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 1:28.54, 1:29.88, 1:37.13 |
 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | **1:38.76** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 1:37.91, 1:35.96, 1:42.40 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **1:44.83** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 1:45.75, 1:45.11, 1:43.63 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **1:46.61** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 1:48.53, 1:45.09, 1:46.22 |
+| [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) | **1:56.53** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 2:05.97, 1:55.95, 1:47.68 |
 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | **2:00.47** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 1:52.66, 2:13.05, 1:55.69 |
-| [Daniel Jamrużka](https://www.worldcubeassociation.org/persons/2012JAMR01) | **2:03.52** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 1:55.09, 2:05.04, 2:10.44 |
-| [Filip Brokos](https://www.worldcubeassociation.org/persons/2022BROK03) | **2:03.84** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 2:00.01, 2:09.41, 2:02.09 |
-| [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **2:07.06** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 2:08.14, 2:00.83, 2:12.20 |
-| [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | **2:08.30** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 2:10.79, 2:08.61, 2:05.50 |
-| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **2:10.47** |  | [Sofia Open 2026](https://www.worldcubeassociation.org/competitions/SofiaOpen2026) | 2:08.17, 2:10.54, 2:12.70 |
+| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | **2:00.50** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 2:04.37, 2:02.39, 1:54.74 |
+| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **2:01.40** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 1:58.03, 2:03.31, 2:02.86 |
+| [Mikołaj Molski](https://www.worldcubeassociation.org/persons/2015MOLS01) | **2:01.99** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 1:58.00, 1:57.74, 2:10.22 |
 
 ### 7x7x7 Cube - Single
 
 | Person | Result | Competition | Details |
 | :--- | ---: | :--- | :--- |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **1:44.42** |  | [Cubing at The Cube 2026](https://www.worldcubeassociation.org/competitions/CubingatTheCube2026) | 1:45.66, 2:09.73, 1:44.42 |
 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | **2:13.49** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 2:13.49, 2:14.40, 2:46.63 |
 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | **2:20.03** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 2:28.96, 2:20.03, 2:46.67 |
-| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **2:40.27** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 2:40.27, 2:50.54, 2:51.58 |
+| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **2:27.36** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 2:27.36, 3:05.97, 3:08.94 |
+| [Piotr Melczewski](https://www.worldcubeassociation.org/persons/2019MELC02) | **2:38.83** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 2:38.83, 3:17.48, 2:58.83 |
+| [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) | **2:40.88** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 2:48.58, 2:40.88, 2:45.81 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **2:48.36** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 2:48.36, 2:54.88, 2:56.36 |
 | [Daniel Jamrużka](https://www.worldcubeassociation.org/persons/2012JAMR01) | **2:49.25** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 3:11.58, 3:17.47, 2:49.25 |
 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | **2:59.11** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 2:59.11, 3:22.11, 3:39.80 |
-| [Filip Brokos](https://www.worldcubeassociation.org/persons/2022BROK03) | **3:04.65** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 3:04.65, 3:19.90, 3:16.50 |
-| [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **3:13.11** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 3:33.20, 3:13.11, 3:20.48 |
-| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **3:14.27** |  | [Sofia Open 2026](https://www.worldcubeassociation.org/competitions/SofiaOpen2026) | 3:26.23, 5:52.80, 3:14.27 |
-| [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | **3:23.88** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 3:53.10, 3:23.88, 3:39.27 |
+| [Mikołaj Kuzia](https://www.worldcubeassociation.org/persons/2019KUZI02) | **3:03.26** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 3:13.32, 3:17.70, 3:03.26 |
 
 ### 7x7x7 Cube - Average
 
 | Person | Result | Competition | Details |
 | :--- | ---: | :--- | :--- |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **1:53.27** |  | [Cubing at The Cube 2026](https://www.worldcubeassociation.org/competitions/CubingatTheCube2026) | 1:45.66, 2:09.73, 1:44.42 |
 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | **2:24.84** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 2:13.49, 2:14.40, 2:46.63 |
 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | **2:29.53** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 2:28.71, 2:31.45, 2:28.42 |
+| [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) | **2:45.09** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 2:48.58, 2:40.88, 2:45.81 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **2:47.46** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 2:40.27, 2:50.54, 2:51.58 |
+| [Piotr Melczewski](https://www.worldcubeassociation.org/persons/2019MELC02) | **2:51.53** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 2:58.96, 2:44.73, 2:50.91 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **2:53.20** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 2:48.36, 2:54.88, 2:56.36 |
 | [Daniel Jamrużka](https://www.worldcubeassociation.org/persons/2012JAMR01) | **3:06.10** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 3:11.58, 3:17.47, 2:49.25 |
+| [Mikołaj Kuzia](https://www.worldcubeassociation.org/persons/2019KUZI02) | **3:11.43** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 3:13.32, 3:17.70, 3:03.26 |
 | [Filip Brokos](https://www.worldcubeassociation.org/persons/2022BROK03) | **3:13.68** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 3:04.65, 3:19.90, 3:16.50 |
-| [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | **3:15.52** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 3:27.74, 3:07.40, 3:11.41 |
-| [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **3:22.26** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 3:33.20, 3:13.11, 3:20.48 |
-| [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | **3:38.75** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 3:53.10, 3:23.88, 3:39.27 |
-| [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) | **3:57.59** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 3:39.06, 4:03.31, 4:10.41 |
 
 ### 3x3x3 Blindfolded - Single
 
@@ -221,140 +247,181 @@
 
 | Person | Result | Competition | Details |
 | :--- | ---: | :--- | :--- |
+| [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | **8.69** |  | [Scrambled Cubes Legnica 2026](https://www.worldcubeassociation.org/competitions/ScrambledCubesLegnica2026) | 8.69, 16.63, 10.70, 13.66, 18.75 |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **10.65** |  | [Scrambled Cubes Legnica 2026](https://www.worldcubeassociation.org/competitions/ScrambledCubesLegnica2026) | 10.65, 12.20, 11.26, 15.19, 12.16 |
 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) | **13.63** |  | [Sofia Open 2026](https://www.worldcubeassociation.org/competitions/SofiaOpen2026) | 15.31, 15.46, 14.85, 13.63, 16.64 |
+| [Felix Lewicki](https://www.worldcubeassociation.org/persons/2021LEWI03) | **14.48** |  | [Scrambled Cubes Legnica 2026](https://www.worldcubeassociation.org/competitions/ScrambledCubesLegnica2026) | 17.92, 17.61, 14.48, 17.56, 19.58 |
+| [Mateusz Korolkiewicz](https://www.worldcubeassociation.org/persons/2024KORO03) | **14.92** |  | [Scrambled Cubes Legnica 2026](https://www.worldcubeassociation.org/competitions/ScrambledCubesLegnica2026) | 16.17, 14.92, 15.12, 16.82, 18.42 |
+| [Hubert Darłak](https://www.worldcubeassociation.org/persons/2023DARL03) | **16.08** |  | [Scrambled Cubes Legnica 2026](https://www.worldcubeassociation.org/competitions/ScrambledCubesLegnica2026) | 21.54, 16.08, DNF, 18.12, 24.56 |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **16.54** |  | [Sofia Open 2026](https://www.worldcubeassociation.org/competitions/SofiaOpen2026) | 19.93, 26.34, 22.05, 16.54, 17.01 |
-| [Szymon Plesniak](https://www.worldcubeassociation.org/persons/2024PLES01) | **1:08.44** |  | [Weston-super-Mare Winter 2026](https://www.worldcubeassociation.org/competitions/WestonsuperMareWinter2026) | 1:08.44, DNF |
+| [Adam Sitek](https://www.worldcubeassociation.org/persons/2024SITE01) | **17.00** |  | [Scrambled Cubes Legnica 2026](https://www.worldcubeassociation.org/competitions/ScrambledCubesLegnica2026) | 20.84, 25.69, 17.00, 28.06, 30.46 |
+| [Tomek Gamlij](https://www.worldcubeassociation.org/persons/2021GAML01) | **17.13** |  | [Scrambled Cubes Legnica 2026](https://www.worldcubeassociation.org/competitions/ScrambledCubesLegnica2026) | 36.31, 22.56, 25.67, 19.55, 17.13 |
+| [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | **17.36** |  | [Scrambled Cubes Legnica 2026](https://www.worldcubeassociation.org/competitions/ScrambledCubesLegnica2026) | 20.11, 28.10, 17.36, 19.53, 24.92 |
 
 ### 3x3x3 One-Handed - Average
 
 | Person | Result | Competition | Details |
 | :--- | ---: | :--- | :--- |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **11.87** |  | [Scrambled Cubes Legnica 2026](https://www.worldcubeassociation.org/competitions/ScrambledCubesLegnica2026) | 10.65, 12.20, 11.26, 15.19, 12.16 |
+| [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | **13.66** |  | [Scrambled Cubes Legnica 2026](https://www.worldcubeassociation.org/competitions/ScrambledCubesLegnica2026) | 8.69, 16.63, 10.70, 13.66, 18.75 |
 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) | **15.21** |  | [Sofia Open 2026](https://www.worldcubeassociation.org/competitions/SofiaOpen2026) | 15.31, 15.46, 14.85, 13.63, 16.64 |
+| [Mateusz Korolkiewicz](https://www.worldcubeassociation.org/persons/2024KORO03) | **16.04** |  | [Scrambled Cubes Legnica 2026](https://www.worldcubeassociation.org/competitions/ScrambledCubesLegnica2026) | 16.17, 14.92, 15.12, 16.82, 18.42 |
+| [Felix Lewicki](https://www.worldcubeassociation.org/persons/2021LEWI03) | **17.70** |  | [Scrambled Cubes Legnica 2026](https://www.worldcubeassociation.org/competitions/ScrambledCubesLegnica2026) | 17.92, 17.61, 14.48, 17.56, 19.58 |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **19.13** |  | [Sofia Open 2026](https://www.worldcubeassociation.org/competitions/SofiaOpen2026) | 19.90, 24.22, 17.72, 19.76, 17.02 |
+| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **20.11** |  | [Scrambled Cubes Legnica 2026](https://www.worldcubeassociation.org/competitions/ScrambledCubesLegnica2026) | 19.56, 19.67, 19.00, 23.92, 21.11 |
+| [Hubert Darłak](https://www.worldcubeassociation.org/persons/2023DARL03) | **21.41** |  | [Scrambled Cubes Legnica 2026](https://www.worldcubeassociation.org/competitions/ScrambledCubesLegnica2026) | 21.54, 16.08, DNF, 18.12, 24.56 |
+| [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | **21.52** |  | [Scrambled Cubes Legnica 2026](https://www.worldcubeassociation.org/competitions/ScrambledCubesLegnica2026) | 20.11, 28.10, 17.36, 19.53, 24.92 |
+| [Igor Osiadacz](https://www.worldcubeassociation.org/persons/2022OSIA01) | **22.41** |  | [Scrambled Cubes Legnica 2026](https://www.worldcubeassociation.org/competitions/ScrambledCubesLegnica2026) | 18.01, 24.27, 19.96, 26.47, 22.99 |
 
 ### Megaminx - Single
 
 | Person | Result | Competition | Details |
 | :--- | ---: | :--- | :--- |
+| [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | **34.80** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 49.36, 43.19, 45.03, 34.80, 52.15 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **35.86** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 35.86, 42.94, 43.86, 42.42, 53.05 |
+| [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) | **36.12** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 44.89, 38.33, 40.46, 36.12, 42.50 |
 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | **39.26** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 39.26, 44.76, 43.95, 44.85, 42.02 |
+| [Jędrzej Topolski](https://www.worldcubeassociation.org/persons/2024TOPO01) | **41.89** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 44.22, 42.70, 41.89, 46.81, 45.87 |
 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | **42.13** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 50.09, 49.33, 1:06.45, 51.33, 42.13 |
+| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | **44.79** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 47.83, 44.79, 54.71, 48.75, 52.86 |
+| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **44.92** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 49.83, 1:02.68, 53.95, 44.92, 48.64 |
 | [Idan Bolesto](https://www.worldcubeassociation.org/persons/2022BOLE01) | **45.05** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 47.04, 45.05, 51.71, 55.85, 54.63 |
-| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | **45.40** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 45.40, 59.66, 51.50, 48.06, 55.46 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **45.52** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 45.52, 51.49, 57.12, 58.54, 53.13 |
-| [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **46.25** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 59.34, 46.25, 56.23, 1:07.19, 57.83 |
-| [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | **46.36** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 59.42, 51.10, 58.79, 46.36, 59.76 |
-| [Szymon Gabara](https://www.worldcubeassociation.org/persons/2023GABA01) | **47.34** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 55.40, 58.66, 47.34, 51.61, 55.94 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **50.31** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 50.31, 58.81, 58.47, 53.95, 1:17.10 |
 
 ### Megaminx - Average
 
 | Person | Result | Competition | Details |
 | :--- | ---: | :--- | :--- |
+| [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) | **40.43** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 44.89, 38.33, 40.46, 36.12, 42.50 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **41.77** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 44.84, 41.95, 41.94, 41.43, 40.13 |
 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | **42.38** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 40.86, 44.62, 44.12, 42.17, 40.73 |
+| [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | **42.92** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 43.05, 48.36, 42.08, 39.85, 43.62 |
+| [Jędrzej Topolski](https://www.worldcubeassociation.org/persons/2024TOPO01) | **44.26** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 44.22, 42.70, 41.89, 46.81, 45.87 |
+| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | **48.99** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 45.57, 50.64, 49.47, 48.75, 48.75 |
 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | **49.25** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 58.41, 47.47, 47.65, 48.15, 51.94 |
+| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **50.81** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 49.83, 1:02.68, 53.95, 44.92, 48.64 |
 | [Idan Bolesto](https://www.worldcubeassociation.org/persons/2022BOLE01) | **50.86** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 52.98, 49.98, 48.92, 50.91, 51.69 |
-| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | **51.42** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 51.68, 51.76, 50.82, 51.98, 46.55 |
-| [Szymon Gabara](https://www.worldcubeassociation.org/persons/2023GABA01) | **51.60** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 51.53, 51.33, 51.93, 49.08, 55.79 |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **52.65** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 53.09, 47.59, 57.11, 47.75, 1:09.06 |
-| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **54.12** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 51.93, 54.16, 54.19, 54.02, 54.38 |
-| [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | **54.31** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 52.11, 56.50, 54.33, 1:02.69, 51.65 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **55.96** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 1:03.08, 58.37, 54.72, 54.78, 54.58 |
+| [Aleksander Kołodziński](https://www.worldcubeassociation.org/persons/2021KOLO01) | **50.88** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 49.21, 47.12, 55.45, 51.23, 52.19 |
 
 ### Pyraminx - Single
 
 | Person | Result | Competition | Details |
 | :--- | ---: | :--- | :--- |
-| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **4.95** |  | [Sofia Open 2026](https://www.worldcubeassociation.org/competitions/SofiaOpen2026) | 4.95, 6.40, 5.21, 7.10, 5.93 |
-| [Dominik Szajek](https://www.worldcubeassociation.org/persons/2023SZAJ01) | **5.00** |  | [Sofia Open 2026](https://www.worldcubeassociation.org/competitions/SofiaOpen2026) | 8.92, 8.99, 5.00, 10.34, 11.61 |
-| [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) | **6.51** |  | [Sofia Open 2026](https://www.worldcubeassociation.org/competitions/SofiaOpen2026) | 7.08, 8.32, 6.51, 11.55, 10.57 |
+| [Aleksander Arefiew](https://www.worldcubeassociation.org/persons/2016AREF01) | **1.22** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 2.87, 4.23, 6.52, 1.22, 3.35 |
+| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | **1.25** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 3.13, 2.55, 3.19, 1.25, 2.35 |
+| [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) | **1.53** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 1.72, 2.37, 1.53, 1.78, 1.67 |
+| [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | **1.67** |  | [Scrambled Cubes Legnica 2026](https://www.worldcubeassociation.org/competitions/ScrambledCubesLegnica2026) | 1.86, 1.67, 3.44, 2.00, 2.22 |
+| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **1.68** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 1.94, 4.13, 4.73, 1.68, 3.23 |
+| [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | **1.71** |  | [Scrambled Cubes Legnica 2026](https://www.worldcubeassociation.org/competitions/ScrambledCubesLegnica2026) | 2.25, 3.80, 1.71, 1.78, 3.36 |
+| [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | **1.92** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 2.35, 3.14, 1.92, 2.66, 2.84 |
+| [Bartosz Miduch](https://www.worldcubeassociation.org/persons/2019MIDU01) | **1.99** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 1.99, 5.21, 5.02, 3.24, 2.96 |
+| [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | **2.05** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 2.05, 3.14, 5.09, 4.25, 3.58 |
+| [Ryszard Kędziora](https://www.worldcubeassociation.org/persons/2022KEDZ01) | **2.05** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 2.05, 6.76, 6.86, 3.41, DNF |
 
 ### Pyraminx - Average
 
 | Person | Result | Competition | Details |
 | :--- | ---: | :--- | :--- |
-| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **5.85** |  | [Sofia Open 2026](https://www.worldcubeassociation.org/competitions/SofiaOpen2026) | 4.95, 6.40, 5.21, 7.10, 5.93 |
-| [Dominik Szajek](https://www.worldcubeassociation.org/persons/2023SZAJ01) | **7.52** |  | [Sofia Open 2026](https://www.worldcubeassociation.org/competitions/SofiaOpen2026) | DNF, 6.98, 6.48, 6.23, 9.10 |
-| [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) | **8.29** |  | [Sofia Open 2026](https://www.worldcubeassociation.org/competitions/SofiaOpen2026) | 9.28, 7.83, 7.76, 7.76, 10.09 |
+| [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) | **1.72** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 1.72, 2.37, 1.53, 1.78, 1.67 |
+| [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | **2.03** |  | [Scrambled Cubes Legnica 2026](https://www.worldcubeassociation.org/competitions/ScrambledCubesLegnica2026) | 1.86, 1.67, 3.44, 2.00, 2.22 |
+| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **2.32** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 2.23, 2.01, 2.72, 2.91, 1.89 |
+| [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | **2.46** |  | [Scrambled Cubes Legnica 2026](https://www.worldcubeassociation.org/competitions/ScrambledCubesLegnica2026) | 2.25, 3.80, 1.71, 1.78, 3.36 |
+| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | **2.51** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 2.99, 2.32, 2.16, 4.89, 2.21 |
+| [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | **2.58** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 2.45, 2.78, 3.20, 2.10, 2.50 |
+| [Paweł Dominiczak](https://www.worldcubeassociation.org/persons/2023DOMI21) | **2.79** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 3.02, 2.57, 2.94, 2.16, 2.86 |
+| [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | **2.99** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 3.60, 2.63, 2.75, 2.23, 3.77 |
+| [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | **3.39** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 4.75, 2.55, 2.66, 2.76, 5.36 |
+| [Bartosz Miduch](https://www.worldcubeassociation.org/persons/2019MIDU01) | **3.39** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 2.66, 6.37, 4.88, 2.25, 2.63 |
 
 ### Clock - Single
 
 | Person | Result | Competition | Details |
 | :--- | ---: | :--- | :--- |
+| [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | **2.00** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 2.00, 3.60, 2.99, 2.63, DNF |
 | [Filip Brokos](https://www.worldcubeassociation.org/persons/2022BROK03) | **2.53** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 3.79, 3.61, 2.53, 3.50, 3.70 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **3.06** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 5.89, 3.06, DNF, 4.56, 4.33 |
 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | **3.14** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 5.78, 4.71, 3.14, 3.15, 4.08 |
+| [Dominik Podolak](https://www.worldcubeassociation.org/persons/2023PODO02) | **3.68** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 3.68, 5.36, 4.10, DNF, 5.14 |
 | [Bartosz Dąbrowski](https://www.worldcubeassociation.org/persons/2023DABR07) | **3.72** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 6.04, 5.12, 4.01, 3.72, 4.60 |
+| [Sebastian Fornal](https://www.worldcubeassociation.org/persons/2022FORN02) | **3.87** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | DNF, 5.83, 7.66, 5.89, 3.87 |
 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | **3.98** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | DNF, DNF, 6.70, 3.98, DNF |
+| [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | **4.08** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 5.05, 4.08, 4.08, DNF, DNF |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **4.20** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 5.13, 4.75, 4.20, 11.72, 5.51 |
-| [Szymon Gabara](https://www.worldcubeassociation.org/persons/2023GABA01) | **4.73** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 4.73, 5.68, 4.89, 5.39, 9.72 |
-| [Adam Dojtrowski](https://www.worldcubeassociation.org/persons/2023DOJT02) | **4.84** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 4.96, 6.04, 4.84, 5.94, DNF |
-| [Marek Dojtrowski](https://www.worldcubeassociation.org/persons/2023DOJT01) | **5.02** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 5.02, 6.95, 5.92, 6.49, DNF |
-| [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | **5.04** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | DNF, 5.89, 5.04, DNF, DNF |
 
 ### Clock - Average
 
 | Person | Result | Competition | Details |
 | :--- | ---: | :--- | :--- |
+| [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | **2.88** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 2.97, 2.58, 2.83, 2.85, DNF |
 | [Filip Brokos](https://www.worldcubeassociation.org/persons/2022BROK03) | **3.55** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 7.91, 3.22, 2.59, 3.93, 3.50 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **3.75** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 8.16, 3.75, 3.78, 3.72, 3.54 |
 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | **3.98** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 5.78, 4.71, 3.14, 3.15, 4.08 |
+| [Sebastian Fornal](https://www.worldcubeassociation.org/persons/2022FORN02) | **4.48** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 4.03, 4.61, 4.00, DNF, 4.81 |
 | [Bartosz Dąbrowski](https://www.worldcubeassociation.org/persons/2023DABR07) | **4.58** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 6.04, 5.12, 4.01, 3.72, 4.60 |
+| [Dominik Podolak](https://www.worldcubeassociation.org/persons/2023PODO02) | **4.87** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 3.68, 5.36, 4.10, DNF, 5.14 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **5.13** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 5.13, 4.75, 4.20, 11.72, 5.51 |
 | [Szymon Gabara](https://www.worldcubeassociation.org/persons/2023GABA01) | **5.32** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 4.73, 5.68, 4.89, 5.39, 9.72 |
-| [Adam Dojtrowski](https://www.worldcubeassociation.org/persons/2023DOJT02) | **5.65** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 4.96, 6.04, 4.84, 5.94, DNF |
-| [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | **6.19** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 6.70, 5.49, DNF, 5.64, 6.23 |
-| [Marek Dojtrowski](https://www.worldcubeassociation.org/persons/2023DOJT01) | **6.45** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 5.02, 6.95, 5.92, 6.49, DNF |
-| [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | **6.62** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 5.71, 6.42, 6.60, 6.84, DNF |
+| [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | **5.33** |  | [Scrambled Cubes Legnica 2026](https://www.worldcubeassociation.org/competitions/ScrambledCubesLegnica2026) | 5.48, DNF, 4.97, 4.44, 5.55 |
 
 ### Skewb - Single
 
 | Person | Result | Competition | Details |
 | :--- | ---: | :--- | :--- |
 | [Dominik Szajek](https://www.worldcubeassociation.org/persons/2023SZAJ01) | **2.14** |  | [Sofia Open 2026](https://www.worldcubeassociation.org/competitions/SofiaOpen2026) | 2.14, 3.85, 2.36, 4.60, 3.69 |
-| [Szymon Plesniak](https://www.worldcubeassociation.org/persons/2024PLES01) | **4.04** |  | [Weston-super-Mare Winter 2026](https://www.worldcubeassociation.org/competitions/WestonsuperMareWinter2026) | 4.73, 5.72, 4.04, 4.76, 5.07 |
-| [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) | **6.03** |  | [Sofia Open 2026](https://www.worldcubeassociation.org/competitions/SofiaOpen2026) | 13.99, 10.02, 7.21, 7.65, 6.03 |
-| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **6.69** |  | [Sofia Open 2026](https://www.worldcubeassociation.org/competitions/SofiaOpen2026) | 8.79, 10.38, 7.55, 10.57, 6.69 |
+| [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | **2.43** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 2.43, 4.37, 3.74, 2.79, DNF |
+| [Hubert Darłak](https://www.worldcubeassociation.org/persons/2023DARL03) | **2.49** |  | [Scrambled Cubes Legnica 2026](https://www.worldcubeassociation.org/competitions/ScrambledCubesLegnica2026) | 3.05, 3.37, 4.69, 3.42, 2.49 |
+| [Remigiusz Wingert](https://www.worldcubeassociation.org/persons/2024WING03) | **2.54** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 3.18, 2.54, 3.30, 2.70, 5.71 |
+| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **2.63** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 5.03, 3.22, 2.97, 2.63, 2.80 |
+| [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | **2.90** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 2.90, 3.83, 3.32, 2.93, 4.50 |
+| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | **2.92** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 2.92, 4.73, 7.17, 5.45, 5.91 |
+| [Dawid Kowalczyk](https://www.worldcubeassociation.org/persons/2023KOWA07) | **3.00** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 4.42, 4.13, 3.00, 6.14, 3.89 |
+| [Leon Marszal](https://www.worldcubeassociation.org/persons/2024MARS09) | **3.16** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 3.86, 4.95, 3.16, 3.16, 4.32 |
+| [Sebastian Fornal](https://www.worldcubeassociation.org/persons/2022FORN02) | **3.18** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 4.96, 3.18, 5.12, 6.74, 6.01 |
 
 ### Skewb - Average
 
 | Person | Result | Competition | Details |
 | :--- | ---: | :--- | :--- |
+| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **3.00** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 5.03, 3.22, 2.97, 2.63, 2.80 |
 | [Dominik Szajek](https://www.worldcubeassociation.org/persons/2023SZAJ01) | **3.05** |  | [Sofia Open 2026](https://www.worldcubeassociation.org/competitions/SofiaOpen2026) | 3.41, 2.81, 5.32, 2.90, 2.83 |
-| [Szymon Plesniak](https://www.worldcubeassociation.org/persons/2024PLES01) | **4.85** |  | [Weston-super-Mare Winter 2026](https://www.worldcubeassociation.org/competitions/WestonsuperMareWinter2026) | 4.73, 5.72, 4.04, 4.76, 5.07 |
-| [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) | **8.29** |  | [Sofia Open 2026](https://www.worldcubeassociation.org/competitions/SofiaOpen2026) | 13.99, 10.02, 7.21, 7.65, 6.03 |
-| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **8.91** |  | [Sofia Open 2026](https://www.worldcubeassociation.org/competitions/SofiaOpen2026) | 8.79, 10.38, 7.55, 10.57, 6.69 |
+| [Remigiusz Wingert](https://www.worldcubeassociation.org/persons/2024WING03) | **3.06** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 3.18, 2.54, 3.30, 2.70, 5.71 |
+| [Hubert Darłak](https://www.worldcubeassociation.org/persons/2023DARL03) | **3.28** |  | [Scrambled Cubes Legnica 2026](https://www.worldcubeassociation.org/competitions/ScrambledCubesLegnica2026) | 3.05, 3.37, 4.69, 3.42, 2.49 |
+| [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | **3.36** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 2.90, 3.83, 3.32, 2.93, 4.50 |
+| [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | **3.63** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 2.43, 4.37, 3.74, 2.79, DNF |
+| [Leon Marszal](https://www.worldcubeassociation.org/persons/2024MARS09) | **3.78** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 3.86, 4.95, 3.16, 3.16, 4.32 |
+| [Bartosz Miduch](https://www.worldcubeassociation.org/persons/2019MIDU01) | **3.85** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 3.25, 4.01, 3.94, 3.59, 5.75 |
+| [Tomek Gamlij](https://www.worldcubeassociation.org/persons/2021GAML01) | **3.87** |  | [Scrambled Cubes Legnica 2026](https://www.worldcubeassociation.org/competitions/ScrambledCubesLegnica2026) | 6.02, 3.50, 3.78, 3.27, 4.32 |
+| [Leon Bajer](https://www.worldcubeassociation.org/persons/2023BAJE02) | **3.97** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 4.76, 3.72, 3.73, 3.60, 4.46 |
 
 ### Square-1 - Single
 
 | Person | Result | Competition | Details |
 | :--- | ---: | :--- | :--- |
+| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **4.82** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 5.80, 5.54, 5.94, 6.90, 4.82 |
+| [Maksym Wingert](https://www.worldcubeassociation.org/persons/2024WING02) | **5.91** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 7.41, 5.91, 7.44, 7.08, 13.69 |
+| [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | **5.92** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 7.33, 9.19, 5.92, 11.19, 7.53 |
 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | **5.97** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 11.78, 5.97, 11.27, 6.55, 7.45 |
 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **6.21** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 11.39, 6.21, 8.57, 6.77, 6.70 |
 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | **6.30** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 7.60, 7.54, 9.83, 6.35, 6.30 |
 | [Zygmunt Małkiewicz](https://www.worldcubeassociation.org/persons/2024MALK02) | **9.42** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 16.01, 9.72, 13.58, DNF, 9.42 |
 | [Marek Dojtrowski](https://www.worldcubeassociation.org/persons/2023DOJT01) | **9.61** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 13.38, 15.44, 13.15, 9.61, 10.41 |
+| [Mikołaj Kuzia](https://www.worldcubeassociation.org/persons/2019KUZI02) | **9.86** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 15.02, 12.01, 13.83, 12.29, 9.86 |
 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | **10.49** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 17.93, 10.49, 15.06, 11.88, 12.46 |
-| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **11.02** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 25.32, 25.40, 16.48, 11.02, 28.65 |
-| [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | **11.88** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 11.98, 12.82, 15.81, 16.58, 11.88 |
-| [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) | **12.66** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 15.16, 13.36, 12.66, 19.17, 16.49 |
-| [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | **12.88** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 12.88, 19.29, 16.99, 13.25, 14.45 |
 
 ### Square-1 - Average
 
 | Person | Result | Competition | Details |
 | :--- | ---: | :--- | :--- |
-| [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | **7.16** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 7.60, 7.54, 9.83, 6.35, 6.30 |
+| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **5.76** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 5.80, 5.54, 5.94, 6.90, 4.82 |
+| [Maksym Wingert](https://www.worldcubeassociation.org/persons/2024WING02) | **6.40** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 6.48, 8.05, 5.98, 5.92, 6.75 |
+| [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | **7.04** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 7.75, 6.99, 6.74, 6.83, 7.29 |
 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **7.35** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 11.39, 6.21, 8.57, 6.77, 6.70 |
+| [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | **8.02** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 7.33, 9.19, 5.92, 11.19, 7.53 |
 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | **8.42** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 11.78, 5.97, 11.27, 6.55, 7.45 |
+| [Mikołaj Kuzia](https://www.worldcubeassociation.org/persons/2019KUZI02) | **11.49** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 12.44, 10.50, 10.33, 15.80, 11.52 |
 | [Marek Dojtrowski](https://www.worldcubeassociation.org/persons/2023DOJT01) | **12.31** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 13.38, 15.44, 13.15, 9.61, 10.41 |
 | [Zygmunt Małkiewicz](https://www.worldcubeassociation.org/persons/2024MALK02) | **13.10** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 16.01, 9.72, 13.58, DNF, 9.42 |
 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | **13.13** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 17.93, 10.49, 15.06, 11.88, 12.46 |
-| [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | **13.46** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 12.57, 11.98, 18.47, 12.25, 15.57 |
-| [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | **14.90** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 12.88, 19.29, 16.99, 13.25, 14.45 |
-| [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) | **15.00** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 15.16, 13.36, 12.66, 19.17, 16.49 |
-| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **16.87** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 20.07, 14.29, 16.41, 19.92, 12.56 |
 
 ### 4x4x4 Blindfolded - Single
 

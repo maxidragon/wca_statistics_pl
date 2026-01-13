@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 10 January 2026*
+*Updated on 13 January 2026*
 
 
 ### 3x3x3 Cube
@@ -24,7 +24,7 @@
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
 | 0.99 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 1.05, 0.99, 1.09, 1.00, 1.10, 1.07, 1.85, 0.66, 0.82, 0.94, 0.98, 0.87 |
-| 1.21 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 0.92, 1.01, 1.44, 4.01, 1.15, 1.05, 1.39, 1.36, 1.12, 1.41, 1.22, 0.70 |
+| 1.13 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 0.92, 0.98, 1.20, 0.91, 1.39, 0.90, 0.94, 0.95, 2.84, 1.68, 1.19, 1.14 |
 | 1.28 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 1.63, 0.83, 1.34, 1.17, 1.53, 1.32, 1.46, 1.52, 1.33, 0.78, 1.10, 1.22 |
 | 1.28 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 1.16, 1.38, 1.39, 1.02, 1.29, 1.07, 1.64, 1.24, DNF, 1.45, 0.95, 1.13 |
 | 1.30 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | 1.40, 1.28, 1.47, 1.40, 1.47, 0.67, 2.25, 1.45, 1.30, 1.25, 0.97, 1.00 |
@@ -47,7 +47,7 @@
 | 27.09 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 26.36, 26.12, 26.77, 24.43, 27.19, 30.99, 27.59, 24.46, 26.19, 29.74, 28.56, 27.95 |
 | 27.22 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | 24.87, 26.46, 26.39, 24.16, 25.60, 27.01, 28.40, 26.90, 30.00, 27.99, 31.25, 28.62 |
 | 27.23 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) | 25.40, 30.14, 34.68, 27.63, 24.72, 24.20, 29.09, 26.39, 23.53, 29.04, 29.26, 26.38 |
-| 27.42 | [Maksymilian Sordyl](https://www.worldcubeassociation.org/persons/2022SORD01) | 26.23, 32.28, 26.78, 26.97, 24.96, 28.54, 30.41, 25.80, 23.25, 33.52, 26.86, 25.40 |
+| 27.24 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | 27.30, 30.61, 24.75, 28.33, 26.13, 27.84, 25.76, 25.16, 27.32, 29.21, 35.79, 24.64 |
 
 ### 5x5x5 Cube
 
@@ -160,8 +160,8 @@
 | ---: | :--- | :--- |
 | 1.82 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1.79, 2.21, 1.74, 1.39, 2.69, 1.76, 1.33, 1.87, 2.02, 2.34, 1.35, 1.77 |
 | 1.84 | [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) | 1.60, 1.71, 1.87, 1.89, 2.08, 2.07, 1.53, 1.82, 1.79, 1.63, 2.16, 1.90 |
+| 1.86 | [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) | 1.73, 2.39, 1.37, 1.72, 2.37, 1.53, 1.78, 1.67, 2.10, 1.85, 2.26, 1.56 |
 | 1.89 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | 1.55, 1.99, 2.24, 2.18, 1.63, 1.82, 1.68, 1.62, 2.37, 1.87, 1.77, 2.12 |
-| 1.90 | [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) | 1.15, 2.03, 2.33, 2.12, 1.82, 3.71, 1.95, 1.76, 2.10, 1.55, 1.60, 1.76 |
 | 1.94 | [Henryk Gabor](https://www.worldcubeassociation.org/persons/2024GABO02) | 1.70, 3.12, 1.69, 1.86, 2.06, 2.01, 1.68, 2.05, DNF, 1.62, 1.57, 1.63 |
 | 1.96 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | 1.54, 1.26, 2.52, 3.56, 1.58, 1.65, 2.09, 1.66, 1.96, 2.34, 2.41, 1.89 |
 | 2.04 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | 1.77, 2.20, 2.42, 2.26, 4.00, 2.31, 2.14, 1.42, 1.54, 2.12, 1.55, 2.04 |
@@ -173,7 +173,7 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 2.76 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | 2.55, 2.98, DNF, 2.48, 3.01, 2.52, 3.52, 2.36, 2.20, 3.06, 2.50, 2.57 |
+| 2.74 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | 2.33, 2.32, 2.25, 2.97, 2.58, 2.83, 2.85, DNF, 2.00, 3.60, 2.99, 2.63 |
 | 2.92 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 2.59, 2.78, 3.12, 5.68, 2.56, 2.56, 2.65, 3.96, 3.51, 2.54, 2.61, 2.84 |
 | 3.49 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | 3.01, 4.05, 2.74, 3.60, 3.83, 3.22, 3.46, 3.25, 3.02, 3.46, 6.17, 4.02 |
 | 3.51 | [Mikołaj Świątek](https://www.worldcubeassociation.org/persons/2023SWIA01) | 3.05, 3.29, 7.81, 4.42, 3.34, 3.55, 3.03, 3.93, 3.09, 3.88, 3.56, 3.02 |
@@ -205,11 +205,11 @@
 | ---: | :--- | :--- |
 | 5.84 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 5.28, 5.03, 6.26, 5.94, 4.53, 6.77, 6.26, 6.14, 6.01, 6.23, 5.98, 5.29 |
 | 7.17 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) | 7.52, 7.64, 7.04, 13.71, 9.81, 6.97, 6.59, 6.94, 6.41, 6.95, 5.80, 5.76 |
+| 7.23 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 7.06, 7.79, 5.73, 6.88, 7.41, 6.40, 7.33, 9.19, 5.92, 11.19, 7.53, 6.75 |
 | 7.32 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 8.17, 6.95, 7.04, 7.61, 8.26, 7.51, 7.11, 6.18, 5.35, 6.79, 9.28, 7.55 |
 | 7.34 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 9.10, 6.11, 7.19, 5.70, 7.46, 6.99, 8.77, 8.06, 6.53, 7.28, 8.04, 6.94 |
 | 7.35 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | 6.97, 9.34, 7.48, 7.41, 5.43, 5.85, 10.07, 6.13, 6.73, 10.13, 6.22, 7.28 |
 | 7.60 | [Maksym Wingert](https://www.worldcubeassociation.org/persons/2024WING02) | 7.06, 7.56, 6.26, 6.78, 7.03, DNF, 6.69, 11.37, 6.54, 8.83, 7.51, 6.59 |
-| 7.74 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 7.50, 7.86, 8.72, 6.78, 7.92, DNF, 8.69, 5.84, 7.96, 7.27, 7.80, 6.88 |
 | 8.01 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 5.21, 9.54, 7.87, 10.95, 9.45, 7.13, 8.47, 7.93, 8.90, 7.98, 6.99, 5.84 |
 | 8.32 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 9.38, 9.83, 8.15, 8.86, 13.56, 7.79, 7.10, 8.15, 7.61, 8.61, 6.85, 7.70 |
 | 8.39 | [Witold Sołtysik](https://www.worldcubeassociation.org/persons/2015SOLT03) | 7.28, 8.61, 8.25, 8.96, 6.23, 8.07, 10.92, 16.06, 7.02, 8.18, 8.96, 7.65 |

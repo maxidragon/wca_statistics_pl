@@ -1,15 +1,15 @@
 ## Longest streak of podiums
 
 *Note: All competitions that did not hold the given event are ignored. Results without any completed attempt are not eligible for podium. Only finals are taken into account.*
-*Updated on 10 January 2026*
+*Updated on 13 January 2026*
 
 | Count | Person | Event | Started at | Ended at |
 | ---: | :--- | :--- | :--- | :--- |
-| 106 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 3x3x3 Cube | [Cubing in Cill Chainnigh 2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019) |  |
+| 107 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 3x3x3 Cube | [Cubing in Cill Chainnigh 2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019) |  |
 | 86 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | Square-1 | [Polish Championship 2016](https://www.worldcubeassociation.org/competitions/PolishChampionship2016) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) |
 | 76 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 5x5x5 Cube | [Cubing in Cill Chainnigh 2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019) |  |
 | 63 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 7x7x7 Cube | [Full Steps in Brest 2016](https://www.worldcubeassociation.org/competitions/FullStepsinBrest2016) |  |
-| 60 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 7x7x7 Cube | [Cubing in Cill Chainnigh 2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019) |  |
+| 61 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 7x7x7 Cube | [Cubing in Cill Chainnigh 2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019) |  |
 | 57 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 4x4x4 Cube | [Kubsala Winter 2023](https://www.worldcubeassociation.org/competitions/KubsalaWinter2023) |  |
 | 52 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 6x6x6 Cube | [Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/PolishNationals2009) | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) |
 | 52 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | Megaminx | [Wrocław Side Challenge 2019](https://www.worldcubeassociation.org/competitions/WroclawSideChallenge2019) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) |
@@ -74,6 +74,7 @@
 | 19 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | 3x3x3 With Feet | [Warsaw Open 2014](https://www.worldcubeassociation.org/competitions/WarsawOpen2014) | [Kaliska Open 2015](https://www.worldcubeassociation.org/competitions/KaliskaOpen2015) |
 | 19 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | Clock | [Kaliska Open 2014](https://www.worldcubeassociation.org/competitions/KaliskaOpen2014) | [II Masovian Open Płock 2016](https://www.worldcubeassociation.org/competitions/IIMasovianOpenPlock2016) |
 | 19 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 3x3x3 Blindfolded | [GLS I 2023](https://www.worldcubeassociation.org/competitions/GLSI2023) | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
+| 19 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | Square-1 | [Energy Cube Tomaszów 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2024) |  |
 | 19 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | Megaminx | [PST Mielec 2019](https://www.worldcubeassociation.org/competitions/PolishSpeedcubingTourMielec2019) | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022) |
 | 19 | [Cezary Mach](https://www.worldcubeassociation.org/persons/2018MACH04) | Skewb | [GLS Cup IV 2019](https://www.worldcubeassociation.org/competitions/GLSCupIV2019) | [Energy Cube Ciechanów 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeCiechanow2023) |
 | 19 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 5x5x5 Cube | [Cube4fun in Biała Podlaska 2023](https://www.worldcubeassociation.org/competitions/Cube4funinBialaPodlaska2023) | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) |
@@ -84,7 +85,6 @@
 | 18 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 4x4x4 Cube | [Bydgoszcz Summer 2014](https://www.worldcubeassociation.org/competitions/BydgoszczSummer2014) | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) |
 | 18 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) | 7x7x7 Cube | [ŚLS Będzin Open 2017](https://www.worldcubeassociation.org/competitions/SLSBedzinOpen2017) | [Polish Championship 2019](https://www.worldcubeassociation.org/competitions/PolishChampionship2019) |
 | 18 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 4x4x4 Cube | [Silesian Cubing Pawłowice 2023](https://www.worldcubeassociation.org/competitions/SilesianCubingPawlowice2023) | [No Triangle in Rzeszów 2024](https://www.worldcubeassociation.org/competitions/NoTriangleinRzeszow2024) |
-| 18 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | Square-1 | [Energy Cube Tomaszów 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2024) |  |
 | 18 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) | 3x3x3 Blindfolded | [GLS Cup V 2016](https://www.worldcubeassociation.org/competitions/GLSCupV2016) | [Polish Nationals 2017](https://www.worldcubeassociation.org/competitions/PolishNationals2017) |
 | 18 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | Skewb | [Ice Cubing Szczecinek 2023](https://www.worldcubeassociation.org/competitions/IceCubingSzczecinek2023) | [Dębica Cubing Summer 2024](https://www.worldcubeassociation.org/competitions/DebicaCubingSummer2024) |
 | 17 | [Piotr Alexandrowicz](https://www.worldcubeassociation.org/persons/2007ALEX01) | 3x3x3 One-Handed | [Wroclaw Open 2008](https://www.worldcubeassociation.org/competitions/WroclawOpen2008) | [Polish Nationals 2010](https://www.worldcubeassociation.org/competitions/PolishNationals2010) |

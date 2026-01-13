@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 10 January 2026*
+*Updated on 13 January 2026*
 
 
 ### 3x3x3 Cube
@@ -16,8 +16,8 @@
 | 9.87 | [Tomasz Czerny](https://www.worldcubeassociation.org/persons/2024CZER01) |
 | 9.89 | [Maksymilian Sordyl](https://www.worldcubeassociation.org/persons/2022SORD01) |
 | 9.93 | [Kacper Dłubała](https://www.worldcubeassociation.org/persons/2018DLUB01) |
+| 9.99 | [Dawid Kamiński](https://www.worldcubeassociation.org/persons/2026KAMI01) |
 | 10.21 | [Krzysztof Więcław](https://www.worldcubeassociation.org/persons/2025WIEC05) |
-| 10.41 | [Mikołaj Wróbel](https://www.worldcubeassociation.org/persons/2025WROB01) |
 
 ### 2x2x2 Cube
 
@@ -59,10 +59,10 @@
 | 1:22.56 | [Dominik Stryczek](https://www.worldcubeassociation.org/persons/2023STRY01) |
 | 1:23.11 | [Maksymilian Sordyl](https://www.worldcubeassociation.org/persons/2022SORD01) |
 | 1:24.51 | [Krzysztof Chlebowski](https://www.worldcubeassociation.org/persons/2021CHLE01) |
+| 1:24.60 | [Maciej Chodakowski](https://www.worldcubeassociation.org/persons/2019CHOD01) |
 | 1:24.77 | [Artur Rzegost](https://www.worldcubeassociation.org/persons/2017RZEG01) |
 | 1:25.60 | [Krzysztof Dybich](https://www.worldcubeassociation.org/persons/2019DYBI01) |
 | 1:25.92 | [Cyprian Czuba](https://www.worldcubeassociation.org/persons/2019CZUB01) |
-| 1:26.01 | [Tomasz Cepil](https://www.worldcubeassociation.org/persons/2018CEPI01) |
 
 ### 6x6x6 Cube
 
@@ -144,6 +144,7 @@
 | First single | Person |
 | ---: | :--- |
 | 50.95 | [Przemysław Rudziak](https://www.worldcubeassociation.org/persons/2020RUDZ02) |
+| 55.90 | [Aleksander Kołodziński](https://www.worldcubeassociation.org/persons/2021KOLO01) |
 | 58.78 | [Krzysztof Boguszewski](https://www.worldcubeassociation.org/persons/2019BOGU01) |
 | 1:05.53 | [Wojciech Piórczyński](https://www.worldcubeassociation.org/persons/2021PIOR01) |
 | 1:16.74 | [Szczepan Rozwadowski](https://www.worldcubeassociation.org/persons/2025ROZW02) |
@@ -152,7 +153,6 @@
 | 1:17.88 | [Grzegorz Chudzik](https://www.worldcubeassociation.org/persons/2018CHUD02) |
 | 1:19.38 | [Krzysztof Natusiewicz](https://www.worldcubeassociation.org/persons/2011NATU01) |
 | 1:19.51 | [Michał Mielniczek](https://www.worldcubeassociation.org/persons/2009MIEL01) |
-| 1:19.56 | [Igor Kamiński](https://www.worldcubeassociation.org/persons/2023KAMI04) |
 
 ### Pyraminx
 

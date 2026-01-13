@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 10 January 2026*
+*Updated on 13 January 2026*
 
 
 ### 3x3x3 Cube
@@ -31,7 +31,7 @@
 | 0.88 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | [Energy Cube Tomaszów 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2024/results/by_person#2021ZAJD03) |
 | 0.89 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/by_person#2018KUZM02) |
 | 0.89 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | [Honey Cube Barcin 2025](https://www.worldcubeassociation.org/competitions/HoneyCubeBarcin2025/results/by_person#2021ZAJD03) |
-| 0.92 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | [Gdańska Liga Speedcubingu V 2024](https://www.worldcubeassociation.org/competitions/GdanskaLigaSpeedcubinguV2024/results/by_person#2021ZAJD03) |
+| 0.91 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026/results/by_person#2018KUZM02) |
 
 ### 4x4x4 Cube
 
@@ -151,7 +151,7 @@
 | 5.34 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [Beskidy Side Days 2022](https://www.worldcubeassociation.org/competitions/BeskidySideDays2022/results/by_person#2013KRAS02) |
 | 5.35 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [Cube4fun DW Świdnik II 2023](https://www.worldcubeassociation.org/competitions/Cube4funDWSwidnikII2023/results/by_person#2013KRAS02) |
 | 5.43 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [Dragon Cubing II 2023](https://www.worldcubeassociation.org/competitions/DragonCubingII2023/results/by_person#2013KRAS02) |
-| 5.56 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [SST Warszawa 2021](https://www.worldcubeassociation.org/competitions/SSTWarszawa2021/results/by_person#2013KRAS02) |
+| 5.54 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026/results/by_person#2013KRAS02) |
 
 ### 3x3x3 With Feet
 

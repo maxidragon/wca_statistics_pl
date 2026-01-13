@@ -1,7 +1,7 @@
 ## Competed in most voivodeships in Poland
 
 *Note: Voivodeships are inferred from competition coordinates. Approximate bounding box classification.*
-*Updated on 10 January 2026*
+*Updated on 13 January 2026*
 
 | Person | Completed | Missed | Missed Voivodeships | Completed At |
 | :--- | ---: | ---: | :--- | :--- |
@@ -54,12 +54,14 @@
 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | 13 | 3 | lubuskie, podkarpackie, świętokrzyskie |  |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 13 | 3 | lubuskie, podlaskie, zachodniopomorskie |  |
 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | 13 | 3 | lubuskie, podlaskie, świętokrzyskie |  |
+| [Piotr Melczewski](https://www.worldcubeassociation.org/persons/2019MELC02) | 13 | 3 | kujawsko-pomorskie, lubuskie, podlaskie |  |
 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | 13 | 3 | dolnośląskie, lubuskie, zachodniopomorskie |  |
 | [Stanisław Dąbrowski](https://www.worldcubeassociation.org/persons/2016DABR03) | 13 | 3 | lubuskie, podkarpackie, zachodniopomorskie |  |
 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) | 13 | 3 | dolnośląskie, podkarpackie, podlaskie |  |
 | [Tomasz Szubert](https://www.worldcubeassociation.org/persons/2022SZUB02) | 13 | 3 | lubuskie, podlaskie, świętokrzyskie |  |
 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 12 | 4 | lubuskie, opolskie, podkarpackie, świętokrzyskie |  |
 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) | 12 | 4 | lubuskie, podlaskie, warmińsko-mazurskie, zachodniopomorskie |  |
+| [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) | 12 | 4 | kujawsko-pomorskie, lubuskie, podlaskie, zachodniopomorskie |  |
 | [Hubert Darłak](https://www.worldcubeassociation.org/persons/2023DARL03) | 12 | 4 | kujawsko-pomorskie, podlaskie, świętokrzyskie, wielkopolskie |  |
 | [Igor Kowalczyk](https://www.worldcubeassociation.org/persons/2013KOWA04) | 12 | 4 | dolnośląskie, lubuskie, podlaskie, wielkopolskie |  |
 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | 12 | 4 | kujawsko-pomorskie, lubuskie, podlaskie, zachodniopomorskie |  |
@@ -72,7 +74,6 @@
 | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) | 12 | 4 | kujawsko-pomorskie, lubuskie, podlaskie, świętokrzyskie |  |
 | [Paweł Włoszek](https://www.worldcubeassociation.org/persons/2006WLOS01) | 12 | 4 | lubuskie, świętokrzyskie, warmińsko-mazurskie, zachodniopomorskie |  |
 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 12 | 4 | lubuskie, świętokrzyskie, warmińsko-mazurskie, zachodniopomorskie |  |
-| [Piotr Melczewski](https://www.worldcubeassociation.org/persons/2019MELC02) | 12 | 4 | kujawsko-pomorskie, lubuskie, podlaskie, warmińsko-mazurskie |  |
 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) | 12 | 4 | kujawsko-pomorskie, lubuskie, podlaskie, warmińsko-mazurskie |  |
 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) | 12 | 4 | lubuskie, podlaskie, warmińsko-mazurskie, zachodniopomorskie |  |
 | [Szymon Myśliński](https://www.worldcubeassociation.org/persons/2019MYSL01) | 12 | 4 | kujawsko-pomorskie, lubelskie, podlaskie, świętokrzyskie |  |
@@ -83,7 +84,6 @@
 | [Aleksander Arefiew](https://www.worldcubeassociation.org/persons/2016AREF01) | 11 | 5 | dolnośląskie, lubuskie, podkarpackie, wielkopolskie, zachodniopomorskie |  |
 | [Anonymous](https://www.worldcubeassociation.org/persons/2022ANON03) | 11 | 5 | kujawsko-pomorskie, opolskie, podlaskie, świętokrzyskie, warmińsko-mazurskie |  |
 | [Bartosz Łebkowski](https://www.worldcubeassociation.org/persons/2021LEBK01) | 11 | 5 | lubuskie, opolskie, podkarpackie, podlaskie, warmińsko-mazurskie |  |
-| [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) | 11 | 5 | kujawsko-pomorskie, lubuskie, podlaskie, warmińsko-mazurskie, zachodniopomorskie |  |
 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 11 | 5 | kujawsko-pomorskie, lubuskie, podlaskie, warmińsko-mazurskie, wielkopolskie |  |
 | [Błażej Cichy](https://www.worldcubeassociation.org/persons/2012CICH01) | 11 | 5 | lubuskie, podkarpackie, podlaskie, warmińsko-mazurskie, wielkopolskie |  |
 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 11 | 5 | dolnośląskie, lubuskie, podlaskie, warmińsko-mazurskie, zachodniopomorskie |  |

@@ -1,7 +1,7 @@
 ## Most common delegate teams in Poland
 
 *Note: This statistic shows the most common teams of delegates in Poland. It is based on the number of competitions where the exact team of delegates was listed.*
-*Updated on 10 January 2026*
+*Updated on 13 January 2026*
 
 | Number of competitions | Team |
 | :--- | :--- |
@@ -26,9 +26,9 @@
 | 3 | [Krzysztof Kuncki](https://www.worldcubeassociation.org/persons/2010KUNC01) + [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) |
 | 3 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) + [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) |
 | 3 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) + [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 3 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) + [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 2 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) + [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 2 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) + [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) + [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
-| 2 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) + [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 2 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) + [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) + [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 2 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) + [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) + [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) + [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) |
 | 2 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) + [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) + [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) + [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) + [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |

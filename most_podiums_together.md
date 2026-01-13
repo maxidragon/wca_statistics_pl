@@ -1,6 +1,6 @@
 ## Most podiums together
 
-*Updated on 10 January 2026*
+*Updated on 13 January 2026*
 
 
 ### Pairs
@@ -92,10 +92,10 @@
 | 23 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) & [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) |
 | 23 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) & [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) |
 | 23 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) & [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
+| 23 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) & [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) |
 | 22 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) & [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) |
 | 22 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) & [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) |
 | 22 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) & [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) |
-| 22 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) & [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) |
 | 21 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) & [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 21 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) & [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) |
 | 21 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) & [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) |

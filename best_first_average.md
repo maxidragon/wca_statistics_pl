@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 10 January 2026*
+*Updated on 13 January 2026*
 
 
 ### 3x3x3 Cube
@@ -46,8 +46,8 @@
 | 44.10 | [Bruno Fromm](https://www.worldcubeassociation.org/persons/2023FROM01) |
 | 44.13 | [Dominik Smagowski](https://www.worldcubeassociation.org/persons/2023SMAG02) |
 | 44.48 | [Kacper Dłubała](https://www.worldcubeassociation.org/persons/2018DLUB01) |
+| 45.54 | [Maciej Chodakowski](https://www.worldcubeassociation.org/persons/2019CHOD01) |
 | 45.70 | [Jan Pietralski](https://www.worldcubeassociation.org/persons/2024PIET02) |
-| 46.14 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) |
 
 ### 5x5x5 Cube
 
@@ -140,6 +140,7 @@
 | First average | Person |
 | ---: | :--- |
 | 52.51 | [Przemysław Rudziak](https://www.worldcubeassociation.org/persons/2020RUDZ02) |
+| 55.02 | [Aleksander Kołodziński](https://www.worldcubeassociation.org/persons/2021KOLO01) |
 | 59.17 | [Krzysztof Boguszewski](https://www.worldcubeassociation.org/persons/2019BOGU01) |
 | 1:11.88 | [Wojciech Piórczyński](https://www.worldcubeassociation.org/persons/2021PIOR01) |
 | 1:13.24 | [Olaf Niechciał](https://www.worldcubeassociation.org/persons/2022NIEC01) |
@@ -148,7 +149,6 @@
 | 1:15.80 | [Grzegorz Chudzik](https://www.worldcubeassociation.org/persons/2018CHUD02) |
 | 1:16.99 | [Krzysztof Natusiewicz](https://www.worldcubeassociation.org/persons/2011NATU01) |
 | 1:18.01 | [Kajetan Stefanek](https://www.worldcubeassociation.org/persons/2025STEF01) |
-| 1:18.79 | [Maksymilian Sordyl](https://www.worldcubeassociation.org/persons/2022SORD01) |
 
 ### Pyraminx
 

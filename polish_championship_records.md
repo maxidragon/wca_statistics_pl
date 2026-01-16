@@ -1,7 +1,7 @@
 ## Polish Championship records
 
 *Note: This is a list of the best results from all Polish Championships. It corresponds to Olympic records for Olympic sports.*
-*Updated on 13 January 2026*
+*Updated on 16 January 2026*
 
 
 ### Single

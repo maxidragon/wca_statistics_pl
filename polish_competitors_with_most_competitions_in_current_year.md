@@ -1,6 +1,6 @@
 ## Polish competitors with most competitions in the current year
 
-*Updated on 13 January 2026*
+*Updated on 16 January 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -94,6 +94,7 @@
 | 1 | [Igor Osiadacz](https://www.worldcubeassociation.org/persons/2022OSIA01) |
 | 1 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) |
 | 1 | [Dominik Żabiński](https://www.worldcubeassociation.org/persons/2022ZABI01) |
+| 1 | [Naama Anbar](https://www.worldcubeassociation.org/persons/2023ANBA01) |
 | 1 | [Leon Bajer](https://www.worldcubeassociation.org/persons/2023BAJE02) |
 | 1 | [Michał Błażejewski](https://www.worldcubeassociation.org/persons/2023BLAZ03) |
 | 1 | [Piotr Brokos](https://www.worldcubeassociation.org/persons/2023BROK01) |
@@ -123,6 +124,7 @@
 | 1 | [Julia Dąbrowska](https://www.worldcubeassociation.org/persons/2024DABR01) |
 | 1 | [Tomasz Darłak](https://www.worldcubeassociation.org/persons/2024DARL01) |
 | 1 | [Filip Dobczyński](https://www.worldcubeassociation.org/persons/2024DOBC01) |
+| 1 | [Hugo Dziemiach](https://www.worldcubeassociation.org/persons/2024DZIE02) |
 | 1 | [Piotr Gabara](https://www.worldcubeassociation.org/persons/2024GABA02) |
 | 1 | [Michał Kledzik](https://www.worldcubeassociation.org/persons/2024KLED01) |
 | 1 | [Marcin Kledzik](https://www.worldcubeassociation.org/persons/2024KLED02) |
@@ -199,6 +201,7 @@
 | 1 | [Krzysztof Czwołek](https://www.worldcubeassociation.org/persons/2026CZWO01) |
 | 1 | [Filip Dryja](https://www.worldcubeassociation.org/persons/2026DRYJ01) |
 | 1 | [Aleksander Jan Fil](https://www.worldcubeassociation.org/persons/2026FILA01) |
+| 1 | [Adam Gostynski](https://www.worldcubeassociation.org/persons/2026GOST01) |
 | 1 | [Jakub Jachołkowski](https://www.worldcubeassociation.org/persons/2026JACH01) |
 | 1 | [Adam Jankowski](https://www.worldcubeassociation.org/persons/2026JANK01) |
 | 1 | [Leon Junik](https://www.worldcubeassociation.org/persons/2026JUNI01) |
@@ -209,6 +212,7 @@
 | 1 | [Oliver Kwit](https://www.worldcubeassociation.org/persons/2026KWIT01) |
 | 1 | [Wojciech Maj](https://www.worldcubeassociation.org/persons/2026MAJW01) |
 | 1 | [Jan Rynkiewicz](https://www.worldcubeassociation.org/persons/2026RYNK01) |
+| 1 | [Adam Sadlo](https://www.worldcubeassociation.org/persons/2026SADL01) |
 | 1 | [Janek Sztembis](https://www.worldcubeassociation.org/persons/2026SZTE01) |
 | 1 | [John-Macaulay Walczyna](https://www.worldcubeassociation.org/persons/2026WALC01) |
 | 1 | [Tymon Zielonka](https://www.worldcubeassociation.org/persons/2026ZIEL01) |

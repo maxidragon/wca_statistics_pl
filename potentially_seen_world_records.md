@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 16 January 2026*
+*Updated on 22 January 2026*
 
 | WRs | Person |
 | ---: | :--- |
@@ -21,8 +21,8 @@
 | 56 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) |
 | 54 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 54 | [Michał Robaczyk](https://www.worldcubeassociation.org/persons/2006ROBA01) |
+| 52 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 52 | [Rafał Studnicki](https://www.worldcubeassociation.org/persons/2005STUD01) |
-| 51 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 51 | [Kamil Pawlak](https://www.worldcubeassociation.org/persons/2006PAWL01) |
 | 50 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
 | 49 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |

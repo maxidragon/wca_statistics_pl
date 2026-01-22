@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on 16 January 2026*
+*Updated on 22 January 2026*
 
 
 ### World
@@ -111,6 +111,7 @@
 | 1 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2016KOLA02) |
 | 1 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [CFL Brzeziny 2025](https://www.worldcubeassociation.org/competitions/CFLBrzeziny2025/results/by_person#2016KOLA02) |
 | 1 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Spanish Championship 2025](https://www.worldcubeassociation.org/competitions/SpanishChampionship2025/results/by_person#2016KOLA02) |
+| 1 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Seoul Winter 2026](https://www.worldcubeassociation.org/competitions/SeoulWinter2026/results/by_person#2016KOLA02) |
 | 1 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) | [Polish Championship 2018](https://www.worldcubeassociation.org/competitions/PolishChampionship2018/results/by_person#2017ANON13) |
 | 1 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024/results/by_person#2020BARA02) |
 | 1 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | [5BLD Masters Opole 2025](https://www.worldcubeassociation.org/competitions/5BLDMastersOpole2025/results/by_person#2020BARA02) |
@@ -138,6 +139,7 @@
 | 3 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [LLS II Biała Podlaska 2021](https://www.worldcubeassociation.org/competitions/LLSIIBialaPodlaska2021/results/by_person#2016KOLA02) |
 | 3 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Sandnes Open 2023](https://www.worldcubeassociation.org/competitions/SandnesOpen2023/results/by_person#2016KOLA02) |
 | 3 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2016KOLA02) |
+| 3 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Seoul Winter 2026](https://www.worldcubeassociation.org/competitions/SeoulWinter2026/results/by_person#2016KOLA02) |
 | 2 | [Jarosław Nowicki](https://www.worldcubeassociation.org/persons/2004NOWI01) | [Euro 2004](https://www.worldcubeassociation.org/competitions/Euro2004/results/by_person#2004NOWI01) |
 | 2 | [Jarosław Nowicki](https://www.worldcubeassociation.org/persons/2004NOWI01) | [Polish Open 2005](https://www.worldcubeassociation.org/competitions/PolishOpen2005/results/by_person#2004NOWI01) |
 | 2 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) | [Polish Open 2005](https://www.worldcubeassociation.org/competitions/PolishOpen2005/results/by_person#2005CIAL02) |

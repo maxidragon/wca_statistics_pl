@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 16 January 2026*
+*Updated on 22 January 2026*
 
 
 ### 3x3x3 Cube
@@ -92,7 +92,7 @@
 | 2:28.90 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) | 2:28.22, 2:26.70, 2:27.20, 2:30.90, 2:30.38, 2:29.18, 2:34.64, 2:24.14, 2:33.43, 2:30.58, 2:28.27, 2:20.70 |
 | 2:29.78 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | 2:22.40, 2:31.80, 2:39.46, 2:32.90, 2:31.39, 3:18.82, 2:30.94, 2:22.42, 2:28.52, 2:27.82, 2:30.19, 2:19.27 |
 | 2:30.74 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 2:42.81, 2:20.48, 2:38.63, 2:32.01, 2:29.64, 2:29.46, 2:16.93, 2:44.68, DNF, 2:21.83, 2:22.02, 2:25.86 |
-| 2:31.68 | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) | 2:42.11, 2:46.12, 2:21.00, 2:26.40, 2:32.98, 2:28.29, 2:32.34, 2:34.52, 2:30.98, 2:41.99, 2:24.43, 2:22.75 |
+| 2:31.73 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | 2:38.43, 2:40.75, 2:44.96, 2:28.46, 2:36.03, 2:26.64, 2:17.25, 2:32.70, 2:14.71, 2:28.99, 2:39.74, 2:28.28 |
 
 ### 3x3x3 Blindfolded
 

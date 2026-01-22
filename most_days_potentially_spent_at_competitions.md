@@ -1,21 +1,21 @@
 ## Most days potentially spent at competitions
 
-*Updated on 16 January 2026*
+*Updated on 22 January 2026*
 
 | Days | Person | Competitions |
 | ---: | :--- | ---: |
-| 682 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 368 |
-| 581 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 330 |
+| 683 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 369 |
+| 584 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 333 |
 | 481 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 244 |
-| 470 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 249 |
-| 411 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 204 |
+| 471 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 250 |
+| 412 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 205 |
 | 406 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 207 |
-| 372 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 211 |
-| 363 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 177 |
+| 374 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 213 |
+| 365 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 178 |
 | 354 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 170 |
-| 345 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | 176 |
+| 346 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | 177 |
 | 328 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 181 |
-| 323 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | 188 |
+| 324 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | 189 |
 | 317 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | 159 |
 | 301 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 151 |
 | 281 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 137 |
@@ -26,9 +26,9 @@
 | 248 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 130 |
 | 248 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) | 116 |
 | 246 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | 144 |
-| 242 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 133 |
+| 243 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 134 |
 | 232 | [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) | 123 |
-| 227 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) | 125 |
+| 228 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) | 126 |
 | 223 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 109 |
 | 223 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 103 |
 | 223 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 100 |
@@ -38,7 +38,7 @@
 | 214 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 112 |
 | 213 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 114 |
 | 207 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 98 |
-| 206 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | 105 |
+| 207 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | 106 |
 | 206 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 105 |
 | 205 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 121 |
 | 203 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 116 |

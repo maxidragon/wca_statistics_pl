@@ -1,6 +1,6 @@
 ## Most frequent results
 
-*Updated on 22 January 2026*
+*Updated on 25 January 2026*
 
 
 ### 3x3x3 Cube
@@ -119,7 +119,7 @@
 | 276 | 38 |
 | 266 | 32 |
 | 264 | 30 |
-| 261 | 37 |
+| 262 | 37 |
 | 251 | 29 |
 | 249 | 36 |
 

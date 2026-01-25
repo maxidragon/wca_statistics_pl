@@ -1,6 +1,6 @@
 ## Polish competitors with most competitions in the current year
 
-*Updated on 22 January 2026*
+*Updated on 25 January 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -82,6 +82,7 @@
 | 1 | [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) |
 | 1 | [Marcin Dołoto](https://www.worldcubeassociation.org/persons/2021DOLO01) |
 | 1 | [Tomek Gamlij](https://www.worldcubeassociation.org/persons/2021GAML01) |
+| 1 | [Michał Kaczmarek](https://www.worldcubeassociation.org/persons/2021KACZ01) |
 | 1 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) |
 | 1 | [Aleksander Kołodziński](https://www.worldcubeassociation.org/persons/2021KOLO01) |
 | 1 | [Maciej Kozar](https://www.worldcubeassociation.org/persons/2021KOZA01) |

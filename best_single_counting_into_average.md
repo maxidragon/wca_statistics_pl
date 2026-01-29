@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 25 January 2026*
+*Updated on 28 January 2026*
 
 
 ### 3x3x3 Cube
@@ -76,12 +76,13 @@
 | 8.29 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | [GLS II 2025](https://www.worldcubeassociation.org/competitions/GLSII2025/results/by_person#2022SZUB01) |
 | 8.34 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [Pilzno Cubing Holiday 2025](https://www.worldcubeassociation.org/competitions/PilznoCubingHoliday2025/results/by_person#2022MARC05) |
 | 8.34 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [Polish Open 2025](https://www.worldcubeassociation.org/competitions/PolishOpen2025/results/by_person#2022MARC05) |
-| 8.35 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | [Dragon Cubing XI 2025](https://www.worldcubeassociation.org/competitions/DragonCubingXI2025/results/by_person#2022GLAD01) |
+| 8.35 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [Cube4fun Tylmanowa Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaWinter2026/results/by_person#2022MARC05) |
 
 ### Megaminx
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
+| 28.69 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [Cube4fun Tylmanowa Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaWinter2026/results/by_person#2017PABI01) |
 | 29.40 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/by_person#2017PABI01) |
 | 29.55 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/by_person#2017PABI01) |
 | 29.81 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | [Polish Open 2025](https://www.worldcubeassociation.org/competitions/PolishOpen2025/results/by_person#2014ZYCH01) |
@@ -91,7 +92,6 @@
 | 30.15 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | [Mielec Cubing Days 2025](https://www.worldcubeassociation.org/competitions/MielecCubingDays2025/results/by_person#2021KULA02) |
 | 30.19 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [Pilzno Cubing Holiday 2025](https://www.worldcubeassociation.org/competitions/PilznoCubingHoliday2025/results/by_person#2017PABI01) |
 | 30.33 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | [Beskidy Side Days 2024](https://www.worldcubeassociation.org/competitions/BeskidySideDays2024/results/by_person#2014ZYCH01) |
-| 30.40 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [SLS Maj 2024](https://www.worldcubeassociation.org/competitions/SLSMaj2024/results/by_person#2017PABI01) |
 
 ### Pyraminx
 

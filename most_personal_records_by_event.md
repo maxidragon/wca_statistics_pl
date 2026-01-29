@@ -1,7 +1,7 @@
 ## Most personal records by event
 
 *Note: Counts how many personal records (single or average) a competitor achieved in each event.*
-*Updated on 25 January 2026*
+*Updated on 28 January 2026*
 
 
 ### 3x3x3 Cube
@@ -14,10 +14,10 @@
 | 52 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 47 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
 | 45 | [Witold Sołtysik](https://www.worldcubeassociation.org/persons/2015SOLT03) |
+| 44 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 43 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) |
 | 43 | [Igor Ośmiałowski](https://www.worldcubeassociation.org/persons/2014OMIA01) |
 | 43 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
-| 43 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 
 ### 2x2x2 Cube
 
@@ -77,7 +77,7 @@
 | 35 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 34 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 32 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) |
-| 31 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
+| 31 | [Michał Mlostek](https://www.worldcubeassociation.org/persons/2015MLOS01) |
 
 ### 7x7x7 Cube
 
@@ -131,8 +131,8 @@
 | 47 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) |
 | 42 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
 | 40 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
+| 40 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 40 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
-| 39 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 39 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) |
 | 38 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 37 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
@@ -143,7 +143,7 @@
 
 | PRs | Person |
 | ---: | :--- |
-| 63 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
+| 64 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 56 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 55 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
 | 52 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
@@ -196,8 +196,8 @@
 | 28 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) |
 | 27 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
 | 26 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) |
+| 25 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
 | 25 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) |
-| 25 | [Tomasz Stawowy](https://www.worldcubeassociation.org/persons/2021STAW01) |
 
 ### Square-1
 

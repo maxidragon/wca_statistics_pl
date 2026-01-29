@@ -1,7 +1,7 @@
 ## Most delegated competitions with another delegate
 
 *Note: Shows how many times each delegate has co-delegated with others. Only Polish delegates are included, and only competitions that have taken place in Poland and have results posted are considered.*
-*Updated on 25 January 2026*
+*Updated on 28 January 2026*
 
 
 ### [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01)
@@ -74,7 +74,7 @@ _Total delegated competitions: 70 (64 in Poland)_
 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 1 |
 
 ### [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01)
-_Total delegated competitions: 55 (51 in Poland)_
+_Total delegated competitions: 56 (52 in Poland)_
 
 | Co-delegate | Count |
 | :--- | ---: |
@@ -162,11 +162,11 @@ _Total delegated competitions: 32 (28 in Poland)_
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 1 |
 
 ### [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01)
-_Total delegated competitions: 16 (16 in Poland)_
+_Total delegated competitions: 17 (17 in Poland)_
 
 | Co-delegate | Count |
 | :--- | ---: |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 12 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 13 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 10 |
 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 3 |
 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 3 |
@@ -210,7 +210,7 @@ _Total delegated competitions: 32 (27 in Poland)_
 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 1 |
 
 ### [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02)
-_Total delegated competitions: 175 (165 in Poland)_
+_Total delegated competitions: 176 (166 in Poland)_
 
 | Co-delegate | Count |
 | :--- | ---: |
@@ -218,7 +218,7 @@ _Total delegated competitions: 175 (165 in Poland)_
 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 18 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 17 |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 14 |
-| [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 12 |
+| [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 13 |
 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 12 |
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 9 |
 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 9 |

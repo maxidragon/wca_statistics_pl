@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 25 January 2026*
+*Updated on 28 January 2026*
 
 
 ### 3x3x3 Cube
@@ -132,8 +132,8 @@
 | 8.45 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | 8.16, 7.68, 8.04, 9.28, 9.16 |
 | 8.52 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | 9.00, 8.20, 12.82, 8.10, 8.37 |
 | 8.66 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 8.48, 10.52, 8.95, 8.55, 7.97 |
+| 9.82 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 11.61, 8.48, 9.34, 10.59, 9.54 |
 | 9.89 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 9.60, 12.84, 9.35, 8.86, 10.72 |
-| 9.93 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 10.58, 8.88, 7.49, 15.41, 10.33 |
 | 9.99 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 8.08, 12.49, 10.81, 8.81, 10.36 |
 | 10.03 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | 10.44, 9.81, 9.84, 12.63, 9.81 |
 | 10.67 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 10.66, 8.25, 11.45, 12.60, 9.89 |
@@ -146,7 +146,7 @@
 | 30.53 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 31.57, 29.22, 34.39, 29.37, 30.66 |
 | 30.89 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 31.02, 30.69, 30.19, 39.00, 30.97 |
 | 30.94 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 30.92, 36.83, 28.40, 30.63, 31.27 |
-| 32.61 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 37.09, 30.15, 34.14, 28.84, 33.54 |
+| 31.57 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 30.11, 37.13, 31.38, 31.21, 32.12 |
 | 34.56 | [Wiktor Gugulski](https://www.worldcubeassociation.org/persons/2023GUGU01) | 39.86, 33.57, 37.83, 31.15, 32.27 |
 | 34.72 | [Przemysław Rudziak](https://www.worldcubeassociation.org/persons/2020RUDZ02) | 31.69, 35.98, 36.48, 42.45, 31.41 |
 | 35.11 | [Ernest Seroczyński](https://www.worldcubeassociation.org/persons/2015SERO02) | 38.12, 33.80, 35.21, 36.33, 32.93 |

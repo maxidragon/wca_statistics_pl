@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 25 January 2026*
+*Updated on 28 January 2026*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -73,6 +73,7 @@
 | [Marcel Borkowski](https://www.worldcubeassociation.org/persons/2023BORK01) | **2** | 3 | 5 | 10 |
 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) | **2** | 3 | 1 | 6 |
 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | **2** | 2 | 2 | 6 |
+| [Liam Stuart Ferreira](https://www.worldcubeassociation.org/persons/2022FERR14) | **2** | 2 | 2 | 6 |
 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | **2** | 0 | 2 | 4 |
 | [Oskar Matysik](https://www.worldcubeassociation.org/persons/2019MATY01) | **2** | 0 | 1 | 3 |
 | [Tomasz Korzeniewski](https://www.worldcubeassociation.org/persons/2007KORZ01) | **2** | 0 | 1 | 3 |
@@ -87,7 +88,6 @@
 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) | **1** | 4 | 4 | 9 |
 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) | **1** | 4 | 1 | 6 |
 | [Jakub Grzybowski](https://www.worldcubeassociation.org/persons/2017GRZY02) | **1** | 2 | 2 | 5 |
-| [Liam Stuart Ferreira](https://www.worldcubeassociation.org/persons/2022FERR14) | **1** | 2 | 2 | 5 |
 | [Filip Chudy](https://www.worldcubeassociation.org/persons/2022CHUD02) | **1** | 2 | 1 | 4 |
 | [Dominik Szajek](https://www.worldcubeassociation.org/persons/2023SZAJ01) | **1** | 2 | 0 | 3 |
 | [Bartosz Łebkowski](https://www.worldcubeassociation.org/persons/2021LEBK01) | **1** | 1 | 0 | 2 |

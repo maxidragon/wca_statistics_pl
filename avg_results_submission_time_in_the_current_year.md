@@ -1,13 +1,14 @@
 ## Average results submission time in the current year by Polish delegates
 
-*Updated on 25 January 2026*
+*Updated on 28 January 2026*
 
 | Delegate | Average time | Total delegated |
 | ---: | :--- | ---: |
-| [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | -0.94h | 1 |
+| [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | -1.28h | 2 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | -0.46h | 2 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | -0.28h | 1 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | -0.03h | 3 |
+| [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | -0.18h | 1 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | -0.06h | 4 |
 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | -0.03h | 3 |
 
 

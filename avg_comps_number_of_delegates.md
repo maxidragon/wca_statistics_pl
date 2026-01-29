@@ -1,7 +1,7 @@
 ## Average number of competitions of listed delegates at Polish competitions by number of delegates
 
 *Note: Competitions are grouped by how many delegates they had. Each table shows the competitions with the highest average number of competitions that listed delegates had participated in up to and including the one they delegated.*
-*Updated on 25 January 2026*
+*Updated on 28 January 2026*
 
 
 ### 9 Delegates
@@ -83,6 +83,7 @@
 | [CF Goes Crazy Brzeziny 2025](https://www.worldcubeassociation.org/competitions/CFGoesCrazyBrzeziny2025) | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 281.00 |
 | [CF Sideways Brzeziny II 2025](https://www.worldcubeassociation.org/competitions/CFSidewaysBrzezinyII2025) | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 276.00 |
 | [Gdańsk Cubing Day 2025](https://www.worldcubeassociation.org/competitions/GdanskCubingDay2025) | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 257.50 |
+| [Winter Holiday Czarna Woda 2026](https://www.worldcubeassociation.org/competitions/WinterHolidayCzarnaWoda2026) | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 254.00 |
 | [Gdańska Liga Speedcubingu I 2025](https://www.worldcubeassociation.org/competitions/GdanskaLigaSpeedcubinguI2025) | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 253.50 |
 | [BrizZon Sylwester Open 2024](https://www.worldcubeassociation.org/competitions/BrizZonSylwesterOpen2024) | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 252.00 |
 | [Olsztyn Open 2024](https://www.worldcubeassociation.org/competitions/OlsztynOpen2024) | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 251.00 |
@@ -99,7 +100,6 @@
 | [BrizZon Side Open III 2024](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenIII2024) | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 233.50 |
 | [GLS IV 2024](https://www.worldcubeassociation.org/competitions/GdanskaLigaSpeedcubinguIV2024) | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 227.50 |
 | [Ostróda Open 2024](https://www.worldcubeassociation.org/competitions/OstrodaOpen2024) | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 222.00 |
-| [GLS III 2024](https://www.worldcubeassociation.org/competitions/GLSIII2024) | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 221.00 |
 
 ### 1 Delegate
 

@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 25 January 2026*
+*Updated on 28 January 2026*
 
 
 ### 3x3x3 Cube
@@ -12,7 +12,7 @@
 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 17 |
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 11 |
 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | 4 |
-| [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 3 |
+| [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 4 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 2 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 2 |
 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | 2 |
@@ -109,9 +109,9 @@
 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | 13 |
 | [Rafał Guzewicz](https://www.worldcubeassociation.org/persons/2006GUZE01) | 10 |
 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | 6 |
+| [Stanisław Szyszka](https://www.worldcubeassociation.org/persons/2016SZYS02) | 3 |
 | [Tomasz Korzeniewski](https://www.worldcubeassociation.org/persons/2007KORZ01) | 2 |
 | [Konrad Stawski](https://www.worldcubeassociation.org/persons/2007STAW01) | 2 |
-| [Stanisław Szyszka](https://www.worldcubeassociation.org/persons/2016SZYS02) | 2 |
 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 2 |
 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 2 |
 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 1 |
@@ -175,9 +175,9 @@
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 13 |
 | [Filip Miazek](https://www.worldcubeassociation.org/persons/2010MIAZ01) | 6 |
 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) | 6 |
+| [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 6 |
 | [Kamil Zieliński](https://www.worldcubeassociation.org/persons/2008ZIEL01) | 5 |
 | [Krzysztof Natusiewicz](https://www.worldcubeassociation.org/persons/2011NATU01) | 5 |
-| [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 5 |
 | [Ernest Seroczyński](https://www.worldcubeassociation.org/persons/2015SERO02) | 2 |
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 2 |
 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 1 |
@@ -188,7 +188,6 @@
 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | 1 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 1 |
 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) | 1 |
-| [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 1 |
 
 ### Pyraminx
 
@@ -221,8 +220,8 @@
 | :--- | ---: |
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 32 |
 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | 14 |
-| [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 11 |
 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | 10 |
+| [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 10 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 5 |
 | [Rafał Studnicki](https://www.worldcubeassociation.org/persons/2005STUD01) | 4 |
 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) | 2 |
@@ -266,7 +265,7 @@
 
 | Person | Winned weeks |
 | :--- | ---: |
-| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 35 |
+| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 34 |
 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) | 23 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 10 |
 | [Grzegorz Prusak](https://www.worldcubeassociation.org/persons/2006PRUS01) | 6 |

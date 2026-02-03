@@ -1,10 +1,10 @@
 ## Most competitions abroad
 
-*Updated on  1 February 2026*
+*Updated on  2 February 2026*
 
 | Competitions | Person |
 | ---: | :--- |
-| 111 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 112 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 68 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 54 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 36 | [Igor Wojciech Wawrzynski](https://www.worldcubeassociation.org/persons/2019WAWR01) |
@@ -13,7 +13,7 @@
 | 32 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 28 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 26 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
-| 24 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
+| 25 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 21 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) |
 | 21 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
 | 19 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) |
@@ -28,13 +28,13 @@
 | 15 | [Naama Anbar](https://www.worldcubeassociation.org/persons/2023ANBA01) |
 | 15 | [Szymon Plesniak](https://www.worldcubeassociation.org/persons/2024PLES01) |
 | 14 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) |
+| 14 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
 | 14 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) |
 | 14 | [Alex Myrus](https://www.worldcubeassociation.org/persons/2022MYRU01) |
 | 14 | [Liam Stuart Ferreira](https://www.worldcubeassociation.org/persons/2022FERR14) |
 | 14 | [Tymoteusz Zmudzki Piskorska](https://www.worldcubeassociation.org/persons/2024PISK02) |
 | 13 | [Wojciech Poljanowski](https://www.worldcubeassociation.org/persons/2010POLJ01) |
 | 13 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) |
-| 13 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
 | 13 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) |
 | 13 | [Marcel Borkowski](https://www.worldcubeassociation.org/persons/2023BORK01) |
 | 13 | [Michal J. Sekulski](https://www.worldcubeassociation.org/persons/2023SEKU01) |

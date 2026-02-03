@@ -1,6 +1,6 @@
 ## Biggest rounds in Poland
 
-*Updated on  1 February 2026*
+*Updated on  2 February 2026*
 
 
 ### 3x3x3 Cube
@@ -55,13 +55,13 @@
 | 116 | [Polish Nationals 2017](https://www.worldcubeassociation.org/competitions/PolishNationals2017) |
 | 109 | [Euro 2012](https://www.worldcubeassociation.org/competitions/Euro2012) |
 | 101 | [Dragon Cubing X 2025](https://www.worldcubeassociation.org/competitions/DragonCubingX2025) |
+| 100 | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) |
 | 97 | [Energy Cube Białołęka 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2025) |
 | 95 | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) |
 | 85 | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) |
 | 84 | [Dragon Cubing II 2023](https://www.worldcubeassociation.org/competitions/DragonCubingII2023) |
 | 84 | [Polish Nationals 2014](https://www.worldcubeassociation.org/competitions/PolishNationals2014) |
 | 84 | [Polish Open 2015](https://www.worldcubeassociation.org/competitions/PolishOpen2015) |
-| 84 | [Polish Open 2018](https://www.worldcubeassociation.org/competitions/PolishOpen2018) |
 
 ### 6x6x6 Cube
 
@@ -70,13 +70,13 @@
 | 89 | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) |
 | 79 | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) |
 | 75 | [Energy Cube Białołęka 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2025) |
+| 74 | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) |
 | 62 | [Żory Open 2025](https://www.worldcubeassociation.org/competitions/ZoryOpen2025) |
 | 51 | [Cube4fun Żyrardów 2025](https://www.worldcubeassociation.org/competitions/Cube4funZyrardow2025) |
 | 50 | [Cube4fun Żyrardów 2024](https://www.worldcubeassociation.org/competitions/Cube4funCEZyrardow2024) |
 | 50 | [Siedlce Open 2023](https://www.worldcubeassociation.org/competitions/SiedlceOpen2023) |
 | 49 | [LLS I Bełżyce 2021](https://www.worldcubeassociation.org/competitions/LLSIBelzyce2021) |
 | 49 | [Silesian Cubing Pawłowice 2024](https://www.worldcubeassociation.org/competitions/SilesianCubingPawlowice2024) |
-| 48 | [CFL Koluszki 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueKoluszki2025) |
 
 ### 7x7x7 Cube
 
@@ -85,13 +85,13 @@
 | 84 | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) |
 | 76 | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) |
 | 69 | [Energy Cube Białołęka 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2025) |
+| 58 | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) |
 | 55 | [Żory Open 2025](https://www.worldcubeassociation.org/competitions/ZoryOpen2025) |
 | 48 | [Siedlce Open 2023](https://www.worldcubeassociation.org/competitions/SiedlceOpen2023) |
 | 46 | [Cube4fun Żyrardów 2025](https://www.worldcubeassociation.org/competitions/Cube4funZyrardow2025) |
 | 45 | [Cube4fun Żyrardów 2024](https://www.worldcubeassociation.org/competitions/Cube4funCEZyrardow2024) |
 | 45 | [Polish Open 2025](https://www.worldcubeassociation.org/competitions/PolishOpen2025) |
 | 44 | [Cube4fun in Bełchatów 2025](https://www.worldcubeassociation.org/competitions/Cube4funinBelchatow2025) |
-| 43 | [Summer Vibe Puck 2024](https://www.worldcubeassociation.org/competitions/SummerVibePuck2024) |
 
 ### 3x3x3 Blindfolded
 
@@ -146,12 +146,12 @@
 | 106 | [Dragon Cubing X 2025](https://www.worldcubeassociation.org/competitions/DragonCubingX2025) |
 | 104 | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) |
 | 102 | [Szansa Cubing Open Warsaw 2025](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2025) |
+| 97 | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) |
 | 88 | [Energy Cube Białołęka 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2025) |
 | 87 | [Żory Open 2025](https://www.worldcubeassociation.org/competitions/ZoryOpen2025) |
 | 84 | [CFL Final Łódź 2025](https://www.worldcubeassociation.org/competitions/CFLFinalLodz2025) |
 | 83 | [Warsaw Cube Masters 2023](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2023) |
 | 81 | [Polish Open 2025](https://www.worldcubeassociation.org/competitions/PolishOpen2025) |
-| 80 | [Dragon Cubing II 2023](https://www.worldcubeassociation.org/competitions/DragonCubingII2023) |
 
 ### Pyraminx
 
@@ -165,8 +165,8 @@
 | 146 | [Euro 2012](https://www.worldcubeassociation.org/competitions/Euro2012) |
 | 140 | [Polish Nationals 2014](https://www.worldcubeassociation.org/competitions/PolishNationals2014) |
 | 136 | [Szansa Cubing Open Warsaw 2025](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2025) |
+| 131 | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) |
 | 130 | [Cube4fun Bielsko-Biała 2022](https://www.worldcubeassociation.org/competitions/Cube4funBielskoBiala2022) |
-| 129 | [Cube4fun in Warsaw 2024](https://www.worldcubeassociation.org/competitions/Cube4funinWarsaw2024) |
 
 ### Clock
 
@@ -176,12 +176,12 @@
 | 171 | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) |
 | 138 | [Dragon Cubing X 2025](https://www.worldcubeassociation.org/competitions/DragonCubingX2025) |
 | 123 | [Szansa Cubing Open Warsaw 2024](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2024) |
+| 115 | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) |
 | 111 | [Energy Cube Tomaszów 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2024) |
 | 109 | [Energy Cube Białołęka 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2025) |
 | 107 | [Polish Open 2025](https://www.worldcubeassociation.org/competitions/PolishOpen2025) |
 | 102 | [Szansa Cubing Open Warsaw 2025](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2025) |
 | 102 | [Żory Open 2025](https://www.worldcubeassociation.org/competitions/ZoryOpen2025) |
-| 101 | [Energy Cube Konin 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeKonin2025) |
 
 ### Skewb
 
@@ -193,10 +193,10 @@
 | 139 | [Szansa Cubing Open Warsaw 2024](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2024) |
 | 136 | [Dragon Cubing X 2025](https://www.worldcubeassociation.org/competitions/DragonCubingX2025) |
 | 127 | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) |
+| 125 | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) |
 | 111 | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023) |
 | 109 | [Polish Open 2025](https://www.worldcubeassociation.org/competitions/PolishOpen2025) |
 | 108 | [Energy Cube Tomaszów 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2024) |
-| 107 | [Energy Cube Białołęka 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2024) |
 
 ### Square-1
 

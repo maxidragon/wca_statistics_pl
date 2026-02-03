@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  1 February 2026*
+*Updated on  2 February 2026*
 
 
 ### 3x3x3 Cube
@@ -70,6 +70,7 @@
 | ---: | :--- | ---: | ---: | :--- |
 | 0.04 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | 2:02.10 | 2:02.14 | [Cube4fun Tylmanowa Autumn 2025](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaAutumn2025/results/by_person#2022SOLO01) |
 | 0.04 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 2:28.29 | 2:28.33 | [Manchester 7x7 Day 2025](https://www.worldcubeassociation.org/competitions/Manchester7x7Day2025/results/by_person#2011SZAT01) |
+| 0.07 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 2:04.94 | 2:05.01 | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026/results/by_person#2013OWCZ01) |
 | 0.13 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 2:44.64 | 2:44.77 | [Cube4fun in Bełchatów 2024](https://www.worldcubeassociation.org/competitions/Cube4funinBelchatow2024/results/by_person#2018KUZM02) |
 | 0.14 | [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) | 1:53.07 | 1:53.21 | [Silesian Minx Fest 2023](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2023/results/by_person#2017KROK01) |
 | 0.20 | [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) | 2:47.66 | 2:47.86 | [Cube4fun Bełżyce 2022](https://www.worldcubeassociation.org/competitions/Cube4funBelzyce2022/results/by_person#2014NOWI01) |
@@ -77,7 +78,6 @@
 | 0.25 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 3:20.86 | 3:21.11 | [Bratislava Christmas Cubing 2022](https://www.worldcubeassociation.org/competitions/BratislavaChristmasCubing2022/results/by_person#2013ROGA02) |
 | 0.26 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:15.05 | 1:15.31 | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023/results/by_person#2016KOLA02) |
 | 0.30 | [Stanisław Tochowicz](https://www.worldcubeassociation.org/persons/2023TOCH01) | 2:20.42 | 2:20.72 | [Cube4fun Wisła Masters 2024](https://www.worldcubeassociation.org/competitions/Cube4funWislaMasters2024/results/by_person#2023TOCH01) |
-| 0.37 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 1:52.21 | 1:52.58 | [Żory Open 2024](https://www.worldcubeassociation.org/competitions/ZoryOpen2024/results/by_person#2018HAMK01) |
 
 ### 7x7x7 Cube
 

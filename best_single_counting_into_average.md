@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  1 February 2026*
+*Updated on  2 February 2026*
 
 
 ### 3x3x3 Cube
@@ -76,7 +76,7 @@
 | 8.29 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | [GLS II 2025](https://www.worldcubeassociation.org/competitions/GLSII2025/results/by_person#2022SZUB01) |
 | 8.34 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [Pilzno Cubing Holiday 2025](https://www.worldcubeassociation.org/competitions/PilznoCubingHoliday2025/results/by_person#2022MARC05) |
 | 8.34 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [Polish Open 2025](https://www.worldcubeassociation.org/competitions/PolishOpen2025/results/by_person#2022MARC05) |
-| 8.35 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [Cube4fun Tylmanowa Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaWinter2026/results/by_person#2022MARC05) |
+| 8.34 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026/results/by_person#2022MARC05) |
 
 ### Megaminx
 

@@ -1,41 +1,41 @@
 ## Most visited continents
 
-*Updated on  1 February 2026*
+*Updated on  2 February 2026*
 
 | Continents | Person |
 | ---: | :--- |
-| 5 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
-| 4 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
+| 6 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 4 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 4 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) |
 | 4 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) |
-| 3 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) |
+| 4 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
+| 3 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) |
+| 3 | [Maciej Jabłoński](https://www.worldcubeassociation.org/persons/2017JABL01) |
+| 3 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) |
+| 3 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
+| 3 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) |
+| 3 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
 | 3 | [Joanna Dubicka](https://www.worldcubeassociation.org/persons/2018DUBI04) |
 | 3 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
 | 3 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |
 | 3 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 3 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
-| 3 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) |
-| 3 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
 | 3 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 3 | [Igor Wojciech Wawrzynski](https://www.worldcubeassociation.org/persons/2019WAWR01) |
+| 3 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) |
 | 3 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) |
 | 3 | [Arkadiusz Dubicki](https://www.worldcubeassociation.org/persons/2023DUBI01) |
-| 3 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) |
-| 3 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) |
-| 3 | [Maciej Jabłoński](https://www.worldcubeassociation.org/persons/2017JABL01) |
-| 2 | [Ignacy Malinowski](https://www.worldcubeassociation.org/persons/2021MALI02) |
-| 2 | [Stanisław Dworak](https://www.worldcubeassociation.org/persons/2021DWOR01) |
-| 2 | [Szymon Jaworski](https://www.worldcubeassociation.org/persons/2021JAWO01) |
 | 2 | [Ada Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD01) |
+| 2 | [Ignacy Malinowski](https://www.worldcubeassociation.org/persons/2021MALI02) |
+| 2 | [Szymon Jaworski](https://www.worldcubeassociation.org/persons/2021JAWO01) |
 | 2 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) |
 | 2 | [Krystian Węgrzyn](https://www.worldcubeassociation.org/persons/2021WEGR01) |
 | 2 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
+| 2 | [Stanisław Dworak](https://www.worldcubeassociation.org/persons/2021DWOR01) |
 | 2 | [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) |
 | 2 | [Samuel Winterburn](https://www.worldcubeassociation.org/persons/2025WINT09) |
 | 2 | [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) |
 | 2 | [Tymon Sozański](https://www.worldcubeassociation.org/persons/2022SOZA01) |
-| 2 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
 | 2 | [Przemysław Malinowski](https://www.worldcubeassociation.org/persons/2022MALI01) |
 | 2 | [Omer Yusuf Gonen](https://www.worldcubeassociation.org/persons/2022GONE01) |
 | 2 | [Aleks Dawidek](https://www.worldcubeassociation.org/persons/2022DAWI01) |

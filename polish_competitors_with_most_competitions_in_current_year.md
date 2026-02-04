@@ -1,6 +1,6 @@
 ## Polish competitors with most competitions in the current year
 
-*Updated on  2 February 2026*
+*Updated on  4 February 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -282,6 +282,7 @@
 | 1 | [Michał Kledzik](https://www.worldcubeassociation.org/persons/2024KLED01) |
 | 1 | [Marcin Kledzik](https://www.worldcubeassociation.org/persons/2024KLED02) |
 | 1 | [Karol Kocurek](https://www.worldcubeassociation.org/persons/2024KOCU01) |
+| 1 | [Emanuel Pablo Kolmas](https://www.worldcubeassociation.org/persons/2024KOLM01) |
 | 1 | [Bartosz Kosyna](https://www.worldcubeassociation.org/persons/2024KOSY01) |
 | 1 | [Maciej Kowalik](https://www.worldcubeassociation.org/persons/2024KOWA11) |
 | 1 | [Michał Kryński](https://www.worldcubeassociation.org/persons/2024KRYN01) |

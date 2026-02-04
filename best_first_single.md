@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on  2 February 2026*
+*Updated on  4 February 2026*
 
 
 ### 3x3x3 Cube
@@ -166,8 +166,8 @@
 | 4.27 | [Wiktor Smędzik](https://www.worldcubeassociation.org/persons/2022SMED02) |
 | 4.36 | [Marcin Dwornik](https://www.worldcubeassociation.org/persons/2016DWOR02) |
 | 4.37 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) |
+| 4.39 | [Emanuel Pablo Kolmas](https://www.worldcubeassociation.org/persons/2024KOLM01) |
 | 4.68 | [Wojciech Piórczyński](https://www.worldcubeassociation.org/persons/2021PIOR01) |
-| 4.80 | [Bartek Mazurek](https://www.worldcubeassociation.org/persons/2017MAZU01) |
 
 ### Clock
 

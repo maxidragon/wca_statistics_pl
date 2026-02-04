@@ -1,6 +1,6 @@
 ## Delegated to attended competition ratio in the current year (Poland)
 
-*Updated on  2 February 2026*
+*Updated on  4 February 2026*
 
 | Delegated | Attended | Ratio | Person | List on WCA |
 | ---: | ---: | ---: | :--- | :--: |

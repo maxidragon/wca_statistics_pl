@@ -1,6 +1,6 @@
 ## Polish competitors with most competitions in the current year
 
-*Updated on  4 February 2026*
+*Updated on  7 February 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -416,7 +416,7 @@
 | 1 | [Jakub Doczyk](https://www.worldcubeassociation.org/persons/2026DOCZ01) |
 | 1 | [Filip Dryja](https://www.worldcubeassociation.org/persons/2026DRYJ01) |
 | 1 | [Karol Faruga](https://www.worldcubeassociation.org/persons/2026FARU01) |
-| 1 | [Aleksander Jan Fil](https://www.worldcubeassociation.org/persons/2026FILA01) |
+| 1 | [Aleksander Fil](https://www.worldcubeassociation.org/persons/2026FILA01) |
 | 1 | [Paweł Giers](https://www.worldcubeassociation.org/persons/2026GIER01) |
 | 1 | [Adam Gostynski](https://www.worldcubeassociation.org/persons/2026GOST01) |
 | 1 | [Szymon Harazin](https://www.worldcubeassociation.org/persons/2026HARA01) |

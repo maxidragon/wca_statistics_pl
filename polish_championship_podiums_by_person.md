@@ -1,6 +1,6 @@
 ## Polish Championship podiums by person
 
-*Updated on  4 February 2026*
+*Updated on  7 February 2026*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |

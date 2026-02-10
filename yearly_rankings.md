@@ -1,23 +1,23 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on  7 February 2026*
+*Updated on 10 February 2026*
 
 
 ### 3x3x3 Cube - Single
 
 | Person | Result | Competition | Details |
 | :--- | ---: | :--- | :--- |
+| [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | **2.76** |  | [GLS Big Cubes Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSBigCubesGdansk2026) | 4.99, 5.36, 5.76, 2.76, 5.34 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **3.62** |  | [Seoul Winter 2026](https://www.worldcubeassociation.org/competitions/SeoulWinter2026) | 3.62, 6.42, 3.89, 7.17, 5.62 |
-| [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | **4.09** |  | [Winter Holiday Czarna Woda 2026](https://www.worldcubeassociation.org/competitions/WinterHolidayCzarnaWoda2026) | 6.24, 5.89, 5.63, 5.46, 4.09 |
+| [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | **3.87** |  | [GLS Big Cubes Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSBigCubesGdansk2026) | 5.86, 5.77, 4.92, 3.87, 5.19 |
 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | **4.18** |  | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | 6.52, 6.93, 6.30, 5.81, 4.18 |
 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | **4.62** |  | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | 6.04, 6.44, 5.92, 4.62, 7.36 |
-| [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | **4.69** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 6.37, 4.71, 5.62, 4.69, 5.82 |
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | **4.79** |  | [Cube4fun Tylmanowa Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaWinter2026) | 8.12, 7.93, 8.75, 6.33, 4.79 |
+| [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) | **5.51** |  | [GLS Big Cubes Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSBigCubesGdansk2026) | 7.15, 8.53, 8.36, 5.51, 8.33 |
 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | **5.52** |  | [Winter Holiday Czarna Woda 2026](https://www.worldcubeassociation.org/competitions/WinterHolidayCzarnaWoda2026) | 7.19, 5.52, 8.32, 6.98, 7.11 |
 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | **5.52** |  | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | 7.19, 10.11, 9.54, 5.52, 7.30 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **5.74** |  | [Cube4fun Tylmanowa Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaWinter2026) | 8.18, 8.61, 7.21, 7.14, 5.74 |
-| [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | **5.98** |  | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | 8.09, 5.98, 8.75, 6.78, 7.59 |
 
 ### 3x3x3 Cube - Average
 
@@ -25,14 +25,14 @@
 | :--- | ---: | :--- | :--- |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **4.80** |  | [Cubing at The Cube 2026](https://www.worldcubeassociation.org/competitions/CubingatTheCube2026) | 4.85, 4.81, 4.59, 4.75, 6.57 |
 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | **5.00** |  | [Winter Holiday Czarna Woda 2026](https://www.worldcubeassociation.org/competitions/WinterHolidayCzarnaWoda2026) | 4.65, 5.09, 5.06, 4.85, 7.28 |
-| [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | **5.38** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 6.37, 4.71, 5.62, 4.69, 5.82 |
+| [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | **5.29** |  | [GLS Big Cubes Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSBigCubesGdansk2026) | 5.86, 5.77, 4.92, 3.87, 5.19 |
 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | **5.64** |  | [Cube4fun Tylmanowa Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaWinter2026) | 4.81, 8.14, 5.83, 5.21, 5.88 |
 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | **6.13** |  | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | 6.04, 6.44, 5.92, 4.62, 7.36 |
 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | **7.09** |  | [Winter Holiday Czarna Woda 2026](https://www.worldcubeassociation.org/competitions/WinterHolidayCzarnaWoda2026) | 7.19, 5.52, 8.32, 6.98, 7.11 |
 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | **7.17** |  | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | 6.97, 6.81, 6.57, 8.18, 7.74 |
+| [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) | **7.18** |  | [GLS Big Cubes Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSBigCubesGdansk2026) | 6.93, 8.75, 6.95, 6.10, 7.67 |
 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) | **7.18** |  | [Cube4fun Tylmanowa Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaWinter2026) | 8.71, 6.72, 6.95, 6.69, 7.86 |
-| [Igor Ośmiałowski](https://www.worldcubeassociation.org/persons/2014OMIA01) | **7.37** |  | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | 7.03, 8.79, 7.61, 7.46, 6.07 |
-| [Victor Kiziukiewicz](https://www.worldcubeassociation.org/persons/2023KIZI01) | **7.37** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 6.72, 7.90, 6.54, 7.49, 11.24 |
+| [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | **7.31** |  | [GLS Big Cubes Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSBigCubesGdansk2026) | 7.75, 5.99, 8.05, 6.72, 7.45 |
 
 ### 2x2x2 Cube - Single
 
@@ -69,30 +69,30 @@
 | Person | Result | Competition | Details |
 | :--- | ---: | :--- | :--- |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **16.09** |  | [Seoul Winter 2026](https://www.worldcubeassociation.org/competitions/SeoulWinter2026) | 19.16, 18.01, 18.51, 21.64, 16.09 |
+| [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | **22.28** |  | [GLS Big Cubes Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSBigCubesGdansk2026) | 24.63, 28.46, 22.28, 31.89, 29.66 |
+| [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | **22.32** |  | [GLS Big Cubes Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSBigCubesGdansk2026) | 24.88, 27.55, 23.94, 22.32, 33.11 |
 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | **22.60** |  | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | 27.97, 29.98, 22.60, 31.21, 30.17 |
+| [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | **24.24** |  | [GLS Big Cubes Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSBigCubesGdansk2026) | 24.24, 30.72, 28.58, 25.18, 38.01 |
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | **24.40** |  | [Cube4fun Tylmanowa Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaWinter2026) | 26.36, 25.53, 28.79, 24.40, 28.52 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **24.43** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 24.43, 27.19, 30.99, 27.59, 24.46 |
 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | **24.64** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 27.32, 29.21, 35.79, 24.64, 29.36 |
 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | **24.66** |  | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | 28.74, 31.14, 32.89, 24.66, 32.99 |
 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | **24.70** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 29.26, 24.70, 27.22, 38.53, 37.01 |
-| [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | **25.07** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 25.07, 29.75, 31.31, 28.85, 32.81 |
-| [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | **25.44** |  | [Winter Holiday Czarna Woda 2026](https://www.worldcubeassociation.org/competitions/WinterHolidayCzarnaWoda2026) | 30.29, 39.97, 25.44, 27.07, 27.96 |
-| [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | **26.20** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 26.20, 34.77, 30.84, 33.91, 35.95 |
 
 ### 4x4x4 Cube - Average
 
 | Person | Result | Competition | Details |
 | :--- | ---: | :--- | :--- |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **18.56** |  | [Seoul Winter 2026](https://www.worldcubeassociation.org/competitions/SeoulWinter2026) | 19.16, 18.01, 18.51, 21.64, 16.09 |
+| [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | **24.66** |  | [GLS Big Cubes Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSBigCubesGdansk2026) | 27.15, 23.71, 25.65, 24.43, 23.91 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **26.41** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 24.43, 27.19, 30.99, 27.59, 24.46 |
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | **26.80** |  | [Cube4fun Tylmanowa Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaWinter2026) | 26.36, 25.53, 28.79, 24.40, 28.52 |
 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | **27.30** |  | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | 28.25, 30.46, 27.10, 26.56, 26.35 |
+| [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | **27.58** |  | [GLS Big Cubes Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSBigCubesGdansk2026) | 24.63, 28.46, 22.28, 31.89, 29.66 |
 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | **27.71** |  | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | 27.62, 26.72, 37.34, 27.49, 28.01 |
-| [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | **28.44** |  | [Winter Holiday Czarna Woda 2026](https://www.worldcubeassociation.org/competitions/WinterHolidayCzarnaWoda2026) | 30.29, 39.97, 25.44, 27.07, 27.96 |
+| [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | **28.16** |  | [GLS Big Cubes Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSBigCubesGdansk2026) | 24.24, 30.72, 28.58, 25.18, 38.01 |
 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | **28.63** |  | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 27.32, 29.21, 35.79, 24.64, 29.36 |
 | [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) | **28.88** |  | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | 35.10, 27.93, 27.76, 28.16, 30.56 |
-| [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | **29.37** |  | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | 27.97, 29.98, 22.60, 31.21, 30.17 |
-| [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) | **29.52** |  | [Cube4fun Tylmanowa Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaWinter2026) | 28.67, 29.45, 30.43, 28.28, 31.94 |
 
 ### 5x5x5 Cube - Single
 
@@ -100,6 +100,7 @@
 | :--- | ---: | :--- | :--- |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **32.65** |  | [Seoul Winter 2026](https://www.worldcubeassociation.org/competitions/SeoulWinter2026) | 38.15, 40.66, 32.65, 36.61, 35.57 |
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | **44.44** |  | [Cube4fun Tylmanowa Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaWinter2026) | 49.85, 56.43, 47.67, 48.92, 44.44 |
+| [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | **45.48** |  | [GLS Big Cubes Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSBigCubesGdansk2026) | 49.12, 47.28, 53.36, 50.78, 45.48 |
 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | **45.66** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 58.26, 50.99, 50.07, 1:00.21, 45.66 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **45.69** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 51.51, 51.82, 50.78, 45.69, 49.07 |
 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | **46.61** |  | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | 48.30, 46.94, 55.99, 46.61, 48.27 |
@@ -107,7 +108,6 @@
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **47.62** |  | [Cube4fun Tylmanowa Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaWinter2026) | 1:06.02, 54.46, 56.87, 59.40, 47.62 |
 | [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) | **48.02** |  | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | 57.90, 58.01, 59.88, 59.01, 48.02 |
 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | **48.11** |  | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | 58.81, 1:03.10, 48.11, 49.96, 52.67 |
-| [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | **48.54** |  | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | 54.51, 50.66, 54.30, 1:00.33, 48.54 |
 
 ### 5x5x5 Cube - Average
 
@@ -116,73 +116,73 @@
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **36.26** |  | [Seoul Winter 2026](https://www.worldcubeassociation.org/competitions/SeoulWinter2026) | 35.76, 38.99, 34.57, 36.58, 36.43 |
 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | **47.84** |  | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | 48.30, 46.94, 55.99, 46.61, 48.27 |
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | **48.81** |  | [Cube4fun Tylmanowa Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaWinter2026) | 49.85, 56.43, 47.67, 48.92, 44.44 |
+| [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | **49.06** |  | [GLS Big Cubes Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSBigCubesGdansk2026) | 49.12, 47.28, 53.36, 50.78, 45.48 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **50.45** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 51.51, 51.82, 50.78, 45.69, 49.07 |
+| [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | **50.98** |  | [GLS Big Cubes Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSBigCubesGdansk2026) | 50.81, 47.93, 49.29, 53.36, 52.84 |
 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | **51.07** |  | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | 51.81, 54.16, 49.46, 51.94, 48.58 |
-| [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | **52.39** |  | [Winter Holiday Czarna Woda 2026](https://www.worldcubeassociation.org/competitions/WinterHolidayCzarnaWoda2026) | 54.99, 49.46, 47.27, 58.39, 52.71 |
+| [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | **52.83** |  | [GLS Big Cubes Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSBigCubesGdansk2026) | 56.32, 49.51, 56.44, 52.67, 49.28 |
 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | **53.16** |  | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | 54.51, 50.66, 54.30, 1:00.33, 48.54 |
 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | **53.81** |  | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | 58.81, 1:03.10, 48.11, 49.96, 52.67 |
-| [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | **55.74** |  | [Winter Holiday Czarna Woda 2026](https://www.worldcubeassociation.org/competitions/WinterHolidayCzarnaWoda2026) | 59.86, 51.41, 51.60, 1:02.16, 55.76 |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **56.91** |  | [Cube4fun Tylmanowa Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaWinter2026) | 1:06.02, 54.46, 56.87, 59.40, 47.62 |
 
 ### 6x6x6 Cube - Single
 
 | Person | Result | Competition | Details |
 | :--- | ---: | :--- | :--- |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **1:00.80** |  | [Seoul Winter 2026](https://www.worldcubeassociation.org/competitions/SeoulWinter2026) | 1:18.77, 1:06.80, 1:00.80 |
+| [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | **1:21.06** |  | [GLS Big Cubes Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSBigCubesGdansk2026) | 1:21.06, 1:28.38, 1:35.08 |
 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | **1:21.23** |  | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | 1:38.06, 1:21.23, 1:30.23 |
 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | **1:23.62** |  | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | 1:34.73, 1:23.62, 1:29.88 |
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | **1:32.02** |  | [Cube4fun Tylmanowa Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaWinter2026) | 2:10.99, 1:32.02, 1:42.60 |
+| [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | **1:32.20** |  | [GLS Big Cubes Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSBigCubesGdansk2026) | 1:45.92, 1:32.23, 1:32.20 |
 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | **1:32.31** |  | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | 1:32.31, 1:48.53, 1:56.60 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **1:33.92** |  | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | 1:55.19, 1:49.34, 1:33.92 |
 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | **1:37.34** |  | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | 1:38.08, 1:37.34, 1:51.87 |
 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | **1:39.04** |  | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | 1:39.04, 1:41.05, 1:51.90 |
-| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **1:39.34** |  | [Cube4fun Tylmanowa Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaWinter2026) | 1:39.34, 1:48.28, 1:51.36 |
-| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **1:40.83** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 1:40.83, 1:56.83, 1:48.16 |
 
 ### 6x6x6 Cube - Average
 
 | Person | Result | Competition | Details |
 | :--- | ---: | :--- | :--- |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **1:08.79** |  | [Seoul Winter 2026](https://www.worldcubeassociation.org/competitions/SeoulWinter2026) | 1:18.77, 1:06.80, 1:00.80 |
+| [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | **1:27.55** |  | [GLS Big Cubes Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSBigCubesGdansk2026) | 1:23.24, 1:28.59, 1:30.82 |
 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | **1:29.41** |  | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | 1:34.73, 1:23.62, 1:29.88 |
 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | **1:29.84** |  | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | 1:38.06, 1:21.23, 1:30.23 |
-| [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | **1:38.76** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 1:37.91, 1:35.96, 1:42.40 |
+| [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | **1:34.95** |  | [GLS Big Cubes Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSBigCubesGdansk2026) | 1:38.28, 1:32.33, 1:34.25 |
+| [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | **1:36.78** |  | [GLS Big Cubes Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSBigCubesGdansk2026) | 1:45.92, 1:32.23, 1:32.20 |
 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | **1:42.43** |  | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | 1:38.08, 1:37.34, 1:51.87 |
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | **1:43.61** |  | [Cube4fun Tylmanowa Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaWinter2026) | 1:37.93, 1:50.53, 1:42.36 |
 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | **1:44.00** |  | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | 1:39.04, 1:41.05, 1:51.90 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **1:44.83** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 1:45.75, 1:45.11, 1:43.63 |
-| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **1:46.33** |  | [Cube4fun Tylmanowa Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaWinter2026) | 1:39.34, 1:48.28, 1:51.36 |
-| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **1:46.61** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 1:48.53, 1:45.09, 1:46.22 |
 
 ### 7x7x7 Cube - Single
 
 | Person | Result | Competition | Details |
 | :--- | ---: | :--- | :--- |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **1:40.58** |  | [Seoul Winter 2026](https://www.worldcubeassociation.org/competitions/SeoulWinter2026) | 1:48.27, 1:57.65, 1:40.58 |
+| [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | **1:55.09** |  | [GLS Big Cubes Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSBigCubesGdansk2026) | 2:24.85, 1:55.09, 2:09.36 |
 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | **2:09.93** |  | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | 2:24.76, 2:36.74, 2:09.93 |
 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | **2:12.26** |  | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | 2:13.34, 2:32.43, 2:12.26 |
-| [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | **2:20.03** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 2:28.96, 2:20.03, 2:46.67 |
+| [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | **2:14.60** |  | [GLS Big Cubes Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSBigCubesGdansk2026) | 2:14.60, 2:31.50, 2:30.57 |
+| [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | **2:19.80** |  | [GLS Big Cubes Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSBigCubesGdansk2026) | 2:20.24, 2:19.80, 2:24.36 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **2:27.36** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 2:27.36, 3:05.97, 3:08.94 |
 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | **2:27.49** |  | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | 2:42.99, 2:42.32, 2:27.49 |
 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | **2:32.56** |  | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | 2:32.56, 2:49.59, 2:38.79 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **2:36.01** |  | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | 2:36.01, 2:41.14, 2:45.29 |
-| [Piotr Melczewski](https://www.worldcubeassociation.org/persons/2019MELC02) | **2:38.83** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 2:38.83, 3:17.48, 2:58.83 |
-| [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) | **2:40.88** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 2:48.58, 2:40.88, 2:45.81 |
 
 ### 7x7x7 Cube - Average
 
 | Person | Result | Competition | Details |
 | :--- | ---: | :--- | :--- |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **1:48.83** |  | [Seoul Winter 2026](https://www.worldcubeassociation.org/competitions/SeoulWinter2026) | 1:48.27, 1:57.65, 1:40.58 |
+| [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | **2:08.55** |  | [GLS Big Cubes Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSBigCubesGdansk2026) | 2:07.24, 2:09.12, 2:09.30 |
 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | **2:19.34** |  | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | 2:13.34, 2:32.43, 2:12.26 |
+| [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | **2:21.47** |  | [GLS Big Cubes Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSBigCubesGdansk2026) | 2:20.24, 2:19.80, 2:24.36 |
 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | **2:23.81** |  | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | 2:24.76, 2:36.74, 2:09.93 |
-| [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | **2:29.53** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 2:28.71, 2:31.45, 2:28.42 |
+| [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | **2:25.56** |  | [GLS Big Cubes Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSBigCubesGdansk2026) | 2:14.60, 2:31.50, 2:30.57 |
 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | **2:37.60** |  | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | 2:42.99, 2:42.32, 2:27.49 |
 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | **2:40.31** |  | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | 2:32.56, 2:49.59, 2:38.79 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **2:40.81** |  | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | 2:36.01, 2:41.14, 2:45.29 |
-| [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) | **2:45.09** |  | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) | 2:48.58, 2:40.88, 2:45.81 |
-| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **2:47.46** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 2:40.27, 2:50.54, 2:51.58 |
-| [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | **2:50.03** |  | [Cube4fun Tylmanowa Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaWinter2026) | 2:50.44, 2:48.09, 2:51.56 |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **2:44.47** |  | [GLS Big Cubes Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSBigCubesGdansk2026) | 2:38.49, 2:40.40, 2:54.52 |
 
 ### 3x3x3 Blindfolded - Single
 

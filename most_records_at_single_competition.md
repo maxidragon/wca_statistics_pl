@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on  7 February 2026*
+*Updated on 10 February 2026*
 
 
 ### World
@@ -116,6 +116,7 @@
 | 1 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024/results/by_person#2020BARA02) |
 | 1 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | [5BLD Masters Opole 2025](https://www.worldcubeassociation.org/competitions/5BLDMastersOpole2025/results/by_person#2020BARA02) |
 | 1 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | [Warsaw Cube Masters 2023](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2023/results/by_person#2021ZAJD03) |
+| 1 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | [GLS Big Cubes Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSBigCubesGdansk2026/results/by_person#2021ZAJD03) |
 | 1 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [No Triangle in Rzeszów 2024](https://www.worldcubeassociation.org/competitions/NoTriangleinRzeszow2024/results/by_person#2021KASP01) |
 | 1 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | [CFL Justynów 2025](https://www.worldcubeassociation.org/competitions/CFLJustynow2025/results/by_person#2022SAMS03) |
 

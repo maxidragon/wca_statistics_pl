@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on  7 February 2026*
+*Updated on 10 February 2026*
 
 | WRs | Person |
 | ---: | :--- |
@@ -24,6 +24,7 @@
 | 2 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) |
 | 2 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) |
 | 2 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
+| 2 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
 | 2 | [Tomasz Kiedrowicz](https://www.worldcubeassociation.org/persons/2006KIED01) |
 | 2 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) |
 | 1 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) |
@@ -35,7 +36,6 @@
 | 1 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) |
 | 1 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) |
 | 1 | [Szymon Jeziorski](https://www.worldcubeassociation.org/persons/2013JEZI01) |
-| 1 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
 | 1 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) |
 
 

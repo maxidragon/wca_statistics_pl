@@ -1,7 +1,7 @@
 ## Records in the highest number of events
 
 *Note: All historical records are taken into account (i.e. not only the current ones).*
-*Updated on  7 February 2026*
+*Updated on 10 February 2026*
 
 
 ### World
@@ -11,6 +11,7 @@
 | 4 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 3x3x3 Cube, 4x4x4 Cube, 5x5x5 Cube, Pyraminx |
 | 3 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube |
 | 3 | [Rafał Guzewicz](https://www.worldcubeassociation.org/persons/2006GUZE01) | 3x3x3 Blindfolded, 3x3x3 Multi-Blind, 3x3x3 Multi-Blind Old Style |
+| 2 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 3x3x3 Cube, 2x2x2 Cube |
 | 2 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | 3x3x3 Blindfolded, 3x3x3 Multi-Blind |
 | 2 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | 4x4x4 Blindfolded, 5x5x5 Blindfolded |
 | 1 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) | 3x3x3 Fewest Moves |
@@ -22,7 +23,6 @@
 | 1 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | Skewb |
 | 1 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) | 2x2x2 Cube |
 | 1 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) | 2x2x2 Cube |
-| 1 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 2x2x2 Cube |
 | 1 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | Clock |
 | 1 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 3x3x3 One-Handed |
 | 1 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | Skewb |
@@ -39,6 +39,7 @@
 | 3 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 3x3x3 Cube, 2x2x2 Cube, 3x3x3 One-Handed |
 | 2 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 3x3x3 Cube, 5x5x5 Cube |
 | 2 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | 3x3x3 Cube, 3x3x3 With Feet |
+| 2 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 3x3x3 Cube, 2x2x2 Cube |
 | 2 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | 3x3x3 Blindfolded, 3x3x3 Multi-Blind |
 | 2 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | 4x4x4 Blindfolded, 5x5x5 Blindfolded |
 | 2 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 3x3x3 Blindfolded, 3x3x3 Multi-Blind |
@@ -50,7 +51,6 @@
 | 1 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | Skewb |
 | 1 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) | 2x2x2 Cube |
 | 1 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) | 2x2x2 Cube |
-| 1 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 2x2x2 Cube |
 | 1 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | Clock |
 | 1 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 3x3x3 One-Handed |
 

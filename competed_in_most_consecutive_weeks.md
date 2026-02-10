@@ -1,12 +1,12 @@
 ## Most consecutive weeks with competitions
 
 *Note: Only includes people from Poland. Weeks are counted as ISO weeks (Monday-Sunday). Multiple competitions in the same week count as one.*
-*Updated on  7 February 2026*
+*Updated on 10 February 2026*
 
 | Count | Person | Start comp | End comp |
 | ---: | :--- | :--- | :--- |
 | 41 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | [Cubing Mine Rybnik 2024](https://www.worldcubeassociation.org/competitions/CubingMineRybnik2024) | [Cube4fun Lublin Winter 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2025) |
-| 39 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | [Cubing Spring Rybnik 2025](https://www.worldcubeassociation.org/competitions/CubingSpringRybnik2025) | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) |
+| 40 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | [Cubing Spring Rybnik 2025](https://www.worldcubeassociation.org/competitions/CubingSpringRybnik2025) | [GLS Big Cubes Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSBigCubesGdansk2026) |
 | 26 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | [Cube Factory League Brzeziny Spring 2025](https://www.worldcubeassociation.org/competitions/CFLBrzezinySpring2025) | [Cube Factory League Final Łódź 2025](https://www.worldcubeassociation.org/competitions/CFLFinalLodz2025) |
 | 24 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | [Cubing in Ružinov: January 2025](https://www.worldcubeassociation.org/competitions/CubinginRuzinovJanuary2025) | [CF Goes Sideways Brzeziny II 2025](https://www.worldcubeassociation.org/competitions/CFSidewaysBrzezinyII2025) |
 | 19 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | [Cube Factory League Brzeziny Spring 2025](https://www.worldcubeassociation.org/competitions/CFLBrzezinySpring2025) | [Lakeside Megaminx Fiesta Augustów 2025](https://www.worldcubeassociation.org/competitions/MegaminxFiestaAugustow2025) |
@@ -19,10 +19,10 @@
 | 8 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | [BrizZon Sylwester Open 2022](https://www.worldcubeassociation.org/competitions/BrizZonSylwesterOpen2022) | [Ice Cubing Szczecinek 2023](https://www.worldcubeassociation.org/competitions/IceCubingSzczecinek2023) |
 | 8 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | [Try Not To DNF Rzeszów 2023](https://www.worldcubeassociation.org/competitions/TryNotToDNFRzeszow2023) | [Big 'n Blind Szczecinek 2023](https://www.worldcubeassociation.org/competitions/BignBlindSzczecinek2023) |
 | 7 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | [Dragon Cubing X 2025](https://www.worldcubeassociation.org/competitions/DragonCubingX2025) | [Polish Open 2025](https://www.worldcubeassociation.org/competitions/PolishOpen2025) |
+| 7 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | [Polish Sylwester Tour: FMC Warszawa-Wesoła 2025](https://www.worldcubeassociation.org/competitions/PSTFMCWarszawaWesola2025) | [GLS Big Cubes Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSBigCubesGdansk2026) |
 | 7 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | [Project Kedzierzyn-Kozle 2021](https://www.worldcubeassociation.org/competitions/ProjectKedzierzynKozle2021) | [Lubelska Liga Speedcubingu IV Świdnik 2021](https://www.worldcubeassociation.org/competitions/LLSIVSwidnik2021) |
 | 7 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) | [Kostelec Nonstop Cubing 2023](https://www.worldcubeassociation.org/competitions/KostelecNonstopCubing2023) | [Carnikavas Pavasaris 2023](https://www.worldcubeassociation.org/competitions/CarnikavasPavasaris2023) |
 | 7 | [Anonymous](https://www.worldcubeassociation.org/persons/2022ANON03) | [Cube4fun Wisła Masters 2023](https://www.worldcubeassociation.org/competitions/Cube4funWislaMasters2023) | [Warsaw Cube Masters 2023](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2023) |
-| 6 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | [LLS II 2018](https://www.worldcubeassociation.org/competitions/LLSII2018) | [LLS III 2018](https://www.worldcubeassociation.org/competitions/LLSIII2018) |
 | 6 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | [Clock Masters Opole 2024](https://www.worldcubeassociation.org/competitions/ClockMastersOpole2024) | [Energy Cube Konin 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeKonin2024) |
 | 6 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | [Poznań MBLD Cup 2023](https://www.worldcubeassociation.org/competitions/PoznanMBLDCup2023) | [Cube4fun Double Weekend Pilzno 2023](https://www.worldcubeassociation.org/competitions/Cube4funDWPilzno2023) |
 | 6 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | [Cube4fun Double Weekend Świdnik 2023](https://www.worldcubeassociation.org/competitions/Cube4funDWSwidnik2023) | [GLS II 2023](https://www.worldcubeassociation.org/competitions/GLSII2023) |

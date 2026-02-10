@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on  7 February 2026*
+*Updated on 10 February 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -22,11 +22,11 @@
 | 18 | [Wiktor Zegadło](https://www.worldcubeassociation.org/persons/2017ZEGA01) |
 | 18 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
 | 17 | [Magnus Miłosz Birecki](https://www.worldcubeassociation.org/persons/2022BIRE01) |
+| 16 | [Szymon Plesniak](https://www.worldcubeassociation.org/persons/2024PLES01) |
 | 15 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) |
 | 15 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 15 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 15 | [Naama Anbar](https://www.worldcubeassociation.org/persons/2023ANBA01) |
-| 15 | [Szymon Plesniak](https://www.worldcubeassociation.org/persons/2024PLES01) |
 | 14 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) |
 | 14 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
 | 14 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) |
@@ -66,6 +66,7 @@
 | 9 | [Szymon Jaworski](https://www.worldcubeassociation.org/persons/2021JAWO01) |
 | 9 | [Oskar Obeid](https://www.worldcubeassociation.org/persons/2022OBEI01) |
 | 9 | [Eryk Haoyan Klimek](https://www.worldcubeassociation.org/persons/2022KLIM01) |
+| 9 | [Zbigniew Mróz](https://www.worldcubeassociation.org/persons/2023MROZ03) |
 | 8 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) |
 | 8 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) |
 | 8 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) |
@@ -74,7 +75,6 @@
 | 8 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 8 | [Mateusz Nowak](https://www.worldcubeassociation.org/persons/2022NOWA05) |
 | 8 | [Arkadiusz Dubicki](https://www.worldcubeassociation.org/persons/2023DUBI01) |
-| 8 | [Zbigniew Mróz](https://www.worldcubeassociation.org/persons/2023MROZ03) |
 | 7 | [Jakub Cabaj](https://www.worldcubeassociation.org/persons/2008CABA03) |
 | 7 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) |
 | 7 | [Marek Pepke](https://www.worldcubeassociation.org/persons/2008PEPK01) |

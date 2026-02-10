@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals at Polish competitions are taken into account.*
-*Updated on  7 February 2026*
+*Updated on 10 February 2026*
 
 
 ### 3x3x3 Cube
@@ -86,13 +86,13 @@
 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 2:12.43 | **2:16.23** | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/all#e777_c) | 4 |
 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) | 2:13.15 | **2:21.42** | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/all#e777_c) | 5 |
 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 2:15.15 | **2:21.96** | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/all#e777_c) | 6 |
+| [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | 2:14.60 | **2:25.56** | [GLS Big Cubes Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSBigCubesGdansk2026/results/all#e777_f) | 4 |
 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 2:15.40 | **2:26.31** | [Polish Open 2025](https://www.worldcubeassociation.org/competitions/PolishOpen2025/results/all#e777_c) | 4 |
 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 2:24.21 | **2:27.25** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e777_c) | 4 |
 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) | 2:26.70 | **2:27.37** | [Silesian Cubing Pawłowice 2023](https://www.worldcubeassociation.org/competitions/SilesianCubingPawlowice2023/results/all#e777_f) | 4 |
 | [Twan Dullemond](https://www.worldcubeassociation.org/persons/2018DULL01) | 2:24.91 | **2:27.42** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e777_c) | 5 |
 | [Adam Łyskawa](https://www.worldcubeassociation.org/persons/2017LYSK01) | 2:07.10 | **2:28.66** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e777_c) | 6 |
 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) | 2:24.23 | **2:28.66** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e777_c) | 7 |
-| [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) | 2:26.40 | **2:29.22** | [Beskidy Side Days 2025](https://www.worldcubeassociation.org/competitions/BeskidySideDays2025/results/all#e777_f) | 4 |
 
 ### 3x3x3 Blindfolded
 

@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on  7 February 2026*
+*Updated on 10 February 2026*
 
 
 ### 3x3x3 Cube
@@ -11,8 +11,8 @@
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 38 |
 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 17 |
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 11 |
+| [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 5 |
 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | 4 |
-| [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 4 |
 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | 3 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 2 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 2 |

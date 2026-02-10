@@ -1,6 +1,6 @@
 ## Biggest rounds in Poland
 
-*Updated on  7 February 2026*
+*Updated on 10 February 2026*
 
 
 ### 3x3x3 Cube
@@ -74,9 +74,9 @@
 | 62 | [Żory Open 2025](https://www.worldcubeassociation.org/competitions/ZoryOpen2025) |
 | 51 | [Cube4fun Żyrardów 2025](https://www.worldcubeassociation.org/competitions/Cube4funZyrardow2025) |
 | 50 | [Cube4fun Żyrardów 2024](https://www.worldcubeassociation.org/competitions/Cube4funCEZyrardow2024) |
+| 50 | [GLS Big Cubes Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSBigCubesGdansk2026) |
 | 50 | [Siedlce Open 2023](https://www.worldcubeassociation.org/competitions/SiedlceOpen2023) |
 | 49 | [LLS I Bełżyce 2021](https://www.worldcubeassociation.org/competitions/LLSIBelzyce2021) |
-| 49 | [Silesian Cubing Pawłowice 2024](https://www.worldcubeassociation.org/competitions/SilesianCubingPawlowice2024) |
 
 ### 7x7x7 Cube
 
@@ -89,9 +89,9 @@
 | 55 | [Żory Open 2025](https://www.worldcubeassociation.org/competitions/ZoryOpen2025) |
 | 48 | [Siedlce Open 2023](https://www.worldcubeassociation.org/competitions/SiedlceOpen2023) |
 | 46 | [Cube4fun Żyrardów 2025](https://www.worldcubeassociation.org/competitions/Cube4funZyrardow2025) |
+| 46 | [GLS Big Cubes Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSBigCubesGdansk2026) |
 | 45 | [Cube4fun Żyrardów 2024](https://www.worldcubeassociation.org/competitions/Cube4funCEZyrardow2024) |
 | 45 | [Polish Open 2025](https://www.worldcubeassociation.org/competitions/PolishOpen2025) |
-| 44 | [Cube4fun in Bełchatów 2025](https://www.worldcubeassociation.org/competitions/Cube4funinBelchatow2025) |
 
 ### 3x3x3 Blindfolded
 

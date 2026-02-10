@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on  7 February 2026*
+*Updated on 10 February 2026*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -18,8 +18,8 @@
 | 71 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 67 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
 | 58 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
-| 56 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
 | 56 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) |
+| 56 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
 | 55 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) |
 | 55 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) |
 | 54 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) |
@@ -29,12 +29,12 @@
 | 49 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) |
 | 48 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) |
 | 43 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) |
+| 42 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) |
 | 41 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) |
-| 41 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) |
 | 41 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) |
+| 41 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) |
 | 40 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) |
 | 39 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) |
-| 39 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) |
 | 38 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) |
 | 38 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) |
 | 37 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) |
@@ -42,8 +42,8 @@
 | 36 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) |
 | 36 | [Igor Ośmiałowski](https://www.worldcubeassociation.org/persons/2014OMIA01) |
 | 36 | [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) |
-| 35 | [Kalina Jakubowska](https://www.worldcubeassociation.org/persons/2009BRZE01) |
 | 35 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) |
+| 35 | [Kalina Jakubowska](https://www.worldcubeassociation.org/persons/2009BRZE01) |
 | 35 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) |
 | 34 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
 | 32 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) |

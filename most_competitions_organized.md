@@ -8,7 +8,7 @@
 | 80 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
 | 68 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 63 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
-| 47 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 48 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 38 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 32 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) |
 | 31 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
@@ -19,8 +19,8 @@
 | 23 | [Radosław Ciuk](https://www.worldcubeassociation.org/persons/2013CIUK01) |
 | 21 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) |
 | 20 | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) |
+| 18 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 18 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
-| 17 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 17 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 16 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) |
 | 15 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) |

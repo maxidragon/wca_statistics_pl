@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 10 February 2026*
+*Updated on 13 February 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -46,6 +46,7 @@
 | 11 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) |
 | 11 | [Wiktor Syrytczyk](https://www.worldcubeassociation.org/persons/2022SYRY01) |
 | 11 | [Kacper Borkowski](https://www.worldcubeassociation.org/persons/2023BORK03) |
+| 11 | [Marcin Karczmarz](https://www.worldcubeassociation.org/persons/2023KARC01) |
 | 11 | [Alexander Gacek](https://www.worldcubeassociation.org/persons/2024GACE01) |
 | 10 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
 | 10 | [Rafał Studnicki](https://www.worldcubeassociation.org/persons/2005STUD01) |
@@ -56,7 +57,6 @@
 | 10 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
 | 10 | [Adelina Ilnicki](https://www.worldcubeassociation.org/persons/2020ILNI01) |
 | 10 | [Krzysztof Wawrzyniak](https://www.worldcubeassociation.org/persons/2023WAWR01) |
-| 10 | [Marcin Karczmarz](https://www.worldcubeassociation.org/persons/2023KARC01) |
 | 10 | [Antoni Baránski](https://www.worldcubeassociation.org/persons/2024BARA01) |
 | 9 | [Wojciech Barciaga](https://www.worldcubeassociation.org/persons/2013BARC03) |
 | 9 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) |

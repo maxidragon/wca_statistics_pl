@@ -7,7 +7,7 @@
 | 132 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
 | 80 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
 | 68 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
-| 63 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
+| 64 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 48 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 38 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 32 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) |

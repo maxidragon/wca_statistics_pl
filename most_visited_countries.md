@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 13 February 2026*
+*Updated on 16 February 2026*
 
 | Countries | Person |
 | ---: | :--- |
@@ -9,15 +9,15 @@
 | 20 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 18 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
 | 17 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) |
+| 17 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 16 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
-| 16 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 15 | [Igor Wojciech Wawrzynski](https://www.worldcubeassociation.org/persons/2019WAWR01) |
 | 15 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 13 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
+| 12 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 12 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
 | 11 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) |
 | 11 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
-| 11 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 11 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) |
 | 11 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) |
 | 10 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |

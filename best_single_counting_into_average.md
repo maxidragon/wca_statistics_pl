@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 13 February 2026*
+*Updated on 16 February 2026*
 
 
 ### 3x3x3 Cube
@@ -70,13 +70,13 @@
 | 7.85 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [Cube4fun Tylmanowa Autumn 2025](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaAutumn2025/results/by_person#2022MARC05) |
 | 8.04 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [Mielec Cubing Days 2025](https://www.worldcubeassociation.org/competitions/MielecCubingDays2025/results/by_person#2022MARC05) |
 | 8.06 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [Gift Packs Niepołomice 2025](https://www.worldcubeassociation.org/competitions/GiftPacksNiepolomice2025/results/by_person#2022MARC05) |
+| 8.10 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | [Kielce Open 2026](https://www.worldcubeassociation.org/competitions/KielceOpen2026/results/by_person#2022GLAD01) |
 | 8.19 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | [Cube4fun Żyrardów 2024](https://www.worldcubeassociation.org/competitions/Cube4funCEZyrardow2024/results/by_person#2019KARP03) |
 | 8.20 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/by_person#2022SZUB01) |
 | 8.23 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | [Chorzów Cubing Days 2025](https://www.worldcubeassociation.org/competitions/ChorzowCubingDays2025/results/by_person#2022GLAD01) |
 | 8.29 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | [GLS II 2025](https://www.worldcubeassociation.org/competitions/GLSII2025/results/by_person#2022SZUB01) |
 | 8.34 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [Pilzno Cubing Holiday 2025](https://www.worldcubeassociation.org/competitions/PilznoCubingHoliday2025/results/by_person#2022MARC05) |
 | 8.34 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [Polish Open 2025](https://www.worldcubeassociation.org/competitions/PolishOpen2025/results/by_person#2022MARC05) |
-| 8.34 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026/results/by_person#2022MARC05) |
 
 ### Megaminx
 

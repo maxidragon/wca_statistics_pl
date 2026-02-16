@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 13 February 2026*
+*Updated on 16 February 2026*
 
 
 ### 3x3x3 Cube
@@ -160,6 +160,7 @@
 | ---: | :--- | ---: | ---: | :--- |
 | 0.03 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 5.06 | 5.09 | [Cube4fun Tylmanowa Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaWinter2026/results/by_person#2013HANU01) |
 | 0.04 | [Marcel Politowicz](https://www.worldcubeassociation.org/persons/2021POLI02) | 3.76 | 3.80 | [Żory Open 2024](https://www.worldcubeassociation.org/competitions/ZoryOpen2024/results/by_person#2021POLI02) |
+| 0.05 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 4.96 | 5.01 | [Kielce Open 2026](https://www.worldcubeassociation.org/competitions/KielceOpen2026/results/by_person#2013ROGA02) |
 | 0.05 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 5.19 | 5.24 | [GLS I 2024](https://www.worldcubeassociation.org/competitions/GLSI2024/results/by_person#2013ROGA02) |
 | 0.05 | [Aleksandra Tatoń](https://www.worldcubeassociation.org/persons/2021TATO01) | 7.30 | 7.35 | [Cube Factory Summer 2023](https://www.worldcubeassociation.org/competitions/CubeFactorySummer2023/results/by_person#2021TATO01) |
 | 0.05 | [Ignacy Rataj](https://www.worldcubeassociation.org/persons/2022RATA01) | 7.56 | 7.61 | [Cube4fun Tylmanowa Autumn 2025](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaAutumn2025/results/by_person#2022RATA01) |
@@ -167,7 +168,6 @@
 | 0.06 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 7.18 | 7.24 | [Staszic Open 2017](https://www.worldcubeassociation.org/competitions/StaszicOpen2017/results/by_person#2013ROGA02) |
 | 0.06 | [Wojciech Włodarczyk](https://www.worldcubeassociation.org/persons/2012WODA01) | 9.39 | 9.45 | [Polish Championship 2016](https://www.worldcubeassociation.org/competitions/PolishChampionship2016/results/by_person#2012WODA01) |
 | 0.08 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) | 3.70 | 3.78 | [GLS IV 2024](https://www.worldcubeassociation.org/competitions/GdanskaLigaSpeedcubinguIV2024/results/by_person#2022TURC02) |
-| 0.08 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) | 12.16 | 12.24 | [Polish Nationals 2011](https://www.worldcubeassociation.org/competitions/PolishNationals2011/results/by_person#2008PADL01) |
 
 ### Skewb
 

@@ -1,7 +1,7 @@
 ## Most personal records by event
 
 *Note: Counts how many personal records (single or average) a competitor achieved in each event.*
-*Updated on 13 February 2026*
+*Updated on 16 February 2026*
 
 
 ### 3x3x3 Cube
@@ -106,8 +106,8 @@
 | 26 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 25 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
 | 24 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) |
+| 24 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 24 | [Kamil Michalak](https://www.worldcubeassociation.org/persons/2016MICH01) |
-| 23 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 
 ### 3x3x3 Fewest Moves
 
@@ -128,7 +128,7 @@
 
 | PRs | Person |
 | ---: | :--- |
-| 48 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) |
+| 49 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) |
 | 42 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
 | 40 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 40 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
@@ -137,7 +137,7 @@
 | 38 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 37 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
 | 37 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) |
-| 36 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |
+| 36 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 
 ### Megaminx
 
@@ -148,7 +148,7 @@
 | 55 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
 | 52 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 49 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) |
-| 48 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) |
+| 49 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) |
 | 43 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) |
 | 43 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) |
 | 41 | [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) |
@@ -180,9 +180,9 @@
 | 42 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 42 | [Joanna Kierznikiewicz](https://www.worldcubeassociation.org/persons/2022KIER01) |
 | 40 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) |
+| 39 | [Szymon Gabara](https://www.worldcubeassociation.org/persons/2023GABA01) |
 | 38 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 38 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) |
-| 38 | [Szymon Gabara](https://www.worldcubeassociation.org/persons/2023GABA01) |
 
 ### Skewb
 

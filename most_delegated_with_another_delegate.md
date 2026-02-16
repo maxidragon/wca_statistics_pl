@@ -1,7 +1,7 @@
 ## Most delegated competitions with another delegate
 
 *Note: Shows how many times each delegate has co-delegated with others. Only Polish delegates are included, and only competitions that have taken place in Poland and have results posted are considered.*
-*Updated on 13 February 2026*
+*Updated on 16 February 2026*
 
 
 ### [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01)
@@ -23,7 +23,7 @@ _Total delegated competitions: 78 (76 in Poland)_
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 1 |
 
 ### [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01)
-_Total delegated competitions: 28 (28 in Poland)_
+_Total delegated competitions: 29 (29 in Poland)_
 
 | Co-delegate | Count |
 | :--- | ---: |
@@ -31,7 +31,7 @@ _Total delegated competitions: 28 (28 in Poland)_
 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 19 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 13 |
 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 8 |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 4 |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 5 |
 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 3 |
 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 3 |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 2 |
@@ -107,7 +107,7 @@ _Total delegated competitions: 73 (69 in Poland)_
 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 1 |
 
 ### [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01)
-_Total delegated competitions: 114 (112 in Poland)_
+_Total delegated competitions: 115 (113 in Poland)_
 
 | Co-delegate | Count |
 | :--- | ---: |
@@ -117,7 +117,7 @@ _Total delegated competitions: 114 (112 in Poland)_
 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 15 |
 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 12 |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 9 |
-| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 4 |
+| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 5 |
 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 2 |
 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 2 |
 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 1 |

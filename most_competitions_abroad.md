@@ -1,17 +1,17 @@
 ## Most competitions abroad
 
-*Updated on 13 February 2026*
+*Updated on 16 February 2026*
 
 | Competitions | Person |
 | ---: | :--- |
-| 112 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 114 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 68 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 54 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 36 | [Igor Wojciech Wawrzynski](https://www.worldcubeassociation.org/persons/2019WAWR01) |
 | 35 | [Leon Jakub Wyrobek](https://www.worldcubeassociation.org/persons/2016WYRO01) |
 | 33 | [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) |
 | 32 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
-| 28 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
+| 29 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 26 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 25 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 21 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) |
@@ -22,9 +22,9 @@
 | 18 | [Wiktor Zegadło](https://www.worldcubeassociation.org/persons/2017ZEGA01) |
 | 18 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
 | 17 | [Magnus Miłosz Birecki](https://www.worldcubeassociation.org/persons/2022BIRE01) |
+| 16 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 16 | [Szymon Plesniak](https://www.worldcubeassociation.org/persons/2024PLES01) |
 | 15 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) |
-| 15 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 15 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 15 | [Naama Anbar](https://www.worldcubeassociation.org/persons/2023ANBA01) |
 | 14 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) |

@@ -1,6 +1,6 @@
 ## Polish competitors with most competitions in the current year
 
-*Updated on 16 February 2026*
+*Updated on 19 February 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -209,6 +209,7 @@
 | 1 | [Bartosz Miduch](https://www.worldcubeassociation.org/persons/2019MIDU01) |
 | 1 | [Szymon Myśliński](https://www.worldcubeassociation.org/persons/2019MYSL01) |
 | 1 | [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) |
+| 1 | [Michał Soboń](https://www.worldcubeassociation.org/persons/2019SOBO03) |
 | 1 | [Tobiasz Urbanowicz](https://www.worldcubeassociation.org/persons/2019URBA01) |
 | 1 | [Michał Woliński](https://www.worldcubeassociation.org/persons/2019WOLI01) |
 | 1 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) |

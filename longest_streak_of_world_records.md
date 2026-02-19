@@ -1,6 +1,6 @@
 ## Longest streak of world records of the same type in the given event
 
-*Updated on 16 February 2026*
+*Updated on 19 February 2026*
 
 | Records | Event | Type | Person | Started at | Ended at | Years |
 | ---: | :--- | :--- | :--- | :--- | :--- | ---: |
@@ -12,7 +12,7 @@
 | 4 | 2x2x2 Cube | Average | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) | [Polish Open 2006](https://www.worldcubeassociation.org/competitions/PolishOpen2006) | [Warsaw Cube Masters 2018](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2018) | 11.44 |
 | 4 | 3x3x3 Blindfolded | Average | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | [GLS Autumn Reda 2013](https://www.worldcubeassociation.org/competitions/GLSAutumnReda2013) |  | 12.28 |
 | 4 | 3x3x3 One-Handed | Average | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | [World Championship 2011](https://www.worldcubeassociation.org/competitions/WC2011) | [Masterpress Summer 2014](https://www.worldcubeassociation.org/competitions/MasterpressSummer2014) | 2.70 |
-| 4 | Pyraminx | Average | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [GLS Final 2017](https://www.worldcubeassociation.org/competitions/GLSFinal2017) |  | 8.19 |
+| 4 | Pyraminx | Average | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [GLS Final 2017](https://www.worldcubeassociation.org/competitions/GLSFinal2017) |  | 8.20 |
 | 3 | 4x4x4 Cube | Average | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Hvidovre NxN 2025](https://www.worldcubeassociation.org/competitions/HvidovreNxN2025) |  | 1.03 |
 | 3 | Clock | Average | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | [Mielec Cube Day 2016](https://www.worldcubeassociation.org/competitions/MielecCubeDay2016) | [Cube4fun Lublin on WEII 2024](https://www.worldcubeassociation.org/competitions/Cube4funLublinonWEII2024) | 7.86 |
 | 3 | Skewb | Average | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) | [SLS Gliwice 2014](https://www.worldcubeassociation.org/competitions/SLSGliwice2014) | [ŚLS Sosnowiec 2015](https://www.worldcubeassociation.org/competitions/SLSSosnowiec2015) | 1.40 |

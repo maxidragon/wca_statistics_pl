@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 16 February 2026*
+*Updated on 19 February 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -127,6 +127,7 @@
 | 5 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) |
 | 5 | [Oskar Matysik](https://www.worldcubeassociation.org/persons/2019MATY01) |
 | 5 | [Przemysław Kanarski](https://www.worldcubeassociation.org/persons/2019KANA04) |
+| 5 | [Michał Soboń](https://www.worldcubeassociation.org/persons/2019SOBO03) |
 | 5 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) |
 | 5 | [Ignacy Malinowski](https://www.worldcubeassociation.org/persons/2021MALI02) |
 | 5 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) |

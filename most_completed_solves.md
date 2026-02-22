@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 19 February 2026*
+*Updated on 22 February 2026*
 
 
 ### Competition
@@ -46,7 +46,7 @@
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | **9179** | 9709 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **8896** | 9227 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **8828** | 10125 |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **8515** | 8678 |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **8570** | 8734 |
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | **8189** | 8361 |
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | **7956** | 8230 |
 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | **7285** | 7418 |
@@ -69,7 +69,7 @@
 | 2016 | **52628** | 54673 |
 | 2021 | **41255** | 43588 |
 | 2013 | **36996** | 39173 |
-| 2026 | **25221** | 26848 |
+| 2026 | **25306** | 26934 |
 | 2020 | **23365** | 24538 |
 | 2012 | **17963** | 18907 |
 | 2011 | **13668** | 14495 |
@@ -82,19 +82,19 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **348614** | 355564 |
-| 2x2x2 Cube | **228218** | 234428 |
+| 3x3x3 Cube | **348644** | 355594 |
+| 2x2x2 Cube | **228232** | 234443 |
 | Pyraminx | **176656** | 181294 |
 | Skewb | **121224** | 124367 |
-| 4x4x4 Cube | **119974** | 124101 |
-| 3x3x3 One-Handed | **95460** | 98524 |
+| 4x4x4 Cube | **119989** | 124116 |
+| 3x3x3 One-Handed | **95465** | 98529 |
 | Clock | **71156** | 82386 |
 | Megaminx | **57969** | 60329 |
-| 5x5x5 Cube | **57942** | 60031 |
+| 5x5x5 Cube | **57957** | 60046 |
 | Square-1 | **48393** | 50328 |
-| 6x6x6 Cube | **13247** | 13755 |
+| 6x6x6 Cube | **13250** | 13758 |
 | 3x3x3 Blindfolded | **12263** | 31976 |
-| 7x7x7 Cube | **11276** | 11776 |
+| 7x7x7 Cube | **11279** | 11779 |
 | 3x3x3 Fewest Moves | **6593** | 8703 |
 | Magic | **4230** | 4674 |
 | 3x3x3 With Feet | **2450** | 2650 |

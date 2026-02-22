@@ -1,6 +1,6 @@
 ## Polish competitors with most competitions in the current year
 
-*Updated on 19 February 2026*
+*Updated on 22 February 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -39,6 +39,7 @@
 | 3 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) |
 | 3 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
 | 3 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) |
+| 3 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 3 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 3 | [Stanisław Szyszka](https://www.worldcubeassociation.org/persons/2016SZYS02) |
 | 3 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
@@ -73,7 +74,6 @@
 | 2 | [Mikołaj Molski](https://www.worldcubeassociation.org/persons/2015MOLS01) |
 | 2 | [Paweł Murawski](https://www.worldcubeassociation.org/persons/2015MURA05) |
 | 2 | [Michał Wachowiak](https://www.worldcubeassociation.org/persons/2015WACH01) |
-| 2 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 2 | [Robert Siniawski](https://www.worldcubeassociation.org/persons/2016SINI01) |
 | 2 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |
 | 2 | [Robert Cegiel](https://www.worldcubeassociation.org/persons/2017CEGI01) |
@@ -116,6 +116,7 @@
 | 2 | [Sebastian Kierznikiewicz](https://www.worldcubeassociation.org/persons/2023KIER02) |
 | 2 | [Victor Kiziukiewicz](https://www.worldcubeassociation.org/persons/2023KIZI01) |
 | 2 | [Dominik Podolak](https://www.worldcubeassociation.org/persons/2023PODO02) |
+| 2 | [Michal J. Sekulski](https://www.worldcubeassociation.org/persons/2023SEKU01) |
 | 2 | [Dominik Szajek](https://www.worldcubeassociation.org/persons/2023SZAJ01) |
 | 2 | [Marcin Wawiórko](https://www.worldcubeassociation.org/persons/2023WAWI01) |
 | 2 | [Konrad Wołowiec](https://www.worldcubeassociation.org/persons/2023WOLO01) |
@@ -145,6 +146,7 @@
 | 2 | [Patryk Pasternak](https://www.worldcubeassociation.org/persons/2025PAST04) |
 | 2 | [Stanisław Podsiadło](https://www.worldcubeassociation.org/persons/2025PODS01) |
 | 2 | [Cyprian Sobolewski](https://www.worldcubeassociation.org/persons/2025SOBO02) |
+| 2 | [Michal Strzeszniewski](https://www.worldcubeassociation.org/persons/2025STRZ02) |
 | 2 | [Michał Suski](https://www.worldcubeassociation.org/persons/2025SUSK01) |
 | 2 | [Paweł Szczur](https://www.worldcubeassociation.org/persons/2025SZCZ07) |
 | 2 | [Wiktor Szerzyna](https://www.worldcubeassociation.org/persons/2025SZER01) |
@@ -301,7 +303,6 @@
 | 1 | [Hubert Seelieb](https://www.worldcubeassociation.org/persons/2023SEEL02) |
 | 1 | [Mikołaj Seelieb](https://www.worldcubeassociation.org/persons/2023SEEL04) |
 | 1 | [Karol Seitz](https://www.worldcubeassociation.org/persons/2023SEIT02) |
-| 1 | [Michal J. Sekulski](https://www.worldcubeassociation.org/persons/2023SEKU01) |
 | 1 | [Natan Stefaniak](https://www.worldcubeassociation.org/persons/2023STEF11) |
 | 1 | [Paweł Stolarski](https://www.worldcubeassociation.org/persons/2023STOL04) |
 | 1 | [Aleksander Taszycki](https://www.worldcubeassociation.org/persons/2023TASZ01) |
@@ -444,7 +445,6 @@
 | 1 | [Oskar Sobusiak](https://www.worldcubeassociation.org/persons/2025SOBU01) |
 | 1 | [Jakub Sówka](https://www.worldcubeassociation.org/persons/2025SOWK01) |
 | 1 | [Kajetan Stefanek](https://www.worldcubeassociation.org/persons/2025STEF01) |
-| 1 | [Michal Strzeszniewski](https://www.worldcubeassociation.org/persons/2025STRZ02) |
 | 1 | [Fabian Strzelec](https://www.worldcubeassociation.org/persons/2025STRZ03) |
 | 1 | [Stanisław Stypczyński](https://www.worldcubeassociation.org/persons/2025STYP01) |
 | 1 | [Tomasz Suchowirski](https://www.worldcubeassociation.org/persons/2025SUCH02) |

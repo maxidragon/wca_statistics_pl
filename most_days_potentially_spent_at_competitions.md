@@ -1,6 +1,6 @@
 ## Most days potentially spent at competitions
 
-*Updated on 19 February 2026*
+*Updated on 22 February 2026*
 
 | Days | Person | Competitions |
 | ---: | :--- | ---: |
@@ -11,7 +11,7 @@
 | 415 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 207 |
 | 410 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 209 |
 | 381 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 218 |
-| 365 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 178 |
+| 368 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 179 |
 | 358 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 172 |
 | 352 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | 180 |
 | 328 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 181 |

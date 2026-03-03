@@ -1,7 +1,7 @@
 ## Most personal records by event
 
 *Note: Counts how many personal records (single or average) a competitor achieved in each event.*
-*Updated on 22 February 2026*
+*Updated on  3 March 2026*
 
 
 ### 3x3x3 Cube
@@ -29,8 +29,8 @@
 | 34 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 33 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 32 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) |
+| 32 | [Szymon Brągiel](https://www.worldcubeassociation.org/persons/2022BRAG03) |
 | 31 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
-| 31 | [Szymon Brągiel](https://www.worldcubeassociation.org/persons/2022BRAG03) |
 | 30 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 30 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) |
 
@@ -75,7 +75,7 @@
 | 37 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) |
 | 37 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 36 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
-| 35 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
+| 36 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 32 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) |
 | 32 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) |
 
@@ -98,7 +98,7 @@
 
 | PRs | Person |
 | ---: | :--- |
-| 32 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
+| 33 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 29 | [Stanisław Szyszka](https://www.worldcubeassociation.org/persons/2016SZYS02) |
 | 28 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) |
 | 28 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) |
@@ -180,9 +180,9 @@
 | 42 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 42 | [Joanna Kierznikiewicz](https://www.worldcubeassociation.org/persons/2022KIER01) |
 | 40 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) |
-| 39 | [Szymon Gabara](https://www.worldcubeassociation.org/persons/2023GABA01) |
+| 40 | [Szymon Gabara](https://www.worldcubeassociation.org/persons/2023GABA01) |
 | 38 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
-| 38 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) |
+| 38 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) |
 
 ### Skewb
 
@@ -206,12 +206,12 @@
 | 52 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
 | 36 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) |
 | 36 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) |
-| 34 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) |
+| 35 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) |
 | 33 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 33 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) |
 | 33 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 31 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
-| 30 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
+| 31 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
 | 29 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
 
 ### 4x4x4 Blindfolded

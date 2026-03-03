@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 22 February 2026*
+*Updated on  3 March 2026*
 
 | Countries | Person |
 | ---: | :--- |
@@ -35,37 +35,38 @@
 | 8 | [Kamil Michalak](https://www.worldcubeassociation.org/persons/2016MICH01) |
 | 8 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |
 | 8 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
-| 8 | [Rafał Studnicki](https://www.worldcubeassociation.org/persons/2005STUD01) |
 | 8 | [Wojciech Barciaga](https://www.worldcubeassociation.org/persons/2013BARC03) |
-| 7 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
+| 8 | [Rafał Studnicki](https://www.worldcubeassociation.org/persons/2005STUD01) |
+| 7 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 7 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) |
+| 7 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 7 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) |
 | 7 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
-| 7 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 7 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) |
 | 7 | [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) |
-| 6 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) |
-| 6 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) |
+| 6 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) |
 | 6 | [Kamil Zieliński](https://www.worldcubeassociation.org/persons/2008ZIEL01) |
+| 6 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) |
 | 6 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
 | 6 | [Stanisław Dąbrowski](https://www.worldcubeassociation.org/persons/2016DABR03) |
-| 6 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) |
 | 6 | [Michał Kaczmarek](https://www.worldcubeassociation.org/persons/2021KACZ01) |
+| 6 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) |
+| 6 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) |
 | 6 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) |
 | 6 | [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) |
-| 6 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) |
 | 6 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) |
-| 5 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) |
+| 6 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
 | 5 | [Michał Soboń](https://www.worldcubeassociation.org/persons/2019SOBO03) |
-| 5 | [Marek Pepke](https://www.worldcubeassociation.org/persons/2008PEPK01) |
-| 5 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) |
 | 5 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) |
+| 5 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) |
+| 5 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) |
 | 5 | [Rafał Guzewicz](https://www.worldcubeassociation.org/persons/2006GUZE01) |
 | 5 | [Piotr Frankowski](https://www.worldcubeassociation.org/persons/2006FRAN01) |
 | 5 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
 | 5 | [Ignacy Malinowski](https://www.worldcubeassociation.org/persons/2021MALI02) |
 | 5 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) |
 | 5 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) |
+| 5 | [Marek Pepke](https://www.worldcubeassociation.org/persons/2008PEPK01) |
 | 5 | [Przemysław Kanarski](https://www.worldcubeassociation.org/persons/2019KANA04) |
 | 5 | [Marek Wójtowicz](https://www.worldcubeassociation.org/persons/2008WOJT01) |
 | 5 | [Jarosław Chodyniecki](https://www.worldcubeassociation.org/persons/2018CHOD01) |
@@ -78,7 +79,6 @@
 | 5 | [Joanna Hołdakowska](https://www.worldcubeassociation.org/persons/2016HOLD04) |
 | 5 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
 | 5 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) |
-| 5 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
 | 5 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) |
 | 5 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) |
 

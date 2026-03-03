@@ -1,7 +1,7 @@
 ## Competed in most voivodeships in Poland
 
 *Note: Voivodeships are inferred from competition coordinates. Approximate bounding box classification.*
-*Updated on 22 February 2026*
+*Updated on  3 March 2026*
 
 | Person | Completed | Missed | Missed Voivodeships | Completed At |
 | :--- | ---: | ---: | :--- | :--- |
@@ -27,6 +27,7 @@
 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 14 | 2 | kujawsko-pomorskie, lubuskie |  |
 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 14 | 2 | lubuskie, podlaskie |  |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 14 | 2 | lubuskie, warmińsko-mazurskie |  |
+| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 14 | 2 | lubuskie, podlaskie |  |
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 14 | 2 | lubuskie, podkarpackie |  |
 | [Patrycja Michalska](https://www.worldcubeassociation.org/persons/2013MICH02) | 14 | 2 | lubuskie, świętokrzyskie |  |
 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 14 | 2 | lubelskie, świętokrzyskie |  |
@@ -52,7 +53,6 @@
 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | 13 | 3 | lubuskie, świętokrzyskie, zachodniopomorskie |  |
 | [Mateusz Cichoracki](https://www.worldcubeassociation.org/persons/2011CICH01) | 13 | 3 | lubuskie, warmińsko-mazurskie, zachodniopomorskie |  |
 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | 13 | 3 | lubuskie, podkarpackie, świętokrzyskie |  |
-| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 13 | 3 | lubuskie, podlaskie, zachodniopomorskie |  |
 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | 13 | 3 | lubuskie, podlaskie, świętokrzyskie |  |
 | [Piotr Melczewski](https://www.worldcubeassociation.org/persons/2019MELC02) | 13 | 3 | kujawsko-pomorskie, lubuskie, podlaskie |  |
 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | 13 | 3 | dolnośląskie, lubuskie, zachodniopomorskie |  |

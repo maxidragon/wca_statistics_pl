@@ -1,6 +1,6 @@
 ## National records count by person
 
-*Updated on 22 February 2026*
+*Updated on  3 March 2026*
 
 | WRs | Person |
 | ---: | :--- |
@@ -24,9 +24,9 @@
 | 10 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 9 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
 | 9 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
+| 9 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 9 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) |
 | 9 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) |
-| 8 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 7 | [Kamil Fiedoruk](https://www.worldcubeassociation.org/persons/2012FIED01) |
 | 7 | [Marek Kurcyus](https://www.worldcubeassociation.org/persons/2005KURC01) |
 | 7 | [Rafał Guzewicz](https://www.worldcubeassociation.org/persons/2006GUZE01) |
@@ -54,13 +54,13 @@
 | 4 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
 | 4 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) |
 | 3 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) |
+| 3 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) |
 | 3 | [Jakub Zawiślak](https://www.worldcubeassociation.org/persons/2006ZAWI02) |
 | 3 | [Kacper Pawlaczyk](https://www.worldcubeassociation.org/persons/2005PAWL01) |
 | 3 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 3 | [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) |
 | 3 | [Michał Robaczyk](https://www.worldcubeassociation.org/persons/2006ROBA01) |
 | 3 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) |
-| 2 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) |
 | 2 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) |
 | 2 | [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) |
 | 2 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) |

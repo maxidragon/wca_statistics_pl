@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on  7 March 2026*
+*Updated on 10 March 2026*
 
 
 ### 3x3x3 Cube
@@ -148,11 +148,11 @@
 | 55.99 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) |
 | 58.78 | [Krzysztof Boguszewski](https://www.worldcubeassociation.org/persons/2019BOGU01) |
 | 1:05.53 | [Wojciech Piórczyński](https://www.worldcubeassociation.org/persons/2021PIOR01) |
+| 1:14.12 | [Dawid Kamiński](https://www.worldcubeassociation.org/persons/2026KAMI01) |
 | 1:16.74 | [Szczepan Rozwadowski](https://www.worldcubeassociation.org/persons/2025ROZW02) |
 | 1:17.08 | [Rafał Rowiński](https://www.worldcubeassociation.org/persons/2024ROWI03) |
 | 1:17.18 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 1:17.88 | [Grzegorz Chudzik](https://www.worldcubeassociation.org/persons/2018CHUD02) |
-| 1:19.38 | [Krzysztof Natusiewicz](https://www.worldcubeassociation.org/persons/2011NATU01) |
 
 ### Pyraminx
 

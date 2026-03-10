@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on  7 March 2026*
+*Updated on 10 March 2026*
 
 
 ### 3x3x3 Cube
@@ -31,8 +31,8 @@
 | 3.54 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
 | 3.60 | [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) |
 | 3.65 | [Miłosz Jaśkiewicz](https://www.worldcubeassociation.org/persons/2022JASK01) |
-| 3.68 | [Ksawier Kozak](https://www.worldcubeassociation.org/persons/2023KOZA02) |
 | 3.68 | [Matviy Berestovskyy](https://www.worldcubeassociation.org/persons/2022BERE02) |
+| 3.68 | [Ksawier Kozak](https://www.worldcubeassociation.org/persons/2023KOZA02) |
 
 ### 4x4x4 Cube
 
@@ -149,7 +149,7 @@
 | 1:15.14 | [Igor Kamiński](https://www.worldcubeassociation.org/persons/2023KAMI04) |
 | 1:15.80 | [Grzegorz Chudzik](https://www.worldcubeassociation.org/persons/2018CHUD02) |
 | 1:16.99 | [Krzysztof Natusiewicz](https://www.worldcubeassociation.org/persons/2011NATU01) |
-| 1:18.01 | [Kajetan Stefanek](https://www.worldcubeassociation.org/persons/2025STEF01) |
+| 1:17.31 | [Krzysztof Buganiuk](https://www.worldcubeassociation.org/persons/2026BUGA01) |
 
 ### Pyraminx
 

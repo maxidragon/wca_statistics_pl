@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 10 March 2026*
+*Updated on 13 March 2026*
 
 
 ### 3x3x3 Cube
@@ -29,10 +29,10 @@
 | 58 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | [Brno Open 2019](https://www.worldcubeassociation.org/competitions/BrnoOpen2019) |
 | 53 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | [Kārķi Open 2024](https://www.worldcubeassociation.org/competitions/KarkiOpen2024) |
 | 43 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | [Cube Factory League Jeżów 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueJezow2025) |
+| 41 | [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) | [WLS Marzec 2026](https://www.worldcubeassociation.org/competitions/WLSMarzec2026) |
 | 39 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | [Industrial Cube 2012](https://www.worldcubeassociation.org/competitions/IndustrialCube2012) |
 | 35 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | [Estonian Open 2017](https://www.worldcubeassociation.org/competitions/EstonianOpen2017) |
 | 34 | [Mateusz Otto](https://www.worldcubeassociation.org/persons/2022OTTO01) | [Olsztyn Squared 2024](https://www.worldcubeassociation.org/competitions/OlsztynSquared2024) |
-| 33 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | [Wrocław Cubing Holiday 2023](https://www.worldcubeassociation.org/competitions/WroclawCubingHoliday2023) |
 
 ### 4x4x4 Cube
 

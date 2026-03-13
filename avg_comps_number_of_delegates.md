@@ -1,7 +1,7 @@
 ## Average number of competitions of listed delegates at Polish competitions by number of delegates
 
 *Note: Competitions are grouped by how many delegates they had. Each table shows the competitions with the highest average number of competitions that listed delegates had participated in up to and including the one they delegated.*
-*Updated on 10 March 2026*
+*Updated on 13 March 2026*
 
 
 ### 9 Delegates
@@ -64,6 +64,7 @@
 | [GLS III 2025](https://www.worldcubeassociation.org/competitions/GLSIII2025) | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 221.00 |
 | [GLS II 2025](https://www.worldcubeassociation.org/competitions/GLSII2025) | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 214.00 |
 | [Cool Down Szczecin 2025](https://www.worldcubeassociation.org/competitions/CoolDownSzczecin2025) | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01), [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 212.67 |
+| [WLS Marzec 2026](https://www.worldcubeassociation.org/competitions/WLSMarzec2026) | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01), [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 195.33 |
 | [Chorzów Open 2024](https://www.worldcubeassociation.org/competitions/ChorzowOpen2024) | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01), [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 193.67 |
 | [Piła Open 2025](https://www.worldcubeassociation.org/competitions/PilaOpen2025) | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01), [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 193.00 |
 | [Szansa Cubing Open Warsaw 2024](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2024) | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01), [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 182.33 |
@@ -74,7 +75,6 @@
 | [Szansa Cubing Open Warsaw 2023](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2023) | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01), [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 159.00 |
 | [Energy Cube Tomaszów 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2024) | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01), [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01), [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 158.67 |
 | [Energy Cube Koło 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeKolo2023) | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01), [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 157.67 |
-| [Energy Cube Konin 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeKonin2024) | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01), [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01), [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 147.67 |
 
 ### 2 Delegates
 

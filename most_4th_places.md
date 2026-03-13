@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 10 March 2026*
+*Updated on 13 March 2026*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -68,10 +68,10 @@
 | 24 | [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) |
 | 24 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
 | 24 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) |
+| 23 | [Wojciech Piórczyński](https://www.worldcubeassociation.org/persons/2021PIOR01) |
 | 23 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 23 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) |
 | 22 | [Piotr Frankowski](https://www.worldcubeassociation.org/persons/2006FRAN01) |
-| 22 | [Wojciech Piórczyński](https://www.worldcubeassociation.org/persons/2021PIOR01) |
 | 22 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) |
 | 21 | [Michał Robaczyk](https://www.worldcubeassociation.org/persons/2006ROBA01) |
 | 21 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) |

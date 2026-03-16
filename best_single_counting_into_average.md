@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 13 March 2026*
+*Updated on 16 March 2026*
 
 
 ### 3x3x3 Cube
@@ -102,11 +102,11 @@
 | 0.97 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | [Cube4fun in Gorlice 2023](https://www.worldcubeassociation.org/competitions/Cube4funinGorlice2023/results/by_person#2015GORN01) |
 | 1.02 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | [Warm-Up Warsaw 2025](https://www.worldcubeassociation.org/competitions/WarmUpWarsaw2025/results/by_person#2020DOZA01) |
 | 1.04 | [Adam Jagła](https://www.worldcubeassociation.org/persons/2017JAGL01) | [Santa Claus Cube Race 2019](https://www.worldcubeassociation.org/competitions/SantaClausCubeRace2019/results/by_person#2017JAGL01) |
+| 1.05 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | [Cube Factory League Rogów 2026](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueRogow2026/results/by_person#2022URBA02) |
 | 1.10 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | [SST Kielce 2021](https://www.worldcubeassociation.org/competitions/SSTKielce2021/results/by_person#2013OLSZ02) |
 | 1.11 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | [Cube4fun Bełżyce 2023](https://www.worldcubeassociation.org/competitions/Cube4funBelzyceMultiEvents2023/results/by_person#2013WARY01) |
 | 1.11 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/by_person#2018HIBS01) |
 | 1.12 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | [Silesian Cubing Chorzów 2025](https://www.worldcubeassociation.org/competitions/SilesianCubingChorzow2025/results/by_person#2013OLSZ02) |
-| 1.12 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | [Cube4fun Tylmanowa Autumn 2025](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaAutumn2025/results/by_person#2013WARY01) |
 
 ### Clock
 
@@ -129,6 +129,7 @@
 | ---: | :--- | :--- |
 | 0.87 | [Szymon Brągiel](https://www.worldcubeassociation.org/persons/2022BRAG03) | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/by_person#2022BRAG03) |
 | 0.88 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | [Cube Factory Brzeziny 2024](https://www.worldcubeassociation.org/competitions/CubeFactoryBrzeziny2024/results/by_person#2022STOJ03) |
+| 0.96 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) | [Cube Factory League Rogów 2026](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueRogow2026/results/by_person#2021GORE01) |
 | 0.97 | [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) | [Szansa Cubing Open Warsaw 2024](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2024/results/by_person#2021MAJC01) |
 | 0.98 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/by_person#2022SAMS03) |
 | 0.99 | [Szymon Brągiel](https://www.worldcubeassociation.org/persons/2022BRAG03) | [Cube4fun in Bełchatów 2025](https://www.worldcubeassociation.org/competitions/Cube4funinBelchatow2025/results/by_person#2022BRAG03) |
@@ -136,7 +137,6 @@
 | 1.02 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/by_person#2018HANU02) |
 | 1.05 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | [Silesian Minx Fest 2025](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2025/results/by_person#2021PIET01) |
 | 1.09 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [GLS I 2024](https://www.worldcubeassociation.org/competitions/GLSI2024/results/by_person#2013KRAS02) |
-| 1.09 | [Cezary Mach](https://www.worldcubeassociation.org/persons/2018MACH04) | [Gdańska Liga Speedcubingu I 2025](https://www.worldcubeassociation.org/competitions/GdanskaLigaSpeedcubinguI2025/results/by_person#2018MACH04) |
 
 ### Square-1
 

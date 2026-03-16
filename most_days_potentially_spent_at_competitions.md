@@ -1,23 +1,23 @@
 ## Most days potentially spent at competitions
 
-*Updated on 13 March 2026*
+*Updated on 16 March 2026*
 
 | Days | Person | Competitions |
 | ---: | :--- | ---: |
-| 701 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 379 |
-| 605 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 346 |
-| 494 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 251 |
-| 485 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 257 |
-| 418 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 209 |
+| 703 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 380 |
+| 607 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 347 |
+| 496 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 252 |
+| 487 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 258 |
+| 420 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 210 |
 | 412 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 210 |
 | 382 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 219 |
-| 374 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 182 |
-| 362 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 174 |
+| 376 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 183 |
+| 364 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 175 |
 | 356 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | 182 |
 | 329 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | 192 |
 | 328 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 181 |
 | 317 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | 159 |
-| 303 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 152 |
+| 305 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 153 |
 | 291 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 142 |
 | 281 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 137 |
 | 272 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 139 |
@@ -28,23 +28,23 @@
 | 247 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | 145 |
 | 245 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 135 |
 | 236 | [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) | 125 |
-| 233 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 105 |
+| 235 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 106 |
+| 229 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 106 |
 | 229 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) | 127 |
-| 227 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 105 |
 | 226 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 106 |
 | 223 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 109 |
 | 223 | [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) | 118 |
+| 217 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 103 |
 | 217 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | 111 |
-| 215 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 102 |
 | 214 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | 124 |
 | 214 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 112 |
 | 213 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 114 |
-| 208 | [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) | 112 |
+| 210 | [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) | 113 |
 | 208 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 109 |
 | 208 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 107 |
+| 206 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | 97 |
 | 205 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 118 |
 | 205 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 121 |
-| 204 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | 96 |
 | 203 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 110 |
 
 

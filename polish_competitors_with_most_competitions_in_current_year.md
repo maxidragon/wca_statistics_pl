@@ -1,6 +1,6 @@
 ## Polish competitors with most competitions in the current year
 
-*Updated on 16 March 2026*
+*Updated on 19 March 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -39,6 +39,7 @@
 | 5 | [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) |
 | 5 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
 | 5 | [Joanna Hołdakowska](https://www.worldcubeassociation.org/persons/2016HOLD04) |
+| 5 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 5 | [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) |
 | 5 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) |
 | 5 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) |
@@ -62,7 +63,6 @@
 | 4 | [Alan Żeromski](https://www.worldcubeassociation.org/persons/2018ZERO01) |
 | 4 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) |
 | 4 | [Piotr Melczewski](https://www.worldcubeassociation.org/persons/2019MELC02) |
-| 4 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 4 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) |
 | 4 | [Kinga Bednarska](https://www.worldcubeassociation.org/persons/2021BEDN01) |
 | 4 | [Marcin Dołoto](https://www.worldcubeassociation.org/persons/2021DOLO01) |
@@ -114,6 +114,7 @@
 | 3 | [Kajtek Kwiatkowski](https://www.worldcubeassociation.org/persons/2023KWIA01) |
 | 3 | [Ignacy Makowski](https://www.worldcubeassociation.org/persons/2023MAKO02) |
 | 3 | [Dominik Podolak](https://www.worldcubeassociation.org/persons/2023PODO02) |
+| 3 | [Michal J. Sekulski](https://www.worldcubeassociation.org/persons/2023SEKU01) |
 | 3 | [Paweł Stolarski](https://www.worldcubeassociation.org/persons/2023STOL04) |
 | 3 | [Dominik Szajek](https://www.worldcubeassociation.org/persons/2023SZAJ01) |
 | 3 | [Marcin Wawiórko](https://www.worldcubeassociation.org/persons/2023WAWI01) |
@@ -221,7 +222,6 @@
 | 2 | [Anna Łebkowska](https://www.worldcubeassociation.org/persons/2023LEBK04) |
 | 2 | [Julian Pawłowski](https://www.worldcubeassociation.org/persons/2023PAWL04) |
 | 2 | [Michał Piesiak](https://www.worldcubeassociation.org/persons/2023PIES01) |
-| 2 | [Michal J. Sekulski](https://www.worldcubeassociation.org/persons/2023SEKU01) |
 | 2 | [Konrad Wołowiec](https://www.worldcubeassociation.org/persons/2023WOLO01) |
 | 2 | [Wojciech Adamczyk](https://www.worldcubeassociation.org/persons/2024ADAM19) |
 | 2 | [Adam Bednarek](https://www.worldcubeassociation.org/persons/2024BEDN03) |
@@ -390,6 +390,7 @@
 | 1 | [Sebastian Nitka](https://www.worldcubeassociation.org/persons/2022NITK01) |
 | 1 | [Filip Nowak](https://www.worldcubeassociation.org/persons/2022NOWA02) |
 | 1 | [Dominika Obara](https://www.worldcubeassociation.org/persons/2022OBAR01) |
+| 1 | [Oskar Obeid](https://www.worldcubeassociation.org/persons/2022OBEI01) |
 | 1 | [Igor Osiadacz](https://www.worldcubeassociation.org/persons/2022OSIA01) |
 | 1 | [Mateusz Otto](https://www.worldcubeassociation.org/persons/2022OTTO01) |
 | 1 | [Daniel Przymus](https://www.worldcubeassociation.org/persons/2022PRZY01) |

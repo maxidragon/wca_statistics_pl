@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 16 March 2026*
+*Updated on 19 March 2026*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -18,8 +18,8 @@
 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) | **12** | 14 | 10 | 36 |
 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) | **12** | 8 | 1 | 21 |
 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | **12** | 4 | 8 | 24 |
+| [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | **12** | 4 | 3 | 19 |
 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | **11** | 4 | 4 | 19 |
-| [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | **11** | 4 | 3 | 18 |
 | [Rafał Guzewicz](https://www.worldcubeassociation.org/persons/2006GUZE01) | **11** | 3 | 0 | 14 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **10** | 11 | 11 | 32 |
 | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) | **10** | 3 | 5 | 18 |
@@ -101,8 +101,8 @@
 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) | **1** | 1 | 0 | 2 |
 | [Szymon Ruksza](https://www.worldcubeassociation.org/persons/2013RUKS01) | **1** | 1 | 0 | 2 |
 | [Tomasz Kiedrowicz](https://www.worldcubeassociation.org/persons/2006KIED01) | **1** | 1 | 0 | 2 |
+| [Michal J. Sekulski](https://www.worldcubeassociation.org/persons/2023SEKU01) | **1** | 0 | 3 | 4 |
 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) | **1** | 0 | 2 | 3 |
-| [Michal J. Sekulski](https://www.worldcubeassociation.org/persons/2023SEKU01) | **1** | 0 | 2 | 3 |
 | [Radosław Michałek](https://www.worldcubeassociation.org/persons/2021MICH03) | **1** | 0 | 2 | 3 |
 | [Grzegorz Prusak](https://www.worldcubeassociation.org/persons/2006PRUS01) | **1** | 0 | 1 | 2 |
 

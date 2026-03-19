@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on 16 March 2026*
+*Updated on 19 March 2026*
 
 
 ### 3x3x3 Cube
@@ -344,7 +344,7 @@
 
 | Moving average | Person |
 | ---: | :--- |
-| 21.74 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
+| 21.68 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 22.14 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
 | 23.24 | [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) |
 | 23.83 | [Marcin Chmielewski](https://www.worldcubeassociation.org/persons/2023CHMI01) |

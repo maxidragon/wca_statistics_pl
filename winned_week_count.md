@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 16 March 2026*
+*Updated on 19 March 2026*
 
 
 ### 3x3x3 Cube
@@ -124,7 +124,7 @@
 
 | Person | Winned weeks |
 | :--- | ---: |
-| [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 19 |
+| [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 20 |
 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 13 |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 8 |
 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) | 6 |

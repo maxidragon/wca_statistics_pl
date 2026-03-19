@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals at Polish competitions are taken into account.*
-*Updated on 16 March 2026*
+*Updated on 19 March 2026*
 
 
 ### 3x3x3 Cube
@@ -99,15 +99,15 @@
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
 | [Stanisław Szyszka](https://www.worldcubeassociation.org/persons/2016SZYS02) | **17.71** | 20.53 | [BrizZon Side Open II 2026](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenII2026/results/all#e333bf_f) | 4 |
+| [Stanisław Szyszka](https://www.worldcubeassociation.org/persons/2016SZYS02) | **17.71** | 20.53 | [BrizZon Side Open II 2026](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenII2026/results/all#e333bf_f) | 4 |
+| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **18.19** | DNF | [BrizZon Side Open II 2026](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenII2026/results/all#e333bf_f) | 5 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **18.19** | DNF | [BrizZon Side Open II 2026](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenII2026/results/all#e333bf_f) | 5 |
 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | **18.30** | DNF | [WIW at Opole 2026](https://www.worldcubeassociation.org/competitions/WIWatOpole2026/results/all#e333bf_f) | 4 |
+| [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | **18.30** | DNF | [WIW at Opole 2026](https://www.worldcubeassociation.org/competitions/WIWatOpole2026/results/all#e333bf_f) | 4 |
+| [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | **18.74** | DNF | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e333bf_f) | 4 |
 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | **18.74** | DNF | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e333bf_f) | 4 |
 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | **18.75** | DNF | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e333bf_f) | 5 |
-| [Tomasz Cepil](https://www.worldcubeassociation.org/persons/2018CEPI01) | **19.11** | DNF | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e333bf_f) | 6 |
-| [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | **19.28** | DNF | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e333bf_f) | 7 |
-| [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | **19.45** | DNF | [BrizZon Side Open 2026](https://www.worldcubeassociation.org/competitions/BrizZonSideOpen2026/results/all#e333bf_f) | 4 |
-| [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | **19.54** | DNF | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026/results/all#e333bf_f) | 4 |
-| [Dominik Kobinski](https://www.worldcubeassociation.org/persons/2019KOBI01) | **19.64** | DNF | [Brizzon Sylwester Open 2025](https://www.worldcubeassociation.org/competitions/BrizzonSylwesterOpen2025/results/all#e333bf_f) | 4 |
+| [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | **18.75** | DNF | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e333bf_f) | 5 |
 
 ### 3x3x3 Fewest Moves
 

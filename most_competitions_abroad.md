@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 19 March 2026*
+*Updated on 22 March 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -38,9 +38,9 @@
 | 13 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) |
 | 13 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) |
 | 13 | [Marcel Borkowski](https://www.worldcubeassociation.org/persons/2023BORK01) |
+| 13 | [Marcin Karczmarz](https://www.worldcubeassociation.org/persons/2023KARC01) |
 | 12 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) |
 | 12 | [Nathaniel Bigaj](https://www.worldcubeassociation.org/persons/2019BIGA01) |
-| 12 | [Marcin Karczmarz](https://www.worldcubeassociation.org/persons/2023KARC01) |
 | 11 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 11 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) |
 | 11 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) |

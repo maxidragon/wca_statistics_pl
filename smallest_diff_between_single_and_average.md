@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 22 March 2026*
+*Updated on 25 March 2026*
 
 
 ### 3x3x3 Cube
@@ -39,6 +39,7 @@
 | Diff | Person | Single | Average | Results |
 | ---: | :--- | ---: | ---: | :--- |
 | 0.11 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 34.94 | 35.05 | [Cube4fun Pawłowice 2022](https://www.worldcubeassociation.org/competitions/Cube4funPawlowice2022/results/by_person#2013OWCZ01) |
+| 0.13 | [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) | 31.19 | 31.32 | [Ružomberok Open 2026](https://www.worldcubeassociation.org/competitions/RuzomberokOpen2026/results/by_person#2018WASI02) |
 | 0.16 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 32.40 | 32.56 | [Energy Cube Białołęka 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2024/results/by_person#2014ZAKR01) |
 | 0.18 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 39.90 | 40.08 | [ŚLS Zawiercie 2017](https://www.worldcubeassociation.org/competitions/SLSZawiercie2017/results/by_person#2013OWCZ01) |
 | 0.18 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | 42.26 | 42.44 | [Byczy Cube Race 2017](https://www.worldcubeassociation.org/competitions/ByczyCubeRace2017/results/by_person#2013TOKA01) |
@@ -47,7 +48,6 @@
 | 0.24 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 31.01 | 31.25 | [GLS Final 2024](https://www.worldcubeassociation.org/competitions/GdanskaLigaSpeedcubinguFinal2024/results/by_person#2022STOJ03) |
 | 0.24 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | 44.28 | 44.52 | [PST Nowa Słupia 2019](https://www.worldcubeassociation.org/competitions/PSTNowaSlupia2019/results/by_person#2013WARY01) |
 | 0.25 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 35.81 | 36.06 | [Żory Open 2024](https://www.worldcubeassociation.org/competitions/ZoryOpen2024/results/by_person#2018HANU02) |
-| 0.25 | [Mateusz Wich](https://www.worldcubeassociation.org/persons/2017WICH01) | 47.45 | 47.70 | [Dragon Cubing I 2024](https://www.worldcubeassociation.org/competitions/DragonCubingI2024/results/by_person#2017WICH01) |
 
 ### 5x5x5 Cube
 

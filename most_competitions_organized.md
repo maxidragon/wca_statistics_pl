@@ -20,7 +20,7 @@
 | 23 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) |
 | 21 | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) |
 | 20 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
-| 18 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 19 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 17 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 17 | [Piotr Gabara](https://www.worldcubeassociation.org/persons/2024GABA02) |
 | 16 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) |

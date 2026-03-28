@@ -1,7 +1,7 @@
 ## Most consecutive weeks with competitions
 
 *Note: Only includes people from Poland. Weeks are counted as ISO weeks (Monday-Sunday). Multiple competitions in the same week count as one.*
-*Updated on 25 March 2026*
+*Updated on 28 March 2026*
 
 | Count | Person | Start comp | End comp |
 | ---: | :--- | :--- | :--- |
@@ -21,10 +21,10 @@
 | 8 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | [Try Not To DNF Rzeszów 2023](https://www.worldcubeassociation.org/competitions/TryNotToDNFRzeszow2023) | [Big 'n Blind Szczecinek 2023](https://www.worldcubeassociation.org/competitions/BignBlindSzczecinek2023) |
 | 7 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | [Dragon Cubing X 2025](https://www.worldcubeassociation.org/competitions/DragonCubingX2025) | [Polish Open 2025](https://www.worldcubeassociation.org/competitions/PolishOpen2025) |
 | 7 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | [Project Kedzierzyn-Kozle 2021](https://www.worldcubeassociation.org/competitions/ProjectKedzierzynKozle2021) | [Lubelska Liga Speedcubingu IV Świdnik 2021](https://www.worldcubeassociation.org/competitions/LLSIVSwidnik2021) |
+| 7 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | [Kielce Open 2026](https://www.worldcubeassociation.org/competitions/KielceOpen2026) | [Środowy Kostkowy Wieczór w Rzeszowie 2026](https://www.worldcubeassociation.org/competitions/SrodowyWieczorwRzeszowie2026) |
 | 7 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) | [Kostelec Nonstop Cubing 2023](https://www.worldcubeassociation.org/competitions/KostelecNonstopCubing2023) | [Carnikavas Pavasaris 2023](https://www.worldcubeassociation.org/competitions/CarnikavasPavasaris2023) |
 | 7 | [Anonymous](https://www.worldcubeassociation.org/persons/2022ANON03) | [Cube4fun Wisła Masters 2023](https://www.worldcubeassociation.org/competitions/Cube4funWislaMasters2023) | [Warsaw Cube Masters 2023](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2023) |
 | 6 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | [Clock Masters Opole 2024](https://www.worldcubeassociation.org/competitions/ClockMastersOpole2024) | [Energy Cube Konin 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeKonin2024) |
-| 6 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | [Kielce Open 2026](https://www.worldcubeassociation.org/competitions/KielceOpen2026) | [GLS Gdańsk II 2026](https://www.worldcubeassociation.org/competitions/GLSGdanskII2026) |
 | 6 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | [Poznań MBLD Cup 2023](https://www.worldcubeassociation.org/competitions/PoznanMBLDCup2023) | [Cube4fun Double Weekend Pilzno 2023](https://www.worldcubeassociation.org/competitions/Cube4funDWPilzno2023) |
 | 6 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | [Cube4fun Double Weekend Świdnik 2023](https://www.worldcubeassociation.org/competitions/Cube4funDWSwidnik2023) | [GLS II 2023](https://www.worldcubeassociation.org/competitions/GLSII2023) |
 | 6 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | [Ostróda Open 2024](https://www.worldcubeassociation.org/competitions/OstrodaOpen2024) | [Toruń Cubing Summer 2024](https://www.worldcubeassociation.org/competitions/TorunCubingSummer2024) |

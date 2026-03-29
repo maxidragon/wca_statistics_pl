@@ -2,7 +2,7 @@
 
 A tool simplifying creation and formatting of various cubing-related statistics.
 Travis CI automatically builds and pushes the statistics to GitHub Pages
-and they are accessible [here](https://jonatanklosko.github.io/wca_statistics).
+and they are accessible [here](https://jonatanklosko.github.io/wca_statistics). 
 
 ## Getting started
 

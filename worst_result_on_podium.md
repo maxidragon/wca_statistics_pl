@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on 28 March 2026*
+*Updated on 31 March 2026*
 
 
 ### 3x3x3 Cube
@@ -241,8 +241,8 @@
 | [Kamil Pomietło](https://www.worldcubeassociation.org/persons/2013POMI01) | **29:12.00** | DNF | [ŚLS Zawiercie 2017](https://www.worldcubeassociation.org/competitions/SLSZawiercie2017/results/podiums#e555bf) | 2 |
 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **28:19.00** | DNF | [Fyris Side 'n Blind 2022](https://www.worldcubeassociation.org/competitions/FyrisSidenBlind2022/results/podiums#e555bf) | 2 |
 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **28:00.00** | DNF | [Twixmas Jönköping 2022](https://www.worldcubeassociation.org/competitions/TwixmasJonkoping2022/results/podiums#e555bf) | 3 |
+| [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | **26:50.00** | DNF | [Cicha Sobota w Łodzi 2026](https://www.worldcubeassociation.org/competitions/CichaSobotawLodzi2026/results/podiums#e555bf) | 3 |
 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | **26:40.00** | DNF | [Polish Open 2013](https://www.worldcubeassociation.org/competitions/PolishOpen2013/results/podiums#e555bf) | 2 |
-| [Bartosz Krzysztoszek](https://www.worldcubeassociation.org/persons/2017KRZY01) | **25:12.00** | DNF | [Clock Masters Opole 2024](https://www.worldcubeassociation.org/competitions/ClockMastersOpole2024/results/podiums#e555bf) | 3 |
 
 ### 3x3x3 Multi-Blind
 

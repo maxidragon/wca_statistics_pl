@@ -1,7 +1,7 @@
 ## Competitions with the least number of no-shows in Poland
 
 *Note: This statistic shows the competitions in Poland with the least number of no-shows.*
-*Updated on 28 March 2026*
+*Updated on 31 March 2026*
 
 | Competition | Total registered | Total competed | No-shows |
 | :--- | ---: | ---: | ---: |

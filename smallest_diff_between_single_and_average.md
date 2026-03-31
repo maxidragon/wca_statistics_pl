@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 28 March 2026*
+*Updated on 31 March 2026*
 
 
 ### 3x3x3 Cube
@@ -147,12 +147,12 @@
 | 0.04 | [Mikołaj Salamon](https://www.worldcubeassociation.org/persons/2016SALA18) | 21.21 | 21.25 | [III Masovian Open 2019](https://www.worldcubeassociation.org/competitions/IIIMasovianOpen2019/results/by_person#2016SALA18) |
 | 0.05 | [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) | 1.94 | 1.99 | [Energy Cube Tomaszów 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2025/results/by_person#2023ROMA10) |
 | 0.05 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | 2.07 | 2.12 | [Szansa Cubing Open Warsaw 2025](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2025/results/by_person#2018HIBS01) |
+| 0.05 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 2.60 | 2.65 | [Málaga Open 2026](https://www.worldcubeassociation.org/competitions/MalagaOpen2026/results/by_person#2018HANU02) |
 | 0.05 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | 3.03 | 3.08 | [LLS VI 2018](https://www.worldcubeassociation.org/competitions/LLSVI2018/results/by_person#2013WARY01) |
 | 0.05 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | 4.04 | 4.09 | [Cube4fun in Jarosław 2023](https://www.worldcubeassociation.org/competitions/Cube4funinJaroslaw2023/results/by_person#2013TOKA01) |
 | 0.06 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | 2.23 | 2.29 | [Szczecin Open 2022](https://www.worldcubeassociation.org/competitions/SzczecinOpen2022/results/by_person#2019KEDZ01) |
 | 0.06 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | 2.29 | 2.35 | [Cube4fun Warsaw 2022](https://www.worldcubeassociation.org/competitions/Cube4funWarsaw2022/results/by_person#2020DOZA01) |
 | 0.07 | [Mikołaj Tyra](https://www.worldcubeassociation.org/persons/2016TYRA02) | 4.30 | 4.37 | [LLS IV 2019](https://www.worldcubeassociation.org/competitions/LubelskaLigaSpeedcubinguIV2019/results/by_person#2016TYRA02) |
-| 0.07 | [Maciej Hebel](https://www.worldcubeassociation.org/persons/2019HEBE01) | 5.96 | 6.03 | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/by_person#2019HEBE01) |
 
 ### Clock
 

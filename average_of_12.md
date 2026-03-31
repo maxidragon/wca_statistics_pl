@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 28 March 2026*
+*Updated on 31 March 2026*
 
 
 ### 3x3x3 Cube
@@ -164,7 +164,7 @@
 | 1.89 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | 1.55, 1.99, 2.24, 2.18, 1.63, 1.82, 1.68, 1.62, 2.37, 1.87, 1.77, 2.12 |
 | 1.92 | [Henryk Gabor](https://www.worldcubeassociation.org/persons/2024GABO02) | 1.68, 1.64, 1.69, 1.77, 1.82, 4.33, 1.97, 2.12, 1.42, 1.86, 2.77, 1.87 |
 | 1.96 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | 1.54, 1.26, 2.52, 3.56, 1.58, 1.65, 2.09, 1.66, 1.96, 2.34, 2.41, 1.89 |
-| 2.04 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | 1.77, 2.20, 2.42, 2.26, 4.00, 2.31, 2.14, 1.42, 1.54, 2.12, 1.55, 2.04 |
+| 2.02 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | 1.68, 1.82, 1.90, 1.77, 2.40, 2.89, 2.52, 1.32, 1.99, 1.05, 2.83, 1.94 |
 | 2.05 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | 1.67, 2.30, 1.44, 1.42, 1.94, 2.36, 4.02, 3.22, 1.97, 1.77, 2.04, 1.83 |
 | 2.06 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 1.87, 2.33, 1.94, 2.43, 1.93, 2.13, 2.35, 1.59, 2.45, 1.88, 2.05, 1.69 |
 | 2.13 | [Aleksander Arefiew](https://www.worldcubeassociation.org/persons/2016AREF01) | 2.28, 1.52, 3.07, 2.41, 1.58, 1.94, 1.86, 1.94, 3.50, 2.59, 1.97, 1.67 |
@@ -219,6 +219,7 @@
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
 | 4:20.11 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) | 6:29.53, 4:13.01, 3:46.86, 4:35.71, 5:19.05, 3:41.19, 4:18.33, 4:05.88, DNF, 3:10.18, 3:38.16, 3:13.42 |
+| 8:41.17 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 10:20.00, 8:13.09, 6:24.80, 5:49.27, 9:04.04, 6:40.76, 7:09.65, DNF, 9:56.38, 6:48.44, 12:48.00, 9:26.56 |
 | 8:41.48 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | 10:59.00, 7:21.07, 7:29.26, DNF, 6:32.10, 9:53.57, 7:17.72, 8:43.76, 8:03.27, 10:12.00, 8:00.22, 8:54.97 |
 
 ### 3x3x3 With Feet

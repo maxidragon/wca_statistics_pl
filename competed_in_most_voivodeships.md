@@ -1,7 +1,7 @@
 ## Competed in most voivodeships in Poland
 
 *Note: Voivodeships are inferred from competition coordinates. Approximate bounding box classification.*
-*Updated on 28 March 2026*
+*Updated on 31 March 2026*
 
 | Person | Completed | Missed | Missed Voivodeships | Completed At |
 | :--- | ---: | ---: | :--- | :--- |
@@ -9,22 +9,25 @@
 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 16 | 0 |  | [Kielce Open 2026](https://www.worldcubeassociation.org/competitions/KielceOpen2026) |
 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 16 | 0 |  | [Back To Białystok 2024](https://www.worldcubeassociation.org/competitions/BackToBialystok2024) |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 16 | 0 |  | [Ostróda Open 2024](https://www.worldcubeassociation.org/competitions/OstrodaOpen2024) |
+| [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | 16 | 0 |  | [Gorzów Cubing Days 2026](https://www.worldcubeassociation.org/competitions/GorzowCubingDays2026) |
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 16 | 0 |  | [Kielce Open 2026](https://www.worldcubeassociation.org/competitions/KielceOpen2026) |
 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | 16 | 0 |  | [Olsztyn Open 2024](https://www.worldcubeassociation.org/competitions/OlsztynOpen2024) |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 16 | 0 |  | [Back To Białystok 2024](https://www.worldcubeassociation.org/competitions/BackToBialystok2024) |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 16 | 0 |  | [Nowa Sól Open 2024](https://www.worldcubeassociation.org/competitions/NowaSolOpen2024) |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 16 | 0 |  | [Nowa Sól Open 2024](https://www.worldcubeassociation.org/competitions/NowaSolOpen2024) |
 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 16 | 0 |  | [Back To Białystok 2024](https://www.worldcubeassociation.org/competitions/BackToBialystok2024) |
-| [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | 15 | 1 | lubuskie |  |
+| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 15 | 1 | kujawsko-pomorskie |  |
 | [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) | 15 | 1 | warmińsko-mazurskie |  |
 | [Tomasz Stawowy](https://www.worldcubeassociation.org/persons/2021STAW01) | 15 | 1 | lubelskie |  |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 15 | 1 | podlaskie |  |
 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) | 14 | 2 | podlaskie, warmińsko-mazurskie |  |
 | [Adam Łyskawa](https://www.worldcubeassociation.org/persons/2017LYSK01) | 14 | 2 | podkarpackie, świętokrzyskie |  |
+| [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 14 | 2 | kujawsko-pomorskie, podlaskie |  |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 14 | 2 | lubuskie, zachodniopomorskie |  |
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 14 | 2 | kujawsko-pomorskie, podlaskie |  |
+| [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 14 | 2 | opolskie, podlaskie |  |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 14 | 2 | podkarpackie, podlaskie |  |
 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 14 | 2 | małopolskie, podkarpackie |  |
-| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 14 | 2 | kujawsko-pomorskie, lubuskie |  |
 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 14 | 2 | lubuskie, podlaskie |  |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 14 | 2 | lubuskie, warmińsko-mazurskie |  |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 14 | 2 | lubuskie, podlaskie |  |
@@ -35,18 +38,15 @@
 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 14 | 2 | kujawsko-pomorskie, lubuskie |  |
 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 14 | 2 | kujawsko-pomorskie, świętokrzyskie |  |
 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 14 | 2 | lubuskie, warmińsko-mazurskie |  |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 14 | 2 | lubuskie, podlaskie |  |
 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) | 14 | 2 | lubuskie, zachodniopomorskie |  |
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 14 | 2 | lubuskie, warmińsko-mazurskie |  |
 | [Anonymous](https://www.worldcubeassociation.org/persons/2020ANON03) | 13 | 3 | kujawsko-pomorskie, podlaskie, świętokrzyskie |  |
 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 13 | 3 | lubuskie, podlaskie, zachodniopomorskie |  |
-| [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 13 | 3 | kujawsko-pomorskie, lubuskie, podlaskie |  |
 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 13 | 3 | dolnośląskie, lubuskie, podlaskie |  |
 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | 13 | 3 | lubuskie, warmińsko-mazurskie, wielkopolskie |  |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 13 | 3 | lubuskie, podlaskie, zachodniopomorskie |  |
 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) | 13 | 3 | kujawsko-pomorskie, lubuskie, wielkopolskie |  |
 | [Kalina Jakubowska](https://www.worldcubeassociation.org/persons/2009BRZE01) | 13 | 3 | lubuskie, opolskie, świętokrzyskie |  |
-| [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 13 | 3 | lubuskie, opolskie, podlaskie |  |
 | [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) | 13 | 3 | kujawsko-pomorskie, podlaskie, warmińsko-mazurskie |  |
 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | 13 | 3 | lubuskie, opolskie, świętokrzyskie |  |
 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | 13 | 3 | lubuskie, podkarpackie, świętokrzyskie |  |

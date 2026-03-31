@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 28 March 2026*
+*Updated on 31 March 2026*
 
 
 ### 3x3x3 Cube
@@ -199,9 +199,9 @@
 | Ao25 | Person | Times |
 | ---: | :--- | :--- |
 | 6.07 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 5.31, 4.39, 6.74, 6.27, 8.71, 5.93, 6.93, 6.05, 6.11, 5.28, 5.03, 6.26, 5.94, 4.53, 6.77, 6.26, 6.14, 6.01, 6.74, 6.23, 6.36, 5.98, 6.03, 5.29, 6.72 |
+| 7.04 | [Maksym Wingert](https://www.worldcubeassociation.org/persons/2024WING02) | 6.48, 8.05, 5.98, 5.92, 6.75, 7.59, 8.24, 7.76, 6.85, 6.15, 5.78, 8.28, 10.77, 5.47, 8.94, 5.44, 7.19, 7.38, 8.81, 6.56, 7.02, 6.30, 7.16, 8.02, 4.36 |
+| 7.43 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 11.39, 6.21, 8.57, 6.77, 6.70, 7.82, 7.94, 6.01, 7.12, 6.52, 6.53, 8.04, 9.63, 7.18, 8.33, 6.47, 6.88, 8.90, 9.84, 5.32, 6.87, 8.17, 8.66, 6.30, 6.50 |
 | 7.43 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | 6.63, 8.53, 6.38, 7.75, 6.99, 6.74, 6.83, 7.29, 14.56, 7.56, 7.44, 8.22, 7.32, 10.65, 6.75, 7.30, 9.22, 6.30, 6.83, 7.62, 6.86, 6.72, 11.28, 6.26, 6.43 |
-| 7.47 | [Maksym Wingert](https://www.worldcubeassociation.org/persons/2024WING02) | 6.59, 9.26, 8.22, 6.59, 7.89, 5.96, 11.10, 11.96, 9.48, 7.41, 5.91, 7.44, 7.08, 13.69, 6.48, 8.05, 5.98, 5.92, 6.75, 7.59, 8.24, 7.76, 6.85, 6.15, 5.78 |
-| 7.48 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 8.09, 6.27, 5.64, 7.69, 7.22, 8.05, 7.61, 7.11, 8.44, 11.37, 8.74, 7.07, 6.88, 7.42, 7.12, 6.41, 7.43, 6.46, 8.74, 7.36, 6.87, 10.81, 7.96, 7.03, 7.44 |
 | 7.49 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 6.11, 7.19, 5.70, 7.46, 6.99, 8.77, 8.06, 6.53, 7.28, 8.04, 6.94, 12.86, 8.68, 6.95, 5.74, 7.46, 6.84, 7.96, 7.21, 7.57, 8.80, 8.73, 7.42, 8.88, 6.29 |
 | 7.72 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) | 6.41, 6.95, 5.80, 5.76, 9.66, 13.41, 9.76, 6.44, 10.64, 7.41, 9.64, 5.78, 7.35, 8.28, 8.39, 6.60, 9.84, 7.44, 9.40, 9.03, 8.43, 6.98, 5.78, 6.58, 6.03 |
 | 7.77 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 5.73, 6.88, 7.41, 6.40, 7.33, 9.19, 5.92, 11.19, 7.53, 6.75, 7.36, 9.20, 9.64, 8.49, 8.30, 10.29, 7.87, 7.39, 5.02, 9.55, 9.34, 7.84, 7.40, 6.52, 6.80 |

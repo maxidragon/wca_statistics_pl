@@ -1,6 +1,6 @@
 ## Polish competitors with most competitions in the current year
 
-*Updated on  1 April 2026*
+*Updated on  4 April 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -11,11 +11,11 @@
 | 11 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 11 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 11 | [Idan Bolesto](https://www.worldcubeassociation.org/persons/2022BOLE01) |
+| 10 | [Robert Ślesicki](https://www.worldcubeassociation.org/persons/2019SLES02) |
 | 9 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) |
 | 9 | [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) |
 | 9 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 9 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) |
-| 9 | [Robert Ślesicki](https://www.worldcubeassociation.org/persons/2019SLES02) |
 | 9 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
 | 9 | [Wojciech Piórczyński](https://www.worldcubeassociation.org/persons/2021PIOR01) |
 | 9 | [Antoni Szcześniak](https://www.worldcubeassociation.org/persons/2023SZCZ04) |
@@ -28,6 +28,7 @@
 | 7 | [Stanisław Szyszka](https://www.worldcubeassociation.org/persons/2016SZYS02) |
 | 7 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) |
 | 7 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) |
+| 7 | [Kinga Bednarska](https://www.worldcubeassociation.org/persons/2021BEDN01) |
 | 7 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) |
 | 7 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
 | 7 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) |
@@ -37,7 +38,6 @@
 | 6 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) |
 | 6 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
 | 6 | [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) |
-| 6 | [Kinga Bednarska](https://www.worldcubeassociation.org/persons/2021BEDN01) |
 | 6 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 6 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) |
 | 6 | [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) |

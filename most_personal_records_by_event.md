@@ -1,7 +1,7 @@
 ## Most personal records by event
 
 *Note: Counts how many personal records (single or average) a competitor achieved in each event.*
-*Updated on  1 April 2026*
+*Updated on  4 April 2026*
 
 
 ### 3x3x3 Cube
@@ -99,7 +99,7 @@
 | PRs | Person |
 | ---: | :--- |
 | 33 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
-| 31 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 30 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 29 | [Stanisław Szyszka](https://www.worldcubeassociation.org/persons/2016SZYS02) |
 | 28 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) |
 | 28 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) |

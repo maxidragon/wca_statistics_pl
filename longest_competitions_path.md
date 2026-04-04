@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on  1 April 2026*
+*Updated on  4 April 2026*
 
 | Person | Distance |
 | :--- | ---: |
@@ -148,6 +148,7 @@
 | [Przemysław Kanarski](https://www.worldcubeassociation.org/persons/2019KANA04) | 15 790 km |
 | [Wojciech Barciaga](https://www.worldcubeassociation.org/persons/2013BARC03) | 15 535 km |
 | [Antoni Szcześniak](https://www.worldcubeassociation.org/persons/2023SZCZ04) | 15 443 km |
+| [Robert Ślesicki](https://www.worldcubeassociation.org/persons/2019SLES02) | 15 229 km |
 | [Szymon Jeziorski](https://www.worldcubeassociation.org/persons/2013JEZI01) | 15 202 km |
 | [Kamil Zieliński](https://www.worldcubeassociation.org/persons/2008ZIEL01) | 14 963 km |
 | [Stanisław Dworak](https://www.worldcubeassociation.org/persons/2021DWOR01) | 14 633 km |
@@ -156,7 +157,6 @@
 | [Marek Wójtowicz](https://www.worldcubeassociation.org/persons/2008WOJT01) | 14 192 km |
 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | 14 102 km |
 | [Idan Bolesto](https://www.worldcubeassociation.org/persons/2022BOLE01) | 14 076 km |
-| [Robert Ślesicki](https://www.worldcubeassociation.org/persons/2019SLES02) | 13 768 km |
 | [Ignacy Wesołowski](https://www.worldcubeassociation.org/persons/2021WESO01) | 13 676 km |
 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) | 13 616 km |
 | [Kamil Pawlak](https://www.worldcubeassociation.org/persons/2006PAWL01) | 13 476 km |
@@ -237,6 +237,7 @@
 | [Piotr Rejdych](https://www.worldcubeassociation.org/persons/2022REJD01) | 7 939 km |
 | [Sebastian Kierznikiewicz](https://www.worldcubeassociation.org/persons/2023KIER02) | 7 929 km |
 | [Janusz Łebkowski](https://www.worldcubeassociation.org/persons/2022LEBK01) | 7 918 km |
+| [Kinga Bednarska](https://www.worldcubeassociation.org/persons/2021BEDN01) | 7 895 km |
 | [Mateusz Cukier](https://www.worldcubeassociation.org/persons/2023CUKI01) | 7 869 km |
 | [Wojciech Piórczyński](https://www.worldcubeassociation.org/persons/2021PIOR01) | 7 860 km |
 | [Anna Kogut](https://www.worldcubeassociation.org/persons/2019KOGU01) | 7 844 km |
@@ -292,7 +293,6 @@
 | [Piotr Alexandrowicz](https://www.worldcubeassociation.org/persons/2007ALEX01) | 6 624 km |
 | [Aleksander Skrzypczak](https://www.worldcubeassociation.org/persons/2024SKRZ01) | 6 623 km |
 | [Tymoteusz Orzechowski](https://www.worldcubeassociation.org/persons/2022ORZE01) | 6 596 km |
-| [Kinga Bednarska](https://www.worldcubeassociation.org/persons/2021BEDN01) | 6 578 km |
 | [Bartosz Kramkowski](https://www.worldcubeassociation.org/persons/2023KRAM02) | 6 556 km |
 | [Daniel Samoszyn](https://www.worldcubeassociation.org/persons/2015SAMO01) | 6 537 km |
 | [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) | 6 492 km |

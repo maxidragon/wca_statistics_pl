@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on  1 April 2026*
+*Updated on  4 April 2026*
 
 
 ### 3x3x3 Cube
@@ -153,7 +153,7 @@
 | 32.47 | [Tomasz Cepil](https://www.worldcubeassociation.org/persons/2018CEPI01) |
 | 32.50 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 32.79 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) |
-| 32.84 | [Kinga Bednarska](https://www.worldcubeassociation.org/persons/2021BEDN01) |
+| 33.22 | [Kinga Bednarska](https://www.worldcubeassociation.org/persons/2021BEDN01) |
 | 33.41 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) |
 | 33.48 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) |
 | 33.52 | [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) |
@@ -208,7 +208,7 @@
 | 1:00.33 | [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) |
 | 1:00.42 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) |
 | 1:00.45 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) |
-| 1:00.83 | [Kinga Bednarska](https://www.worldcubeassociation.org/persons/2021BEDN01) |
+| 1:00.97 | [Kinga Bednarska](https://www.worldcubeassociation.org/persons/2021BEDN01) |
 | 1:01.17 | [Oskar Matysik](https://www.worldcubeassociation.org/persons/2019MATY01) |
 | 1:01.23 | [Victor Kiziukiewicz](https://www.worldcubeassociation.org/persons/2023KIZI01) |
 | 1:02.33 | [Tomasz Cepil](https://www.worldcubeassociation.org/persons/2018CEPI01) |
@@ -272,9 +272,9 @@
 | 2:00.65 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) |
 | 2:00.69 | [Przemysław Kruczek](https://www.worldcubeassociation.org/persons/2013KRUC01) |
 | 2:02.29 | [Tomasz Cepil](https://www.worldcubeassociation.org/persons/2018CEPI01) |
+| 2:02.58 | [Kinga Bednarska](https://www.worldcubeassociation.org/persons/2021BEDN01) |
 | 2:02.98 | [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) |
 | 2:03.88 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) |
-| 2:04.23 | [Kinga Bednarska](https://www.worldcubeassociation.org/persons/2021BEDN01) |
 | 2:04.39 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |
 | 2:05.06 | [Igor Kamiński](https://www.worldcubeassociation.org/persons/2023KAMI04) |
 | 2:05.42 | [Szymon Brągiel](https://www.worldcubeassociation.org/persons/2022BRAG03) |
@@ -322,6 +322,7 @@
 | 3:02.92 | [Michał Mlostek](https://www.worldcubeassociation.org/persons/2015MLOS01) |
 | 3:05.61 | [Piotr Melczewski](https://www.worldcubeassociation.org/persons/2019MELC02) |
 | 3:06.84 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) |
+| 3:07.89 | [Kinga Bednarska](https://www.worldcubeassociation.org/persons/2021BEDN01) |
 | 3:08.92 | [Mikołaj Molski](https://www.worldcubeassociation.org/persons/2015MOLS01) |
 | 3:09.98 | [Igor Łabędź](https://www.worldcubeassociation.org/persons/2021LABE01) |
 | 3:10.90 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) |
@@ -331,7 +332,6 @@
 | 3:14.54 | [Ignacy Malinowski](https://www.worldcubeassociation.org/persons/2021MALI02) |
 | 3:15.04 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) |
 | 3:16.34 | [Dominik Zamęcki](https://www.worldcubeassociation.org/persons/2020ZAME01) |
-| 3:16.73 | [Kinga Bednarska](https://www.worldcubeassociation.org/persons/2021BEDN01) |
 | 3:19.25 | [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) |
 | 3:19.88 | [Kamil Tkacz](https://www.worldcubeassociation.org/persons/2017TKAC03) |
 | 3:21.45 | [Szymon Myśliński](https://www.worldcubeassociation.org/persons/2019MYSL01) |

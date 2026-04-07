@@ -1,6 +1,6 @@
 ## Polish competitors with most competitions in the current year
 
-*Updated on  4 April 2026*
+*Updated on  7 April 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -83,6 +83,7 @@
 | 4 | [Martyna Jarosz](https://www.worldcubeassociation.org/persons/2022JARO01) |
 | 4 | [Joanna Kierznikiewicz](https://www.worldcubeassociation.org/persons/2022KIER01) |
 | 4 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) |
+| 4 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) |
 | 4 | [Marcin Chmielewski](https://www.worldcubeassociation.org/persons/2023CHMI01) |
 | 4 | [Marek Dojtrowski](https://www.worldcubeassociation.org/persons/2023DOJT01) |
 | 4 | [Adam Dojtrowski](https://www.worldcubeassociation.org/persons/2023DOJT02) |
@@ -147,7 +148,6 @@
 | 3 | [Tymoteusz Orzechowski](https://www.worldcubeassociation.org/persons/2022ORZE01) |
 | 3 | [Adam Roik](https://www.worldcubeassociation.org/persons/2022ROIK01) |
 | 3 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) |
-| 3 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) |
 | 3 | [Dominik Żabiński](https://www.worldcubeassociation.org/persons/2022ZABI01) |
 | 3 | [Piotr Brokos](https://www.worldcubeassociation.org/persons/2023BROK01) |
 | 3 | [Bartosz Brudnicki](https://www.worldcubeassociation.org/persons/2023BRUD01) |
@@ -770,6 +770,7 @@
 | 1 | [Jan Rynkiewicz](https://www.worldcubeassociation.org/persons/2026RYNK01) |
 | 1 | [Czesław Sadowski](https://www.worldcubeassociation.org/persons/2026SADO01) |
 | 1 | [Józef Sadowski](https://www.worldcubeassociation.org/persons/2026SADO02) |
+| 1 | [Dylan Slater](https://www.worldcubeassociation.org/persons/2026SLAT01) |
 | 1 | [Stanisław Sobolewski](https://www.worldcubeassociation.org/persons/2026SOBO01) |
 | 1 | [Mikołaj Sowiński](https://www.worldcubeassociation.org/persons/2026SOWI01) |
 | 1 | [Jan Sroka](https://www.worldcubeassociation.org/persons/2026SROK01) |

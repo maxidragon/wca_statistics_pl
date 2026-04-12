@@ -102,7 +102,7 @@
 | [Wojciech Barciaga](https://www.worldcubeassociation.org/persons/2013BARC03) | 3.51 |
 | [Michał Machnik](https://www.worldcubeassociation.org/persons/2022MACH14) | 3.49 |
 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | 3.49 |
-| [Radosz Mitas](https://www.worldcubeassociation.org/persons/2022MITA02) | 3.45 |
+| [Igor Kowalczyk](https://www.worldcubeassociation.org/persons/2013KOWA04) | 3.45 |
 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 3.45 |
 
 

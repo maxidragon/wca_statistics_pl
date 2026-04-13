@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals at Polish competitions are taken into account.*
-*Updated on 10 April 2026*
+*Updated on 13 April 2026*
 
 
 ### 3x3x3 Cube
@@ -134,16 +134,18 @@
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 6.71 | **11.27** | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/all#e333oh_f) | 6 |
 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | 9.39 | **11.34** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e333oh_f) | 4 |
 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 9.35 | **11.35** | [Dragon Cubing X 2025](https://www.worldcubeassociation.org/competitions/DragonCubingX2025/results/all#e333oh_f) | 5 |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 10.81 | **11.46** | [Mielec Cubing Days 2026](https://www.worldcubeassociation.org/competitions/MielecCubingDays2026/results/all#e333oh_f) | 4 |
 | [Twan Dullemond](https://www.worldcubeassociation.org/persons/2018DULL01) | 8.77 | **11.49** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e333oh_f) | 5 |
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 11.28 | **11.62** | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/all#e333oh_f) | 7 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 9.07 | **11.75** | [Dragon Cubing XI 2025](https://www.worldcubeassociation.org/competitions/DragonCubingXI2025/results/all#e333oh_f) | 4 |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 10.45 | **11.77** | [Energy Cube Konin 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeKonin2025/results/all#e333oh_f) | 4 |
 
 ### Megaminx
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
+| [Ihor Sukhovatenko (Ігор Суховатенко)](https://www.worldcubeassociation.org/persons/2017SUKH02) | 31.85 | **34.40** | [Mielec Cubing Days 2026](https://www.worldcubeassociation.org/competitions/MielecCubingDays2026/results/all#eminx_f) | 4 |
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 33.25 | **34.61** | [Polish Open 2025](https://www.worldcubeassociation.org/competitions/PolishOpen2025/results/all#eminx_f) | 4 |
+| [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 32.61 | **34.73** | [Mielec Cubing Days 2026](https://www.worldcubeassociation.org/competitions/MielecCubingDays2026/results/all#eminx_f) | 5 |
 | [Wiktor Gugulski](https://www.worldcubeassociation.org/persons/2023GUGU01) | 28.80 | **34.76** | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026/results/all#eminx_f) | 4 |
 | [Wiktor Gugulski](https://www.worldcubeassociation.org/persons/2023GUGU01) | 33.03 | **34.99** | [Dragon Cubing XI 2025](https://www.worldcubeassociation.org/competitions/DragonCubingXI2025/results/all#eminx_f) | 4 |
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 31.99 | **35.73** | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/all#eminx_f) | 4 |
@@ -151,8 +153,6 @@
 | [Przemysław Rudziak](https://www.worldcubeassociation.org/persons/2020RUDZ02) | 31.41 | **37.37** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#eminx_f) | 4 |
 | [Wiktor Gugulski](https://www.worldcubeassociation.org/persons/2023GUGU01) | 36.85 | **37.59** | [Dragon Cubing X 2025](https://www.worldcubeassociation.org/competitions/DragonCubingX2025/results/all#eminx_f) | 4 |
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 35.13 | **37.80** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#eminx_f) | 5 |
-| [Wiktor Gugulski](https://www.worldcubeassociation.org/persons/2023GUGU01) | 33.38 | **37.84** | [Gift Packs Niepołomice 2025](https://www.worldcubeassociation.org/competitions/GiftPacksNiepolomice2025/results/all#eminx_f) | 4 |
-| [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 35.70 | **38.37** | [Dragon Cubing II 2024](https://www.worldcubeassociation.org/competitions/DragonCubingII2024/results/all#eminx_f) | 4 |
 
 ### Pyraminx
 

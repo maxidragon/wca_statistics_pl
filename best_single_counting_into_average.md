@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 10 April 2026*
+*Updated on 13 April 2026*
 
 
 ### 3x3x3 Cube
@@ -70,13 +70,13 @@
 | 6.17 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [Gift Packs Niepołomice 2025](https://www.worldcubeassociation.org/competitions/GiftPacksNiepolomice2025/results/by_person#2022MARC05) |
 | 6.28 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [Cube4fun Jarosław 2024](https://www.worldcubeassociation.org/competitions/Cube4funLowLimitsJaroslaw2024/results/by_person#2022MARC05) |
 | 7.03 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | [Gift Packs Niepołomice 2025](https://www.worldcubeassociation.org/competitions/GiftPacksNiepolomice2025/results/by_person#2022GLAD01) |
+| 7.33 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [Mielec Cubing Days 2026](https://www.worldcubeassociation.org/competitions/MielecCubingDays2026/results/by_person#2022MARC05) |
 | 7.34 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [Dębica Cubing Winter 2026](https://www.worldcubeassociation.org/competitions/DebicaCubingWinter2026/results/by_person#2022MARC05) |
 | 7.49 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | [Cube4fun Bełżyce 2023](https://www.worldcubeassociation.org/competitions/Cube4funBelzyceMultiEvents2023/results/by_person#2014ZAKR01) |
 | 7.56 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | [Silesian Cubing Chorzów 2025](https://www.worldcubeassociation.org/competitions/SilesianCubingChorzow2025/results/by_person#2022GLAD01) |
 | 7.58 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [Cube4fun Tylmanowa Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaWinter2026/results/by_person#2022MARC05) |
 | 7.66 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [Rzeszów Open 2025](https://www.worldcubeassociation.org/competitions/RzeszowOpen2025/results/by_person#2022MARC05) |
 | 7.72 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | [Energy Cube Konin 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeKonin2023/results/by_person#2013BURL01) |
-| 7.75 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | [Cube Zone Katowice 2025](https://www.worldcubeassociation.org/competitions/CubeZoneKatowice2025/results/by_person#2022GLAD01) |
 
 ### Megaminx
 
@@ -115,13 +115,13 @@
 | 1.90 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/by_person#2021KASP01) |
 | 2.01 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Cube4fun Tylmanowa Autumn 2025](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaAutumn2025/results/by_person#2021KASP01) |
 | 2.04 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Kielce Open 2026](https://www.worldcubeassociation.org/competitions/KielceOpen2026/results/by_person#2021KASP01) |
+| 2.04 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Mielec Cubing Days 2026](https://www.worldcubeassociation.org/competitions/MielecCubingDays2026/results/by_person#2021KASP01) |
 | 2.11 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Energy Cube Tomaszów 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2025/results/by_person#2021KASP01) |
 | 2.14 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | [Cube4fun Żyrardów 2024](https://www.worldcubeassociation.org/competitions/Cube4funCEZyrardow2024/results/by_person#2022STOJ03) |
 | 2.14 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026/results/by_person#2022SLIW01) |
 | 2.15 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Cube4fun Lublin Summer 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinSummer2025/results/by_person#2021KASP01) |
 | 2.16 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026/results/by_person#2021KASP01) |
 | 2.18 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Mielec Cubing Days 2025](https://www.worldcubeassociation.org/competitions/MielecCubingDays2025/results/by_person#2021KASP01) |
-| 2.22 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | [Cube4fun Lublin February 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinFebruary2026/results/by_person#2022STOJ03) |
 
 ### Skewb
 
@@ -145,13 +145,13 @@
 | 4.53 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/by_person#2013KRAS02) |
 | 4.66 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [Winter Side Wrocław 2025](https://www.worldcubeassociation.org/competitions/WinterSideWroclaw2025/results/by_person#2013KRAS02) |
 | 4.77 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | [BrizZon Side Open II 2025](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenII2025/results/by_person#2020SPIR01) |
+| 4.85 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) | [Mielec Cubing Days 2026](https://www.worldcubeassociation.org/competitions/MielecCubingDays2026/results/by_person#2022CIEP01) |
 | 4.94 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [Dragon Cubing I 2024](https://www.worldcubeassociation.org/competitions/DragonCubingI2024/results/by_person#2013KRAS02) |
 | 4.95 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [Cube4fun DW Świdnik 2023](https://www.worldcubeassociation.org/competitions/Cube4funDWSwidnik2023/results/by_person#2013KRAS02) |
 | 4.96 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [BrizZon Side Open III 2025](https://www.worldcubeassociation.org/competitions/BrizzonSideOpenIII2025/results/by_person#2013KRAS02) |
 | 4.99 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [WLS Styczeń 2026](https://www.worldcubeassociation.org/competitions/WLSStyczen2026/results/by_person#2013KRAS02) |
 | 5.03 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/by_person#2013KRAS02) |
 | 5.06 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [Olsztyn Spring Open 2022](https://www.worldcubeassociation.org/competitions/OlsztynSpringOpen2022/results/by_person#2013KRAS02) |
-| 5.08 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | [BrizZon Side Open IV 2025](https://www.worldcubeassociation.org/competitions/BrizzonSideOpenIV2025/results/by_person#2020SPIR01) |
 
 ### 3x3x3 With Feet
 

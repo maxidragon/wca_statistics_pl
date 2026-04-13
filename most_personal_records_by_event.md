@@ -1,7 +1,7 @@
 ## Most personal records by event
 
 *Note: Counts how many personal records (single or average) a competitor achieved in each event.*
-*Updated on 10 April 2026*
+*Updated on 13 April 2026*
 
 
 ### 3x3x3 Cube
@@ -45,8 +45,8 @@
 | 46 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |
 | 45 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 45 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
+| 45 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
 | 44 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
-| 44 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
 | 43 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
 
 ### 5x5x5 Cube
@@ -57,8 +57,8 @@
 | 58 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 50 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 49 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) |
+| 49 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 48 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
-| 48 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 44 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 44 | [Przemysław Kruczek](https://www.worldcubeassociation.org/persons/2013KRUC01) |
 | 44 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) |
@@ -146,9 +146,9 @@
 | 64 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 56 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 55 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
-| 52 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 53 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 50 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) |
 | 49 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) |
-| 49 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) |
 | 43 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) |
 | 43 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) |
 | 41 | [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) |

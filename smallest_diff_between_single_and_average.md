@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 10 April 2026*
+*Updated on 13 April 2026*
 
 
 ### 3x3x3 Cube
@@ -167,7 +167,7 @@
 | 0.06 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 4.32 | 4.38 | [Dragon Cubing II 2024](https://www.worldcubeassociation.org/competitions/DragonCubingII2024/results/by_person#2021PIET01) |
 | 0.06 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 7.18 | 7.24 | [Staszic Open 2017](https://www.worldcubeassociation.org/competitions/StaszicOpen2017/results/by_person#2013ROGA02) |
 | 0.06 | [Wojciech Włodarczyk](https://www.worldcubeassociation.org/persons/2012WODA01) | 9.39 | 9.45 | [Polish Championship 2016](https://www.worldcubeassociation.org/competitions/PolishChampionship2016/results/by_person#2012WODA01) |
-| 0.08 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) | 3.70 | 3.78 | [GLS IV 2024](https://www.worldcubeassociation.org/competitions/GdanskaLigaSpeedcubinguIV2024/results/by_person#2022TURC02) |
+| 0.08 | [Kacper Bieńkowski](https://www.worldcubeassociation.org/persons/2022BIEN01) | 3.28 | 3.36 | [Olsztyn Spring Open 2026](https://www.worldcubeassociation.org/competitions/OlsztynSpringOpen2026/results/by_person#2022BIEN01) |
 
 ### Skewb
 
@@ -197,7 +197,7 @@
 | 0.17 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 5.56 | 5.73 | [Cube4fun Siedlce Autumn 2023](https://www.worldcubeassociation.org/competitions/Cube4funSiedlceAutumn2023/results/by_person#2013KRAS02) |
 | 0.17 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 9.48 | 9.65 | [Siedlce Open 2025](https://www.worldcubeassociation.org/competitions/SiedlceOpen2025/results/by_person#2022STOJ03) |
 | 0.17 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 33.88 | 34.05 | [Cube Factory League Jeżów 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueJezow2025/results/by_person#2014SZWU01) |
-| 0.19 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 15.11 | 15.30 | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2013OLSZ02) |
+| 0.19 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 5.82 | 6.01 | [Olsztyn Spring Open 2026](https://www.worldcubeassociation.org/competitions/OlsztynSpringOpen2026/results/by_person#2013KRAS02) |
 
 ### 4x4x4 Blindfolded
 

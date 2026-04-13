@@ -1,6 +1,6 @@
 ## Biggest rounds in Poland
 
-*Updated on 10 April 2026*
+*Updated on 13 April 2026*
 
 
 ### 3x3x3 Cube
@@ -120,8 +120,8 @@
 | 46 | [Polish Nationals 2014](https://www.worldcubeassociation.org/competitions/PolishNationals2014) |
 | 44 | [Polish Open 2018](https://www.worldcubeassociation.org/competitions/PolishOpen2018) |
 | 43 | [Polish Open 2014](https://www.worldcubeassociation.org/competitions/PolishOpen2014) |
-| 42 | [Polish Championship 2015](https://www.worldcubeassociation.org/competitions/PolishChampionship2015) |
 | 42 | [GLS Cup IV 2018](https://www.worldcubeassociation.org/competitions/GLSCupIV2018) |
+| 42 | [Polish Championship 2015](https://www.worldcubeassociation.org/competitions/PolishChampionship2015) |
 
 ### 3x3x3 One-Handed
 

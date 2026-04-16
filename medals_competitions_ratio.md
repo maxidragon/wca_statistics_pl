@@ -1,7 +1,7 @@
 ## Medals to competitions ratio
 
 *Note: Only Polish competitors included*
-*Updated on 13 April 2026*
+*Updated on 16 April 2026*
 
 | Person | Medals | Competitions | Ratio |
 | :--- | ---: | ---: | ---: |
@@ -19,7 +19,7 @@
 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | 192 | 73 | 2.63 |
 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | 117 | 45 | 2.60 |
 | [Kamil Zieliński](https://www.worldcubeassociation.org/persons/2008ZIEL01) | 87 | 34 | 2.56 |
-| [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 179 | 77 | 2.32 |
+| [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 182 | 78 | 2.33 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 312 | 136 | 2.29 |
 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | 156 | 68 | 2.29 |
 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 185 | 81 | 2.28 |

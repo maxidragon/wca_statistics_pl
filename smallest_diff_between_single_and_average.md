@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 13 April 2026*
+*Updated on 16 April 2026*
 
 
 ### 3x3x3 Cube
@@ -120,9 +120,9 @@
 | 0.12 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | 14.27 | 14.39 | [Mysłowice Big Cube Open 2022](https://www.worldcubeassociation.org/competitions/MyslowiceBigCubeOpen2022/results/by_person#2017SZUL01) |
 | 0.12 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | 17.21 | 17.33 | [Big Cube Krasnik 2014](https://www.worldcubeassociation.org/competitions/BigCubeKrasnik2014/results/by_person#2011ZALE02) |
 | 0.13 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | 17.56 | 17.69 | [GLS Cup II 2017](https://www.worldcubeassociation.org/competitions/GLSCupII2017/results/by_person#2012BOGD01) |
+| 0.13 | [Mikołaj Salamon](https://www.worldcubeassociation.org/persons/2016SALA18) | 21.65 | 21.78 | [WLS Kwiecień 2026](https://www.worldcubeassociation.org/competitions/WLSKwiecien2026/results/by_person#2016SALA18) |
 | 0.13 | [Mikołaj Salamon](https://www.worldcubeassociation.org/persons/2016SALA18) | 22.82 | 22.95 | [III Project Warszawa 2019](https://www.worldcubeassociation.org/competitions/IIIProjectWarszawa2019/results/by_person#2016SALA18) |
 | 0.14 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 19.25 | 19.39 | [Kaliska Open 2015](https://www.worldcubeassociation.org/competitions/KaliskaOpen2015/results/by_person#2006HALC01) |
-| 0.15 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 23.67 | 23.82 | [Olsztyn Open 2024](https://www.worldcubeassociation.org/competitions/OlsztynOpen2024/results/by_person#2020DWOR01) |
 
 ### Megaminx
 

@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 13 April 2026*
+*Updated on 16 April 2026*
 
 
 ### 3x3x3 Cube
@@ -146,7 +146,7 @@
 | 37.56 | [Ernest Seroczyński](https://www.worldcubeassociation.org/persons/2015SERO02) | 37.69, 34.34, 41.31, 32.90, 41.48, 34.68, 41.93, 36.69, 36.44, 37.01, 42.43, 38.16, 38.12, 33.80, 35.21, 36.33, 32.93, 49.50, 41.43, 42.27, 33.56, 41.98, 38.16, 30.23, 35.17 |
 | 38.96 | [Przemysław Rudziak](https://www.worldcubeassociation.org/persons/2020RUDZ02) | 33.98, 36.64, 39.92, 40.17, 43.34, 35.88, 38.24, 40.92, 39.06, 45.65, 35.50, 36.32, 38.83, 36.20, 41.07, 36.49, 36.42, 40.61, 46.71, 39.97, 35.63, 40.29, 42.12, 41.27, 38.70 |
 | 39.42 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) | 38.04, 39.46, 36.39, 39.17, 48.24, 39.54, 37.96, 41.87, 35.43, 40.33, 40.66, 38.29, 37.45, 40.60, 38.64, 41.26, 42.82, 47.30, 40.08, 35.62, 41.13, 40.07, 38.43, 40.08, 33.82 |
-| 39.66 | [Maksymilian Piskorowski](https://www.worldcubeassociation.org/persons/2017PISK01) | 40.63, 42.46, 38.61, 34.10, 38.21, 41.28, 42.76, 37.39, 41.42, 39.68, 44.77, 37.27, 41.73, 43.78, 38.80, 39.52, 38.83, 43.14, 38.33, 40.99, 41.54, 33.67, 39.80, 36.47, 33.55 |
+| 39.60 | [Maksymilian Piskorowski](https://www.worldcubeassociation.org/persons/2017PISK01) | 38.61, 34.10, 38.21, 41.28, 42.76, 37.39, 41.42, 39.68, 44.77, 37.27, 41.73, 43.78, 38.80, 39.52, 38.83, 43.14, 38.33, 40.99, 41.54, 33.67, 39.80, 36.47, 33.55, 49.19, 38.03 |
 | 39.93 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | 36.46, 39.56, 42.31, 41.31, 41.86, 37.71, 39.14, 36.45, 40.92, 40.10, 39.34, 42.03, 34.21, 41.66, 38.89, 40.37, 43.02, 37.90, 40.37, 43.89, 39.46, 41.69, 39.48, 38.92, 38.99 |
 
 ### Pyraminx

@@ -1,7 +1,7 @@
 ## Polish Championship records
 
 *Note: This is a list of the best results from all Polish Championships. It corresponds to Olympic records for Olympic sports.*
-*Updated on 13 April 2026*
+*Updated on 16 April 2026*
 
 
 ### Single
@@ -15,7 +15,7 @@
 | 6x6x6 Cube | 1:02.12 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) |
 | 7x7x7 Cube | 1:46.31 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) |
 | 3x3x3 Blindfolded | 16.43 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023) |
-| 3x3x3 Fewest Moves | 19 | [Szymon Jeziorski](https://www.worldcubeassociation.org/persons/2013JEZI01) | [Polish Championship 2018](https://www.worldcubeassociation.org/competitions/PolishChampionship2018) |
+| 3x3x3 Fewest Moves | 19 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) | [Polish Championship 2018](https://www.worldcubeassociation.org/competitions/PolishChampionship2018) |
 | 3x3x3 One-Handed | 6.71 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) |
 | Megaminx | 26.99 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) |
 | Pyraminx | 1.11 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023) |

@@ -1,7 +1,7 @@
 ## Most delegated competitions with another delegate
 
 *Note: Shows how many times each delegate has co-delegated with others. Only Polish delegates are included, and only competitions that have taken place in Poland and have results posted are considered.*
-*Updated on 16 April 2026*
+*Updated on 19 April 2026*
 
 
 ### [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01)
@@ -74,7 +74,7 @@ _Total delegated competitions: 72 (65 in Poland)_
 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 1 |
 
 ### [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01)
-_Total delegated competitions: 59 (55 in Poland)_
+_Total delegated competitions: 60 (56 in Poland)_
 
 | Co-delegate | Count |
 | :--- | ---: |

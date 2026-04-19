@@ -1,6 +1,6 @@
 ## Most competitions together
 
-*Updated on 16 April 2026*
+*Updated on 19 April 2026*
 
 | Shared competitions | Pair |
 | ---: | :--- |
@@ -9,12 +9,12 @@
 | 175 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) & [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 157 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) & [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 148 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) & [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
+| 141 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) & [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) |
 | 141 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) & [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) |
-| 140 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) & [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) |
 | 138 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) & [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
 | 133 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) & [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 129 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) & [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) |
-| 127 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) & [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 128 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) & [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 124 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) & [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 121 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) & [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 120 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) & [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
@@ -51,9 +51,9 @@
 | 92 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) & [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
 | 92 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) & [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) |
 | 91 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) & [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
+| 91 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) & [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 91 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) & [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) |
 | 91 | [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) & [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
-| 90 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) & [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 89 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) & [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) |
 | 89 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) & [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 89 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) & [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |

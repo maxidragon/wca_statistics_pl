@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 16 April 2026*
+*Updated on 19 April 2026*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -55,9 +55,9 @@
 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | **4** | 1 | 1 | 6 |
 | [Maksymilian Piskorowski](https://www.worldcubeassociation.org/persons/2017PISK01) | **4** | 1 | 0 | 5 |
 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | **4** | 0 | 4 | 8 |
+| [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) | **3** | 9 | 9 | 21 |
 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | **3** | 7 | 3 | 13 |
 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) | **3** | 7 | 2 | 12 |
-| [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) | **3** | 6 | 9 | 18 |
 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | **3** | 5 | 7 | 15 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **3** | 5 | 2 | 10 |
 | [Szymon Jaworski](https://www.worldcubeassociation.org/persons/2021JAWO01) | **3** | 4 | 3 | 10 |

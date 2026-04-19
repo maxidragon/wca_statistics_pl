@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 16 April 2026*
+*Updated on 19 April 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -9,7 +9,7 @@
 | 54 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 36 | [Igor Wojciech Wawrzynski](https://www.worldcubeassociation.org/persons/2019WAWR01) |
 | 35 | [Leon Jakub Wyrobek](https://www.worldcubeassociation.org/persons/2016WYRO01) |
-| 34 | [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) |
+| 35 | [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) |
 | 32 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 29 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 26 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |

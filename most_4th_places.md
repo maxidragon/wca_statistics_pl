@@ -1,11 +1,11 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 16 April 2026*
+*Updated on 19 April 2026*
 
 | 4th places | Person |
 | ---: | :--- |
-| 159 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
+| 160 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 141 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 120 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 113 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
@@ -64,10 +64,10 @@
 | 26 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) |
 | 26 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) |
 | 25 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) |
+| 25 | [Wojciech Piórczyński](https://www.worldcubeassociation.org/persons/2021PIOR01) |
 | 25 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) |
 | 24 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
 | 24 | [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) |
-| 24 | [Wojciech Piórczyński](https://www.worldcubeassociation.org/persons/2021PIOR01) |
 | 24 | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) |
 | 24 | [Kamil Zieliński](https://www.worldcubeassociation.org/persons/2008ZIEL01) |
 | 23 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |

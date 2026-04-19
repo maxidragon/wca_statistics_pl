@@ -1,6 +1,6 @@
 ## Longest streak of competitions with a personal record done
 
-*Updated on 16 April 2026*
+*Updated on 19 April 2026*
 
 | Competitions | Person | Started at | Ended at |
 | ---: | :--- | :--- | :--- |
@@ -22,8 +22,8 @@
 | 40 | [Idan Bolesto](https://www.worldcubeassociation.org/persons/2022BOLE01) | [Siedlce Open 2022](https://www.worldcubeassociation.org/competitions/SiedlceOpen2022) | [Blindowy Wieczór w Gdańsku 2025](https://www.worldcubeassociation.org/competitions/BlindowyPiatekwGdansku2025) |
 | 39 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | [LLS III v2 2020](https://www.worldcubeassociation.org/competitions/LLSIIIv22020) | [Energy Cube Koło 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeKolo2023) |
 | 39 | [Radosław Michałek](https://www.worldcubeassociation.org/persons/2021MICH03) | [Project Pawłowice 2021](https://www.worldcubeassociation.org/competitions/ProjectPawlowice2021) |  |
+| 39 | [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) | [German Mini Open B 2021](https://www.worldcubeassociation.org/competitions/GermanMiniOpenB2021) |  |
 | 38 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | [Lodz Open 2011](https://www.worldcubeassociation.org/competitions/LodzOpen2011) | [Poznan Open 2014](https://www.worldcubeassociation.org/competitions/PoznanOpen2014) |
-| 38 | [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) | [German Mini Open B 2021](https://www.worldcubeassociation.org/competitions/GermanMiniOpenB2021) |  |
 | 37 | [Szymon Ruksza](https://www.worldcubeassociation.org/persons/2013RUKS01) | [SLS Jastrzebie 2013](https://www.worldcubeassociation.org/competitions/SLSJastrzebie2013) |  |
 | 37 | [Wojciech Barciaga](https://www.worldcubeassociation.org/persons/2013BARC03) | [SLS Jastrzebie 2013](https://www.worldcubeassociation.org/competitions/SLSJastrzebie2013) | [Project Jastrzębie-Zdrój 2019](https://www.worldcubeassociation.org/competitions/ProjectJastrzebieZdroj2019) |
 | 37 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | [Cubing Rising Stars Olesno 2022](https://www.worldcubeassociation.org/competitions/CubingRisingStarsOlesno2022) |  |
@@ -54,6 +54,7 @@
 | 30 | [Tomek Bogdanik](https://www.worldcubeassociation.org/persons/2013BOGD04) | [SLS Jastrzebie 2013](https://www.worldcubeassociation.org/competitions/SLSJastrzebie2013) | [FMC Europe 2018](https://www.worldcubeassociation.org/competitions/FMCEurope2018) |
 | 30 | [Szymon Brągiel](https://www.worldcubeassociation.org/persons/2022BRAG03) | [Pilzno in the Mirror 2024](https://www.worldcubeassociation.org/competitions/PilznointheMirror2024) | [Gift Packs Niepołomice 2025](https://www.worldcubeassociation.org/competitions/GiftPacksNiepolomice2025) |
 | 30 | [Wiktor Gugulski](https://www.worldcubeassociation.org/persons/2023GUGU01) | [Kęty Open 2023](https://www.worldcubeassociation.org/competitions/KetyOpen2023) |  |
+| 30 | [Hubert Darłak](https://www.worldcubeassociation.org/persons/2023DARL03) | [CFL Brzeziny Spring 2025](https://www.worldcubeassociation.org/competitions/CFLBrzezinySpring2025) |  |
 | 30 | [Dominik Podolak](https://www.worldcubeassociation.org/persons/2023PODO02) | [SLS Październik 2023](https://www.worldcubeassociation.org/competitions/SLSPazdziernik2023) |  |
 | 29 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | [Polish Open 2007](https://www.worldcubeassociation.org/competitions/PolishOpen2007) | [Czech Open 2011](https://www.worldcubeassociation.org/competitions/CzechOpen2011) |
 | 29 | [Łukasz Cichecki](https://www.worldcubeassociation.org/persons/2007CICH01) | [World Championship 2007](https://www.worldcubeassociation.org/competitions/WC2007) |  |
@@ -62,7 +63,6 @@
 | 29 | [Wiktor Smorąg](https://www.worldcubeassociation.org/persons/2015SMOR01) | [SLS Rybnik 2015](https://www.worldcubeassociation.org/competitions/SLSRybnik2015) |  |
 | 29 | [Mateusz Staniszewski](https://www.worldcubeassociation.org/persons/2018STAN03) | [LLS III 2018](https://www.worldcubeassociation.org/competitions/LLSIII2018) |  |
 | 29 | [Bartosz Łebkowski](https://www.worldcubeassociation.org/persons/2021LEBK01) | [Cubers Eve Lubartów 2021](https://www.worldcubeassociation.org/competitions/CubersEveLubartow2021) | [Cube Factory Brzeziny 2023](https://www.worldcubeassociation.org/competitions/CubeFactoryBrzeziny2023) |
-| 29 | [Hubert Darłak](https://www.worldcubeassociation.org/persons/2023DARL03) | [CFL Brzeziny Spring 2025](https://www.worldcubeassociation.org/competitions/CFLBrzezinySpring2025) |  |
 | 28 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | [SLS Gliwice 2014](https://www.worldcubeassociation.org/competitions/SLSGliwice2014) | [Speed Day Lublin 2016](https://www.worldcubeassociation.org/competitions/SpeedDayLublin2016) |
 | 28 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | [Polish Open 2012](https://www.worldcubeassociation.org/competitions/PolishOpen2012) | [Kielce Cube Attack 2014](https://www.worldcubeassociation.org/competitions/KielceCubeAttack2014) |
 | 28 | [Ignacy Buczek](https://www.worldcubeassociation.org/persons/2013BUCZ01) | [Polish Nationals 2013](https://www.worldcubeassociation.org/competitions/PolishNationals2013) |  |

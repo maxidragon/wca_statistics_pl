@@ -4,7 +4,7 @@
 
 | Organized | Person |
 | ---: | :--- |
-| 135 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
+| 136 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
 | 81 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
 | 72 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 69 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
@@ -46,6 +46,7 @@
 | 7 | [Przemysław Piątek](https://www.worldcubeassociation.org/persons/2013PITE01) |
 | 7 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |
 | 7 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
+| 7 | [Arleta Tokarska](https://www.worldcubeassociation.org/persons/2025TOKA01) |
 | 6 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) |
 | 6 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 6 | [Błażej Morgała](https://www.worldcubeassociation.org/persons/2006MORG01) |
@@ -57,7 +58,6 @@
 | 6 | [Michał Wachowiak](https://www.worldcubeassociation.org/persons/2015WACH01) |
 | 6 | [Marta Radziwanowska](https://www.worldcubeassociation.org/persons/2022RADZ01) |
 | 6 | [Martyna Jarosz](https://www.worldcubeassociation.org/persons/2022JARO01) |
-| 6 | [Arleta Tokarska](https://www.worldcubeassociation.org/persons/2025TOKA01) |
 | 5 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 5 | [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) |
 | 5 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) |

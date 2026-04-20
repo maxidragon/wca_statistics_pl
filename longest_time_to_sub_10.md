@@ -91,8 +91,8 @@
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 3.83 |
 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 3.76 |
 | [Ignacy Buczek](https://www.worldcubeassociation.org/persons/2013BUCZ01) | 3.76 |
-| [Hubert Kwasigroch](https://www.worldcubeassociation.org/persons/2014KWAS01) | 3.70 |
 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 3.70 |
+| [Hubert Kwasigroch](https://www.worldcubeassociation.org/persons/2014KWAS01) | 3.70 |
 | [Gustaw Rejent](https://www.worldcubeassociation.org/persons/2022REJE02) | 3.64 |
 | [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) | 3.62 |
 | [Bartosz Łebkowski](https://www.worldcubeassociation.org/persons/2021LEBK01) | 3.62 |
@@ -100,9 +100,9 @@
 | [Cyprian Czuba](https://www.worldcubeassociation.org/persons/2019CZUB01) | 3.56 |
 | [Wojciech Weremczuk](https://www.worldcubeassociation.org/persons/2014WERE01) | 3.53 |
 | [Wojciech Barciaga](https://www.worldcubeassociation.org/persons/2013BARC03) | 3.51 |
-| [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | 3.49 |
 | [Michał Machnik](https://www.worldcubeassociation.org/persons/2022MACH14) | 3.49 |
-| [Igor Kowalczyk](https://www.worldcubeassociation.org/persons/2013KOWA04) | 3.45 |
+| [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | 3.49 |
+| [Radosz Mitas](https://www.worldcubeassociation.org/persons/2022MITA02) | 3.45 |
 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 3.45 |
 
 

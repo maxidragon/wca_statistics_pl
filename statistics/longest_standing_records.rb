@@ -1,3 +1,4 @@
+require "date"
 require_relative "../core/grouped_statistic"
 require_relative "../core/events"
 require_relative "../core/solve_time"
@@ -11,22 +12,20 @@ class LongestStandingRecords < GroupedStatistic
   def query
     <<-SQL
       SELECT
-        regional_single_record regional_single_record,
-        regional_average_record regional_average_record,
+        regional_single_record,
+        regional_average_record,
         best single,
         average,
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
         CONCAT('[', competition.cell_name, '](https://www.worldcubeassociation.org/competitions/', competition.id, '/results/by_person#', person.wca_id, ')') results_link,
         competition.start_date competition_date,
-        event_id,
-        continent.name continent
+        event_id
       FROM results result
-      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1 AND person.country_id = 'Poland'
+      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
       JOIN competitions competition ON competition.id = competition_id
       JOIN countries country ON country.id = result.country_id
-      JOIN continents continent ON continent.id = country.continent_id
-      WHERE regional_single_record = 'NR'
-         OR regional_average_record = 'NR'
+      WHERE (regional_single_record = 'NR' OR regional_average_record = 'NR')
+        AND country.id = 'Poland'
       ORDER BY competition_date
     SQL
   end
@@ -37,6 +36,10 @@ class LongestStandingRecords < GroupedStatistic
     }.map do |region, record_ids|
       results = %w(single average).flat_map do |type|
         query_results
+          .select do |result|
+            record_ids.include?(result["regional_#{type}_record"]) &&
+            Events::OFFICIAL.has_key?(result["event_id"])
+          end
           .group_by { |result| result["event_id"] }
           .flat_map do |event_id, results|
             results.each do |result_1|
@@ -53,7 +56,7 @@ class LongestStandingRecords < GroupedStatistic
           end
         end
         .sort_by! { |event, type, days, *rest| -days }
-        .take(20)
+        .take(50)
         .map! { |event, type, days, *rest| [event, type, "**#{days}**", *rest] }
       [region, results]
     end

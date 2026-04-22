@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 19 April 2026*
+*Updated on 22 April 2026*
 
 
 ### 3x3x3 Cube
@@ -155,9 +155,9 @@
 | [Piotr Alexandrowicz](https://www.worldcubeassociation.org/persons/2007ALEX01) | 5 |
 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | 5 |
 | [Grzegorz Dzikiewicz](https://www.worldcubeassociation.org/persons/2008DZIK01) | 3 |
-| [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 3 |
 | [Igor Kowalczyk](https://www.worldcubeassociation.org/persons/2013KOWA04) | 2 |
 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | 2 |
+| [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 2 |
 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | 2 |
 | [Jarosław Nowicki](https://www.worldcubeassociation.org/persons/2004NOWI01) | 1 |
 | [Kacper Pawlaczyk](https://www.worldcubeassociation.org/persons/2005PAWL01) | 1 |
@@ -253,7 +253,6 @@
 | [Filip Pasławski](https://www.worldcubeassociation.org/persons/2013PASA01) | 2 |
 | [Bartłomiej Sordyl](https://www.worldcubeassociation.org/persons/2014SORD01) | 2 |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 2 |
-| [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) | 2 |
 | [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) | 2 |
 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 1 |
 | [Patryk Szewczyk](https://www.worldcubeassociation.org/persons/2012SZEW01) | 1 |
@@ -261,6 +260,7 @@
 | [Maciej Bronk](https://www.worldcubeassociation.org/persons/2013BRON02) | 1 |
 | [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) | 1 |
 | [Dawid Karczyński](https://www.worldcubeassociation.org/persons/2013KARC01) | 1 |
+| [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) | 1 |
 
 ### Square-1
 

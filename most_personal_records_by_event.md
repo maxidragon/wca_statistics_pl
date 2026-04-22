@@ -1,7 +1,7 @@
 ## Most personal records by event
 
 *Note: Counts how many personal records (single or average) a competitor achieved in each event.*
-*Updated on 19 April 2026*
+*Updated on 22 April 2026*
 
 
 ### 3x3x3 Cube
@@ -15,9 +15,9 @@
 | 47 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
 | 45 | [Igor Ośmiałowski](https://www.worldcubeassociation.org/persons/2014OMIA01) |
 | 45 | [Witold Sołtysik](https://www.worldcubeassociation.org/persons/2015SOLT03) |
+| 45 | [Jakub Łebkowski](https://www.worldcubeassociation.org/persons/2023LEBK01) |
 | 44 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 43 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) |
-| 43 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
 
 ### 2x2x2 Cube
 
@@ -99,7 +99,7 @@
 | PRs | Person |
 | ---: | :--- |
 | 33 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
-| 30 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 31 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 29 | [Stanisław Szyszka](https://www.worldcubeassociation.org/persons/2016SZYS02) |
 | 28 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) |
 | 28 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) |
@@ -151,8 +151,8 @@
 | 49 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) |
 | 43 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) |
 | 43 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) |
+| 42 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) |
 | 41 | [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) |
-| 41 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
 
 ### Pyraminx
 
@@ -161,7 +161,7 @@
 | 38 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) |
 | 37 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) |
 | 36 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
-| 33 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 34 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 33 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
 | 32 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) |
 | 32 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) |

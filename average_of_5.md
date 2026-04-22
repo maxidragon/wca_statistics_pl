@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 19 April 2026*
+*Updated on 22 April 2026*
 
 
 ### 3x3x3 Cube
@@ -147,11 +147,11 @@
 | 30.89 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 31.02, 30.69, 30.19, 39.00, 30.97 |
 | 30.94 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 30.92, 36.83, 28.40, 30.63, 31.27 |
 | 31.57 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 30.11, 37.13, 31.38, 31.21, 32.12 |
-| 34.25 | [Wiktor Gugulski](https://www.worldcubeassociation.org/persons/2023GUGU01) | 34.42, 36.63, 30.90, 38.25, 31.69 |
+| 32.93 | [Wiktor Gugulski](https://www.worldcubeassociation.org/persons/2023GUGU01) | 35.31, 32.31, 30.83, 33.76, 32.73 |
 | 34.72 | [Przemysław Rudziak](https://www.worldcubeassociation.org/persons/2020RUDZ02) | 31.69, 35.98, 36.48, 42.45, 31.41 |
 | 35.11 | [Ernest Seroczyński](https://www.worldcubeassociation.org/persons/2015SERO02) | 38.12, 33.80, 35.21, 36.33, 32.93 |
 | 36.65 | [Maksymilian Piskorowski](https://www.worldcubeassociation.org/persons/2017PISK01) | 41.54, 33.67, 39.80, 36.47, 33.55 |
-| 37.71 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 35.68, 34.10, 46.02, 37.65, 39.81 |
+| 36.90 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 40.30, 36.44, 37.50, 36.45, 36.75 |
 | 37.71 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 39.60, 35.99, 37.42, 43.93, 36.12 |
 
 ### Pyraminx
@@ -191,11 +191,11 @@
 | 1.37 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | 3.76, 1.22, 1.43, 1.16, 1.46 |
 | 1.41 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 1.42, 1.46, 2.93, 1.02, 1.34 |
 | 1.65 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 1.72, 1.71, 1.52, 3.51, 1.44 |
+| 1.69 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) | 1.62, 1.43, 3.06, 1.42, 2.02 |
 | 1.71 | [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) | 1.65, 4.08, 1.65, 1.36, 1.82 |
 | 1.72 | [Szymon Brągiel](https://www.worldcubeassociation.org/persons/2022BRAG03) | 1.75, 1.24, 1.52, 1.93, 1.89 |
 | 1.78 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) | 1.72, 4.22, 1.66, 1.73, 1.89 |
 | 1.79 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 1.71, 3.96, 2.08, 1.29, 1.59 |
-| 1.85 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) | 1.59, 2.25, 3.75, 1.71, 1.21 |
 | 1.96 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 1.91, 1.85, 3.47, 2.13, 0.88 |
 | 1.98 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 1.84, 1.87, 2.23, 2.75, 1.78 |
 

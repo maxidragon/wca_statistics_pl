@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 19 April 2026*
+*Updated on 22 April 2026*
 
 
 ### 3x3x3 Cube
@@ -97,7 +97,9 @@
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
+| 0.89 | [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) | [Cube Factory League Jeżów 2026](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueJezow2026/results/by_person#2023ROMA10) |
 | 0.92 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | [Cube4fun in Gorlice 2023](https://www.worldcubeassociation.org/competitions/Cube4funinGorlice2023/results/by_person#2018HIBS01) |
+| 0.96 | [Marek Dojtrowski](https://www.worldcubeassociation.org/persons/2023DOJT01) | [Cube Factory League Jeżów 2026](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueJezow2026/results/by_person#2023DOJT01) |
 | 0.97 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | [Santa Claus Cube Race 2019](https://www.worldcubeassociation.org/competitions/SantaClausCubeRace2019/results/by_person#2013WARY01) |
 | 0.97 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | [Cube4fun in Gorlice 2023](https://www.worldcubeassociation.org/competitions/Cube4funinGorlice2023/results/by_person#2015GORN01) |
 | 1.02 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | [Warm-Up Warsaw 2025](https://www.worldcubeassociation.org/competitions/WarmUpWarsaw2025/results/by_person#2020DOZA01) |
@@ -105,8 +107,6 @@
 | 1.05 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | [Cube Factory League Rogów 2026](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueRogow2026/results/by_person#2022URBA02) |
 | 1.10 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | [SST Kielce 2021](https://www.worldcubeassociation.org/competitions/SSTKielce2021/results/by_person#2013OLSZ02) |
 | 1.11 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | [Cube4fun Bełżyce 2023](https://www.worldcubeassociation.org/competitions/Cube4funBelzyceMultiEvents2023/results/by_person#2013WARY01) |
-| 1.11 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/by_person#2018HIBS01) |
-| 1.12 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | [Silesian Cubing Chorzów 2025](https://www.worldcubeassociation.org/competitions/SilesianCubingChorzow2025/results/by_person#2013OLSZ02) |
 
 ### Clock
 

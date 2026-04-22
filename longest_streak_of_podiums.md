@@ -1,7 +1,7 @@
 ## Longest streak of podiums
 
 *Note: All competitions that did not hold the given event are ignored. Results without any completed attempt are not eligible for podium. Only finals are taken into account.*
-*Updated on 19 April 2026*
+*Updated on 22 April 2026*
 
 | Count | Person | Event | Started at | Ended at |
 | ---: | :--- | :--- | :--- | :--- |
@@ -13,8 +13,8 @@
 | 63 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 7x7x7 Cube | [Cubing in Cill Chainnigh 2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019) | [SzczeciNxN 2026](https://www.worldcubeassociation.org/competitions/SzczeciNxN2026) |
 | 52 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 6x6x6 Cube | [Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/PolishNationals2009) | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) |
 | 52 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | Megaminx | [Wrocław Side Challenge 2019](https://www.worldcubeassociation.org/competitions/WroclawSideChallenge2019) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) |
-| 43 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 5x5x5 Cube | [Full Steps in Brest 2016](https://www.worldcubeassociation.org/competitions/FullStepsinBrest2016) | [Project Kedzierzyn-Kozle 2021](https://www.worldcubeassociation.org/competitions/ProjectKedzierzynKozle2021) |
 | 43 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 6x6x6 Cube | [Full Steps in Brest 2016](https://www.worldcubeassociation.org/competitions/FullStepsinBrest2016) | [Project Kedzierzyn-Kozle 2021](https://www.worldcubeassociation.org/competitions/ProjectKedzierzynKozle2021) |
+| 43 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 5x5x5 Cube | [Full Steps in Brest 2016](https://www.worldcubeassociation.org/competitions/FullStepsinBrest2016) | [Project Kedzierzyn-Kozle 2021](https://www.worldcubeassociation.org/competitions/ProjectKedzierzynKozle2021) |
 | 42 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 3x3x3 One-Handed | [Warszawa Open 2012](https://www.worldcubeassociation.org/competitions/WarszawaOpen2012) | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) |
 | 41 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) | Square-1 | [Warsaw Open 2009](https://www.worldcubeassociation.org/competitions/WarsawOpen2009) | [Polish Championship 2016](https://www.worldcubeassociation.org/competitions/PolishChampionship2016) |
 | 41 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 3x3x3 With Feet | [Big Cube Krasnik 2014](https://www.worldcubeassociation.org/competitions/BigCubeKrasnik2014) |  |
@@ -50,6 +50,7 @@
 | 23 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | Megaminx | [Slovakian Open 2017](https://www.worldcubeassociation.org/competitions/SlovakianOpen2017) | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
 | 23 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | Square-1 | [Kostelec Summer 2022](https://www.worldcubeassociation.org/competitions/KostelecSummer2022) | [Cube4fun DW Dębica 2023](https://www.worldcubeassociation.org/competitions/Cube4funDWDebica2023) |
 | 23 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 3x3x3 One-Handed | [Dębica Cubing Summer 2024](https://www.worldcubeassociation.org/competitions/DebicaCubingSummer2024) | [Dragon Cubing X 2025](https://www.worldcubeassociation.org/competitions/DragonCubingX2025) |
+| 23 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | Skewb | [Cube4fun Żyrardów 2024](https://www.worldcubeassociation.org/competitions/Cube4funCEZyrardow2024) |  |
 | 22 | [Tomasz Kiedrowicz](https://www.worldcubeassociation.org/persons/2006KIED01) | Pyraminx | [Gdansk Open 2008](https://www.worldcubeassociation.org/competitions/GdanskOpen2008) | [Euro 2012](https://www.worldcubeassociation.org/competitions/Euro2012) |
 | 22 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | Pyraminx | [LLS III 2018](https://www.worldcubeassociation.org/competitions/LLSIII2018) | [Project Będzin 2019](https://www.worldcubeassociation.org/competitions/ProjectBedzin2019) |
 | 22 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | Skewb | [Project Będzin 2019](https://www.worldcubeassociation.org/competitions/ProjectBedzin2019) | [Cube4fun Dąbrowa Górnicza 2022](https://www.worldcubeassociation.org/competitions/Cube4funDabrowaGornicza2022) |
@@ -58,7 +59,6 @@
 | 22 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 3x3x3 One-Handed | [Cube4fun Bielsko-Biała 2022](https://www.worldcubeassociation.org/competitions/Cube4funBielskoBiala2022) | [Silesian Minx Fest 2023](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2023) |
 | 22 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 3x3x3 One-Handed | [Elektryk Cube Race 2022](https://www.worldcubeassociation.org/competitions/ElektrykCubeRace2022) | [Dębica Cubing Winter 2024](https://www.worldcubeassociation.org/competitions/DebicaCubingWinter2024) |
 | 22 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | Clock | [Żory Cubing Mansion 2024](https://www.worldcubeassociation.org/competitions/ZoryCubingMansion2024) | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) |
-| 22 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | Skewb | [Cube4fun Żyrardów 2024](https://www.worldcubeassociation.org/competitions/Cube4funCEZyrardow2024) |  |
 | 21 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | Clock | [Grudziadz Open 2011](https://www.worldcubeassociation.org/competitions/GrudziadzOpen2011) | [PLS Sopot 2014](https://www.worldcubeassociation.org/competitions/PLSSopot2014) |
 | 21 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | Clock | [Polish Championship 2016](https://www.worldcubeassociation.org/competitions/PolishChampionship2016) | [PST LLS Lublin 2019](https://www.worldcubeassociation.org/competitions/PSTLLSLublin2019) |
 | 21 | [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) | Pyraminx | [Rybnik Open 2013](https://www.worldcubeassociation.org/competitions/RybnikOpen2013) | [Euro 2014](https://www.worldcubeassociation.org/competitions/Euro2014) |

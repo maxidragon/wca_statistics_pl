@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 19 April 2026*
+*Updated on 22 April 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -18,8 +18,8 @@
 | 22 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
 | 21 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) |
 | 21 | [Michał Kaczmarek](https://www.worldcubeassociation.org/persons/2021KACZ01) |
+| 20 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
 | 19 | [Wiktor Zegadło](https://www.worldcubeassociation.org/persons/2017ZEGA01) |
-| 19 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
 | 18 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) |
 | 17 | [Magnus Miłosz Birecki](https://www.worldcubeassociation.org/persons/2022BIRE01) |
 | 17 | [Szymon Plesniak](https://www.worldcubeassociation.org/persons/2024PLES01) |

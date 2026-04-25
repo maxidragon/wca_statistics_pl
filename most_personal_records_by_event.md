@@ -1,7 +1,7 @@
 ## Most personal records by event
 
 *Note: Counts how many personal records (single or average) a competitor achieved in each event.*
-*Updated on 22 April 2026*
+*Updated on 25 April 2026*
 
 
 ### 3x3x3 Cube
@@ -17,7 +17,7 @@
 | 45 | [Witold Sołtysik](https://www.worldcubeassociation.org/persons/2015SOLT03) |
 | 45 | [Jakub Łebkowski](https://www.worldcubeassociation.org/persons/2023LEBK01) |
 | 44 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
-| 43 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) |
+| 43 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 
 ### 2x2x2 Cube
 

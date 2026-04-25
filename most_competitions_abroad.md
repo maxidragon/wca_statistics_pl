@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 22 April 2026*
+*Updated on 25 April 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -12,7 +12,7 @@
 | 35 | [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) |
 | 32 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 29 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
-| 26 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
+| 27 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 26 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 22 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) |
 | 22 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
@@ -35,10 +35,10 @@
 | 14 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) |
 | 14 | [Alex Myrus](https://www.worldcubeassociation.org/persons/2022MYRU01) |
 | 14 | [Liam Stuart Ferreira](https://www.worldcubeassociation.org/persons/2022FERR14) |
+| 14 | [Marcin Karczmarz](https://www.worldcubeassociation.org/persons/2023KARC01) |
 | 13 | [Wojciech Poljanowski](https://www.worldcubeassociation.org/persons/2010POLJ01) |
 | 13 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) |
 | 13 | [Marcel Borkowski](https://www.worldcubeassociation.org/persons/2023BORK01) |
-| 13 | [Marcin Karczmarz](https://www.worldcubeassociation.org/persons/2023KARC01) |
 | 12 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) |
 | 12 | [Nathaniel Bigaj](https://www.worldcubeassociation.org/persons/2019BIGA01) |
 | 11 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
@@ -73,6 +73,7 @@
 | 8 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) |
 | 8 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 8 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
+| 8 | [Piotr Tomczyk](https://www.worldcubeassociation.org/persons/2016TOMC01) |
 | 8 | [Joanna Dubicka](https://www.worldcubeassociation.org/persons/2018DUBI04) |
 | 8 | [Mateusz Nowak](https://www.worldcubeassociation.org/persons/2022NOWA05) |
 | 8 | [Arkadiusz Dubicki](https://www.worldcubeassociation.org/persons/2023DUBI01) |
@@ -81,7 +82,6 @@
 | 7 | [Marek Pepke](https://www.worldcubeassociation.org/persons/2008PEPK01) |
 | 7 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) |
 | 7 | [Kamil Michalak](https://www.worldcubeassociation.org/persons/2016MICH01) |
-| 7 | [Piotr Tomczyk](https://www.worldcubeassociation.org/persons/2016TOMC01) |
 | 7 | [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) |
 | 7 | [Piotr Zambrzycki](https://www.worldcubeassociation.org/persons/2018ZAMB02) |
 | 7 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) |

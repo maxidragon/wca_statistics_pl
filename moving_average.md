@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on 22 April 2026*
+*Updated on 25 April 2026*
 
 
 ### 3x3x3 Cube
@@ -173,7 +173,7 @@
 | 34.52 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |
 | 34.56 | [Tymon Martyński](https://www.worldcubeassociation.org/persons/2022MART79) |
 | 34.63 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) |
-| 34.97 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
+| 34.71 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 
 ### 5x5x5 Cube
 
@@ -283,7 +283,7 @@
 | 2:05.68 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
 | 2:06.15 | [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) |
 | 2:06.91 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
-| 2:07.00 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
+| 2:07.30 | [Radosław Smędzik](https://www.worldcubeassociation.org/persons/2022SMED01) |
 
 ### 7x7x7 Cube
 

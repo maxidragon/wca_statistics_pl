@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 22 April 2026*
+*Updated on 25 April 2026*
 
 
 ### 3x3x3 Cube
@@ -252,12 +252,12 @@
 | 18 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) | [Vilnius Summer Open 2023](https://www.worldcubeassociation.org/competitions/VilniusSummerOpen2023) |
 | 18 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | [Kostelec Nonstop Cubing 2023](https://www.worldcubeassociation.org/competitions/KostelecNonstopCubing2023) |
 | 17 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | [GLS Cup II 2018](https://www.worldcubeassociation.org/competitions/GLSCupII2018) |
+| 16 | [Alan Żeromski](https://www.worldcubeassociation.org/persons/2018ZERO01) | [Marijampolė Tyliai 2026](https://www.worldcubeassociation.org/competitions/MarijampoleTyliai2026) |
 | 14 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | [Hive Blind 2022](https://www.worldcubeassociation.org/competitions/HiveBlind2022) |
 | 12 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | [ Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013) |
 | 10 | [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) | [Silesian Minx Fest 2025](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2025) |
 | 8 | [Tomasz Tokarski](https://www.worldcubeassociation.org/persons/2012TOKA02) | [Santa Claus Cube Race 2014](https://www.worldcubeassociation.org/competitions/SantaClausRace2014) |
 | 8 | [Bartosz Bździel](https://www.worldcubeassociation.org/persons/2010BZDZ01) | [Radom Open 2013](https://www.worldcubeassociation.org/competitions/RadomOpen2013) |
-| 8 | [Tomasz Cepil](https://www.worldcubeassociation.org/persons/2018CEPI01) | [Silesian Minx Fest 2024](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2024) |
 
 ### 3x3x3 With Feet
 

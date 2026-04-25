@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 22 April 2026*
+*Updated on 25 April 2026*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -11,7 +11,7 @@
 | 113 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
 | 103 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 103 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
-| 101 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
+| 102 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 87 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) |
 | 79 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
 | 75 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |

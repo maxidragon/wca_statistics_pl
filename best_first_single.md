@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 25 April 2026*
+*Updated on 28 April 2026*
 
 
 ### 3x3x3 Cube
@@ -174,6 +174,7 @@
 | First single | Person |
 | ---: | :--- |
 | 4.86 | [Sebastian Fornal](https://www.worldcubeassociation.org/persons/2022FORN02) |
+| 5.73 | [Victor Kiziukiewicz](https://www.worldcubeassociation.org/persons/2023KIZI01) |
 | 5.81 | [Jakub Dolata](https://www.worldcubeassociation.org/persons/2020DOLA01) |
 | 6.24 | [Szymon Plesniak](https://www.worldcubeassociation.org/persons/2024PLES01) |
 | 6.30 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
@@ -182,7 +183,6 @@
 | 6.75 | [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) |
 | 6.75 | [Łukasz Kamiński](https://www.worldcubeassociation.org/persons/2023KAMI07) |
 | 7.00 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) |
-| 7.17 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) |
 
 ### Skewb
 

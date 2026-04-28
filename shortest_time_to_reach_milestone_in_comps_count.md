@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 25 April 2026*
+*Updated on 28 April 2026*
 
 
 ### 300 Competitions
@@ -46,6 +46,7 @@
 | 3725 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 3823 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 4221 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) |
+| 4755 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) |
 | 4782 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) |
 | 5013 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) |
 | 5881 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
@@ -95,10 +96,10 @@
 | 995 | [Ignacy Malinowski](https://www.worldcubeassociation.org/persons/2021MALI02) |
 | 1030 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) |
 | 1044 | [Witold Wesołowski](https://www.worldcubeassociation.org/persons/2022WESO01) |
+| 1044 | [Szymon Gabara](https://www.worldcubeassociation.org/persons/2023GABA01) |
+| 1066 | [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) |
 | 1072 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
 | 1093 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) |
-| 1107 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) |
-| 1114 | [Szymon Jaworski](https://www.worldcubeassociation.org/persons/2021JAWO01) |
 
 ### 25 Competitions
 

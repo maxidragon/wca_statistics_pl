@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals at Polish competitions are taken into account.*
-*Updated on 25 April 2026*
+*Updated on 28 April 2026*
 
 
 ### 3x3x3 Cube
@@ -204,6 +204,7 @@
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 6.53 | **7.85** | [SzczeciNxN 2026](https://www.worldcubeassociation.org/competitions/SzczeciNxN2026/results/all#esq1_f) | 4 |
+| [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 6.97 | **7.91** | [GLS Gdańsk III 2026](https://www.worldcubeassociation.org/competitions/GLSGdanskIII2026/results/all#esq1_f) | 4 |
 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 7.65 | **8.07** | [SzczeciNxN 2026](https://www.worldcubeassociation.org/competitions/SzczeciNxN2026/results/all#esq1_f) | 5 |
 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 6.75 | **8.35** | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026/results/all#esq1_c) | 4 |
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 6.98 | **8.44** | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/all#esq1_f) | 4 |
@@ -212,7 +213,6 @@
 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 6.38 | **8.55** | [WLS Styczeń 2026](https://www.worldcubeassociation.org/competitions/WLSStyczen2026/results/all#esq1_c) | 4 |
 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 5.54 | **8.59** | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/all#esq1_f) | 7 |
 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 6.94 | **8.65** | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/all#esq1_f) | 8 |
-| [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | 7.14 | **8.68** | [Energy Cube Białołęka 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2025/results/all#esq1_f) | 4 |
 
 ### 4x4x4 Blindfolded
 

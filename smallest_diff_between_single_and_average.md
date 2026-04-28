@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 25 April 2026*
+*Updated on 28 April 2026*
 
 
 ### 3x3x3 Cube
@@ -61,8 +61,8 @@
 | 0.33 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 54.06 | 54.39 | [Cube4fun in Dębica 2022](https://www.worldcubeassociation.org/competitions/Cube4funDebica2022/results/by_person#2017PABI01) |
 | 0.36 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 1:35.09 | 1:35.45 | [Archena 24 Horas 2022](https://www.worldcubeassociation.org/competitions/Archena24Horas2022/results/by_person#2020DWOR01) |
 | 0.41 | [Szymon Mazur](https://www.worldcubeassociation.org/persons/2010MAZU02) | 1:31.59 | 1:32.00 | [SLS Swierklany 2013](https://www.worldcubeassociation.org/competitions/SLSSwierklany2013/results/by_person#2010MAZU02) |
+| 0.43 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 34.52 | 34.95 | [Felgueiras ao Cubo 2026](https://www.worldcubeassociation.org/competitions/FelgueirasaoCubo2026/results/by_person#2016KOLA02) |
 | 0.43 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 1:46.38 | 1:46.81 | [Santa Claus Cube Race 2014](https://www.worldcubeassociation.org/competitions/SantaClausRace2014/results/by_person#2005ZOLN01) |
-| 0.44 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 35.94 | 36.38 | [Energy Cube Tomaszów 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2025/results/by_person#2016KOLA02) |
 
 ### 6x6x6 Cube
 
@@ -144,6 +144,7 @@
 | Diff | Person | Single | Average | Results |
 | ---: | :--- | ---: | ---: | :--- |
 | 0.04 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 2.96 | 3.00 | [GLS II 2024](https://www.worldcubeassociation.org/competitions/GLSII2024/results/by_person#2018KUZM02) |
+| 0.04 | [Maksymilian Sysak](https://www.worldcubeassociation.org/persons/2024SYSA01) | 4.10 | 4.14 | [Cubing Mine Rybnik IV 2026](https://www.worldcubeassociation.org/competitions/CubingMineRybnikIV2026/results/by_person#2024SYSA01) |
 | 0.04 | [Mikołaj Salamon](https://www.worldcubeassociation.org/persons/2016SALA18) | 21.21 | 21.25 | [III Masovian Open 2019](https://www.worldcubeassociation.org/competitions/IIIMasovianOpen2019/results/by_person#2016SALA18) |
 | 0.05 | [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) | 1.94 | 1.99 | [Energy Cube Tomaszów 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2025/results/by_person#2023ROMA10) |
 | 0.05 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | 2.07 | 2.12 | [Szansa Cubing Open Warsaw 2025](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2025/results/by_person#2018HIBS01) |
@@ -152,7 +153,6 @@
 | 0.05 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | 4.04 | 4.09 | [Cube4fun in Jarosław 2023](https://www.worldcubeassociation.org/competitions/Cube4funinJaroslaw2023/results/by_person#2013TOKA01) |
 | 0.06 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | 2.23 | 2.29 | [Szczecin Open 2022](https://www.worldcubeassociation.org/competitions/SzczecinOpen2022/results/by_person#2019KEDZ01) |
 | 0.06 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | 2.29 | 2.35 | [Cube4fun Warsaw 2022](https://www.worldcubeassociation.org/competitions/Cube4funWarsaw2022/results/by_person#2020DOZA01) |
-| 0.07 | [Mikołaj Tyra](https://www.worldcubeassociation.org/persons/2016TYRA02) | 4.30 | 4.37 | [LLS IV 2019](https://www.worldcubeassociation.org/competitions/LubelskaLigaSpeedcubinguIV2019/results/by_person#2016TYRA02) |
 
 ### Clock
 
@@ -162,12 +162,12 @@
 | 0.04 | [Marcel Politowicz](https://www.worldcubeassociation.org/persons/2021POLI02) | 3.76 | 3.80 | [Żory Open 2024](https://www.worldcubeassociation.org/competitions/ZoryOpen2024/results/by_person#2021POLI02) |
 | 0.05 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 4.96 | 5.01 | [Kielce Open 2026](https://www.worldcubeassociation.org/competitions/KielceOpen2026/results/by_person#2013ROGA02) |
 | 0.05 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 5.19 | 5.24 | [GLS I 2024](https://www.worldcubeassociation.org/competitions/GLSI2024/results/by_person#2013ROGA02) |
+| 0.05 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | 5.42 | 5.47 | [Cube4fun DW Warsaw 2026](https://www.worldcubeassociation.org/competitions/Cube4funDWWarsaw2026/results/by_person#2022SAMS03) |
 | 0.05 | [Aleksandra Tatoń](https://www.worldcubeassociation.org/persons/2021TATO01) | 7.30 | 7.35 | [Cube Factory Summer 2023](https://www.worldcubeassociation.org/competitions/CubeFactorySummer2023/results/by_person#2021TATO01) |
 | 0.05 | [Ignacy Rataj](https://www.worldcubeassociation.org/persons/2022RATA01) | 7.56 | 7.61 | [Cube4fun Tylmanowa Autumn 2025](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaAutumn2025/results/by_person#2022RATA01) |
 | 0.06 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 4.32 | 4.38 | [Dragon Cubing II 2024](https://www.worldcubeassociation.org/competitions/DragonCubingII2024/results/by_person#2021PIET01) |
 | 0.06 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 7.18 | 7.24 | [Staszic Open 2017](https://www.worldcubeassociation.org/competitions/StaszicOpen2017/results/by_person#2013ROGA02) |
 | 0.06 | [Wojciech Włodarczyk](https://www.worldcubeassociation.org/persons/2012WODA01) | 9.39 | 9.45 | [Polish Championship 2016](https://www.worldcubeassociation.org/competitions/PolishChampionship2016/results/by_person#2012WODA01) |
-| 0.08 | [Kacper Bieńkowski](https://www.worldcubeassociation.org/persons/2022BIEN01) | 3.28 | 3.36 | [Olsztyn Spring Open 2026](https://www.worldcubeassociation.org/competitions/OlsztynSpringOpen2026/results/by_person#2022BIEN01) |
 
 ### Skewb
 

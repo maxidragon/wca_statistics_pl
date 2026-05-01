@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 28 April 2026*
+*Updated on  1 May 2026*
 
 
 ### 3x3x3 Cube - Single
@@ -474,7 +474,7 @@
 | [Michał Wroński](https://www.worldcubeassociation.org/persons/2015WRON01) | **13/13 53:12** | Poland | [CF Goes Sideways Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesSidewaysBrzeziny2026) | 13/13 53:12, 14/16 1:00:00 |
 | [Szymon Ruksza](https://www.worldcubeassociation.org/persons/2013RUKS01) | **13/14 47:33** | Poland | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 13/14 47:33, 11/16 55:40, 12/20 57:04 |
 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | **14/19 52:34** | Poland | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 14/19 52:34, 11/17 52:01, 10/18 57:14, 10/12 43:14, 14/18 55:32, 8/13 31:52, 13/20 57:44 |
-| [Michał Wachowiak](https://www.worldcubeassociation.org/persons/2015WACH01) | **16/20 1:00:02** | Poland | [BrizZon Side Open 2026](https://www.worldcubeassociation.org/competitions/BrizZonSideOpen2026) | 16/20 1:00:02, 17/21 1:00:02, 15/23 1:00:00, 13/20 59:09, 15/20 58:12, 16/21 1:00:00 |
+| [Michał Wachowiak](https://www.worldcubeassociation.org/persons/2015WACH01) | **16/20 1:00:02** | Poland | [BrizZon Side Open 2026](https://www.worldcubeassociation.org/competitions/BrizZonSideOpen2026) | 16/20 1:00:02, 16/21 1:00:00, 15/23 1:00:00, 13/20 59:09, 15/20 58:12, 16/21 1:00:00 |
 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **17/17 54:18** | Poland | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | 17/17 54:18, 15/17 58:28, 16/17 58:10, 17/17 58:05, 17/17 56:51, 16/17 58:33, 16/17 59:05, 16/17 1:00:00, 17/17 59:02, 17/17 56:11, 16/17 57:57, 16/17 58:32 |
 | [Joanna Hołdakowska](https://www.worldcubeassociation.org/persons/2016HOLD04) | **2/3 17:08** | Poland | [BrizZon Side Open 2026](https://www.worldcubeassociation.org/competitions/BrizZonSideOpen2026) | 2/3 17:08, DNF |
 | [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) | **2/3 18:29** | Poland | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) | DNS, 2/3 18:29, DNF |

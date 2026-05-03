@@ -10,9 +10,9 @@
 | [Maciej Lyer](https://www.worldcubeassociation.org/persons/2014LYER01) | 42.17 | 11.53 | 3.66 |
 | [Przemysław Rudziak](https://www.worldcubeassociation.org/persons/2020RUDZ02) | 37.25 | 10.16 | 3.67 |
 | [Kacper Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC06) | 1:01.59 | 16.22 | 3.80 |
+| [Maksymilian Piskorowski](https://www.worldcubeassociation.org/persons/2017PISK01) | 36.65 | 9.52 | 3.85 |
 | [Klaudia Milewczyk](https://www.worldcubeassociation.org/persons/2022MILE05) | 1:56.11 | 30.16 | 3.85 |
 | [Ernest Seroczyński](https://www.worldcubeassociation.org/persons/2015SERO02) | 35.11 | 9.12 | 3.85 |
-| [Maksymilian Piskorowski](https://www.worldcubeassociation.org/persons/2017PISK01) | 36.65 | 9.52 | 3.85 |
 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | 49.83 | 12.53 | 3.98 |
 | [Szczepan Rozwadowski](https://www.worldcubeassociation.org/persons/2025ROZW02) | 58.55 | 14.70 | 3.98 |
 | [Marcel Borkowski](https://www.worldcubeassociation.org/persons/2023BORK01) | 41.86 | 10.45 | 4.01 |

@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on  1 May 2026*
+*Updated on  4 May 2026*
 
 
 ### World
@@ -17,6 +17,7 @@
 | 2 | [Grzegorz Prusak](https://www.worldcubeassociation.org/persons/2006PRUS01) | [Wroclaw Open 2007](https://www.worldcubeassociation.org/competitions/WroclawOpen2007/results/by_person#2006PRUS01) |
 | 2 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | [Cubing Spring Grudziadz 2012](https://www.worldcubeassociation.org/competitions/CubingSpringGrudziadz2012/results/by_person#2009PLES01) |
 | 2 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | [PLS Szczecin 2014](https://www.worldcubeassociation.org/competitions/PLSSzczecin2014/results/by_person#2011KOWA01) |
+| 2 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [All Rounders Katowice I 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceI2026/results/by_person#2016KOLA02) |
 | 2 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Cube4fun Lublin on WEII 2024](https://www.worldcubeassociation.org/competitions/Cube4funLublinonWEII2024/results/by_person#2021KASP01) |
 | 1 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) | [Polish Open 2006](https://www.worldcubeassociation.org/competitions/PolishOpen2006/results/by_person#2003ZBOR02) |
 | 1 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) | [Polish Open 2007](https://www.worldcubeassociation.org/competitions/PolishOpen2007/results/by_person#2005CIAL02) |
@@ -176,6 +177,7 @@
 | 2 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Hvidovre NxN 2025](https://www.worldcubeassociation.org/competitions/HvidovreNxN2025/results/by_person#2016KOLA02) |
 | 2 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2016KOLA02) |
 | 2 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/by_person#2016KOLA02) |
+| 2 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [All Rounders Katowice I 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceI2026/results/by_person#2016KOLA02) |
 | 2 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | [Bishop's Stortford - BBO 2022](https://www.worldcubeassociation.org/competitions/BishopsStortfordAutumnBBO2022/results/by_person#2017DEBS01) |
 | 2 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Cube4fun Lublin on WEII 2024](https://www.worldcubeassociation.org/competitions/Cube4funLublinonWEII2024/results/by_person#2021KASP01) |
 

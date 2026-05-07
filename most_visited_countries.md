@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on  4 May 2026*
+*Updated on  7 May 2026*
 
 | Countries | Person |
 | ---: | :--- |
@@ -56,11 +56,11 @@
 | 6 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) |
 | 6 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) |
 | 6 | [Kamil Zieliński](https://www.worldcubeassociation.org/persons/2008ZIEL01) |
+| 6 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) |
 | 6 | [Stanisław Dąbrowski](https://www.worldcubeassociation.org/persons/2016DABR03) |
-| 5 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) |
 | 5 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) |
 | 5 | [Ignacy Malinowski](https://www.worldcubeassociation.org/persons/2021MALI02) |
-| 5 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) |
+| 5 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) |
 | 5 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
 | 5 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) |
 | 5 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) |

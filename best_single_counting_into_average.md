@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  4 May 2026*
+*Updated on  7 May 2026*
 
 
 ### 3x3x3 Cube
@@ -43,10 +43,10 @@
 | 16.41 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Oslo Open 2025](https://www.worldcubeassociation.org/competitions/OsloOpen2025/results/by_person#2016KOLA02) |
 | 17.17 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Felgueiras ao Cubo 2026](https://www.worldcubeassociation.org/competitions/FelgueirasaoCubo2026/results/by_person#2016KOLA02) |
 | 17.20 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [CFL Brzeziny 2025](https://www.worldcubeassociation.org/competitions/CFLBrzeziny2025/results/by_person#2016KOLA02) |
+| 17.25 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Kostelec NxN 2026](https://www.worldcubeassociation.org/competitions/KostelecNxN2026/results/by_person#2016KOLA02) |
 | 17.29 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2016KOLA02) |
 | 17.41 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Gorzów Cubing Days 2026](https://www.worldcubeassociation.org/competitions/GorzowCubingDays2026/results/by_person#2016KOLA02) |
 | 17.47 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Bergen Fall 2025](https://www.worldcubeassociation.org/competitions/BergenFall2025/results/by_person#2016KOLA02) |
-| 17.55 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Flatåsen Open 2025](https://www.worldcubeassociation.org/competitions/FlatasenOpen2025/results/by_person#2016KOLA02) |
 
 ### 5x5x5 Cube
 
@@ -54,6 +54,7 @@
 | ---: | :--- | :--- |
 | 29.49 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [All Rounders Katowice I 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceI2026/results/by_person#2016KOLA02) |
 | 30.70 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [SzczeciNxN 2026](https://www.worldcubeassociation.org/competitions/SzczeciNxN2026/results/by_person#2016KOLA02) |
+| 31.29 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Kostelec NxN 2026](https://www.worldcubeassociation.org/competitions/KostelecNxN2026/results/by_person#2016KOLA02) |
 | 31.36 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Energy Cube Białołęka 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2025/results/by_person#2016KOLA02) |
 | 31.67 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2016KOLA02) |
 | 32.34 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2016KOLA02) |
@@ -61,7 +62,6 @@
 | 32.61 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Flatåsen Open 2025](https://www.worldcubeassociation.org/competitions/FlatasenOpen2025/results/by_person#2016KOLA02) |
 | 32.65 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Seoul Winter 2026](https://www.worldcubeassociation.org/competitions/SeoulWinter2026/results/by_person#2016KOLA02) |
 | 32.90 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [PBs in Palisades Winter 2025](https://www.worldcubeassociation.org/competitions/PBsinPalisadesWinter2025/results/by_person#2016KOLA02) |
-| 32.98 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2016KOLA02) |
 
 ### 3x3x3 One-Handed
 

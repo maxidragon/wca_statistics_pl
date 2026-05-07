@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on  4 May 2026*
+*Updated on  7 May 2026*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -32,9 +32,9 @@
 | 45 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) |
 | 44 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) |
 | 42 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) |
+| 41 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) |
 | 41 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) |
 | 40 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) |
-| 40 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) |
 | 40 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) |
 | 39 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
 | 39 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) |

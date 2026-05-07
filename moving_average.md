@@ -7,14 +7,14 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on  4 May 2026*
+*Updated on  7 May 2026*
 
 
 ### 3x3x3 Cube
 
 | Moving average | Person |
 | ---: | :--- |
-| 5.11 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
+| 5.10 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 5.33 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
 | 5.91 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) |
 | 6.40 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) |
@@ -51,7 +51,7 @@
 | 8.37 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) |
 | 8.38 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) |
 | 8.40 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
-| 8.47 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) |
+| 8.43 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) |
 | 8.48 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |
 | 8.51 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) |
 | 8.52 | [Aleksander Iżowski](https://www.worldcubeassociation.org/persons/2022IZOW01) |
@@ -95,6 +95,7 @@
 | 2.31 | [Mikołaj Świątek](https://www.worldcubeassociation.org/persons/2023SWIA01) |
 | 2.32 | [Szymon Brągiel](https://www.worldcubeassociation.org/persons/2022BRAG03) |
 | 2.39 | [Antoni Polityło](https://www.worldcubeassociation.org/persons/2023POLI06) |
+| 2.40 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) |
 | 2.43 | [Jan Koziarski](https://www.worldcubeassociation.org/persons/2019KOZI01) |
 | 2.47 | [Ryszard Kędziora](https://www.worldcubeassociation.org/persons/2022KEDZ01) |
 | 2.49 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
@@ -103,7 +104,6 @@
 | 2.57 | [Maksymilian Sysak](https://www.worldcubeassociation.org/persons/2024SYSA01) |
 | 2.58 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) |
 | 2.59 | [Tymon Martyński](https://www.worldcubeassociation.org/persons/2022MART79) |
-| 2.59 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) |
 | 2.63 | [Szymon Musiał](https://www.worldcubeassociation.org/persons/2018MUSI03) |
 | 2.65 | [Radosław Smędzik](https://www.worldcubeassociation.org/persons/2022SMED01) |
 | 2.68 | [Ignacy Malinowski](https://www.worldcubeassociation.org/persons/2021MALI02) |
@@ -124,7 +124,7 @@
 
 | Moving average | Person |
 | ---: | :--- |
-| 21.13 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
+| 21.38 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 26.50 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
 | 27.62 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
 | 28.02 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) |
@@ -135,8 +135,8 @@
 | 28.89 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) |
 | 28.98 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) |
 | 29.47 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) |
+| 29.63 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) |
 | 29.64 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) |
-| 29.90 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) |
 | 30.07 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) |
 | 30.13 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) |
 | 30.74 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) |
@@ -158,19 +158,19 @@
 | 33.43 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) |
 | 33.43 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 33.52 | [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) |
-| 33.57 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) |
 | 33.60 | [Kacper Dłubała](https://www.worldcubeassociation.org/persons/2018DLUB01) |
 | 33.64 | [Igor Kamiński](https://www.worldcubeassociation.org/persons/2023KAMI04) |
 | 33.67 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) |
 | 33.85 | [Szymon Musiał](https://www.worldcubeassociation.org/persons/2018MUSI03) |
+| 33.86 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) |
 | 33.90 | [Tymon Martyński](https://www.worldcubeassociation.org/persons/2022MART79) |
 | 33.91 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) |
 | 34.04 | [Mateusz Gil](https://www.worldcubeassociation.org/persons/2013GILM01) |
 | 34.05 | [Hubert Kwasigroch](https://www.worldcubeassociation.org/persons/2014KWAS01) |
 | 34.10 | [Mikołaj Zubowicz](https://www.worldcubeassociation.org/persons/2015ZUBO01) |
+| 34.33 | [Oskar Matysik](https://www.worldcubeassociation.org/persons/2019MATY01) |
+| 34.34 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) |
 | 34.37 | [Jan Jędrzej Kasprzak](https://www.worldcubeassociation.org/persons/2022KASP03) |
-| 34.45 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) |
-| 34.47 | [Oskar Matysik](https://www.worldcubeassociation.org/persons/2019MATY01) |
 | 34.49 | [Wojciech Weremczuk](https://www.worldcubeassociation.org/persons/2014WERE01) |
 | 34.61 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) |
 | 34.72 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) |
@@ -179,9 +179,9 @@
 
 | Moving average | Person |
 | ---: | :--- |
-| 36.28 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
+| 36.58 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
+| 49.44 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) |
 | 50.21 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) |
-| 50.70 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) |
 | 51.05 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) |
 | 51.30 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
 | 52.07 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) |
@@ -202,14 +202,14 @@
 | 57.84 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) |
 | 58.18 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 58.34 | [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) |
-| 58.77 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) |
 | 58.82 | [Hubert Kwasigroch](https://www.worldcubeassociation.org/persons/2014KWAS01) |
 | 58.84 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
+| 59.15 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) |
 | 59.94 | [Kinga Bednarska](https://www.worldcubeassociation.org/persons/2021BEDN01) |
 | 1:00.38 | [Victor Kiziukiewicz](https://www.worldcubeassociation.org/persons/2023KIZI01) |
 | 1:00.42 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) |
+| 1:00.62 | [Oskar Matysik](https://www.worldcubeassociation.org/persons/2019MATY01) |
 | 1:01.03 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) |
-| 1:01.17 | [Oskar Matysik](https://www.worldcubeassociation.org/persons/2019MATY01) |
 | 1:02.33 | [Tomasz Cepil](https://www.worldcubeassociation.org/persons/2018CEPI01) |
 | 1:02.47 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 1:02.55 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) |
@@ -227,15 +227,15 @@
 | 1:04.93 | [Mikołaj Zubowicz](https://www.worldcubeassociation.org/persons/2015ZUBO01) |
 | 1:05.11 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 1:05.21 | [Wiktor Gugulski](https://www.worldcubeassociation.org/persons/2023GUGU01) |
-| 1:05.35 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
 | 1:05.44 | [Szymon Musiał](https://www.worldcubeassociation.org/persons/2018MUSI03) |
+| 1:05.53 | [Filip Brokos](https://www.worldcubeassociation.org/persons/2022BROK03) |
 
 ### 6x6x6 Cube
 
 | Moving average | Person |
 | ---: | :--- |
-| 1:10.69 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
-| 1:29.43 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) |
+| 1:10.95 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
+| 1:27.67 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) |
 | 1:33.76 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) |
 | 1:34.82 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) |
 | 1:35.91 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) |
@@ -246,13 +246,13 @@
 | 1:39.78 | [Jan Woźniak](https://www.worldcubeassociation.org/persons/2021WOZN01) |
 | 1:40.81 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) |
 | 1:41.52 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) |
-| 1:42.01 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) |
 | 1:42.30 | [Adam Łyskawa](https://www.worldcubeassociation.org/persons/2017LYSK01) |
+| 1:43.14 | [Oskar Matysik](https://www.worldcubeassociation.org/persons/2019MATY01) |
 | 1:44.08 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) |
 | 1:44.20 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
 | 1:44.29 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) |
+| 1:44.84 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) |
 | 1:46.02 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) |
-| 1:46.74 | [Oskar Matysik](https://www.worldcubeassociation.org/persons/2019MATY01) |
 | 1:46.95 | [Maksymilian Sordyl](https://www.worldcubeassociation.org/persons/2022SORD01) |
 | 1:47.62 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 1:48.88 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
@@ -289,19 +289,19 @@
 
 | Moving average | Person |
 | ---: | :--- |
-| 1:52.48 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
-| 2:11.48 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) |
+| 1:51.04 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
+| 2:09.57 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) |
 | 2:18.62 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) |
 | 2:20.53 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) |
 | 2:21.02 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 2:28.79 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) |
-| 2:33.09 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) |
+| 2:30.83 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) |
+| 2:32.58 | [Oskar Matysik](https://www.worldcubeassociation.org/persons/2019MATY01) |
 | 2:34.11 | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) |
 | 2:34.32 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) |
 | 2:34.73 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) |
 | 2:36.87 | [Adam Łyskawa](https://www.worldcubeassociation.org/persons/2017LYSK01) |
 | 2:37.23 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) |
-| 2:38.56 | [Oskar Matysik](https://www.worldcubeassociation.org/persons/2019MATY01) |
 | 2:38.59 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) |
 | 2:42.93 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) |
 | 2:45.69 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) |
@@ -327,9 +327,9 @@
 | 3:08.15 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) |
 | 3:08.73 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
 | 3:08.92 | [Mikołaj Molski](https://www.worldcubeassociation.org/persons/2015MOLS01) |
-| 3:13.74 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
 | 3:13.90 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) |
 | 3:14.14 | [Igor Łabędź](https://www.worldcubeassociation.org/persons/2021LABE01) |
+| 3:14.47 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
 | 3:14.54 | [Ignacy Malinowski](https://www.worldcubeassociation.org/persons/2021MALI02) |
 | 3:16.34 | [Dominik Zamęcki](https://www.worldcubeassociation.org/persons/2020ZAME01) |
 | 3:17.01 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) |
@@ -513,7 +513,7 @@
 | 2.11 | [Henryk Gabor](https://www.worldcubeassociation.org/persons/2024GABO02) |
 | 2.15 | [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) |
 | 2.18 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) |
-| 2.26 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) |
+| 2.18 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) |
 | 2.27 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 2.35 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) |
 | 2.37 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) |
@@ -522,17 +522,17 @@
 | 2.58 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) |
 | 2.67 | [Tymoteusz Zmudzki Piskorska](https://www.worldcubeassociation.org/persons/2024PISK02) |
 | 2.78 | [Maciej Jabłoński](https://www.worldcubeassociation.org/persons/2017JABL01) |
-| 2.82 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) |
+| 2.80 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) |
 | 2.89 | [Wiktor Smędzik](https://www.worldcubeassociation.org/persons/2022SMED02) |
 | 2.89 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) |
 | 2.90 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) |
 | 2.91 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) |
+| 2.97 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) |
 | 3.02 | [Tobiasz Urbanowicz](https://www.worldcubeassociation.org/persons/2019URBA01) |
 | 3.07 | [Aleksander Arefiew](https://www.worldcubeassociation.org/persons/2016AREF01) |
 | 3.09 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 3.09 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 3.12 | [Marek Dojtrowski](https://www.worldcubeassociation.org/persons/2023DOJT01) |
-| 3.15 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) |
 | 3.15 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) |
 | 3.26 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) |
 | 3.29 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
@@ -546,7 +546,7 @@
 | 3.46 | [Bartosz Miduch](https://www.worldcubeassociation.org/persons/2019MIDU01) |
 | 3.49 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) |
 | 3.52 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
-| 3.55 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
+| 3.57 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
 | 3.59 | [Liam Stuart Ferreira](https://www.worldcubeassociation.org/persons/2022FERR14) |
 | 3.61 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) |
 | 3.66 | [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) |
@@ -565,7 +565,7 @@
 | Moving average | Person |
 | ---: | :--- |
 | 3.24 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) |
-| 3.70 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) |
+| 3.64 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) |
 | 3.85 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) |
 | 3.87 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) |
 | 3.88 | [Kacper Bieńkowski](https://www.worldcubeassociation.org/persons/2022BIEN01) |
@@ -606,7 +606,6 @@
 | 5.76 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
 | 5.77 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) |
 | 5.78 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) |
-| 5.78 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) |
 | 5.79 | [Adam Dojtrowski](https://www.worldcubeassociation.org/persons/2023DOJT02) |
 | 5.82 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) |
 | 5.82 | [Filip Błaszkowicz](https://www.worldcubeassociation.org/persons/2022BLAS03) |
@@ -614,6 +613,7 @@
 | 5.96 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) |
 | 5.97 | [Anonymous](https://www.worldcubeassociation.org/persons/2020ANON03) |
 | 5.98 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) |
+| 5.98 | [Jan Zachwatowicz](https://www.worldcubeassociation.org/persons/2022ZACH01) |
 
 ### Skewb
 

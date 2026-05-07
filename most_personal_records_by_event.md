@@ -1,14 +1,14 @@
 ## Most personal records by event
 
 *Note: Counts how many personal records (single or average) a competitor achieved in each event.*
-*Updated on  4 May 2026*
+*Updated on  7 May 2026*
 
 
 ### 3x3x3 Cube
 
 | PRs | Person |
 | ---: | :--- |
-| 67 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
+| 68 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 58 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) |
 | 56 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) |
 | 52 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |

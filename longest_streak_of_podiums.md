@@ -1,14 +1,14 @@
 ## Longest streak of podiums
 
 *Note: All competitions that did not hold the given event are ignored. Results without any completed attempt are not eligible for podium. Only finals are taken into account.*
-*Updated on  4 May 2026*
+*Updated on  7 May 2026*
 
 | Count | Person | Event | Started at | Ended at |
 | ---: | :--- | :--- | :--- | :--- |
-| 116 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 3x3x3 Cube | [Cubing in Cill Chainnigh 2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019) |  |
+| 117 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 3x3x3 Cube | [Cubing in Cill Chainnigh 2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019) |  |
 | 86 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | Square-1 | [Polish Championship 2016](https://www.worldcubeassociation.org/competitions/PolishChampionship2016) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) |
 | 83 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 5x5x5 Cube | [Cubing in Cill Chainnigh 2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019) | [All Rounders Katowice I 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceI2026) |
-| 66 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 4x4x4 Cube | [Kubsala Winter 2023](https://www.worldcubeassociation.org/competitions/KubsalaWinter2023) |  |
+| 67 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 4x4x4 Cube | [Kubsala Winter 2023](https://www.worldcubeassociation.org/competitions/KubsalaWinter2023) |  |
 | 63 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 7x7x7 Cube | [Full Steps in Brest 2016](https://www.worldcubeassociation.org/competitions/FullStepsinBrest2016) |  |
 | 63 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 7x7x7 Cube | [Cubing in Cill Chainnigh 2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019) | [SzczeciNxN 2026](https://www.worldcubeassociation.org/competitions/SzczeciNxN2026) |
 | 52 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 6x6x6 Cube | [Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/PolishNationals2009) | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) |

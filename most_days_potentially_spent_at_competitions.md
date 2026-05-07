@@ -1,6 +1,6 @@
 ## Most days potentially spent at competitions
 
-*Updated on  4 May 2026*
+*Updated on  7 May 2026*
 
 | Days | Person | Competitions |
 | ---: | :--- | ---: |
@@ -11,13 +11,13 @@
 | 425 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 214 |
 | 418 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 213 |
 | 389 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 224 |
-| 384 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 187 |
-| 374 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 180 |
+| 386 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 188 |
+| 376 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 181 |
 | 365 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | 187 |
 | 334 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | 197 |
 | 328 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 181 |
 | 317 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | 159 |
-| 313 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 157 |
+| 315 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 158 |
 | 293 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 143 |
 | 287 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 140 |
 | 276 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 141 |

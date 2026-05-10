@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on  7 May 2026*
+*Updated on 10 May 2026*
 
 
 ### Competition
@@ -32,11 +32,11 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **20219** | 21044 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **20274** | 21099 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **16215** | 16867 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **15413** | 15835 |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **13256** | 13732 |
-| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **12950** | 13939 |
+| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **13004** | 13994 |
 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **12495** | 13143 |
 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | **11173** | 11534 |
 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **11171** | 11772 |
@@ -62,7 +62,7 @@
 | 2023 | **188218** | 198622 |
 | 2022 | **116402** | 123618 |
 | 2019 | **91337** | 95933 |
-| 2026 | **83672** | 88706 |
+| 2026 | **84565** | 89619 |
 | 2014 | **76324** | 80953 |
 | 2018 | **72402** | 75406 |
 | 2017 | **67139** | 70211 |
@@ -82,12 +82,12 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **362338** | 369538 |
-| 2x2x2 Cube | **237370** | 243828 |
-| Pyraminx | **183097** | 187906 |
-| Skewb | **127445** | 130734 |
-| 4x4x4 Cube | **124456** | 128728 |
-| 3x3x3 One-Handed | **98742** | 101908 |
+| 3x3x3 Cube | **362594** | 369798 |
+| 2x2x2 Cube | **237554** | 244013 |
+| Pyraminx | **183262** | 188076 |
+| Skewb | **127605** | 130899 |
+| 4x4x4 Cube | **124522** | 128798 |
+| 3x3x3 One-Handed | **98804** | 101971 |
 | Clock | **75780** | 87716 |
 | Megaminx | **61427** | 63886 |
 | 5x5x5 Cube | **60336** | 62503 |

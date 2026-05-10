@@ -1,14 +1,14 @@
 ## Most days potentially spent at competitions
 
-*Updated on  7 May 2026*
+*Updated on 10 May 2026*
 
 | Days | Person | Competitions |
 | ---: | :--- | ---: |
-| 718 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 388 |
+| 719 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 389 |
 | 629 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 363 |
 | 508 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 258 |
 | 498 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 264 |
-| 425 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 214 |
+| 426 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 215 |
 | 418 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 213 |
 | 389 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 224 |
 | 386 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 188 |
@@ -32,7 +32,7 @@
 | 232 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 109 |
 | 232 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 107 |
 | 231 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) | 129 |
-| 229 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | 117 |
+| 230 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | 118 |
 | 227 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 108 |
 | 226 | [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) | 120 |
 | 223 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 109 |
@@ -42,7 +42,7 @@
 | 214 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 112 |
 | 213 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 114 |
 | 212 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | 100 |
-| 210 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 114 |
+| 211 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 115 |
 | 208 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 107 |
 | 207 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 119 |
 | 205 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 121 |

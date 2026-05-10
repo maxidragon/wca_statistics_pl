@@ -1,7 +1,7 @@
 ## Competed in most voivodeships in Poland
 
 *Note: Voivodeships are inferred from competition coordinates. Approximate bounding box classification.*
-*Updated on  7 May 2026*
+*Updated on 10 May 2026*
 
 | Person | Completed | Missed | Missed Voivodeships | Completed At |
 | :--- | ---: | ---: | :--- | :--- |
@@ -42,7 +42,9 @@
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 14 | 2 | lubuskie, warmińsko-mazurskie |  |
 | [Anonymous](https://www.worldcubeassociation.org/persons/2020ANON03) | 13 | 3 | kujawsko-pomorskie, podlaskie, świętokrzyskie |  |
 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 13 | 3 | lubuskie, podlaskie, zachodniopomorskie |  |
+| [Hubert Darłak](https://www.worldcubeassociation.org/persons/2023DARL03) | 13 | 3 | kujawsko-pomorskie, świętokrzyskie, wielkopolskie |  |
 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 13 | 3 | dolnośląskie, lubuskie, podlaskie |  |
+| [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | 13 | 3 | kujawsko-pomorskie, lubuskie, zachodniopomorskie |  |
 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | 13 | 3 | lubuskie, warmińsko-mazurskie, wielkopolskie |  |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 13 | 3 | lubuskie, podlaskie, zachodniopomorskie |  |
 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) | 13 | 3 | kujawsko-pomorskie, lubuskie, wielkopolskie |  |
@@ -62,9 +64,7 @@
 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 12 | 4 | lubuskie, opolskie, podkarpackie, świętokrzyskie |  |
 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) | 12 | 4 | lubuskie, podlaskie, warmińsko-mazurskie, zachodniopomorskie |  |
 | [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) | 12 | 4 | kujawsko-pomorskie, lubuskie, podlaskie, zachodniopomorskie |  |
-| [Hubert Darłak](https://www.worldcubeassociation.org/persons/2023DARL03) | 12 | 4 | kujawsko-pomorskie, podlaskie, świętokrzyskie, wielkopolskie |  |
 | [Igor Kowalczyk](https://www.worldcubeassociation.org/persons/2013KOWA04) | 12 | 4 | dolnośląskie, lubuskie, podlaskie, wielkopolskie |  |
-| [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | 12 | 4 | kujawsko-pomorskie, lubuskie, podlaskie, zachodniopomorskie |  |
 | [Joanna Hołdakowska](https://www.worldcubeassociation.org/persons/2016HOLD04) | 12 | 4 | dolnośląskie, kujawsko-pomorskie, lubuskie, podkarpackie |  |
 | [Kamil Zieliński](https://www.worldcubeassociation.org/persons/2008ZIEL01) | 12 | 4 | lubuskie, opolskie, warmińsko-mazurskie, zachodniopomorskie |  |
 | [Krzysztof Kuncki](https://www.worldcubeassociation.org/persons/2010KUNC01) | 12 | 4 | lubuskie, świętokrzyskie, warmińsko-mazurskie, zachodniopomorskie |  |

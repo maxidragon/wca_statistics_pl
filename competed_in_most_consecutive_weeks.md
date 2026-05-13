@@ -1,7 +1,7 @@
 ## Most consecutive weeks with competitions
 
 *Note: Only includes people from Poland. Weeks are counted as ISO weeks (Monday-Sunday). Multiple competitions in the same week count as one.*
-*Updated on 10 May 2026*
+*Updated on 13 May 2026*
 
 | Count | Person | Start comp | End comp |
 | ---: | :--- | :--- | :--- |
@@ -48,6 +48,7 @@
 | 5 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | [Energy Cube Tomaszów Mazowiecki 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2024) | [Energy Cube Białołęka 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2024) |
 | 5 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022) | [Cube4fun League VII Pawłowice 2022](https://www.worldcubeassociation.org/competitions/Cube4funPawlowice2022) |
 | 5 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | [CF Goes Crazy Brzeziny 2025](https://www.worldcubeassociation.org/competitions/CFGoesCrazyBrzeziny2025) | [Lakeside Megaminx Fiesta Augustów 2025](https://www.worldcubeassociation.org/competitions/MegaminxFiestaAugustow2025) |
+| 5 | [Robert Ślesicki](https://www.worldcubeassociation.org/persons/2019SLES02) | [Olsztyn Spring Open 2026](https://www.worldcubeassociation.org/competitions/OlsztynSpringOpen2026) | [Podlaskie Tour Białystok 2026](https://www.worldcubeassociation.org/competitions/PodlaskieTourBialystok2026) |
 | 5 | [Wojciech Piórczyński](https://www.worldcubeassociation.org/persons/2021PIOR01) | [Polish Sylwester Tour: FMC Poznań 2025](https://www.worldcubeassociation.org/competitions/PSTFMCPoznan2025) | [Fun with Fewest Moves in Warsaw 2026](https://www.worldcubeassociation.org/competitions/FunwithFMinWarsaw2026) |
 | 5 | [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) | [Energy Cube Tomaszów Mazowiecki 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2024) | [Energy Cube Białołęka 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2024) |
 | 5 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | [Energy Cube Tomaszów Mazowiecki 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2024) | [Energy Cube Białołęka 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2024) |
@@ -83,7 +84,6 @@
 | 4 | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) | [Szczecin Open 2022](https://www.worldcubeassociation.org/competitions/SzczecinOpen2022) | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022) |
 | 4 | [Wiktoria Waryszak](https://www.worldcubeassociation.org/persons/2018WARY01) | [Cube4fun Bełżyce Multi Events 2023](https://www.worldcubeassociation.org/competitions/Cube4funBelzyceMultiEvents2023) | [Cube4fun Double Weekend Pilzno 2023](https://www.worldcubeassociation.org/competitions/Cube4funDWPilzno2023) |
 | 4 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | [Ladce Open 2025](https://www.worldcubeassociation.org/competitions/LadceOpen2025) | [Portugal Championship 2025](https://www.worldcubeassociation.org/competitions/PortugalChampionship2025) |
-| 4 | [Robert Ślesicki](https://www.worldcubeassociation.org/persons/2019SLES02) | [Olsztyn Spring Open 2026](https://www.worldcubeassociation.org/competitions/OlsztynSpringOpen2026) | [Nordic & Swedish Championship 2026](https://www.worldcubeassociation.org/competitions/NordicSwedishChampionship2026) |
 | 4 | [Michał Kopeć](https://www.worldcubeassociation.org/persons/2020KOPE01) | [Ice Cubing Szczecinek 2023](https://www.worldcubeassociation.org/competitions/IceCubingSzczecinek2023) | [GLS II 2023](https://www.worldcubeassociation.org/competitions/GLSII2023) |
 | 4 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | [Kostelec Summer 2022](https://www.worldcubeassociation.org/competitions/KostelecSummer2022) | [Cube4fun League VIII Bełżyce 2022](https://www.worldcubeassociation.org/competitions/Cube4funBelzyce2022) |
 | 4 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) | [September Speedcubing Tour Rzeszów 2021](https://www.worldcubeassociation.org/competitions/SSTRzeszow2021) | [Polish Championship 2021](https://www.worldcubeassociation.org/competitions/PolishChampionship2021) |

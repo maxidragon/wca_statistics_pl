@@ -1,7 +1,7 @@
 ## Records in the highest number of events
 
 *Note: All historical records are taken into account (i.e. not only the current ones).*
-*Updated on 13 May 2026*
+*Updated on 16 May 2026*
 
 
 ### World
@@ -14,20 +14,20 @@
 | 2 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 3x3x3 Cube, 2x2x2 Cube |
 | 2 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | 3x3x3 Blindfolded, 3x3x3 Multi-Blind |
 | 2 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | 4x4x4 Blindfolded, 5x5x5 Blindfolded |
-| 1 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) | 3x3x3 Fewest Moves |
-| 1 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 3x3x3 One-Handed |
-| 1 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | Skewb |
 | 1 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | 3x3x3 With Feet |
+| 1 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | Skewb |
+| 1 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 3x3x3 One-Handed |
 | 1 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 3x3x3 Cube |
 | 1 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | Pyraminx |
 | 1 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | Pyraminx |
-| 1 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) | 2x2x2 Cube |
+| 1 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) | 3x3x3 Fewest Moves |
 | 1 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) | 2x2x2 Cube |
+| 1 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) | 2x2x2 Cube |
 | 1 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | Skewb |
 | 1 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | Clock |
 | 1 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 3x3x3 One-Handed |
 | 1 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | 3x3x3 Blindfolded |
-| 1 | [Szymon Jeziorski](https://www.worldcubeassociation.org/persons/2013JEZI01) | 3x3x3 Fewest Moves |
+| 1 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 3x3x3 Fewest Moves |
 
 ### Continental
 
@@ -45,12 +45,12 @@
 | 2 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | 3x3x3 Blindfolded, 3x3x3 Multi-Blind |
 | 2 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | 4x4x4 Blindfolded, 5x5x5 Blindfolded |
 | 2 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | Clock, Magic |
-| 1 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) | 3x3x3 Fewest Moves |
 | 1 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | Skewb |
 | 1 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | Pyraminx |
 | 1 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | Pyraminx |
-| 1 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) | 2x2x2 Cube |
+| 1 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) | 3x3x3 Fewest Moves |
 | 1 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) | 2x2x2 Cube |
+| 1 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) | 2x2x2 Cube |
 | 1 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | Skewb |
 | 1 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | Clock |
 
@@ -63,17 +63,17 @@
 | 6 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 3x3x3 Cube, 4x4x4 Cube, 5x5x5 Cube, 3x3x3 Blindfolded, 3x3x3 One-Handed, Pyraminx |
 | 5 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 3x3x3 Cube, 5x5x5 Cube, 3x3x3 Fewest Moves, Megaminx, Pyraminx |
 | 5 | [Rafał Guzewicz](https://www.worldcubeassociation.org/persons/2006GUZE01) | 3x3x3 Blindfolded, 4x4x4 Blindfolded, 5x5x5 Blindfolded, 3x3x3 Multi-Blind, 3x3x3 Multi-Blind Old Style |
-| 4 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) | 3x3x3 Cube, 4x4x4 Cube, 5x5x5 Cube, 3x3x3 Fewest Moves |
 | 4 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 3x3x3 Cube, 2x2x2 Cube, 3x3x3 Fewest Moves, 3x3x3 One-Handed |
+| 4 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) | 3x3x3 Cube, 4x4x4 Cube, 5x5x5 Cube, 3x3x3 Fewest Moves |
 | 4 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 4x4x4 Cube, 6x6x6 Cube, 3x3x3 One-Handed, Skewb |
+| 3 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | 3x3x3 Cube, 3x3x3 With Feet, Magic |
+| 3 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 3x3x3 Cube, 3x3x3 One-Handed, Skewb |
+| 3 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 3x3x3 Cube, 4x4x4 Cube, 5x5x5 Cube |
 | 3 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 3x3x3 Cube, 4x4x4 Cube, Megaminx |
 | 3 | [Michał Robaczyk](https://www.worldcubeassociation.org/persons/2006ROBA01) | 3x3x3 Cube, 2x2x2 Cube, Square-1 |
-| 3 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 3x3x3 Cube, 3x3x3 One-Handed, Skewb |
-| 3 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | 3x3x3 Cube, 3x3x3 With Feet, Magic |
-| 3 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 3x3x3 Cube, 4x4x4 Cube, 5x5x5 Cube |
 | 3 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 4x4x4 Cube, 5x5x5 Cube, Clock |
-| 3 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | 3x3x3 Blindfolded, 4x4x4 Blindfolded, 5x5x5 Blindfolded |
 | 3 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 3x3x3 Blindfolded, 4x4x4 Blindfolded, 5x5x5 Blindfolded |
+| 3 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | 3x3x3 Blindfolded, 4x4x4 Blindfolded, 5x5x5 Blindfolded |
 | 3 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | 3x3x3 Blindfolded, 4x4x4 Blindfolded, 5x5x5 Blindfolded |
 | 3 | [Jarosław Nowicki](https://www.worldcubeassociation.org/persons/2004NOWI01) | 3x3x3 One-Handed, Clock, Square-1 |
 | 3 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | Clock, Pyraminx, Magic |

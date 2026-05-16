@@ -1,6 +1,6 @@
 ## National records count by person
 
-*Updated on 13 May 2026*
+*Updated on 16 May 2026*
 
 | WRs | Person |
 | ---: | :--- |
@@ -29,6 +29,7 @@
 | 9 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) |
 | 7 | [Kamil Fiedoruk](https://www.worldcubeassociation.org/persons/2012FIED01) |
 | 7 | [Marek Kurcyus](https://www.worldcubeassociation.org/persons/2005KURC01) |
+| 7 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 7 | [Rafał Guzewicz](https://www.worldcubeassociation.org/persons/2006GUZE01) |
 | 6 | [Ernest Seroczyński](https://www.worldcubeassociation.org/persons/2015SERO02) |
 | 6 | [Filip Miazek](https://www.worldcubeassociation.org/persons/2010MIAZ01) |
@@ -36,7 +37,6 @@
 | 6 | [Krzysztof Natusiewicz](https://www.worldcubeassociation.org/persons/2011NATU01) |
 | 6 | [Piotr Frankowski](https://www.worldcubeassociation.org/persons/2006FRAN01) |
 | 6 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) |
-| 6 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 6 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) |
 | 6 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
 | 5 | [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) |

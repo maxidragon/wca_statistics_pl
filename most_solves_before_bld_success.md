@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 13 May 2026*
+*Updated on 16 May 2026*
 
 
 ### 3x3x3 Blindfolded
@@ -51,7 +51,7 @@
 | 7 | [Igor Wojciech Wawrzynski](https://www.worldcubeassociation.org/persons/2019WAWR01) |
 | 7 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 7 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
-| 7 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) |
+| 7 | [Marcin Wawiórko](https://www.worldcubeassociation.org/persons/2023WAWI01) |
 
 ### 5x5x5 Blindfolded
 

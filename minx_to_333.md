@@ -8,8 +8,8 @@
 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 1:00.29 | 17.84 | 3.38 |
 | [Kajtek Kwiatkowski](https://www.worldcubeassociation.org/persons/2023KWIA01) | 49.40 | 14.51 | 3.41 |
 | [Maciej Lyer](https://www.worldcubeassociation.org/persons/2014LYER01) | 42.17 | 11.53 | 3.66 |
-| [Przemysław Rudziak](https://www.worldcubeassociation.org/persons/2020RUDZ02) | 37.25 | 10.16 | 3.67 |
 | [Klaudia Milewczyk](https://www.worldcubeassociation.org/persons/2022MILE05) | 1:50.57 | 30.16 | 3.67 |
+| [Przemysław Rudziak](https://www.worldcubeassociation.org/persons/2020RUDZ02) | 37.25 | 10.16 | 3.67 |
 | [Kacper Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC06) | 1:01.59 | 16.22 | 3.80 |
 | [Szczepan Rozwadowski](https://www.worldcubeassociation.org/persons/2025ROZW02) | 53.15 | 13.86 | 3.84 |
 | [Maksymilian Piskorowski](https://www.worldcubeassociation.org/persons/2017PISK01) | 36.65 | 9.52 | 3.85 |

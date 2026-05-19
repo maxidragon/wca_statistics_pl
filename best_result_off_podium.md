@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals at Polish competitions are taken into account.*
-*Updated on 16 May 2026*
+*Updated on 19 May 2026*
 
 
 ### 3x3x3 Cube
@@ -143,6 +143,7 @@
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
+| [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 31.20 | **33.87** | [Mysłowice Cubing Spring 2026](https://www.worldcubeassociation.org/competitions/MyslowiceCubingSpring2026/results/all#eminx_f) | 4 |
 | [Ihor Sukhovatenko (Ігор Суховатенко)](https://www.worldcubeassociation.org/persons/2017SUKH02) | 31.85 | **34.40** | [Mielec Cubing Days 2026](https://www.worldcubeassociation.org/competitions/MielecCubingDays2026/results/all#eminx_f) | 4 |
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 33.25 | **34.61** | [Polish Open 2025](https://www.worldcubeassociation.org/competitions/PolishOpen2025/results/all#eminx_f) | 4 |
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 32.61 | **34.73** | [Mielec Cubing Days 2026](https://www.worldcubeassociation.org/competitions/MielecCubingDays2026/results/all#eminx_f) | 5 |
@@ -152,7 +153,6 @@
 | [Wiktor Gugulski](https://www.worldcubeassociation.org/persons/2023GUGU01) | 31.15 | **36.15** | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/all#eminx_f) | 5 |
 | [Ihor Sukhovatenko (Ігор Суховатенко)](https://www.worldcubeassociation.org/persons/2017SUKH02) | 34.04 | **36.66** | [All Rounders Katowice I 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceI2026/results/all#eminx_f) | 4 |
 | [Jonas Pilhöfer](https://www.worldcubeassociation.org/persons/2019PILH01) | 34.35 | **36.85** | [All Rounders Katowice I 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceI2026/results/all#eminx_f) | 5 |
-| [Przemysław Rudziak](https://www.worldcubeassociation.org/persons/2020RUDZ02) | 31.41 | **37.37** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#eminx_f) | 4 |
 
 ### Pyraminx
 

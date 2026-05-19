@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 16 May 2026*
+*Updated on 19 May 2026*
 
 
 ### 3x3x3 Cube
@@ -8,6 +8,7 @@
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
 | 2.76 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | [GLS Big Cubes Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSBigCubesGdansk2026/results/by_person#2021ZAJD03) |
+| 3.41 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | [GLS Gdańsk IV 2026](https://www.worldcubeassociation.org/competitions/GLSGdanskIV2026/results/by_person#2021ZAJD03) |
 | 3.78 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Great Lakes Championship 2023](https://www.worldcubeassociation.org/competitions/GreatLakesChampionship2023/results/by_person#2016KOLA02) |
 | 3.82 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Ohio State RPAC Cube Clash 2024](https://www.worldcubeassociation.org/competitions/OhioStateRPACCubeClash2024/results/by_person#2016KOLA02) |
 | 3.84 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | [GLS Gdańsk III 2026](https://www.worldcubeassociation.org/competitions/GLSGdanskIII2026/results/by_person#2021ZAJD03) |
@@ -16,7 +17,6 @@
 | 3.87 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | [GLS Big Cubes Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSBigCubesGdansk2026/results/by_person#2018KUZM02) |
 | 3.89 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Seoul Winter 2026](https://www.worldcubeassociation.org/competitions/SeoulWinter2026/results/by_person#2016KOLA02) |
 | 3.91 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Melbourne Summer 2026](https://www.worldcubeassociation.org/competitions/MelbourneSummer2026/results/by_person#2016KOLA02) |
-| 3.92 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Cubing at The Cube 2024](https://www.worldcubeassociation.org/competitions/CubingatTheCube2024/results/by_person#2016KOLA02) |
 
 ### 2x2x2 Cube
 

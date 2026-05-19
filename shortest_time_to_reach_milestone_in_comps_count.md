@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 16 May 2026*
+*Updated on 19 May 2026*
 
 
 ### 300 Competitions
@@ -50,6 +50,7 @@
 | 4782 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) |
 | 5013 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) |
 | 5881 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
+| 6888 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
 
 ### 100 Competitions
 

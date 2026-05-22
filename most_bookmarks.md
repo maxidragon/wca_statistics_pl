@@ -1,6 +1,6 @@
 ## Most bookmarks compared to competitor limit
 
-*Updated on 19 May 2026*
+*Updated on 22 May 2026*
 
 | Competition | Bookmarks | Competitor limit | Ratio |
 | ---: | :--- | :--- | :--- |
@@ -22,7 +22,7 @@
 | [BrizZon Sylwester Open 2024](https://www.worldcubeassociation.org/competitions/BrizZonSylwesterOpen2024) | 28 | 35 | 0.8 |
 | [PSS Side Day Gdańsk 2026](https://www.worldcubeassociation.org/competitions/PSSSideDayGdansk2026) | 16 | 20 | 0.8 |
 | [SzczeciNxN 2026](https://www.worldcubeassociation.org/competitions/SzczeciNxN2026) | 40 | 50 | 0.8 |
-| [All Rounders Katowice IV 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceIV2026) | 93 | 120 | 0.775 |
+| [All Rounders Katowice IV 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceIV2026) | 95 | 120 | 0.79167 |
 | [BrizZon Side Open IV 2025](https://www.worldcubeassociation.org/competitions/BrizzonSideOpenIV2025) | 27 | 35 | 0.77143 |
 
 

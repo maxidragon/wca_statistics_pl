@@ -65,15 +65,15 @@
 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) | 4.75 |
 | [Aleksander Arefiew](https://www.worldcubeassociation.org/persons/2016AREF01) | 4.75 |
 | [Kalina Jakubowska](https://www.worldcubeassociation.org/persons/2009BRZE01) | 4.69 |
-| [Jan Koziarski](https://www.worldcubeassociation.org/persons/2019KOZI01) | 4.66 |
 | [Szymon Jeziorski](https://www.worldcubeassociation.org/persons/2013JEZI01) | 4.66 |
+| [Jan Koziarski](https://www.worldcubeassociation.org/persons/2019KOZI01) | 4.66 |
 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | 4.60 |
 | [Maciej Jabłoński](https://www.worldcubeassociation.org/persons/2017JABL01) | 4.58 |
 | [Adam Pietrzak](https://www.worldcubeassociation.org/persons/2018PIET03) | 4.52 |
 | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) | 4.49 |
 | [Maciej Wróblewski](https://www.worldcubeassociation.org/persons/2015WROB01) | 4.45 |
-| [Bartłomiej Maślanka](https://www.worldcubeassociation.org/persons/2019MASL02) | 4.42 |
 | [Maciej Hebel](https://www.worldcubeassociation.org/persons/2019HEBE01) | 4.42 |
+| [Bartłomiej Maślanka](https://www.worldcubeassociation.org/persons/2019MASL02) | 4.42 |
 | [Felix Lewicki](https://www.worldcubeassociation.org/persons/2021LEWI03) | 4.39 |
 | [Krzysztof Grabowski](https://www.worldcubeassociation.org/persons/2021GRAB01) | 4.36 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 4.35 |
@@ -91,8 +91,8 @@
 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) | 3.87 |
 | [Witold Sołtysik](https://www.worldcubeassociation.org/persons/2015SOLT03) | 3.85 |
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 3.83 |
-| [Ignacy Buczek](https://www.worldcubeassociation.org/persons/2013BUCZ01) | 3.76 |
 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 3.76 |
+| [Ignacy Buczek](https://www.worldcubeassociation.org/persons/2013BUCZ01) | 3.76 |
 | [Hubert Kwasigroch](https://www.worldcubeassociation.org/persons/2014KWAS01) | 3.70 |
 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 3.70 |
 | [Gustaw Rejent](https://www.worldcubeassociation.org/persons/2022REJE02) | 3.64 |

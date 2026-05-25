@@ -23,7 +23,7 @@ class MostSolvesBeforeBldSuccess < GroupedStatistic
       JOIN round_types round_type 
         ON round_type.id = r.round_type_id
       WHERE r.event_id IN ('333bf', '444bf', '555bf', '333mbf')
-        AND ra.value != 0
+        AND ra.value != 0 AND ra.value != -2
       ORDER BY competition.start_date, round_type.rank, ra.attempt_number
     SQL
   end

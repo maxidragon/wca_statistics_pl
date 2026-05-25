@@ -11,7 +11,7 @@ class BestResultOffPodium < GroupedStatistic
 
   def query
     <<-SQL
-      SELECT
+      SELECT DISTINCT
         format.sort_by,
         format.sort_by_second,
         results.event_id,

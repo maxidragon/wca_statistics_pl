@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 22 May 2026*
+*Updated on 25 May 2026*
 
 
 ### 3x3x3 Cube
@@ -112,6 +112,7 @@
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
+| 1.74 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | [Cube Factory League Zgierz 2026](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueZgierz2026/results/by_person#2022STOJ03) |
 | 1.90 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/by_person#2021KASP01) |
 | 2.01 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Cube4fun Tylmanowa Autumn 2025](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaAutumn2025/results/by_person#2021KASP01) |
 | 2.04 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Kielce Open 2026](https://www.worldcubeassociation.org/competitions/KielceOpen2026/results/by_person#2021KASP01) |
@@ -121,7 +122,6 @@
 | 2.14 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026/results/by_person#2022SLIW01) |
 | 2.15 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Cube4fun Lublin Summer 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinSummer2025/results/by_person#2021KASP01) |
 | 2.16 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026/results/by_person#2021KASP01) |
-| 2.16 | [Eliza Mikrut](https://www.worldcubeassociation.org/persons/2024MIKR01) | [All Rounders Katowice I 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceI2026/results/by_person#2024MIKR01) |
 
 ### Skewb
 

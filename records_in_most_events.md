@@ -1,7 +1,7 @@
 ## Records in the highest number of events
 
 *Note: All historical records are taken into account (i.e. not only the current ones).*
-*Updated on 22 May 2026*
+*Updated on 25 May 2026*
 
 
 ### World
@@ -44,6 +44,7 @@
 | 2 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 4x4x4 Blindfolded, 5x5x5 Blindfolded |
 | 2 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | 3x3x3 Blindfolded, 3x3x3 Multi-Blind |
 | 2 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | 4x4x4 Blindfolded, 5x5x5 Blindfolded |
+| 2 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | Clock, Skewb |
 | 2 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | Clock, Magic |
 | 1 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | Skewb |
 | 1 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | Pyraminx |
@@ -52,7 +53,6 @@
 | 1 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) | 2x2x2 Cube |
 | 1 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) | 2x2x2 Cube |
 | 1 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | Skewb |
-| 1 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | Clock |
 
 ### National
 

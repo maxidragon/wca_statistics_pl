@@ -1,6 +1,6 @@
 ## National records count by person
 
-*Updated on 22 May 2026*
+*Updated on 25 May 2026*
 
 | WRs | Person |
 | ---: | :--- |
@@ -66,6 +66,7 @@
 | 2 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) |
 | 2 | [Korneliusz Tombarkiewicz](https://www.worldcubeassociation.org/persons/2009TOMB01) |
 | 2 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) |
+| 2 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) |
 | 2 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) |
 | 2 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) |
 | 2 | [Tomasz Seweryn](https://www.worldcubeassociation.org/persons/2006SEWE01) |
@@ -88,7 +89,6 @@
 | 1 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 1 | [Marcin Bloch](https://www.worldcubeassociation.org/persons/2013BLOC01) |
 | 1 | [Marek Pepke](https://www.worldcubeassociation.org/persons/2008PEPK01) |
-| 1 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) |
 | 1 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) |
 | 1 | [Patryk Szewczyk](https://www.worldcubeassociation.org/persons/2012SZEW01) |
 | 1 | [Piotr Kuchta](https://www.worldcubeassociation.org/persons/2012KUCH01) |

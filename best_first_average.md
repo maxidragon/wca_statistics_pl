@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 22 May 2026*
+*Updated on 25 May 2026*
 
 
 ### 3x3x3 Cube
@@ -216,6 +216,7 @@
 | First average | Person |
 | ---: | :--- |
 | 11:17.00 | [Dominik Obara](https://www.worldcubeassociation.org/persons/2021OBAR01) |
+| 19:55.00 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) |
 
 ### 3x3x3 With Feet
 

@@ -1,7 +1,7 @@
 ## Most personal records by event
 
 *Note: Counts how many personal records (single or average) a competitor achieved in each event.*
-*Updated on 22 May 2026*
+*Updated on 25 May 2026*
 
 
 ### 3x3x3 Cube
@@ -76,7 +76,7 @@
 | 37 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) |
 | 37 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 36 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
-| 34 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) |
+| 35 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) |
 | 32 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) |
 
 ### 7x7x7 Cube
@@ -149,9 +149,9 @@
 | 53 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 51 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) |
 | 49 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) |
+| 44 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) |
 | 43 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) |
 | 43 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) |
-| 42 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) |
 | 42 | [Idan Bolesto](https://www.worldcubeassociation.org/persons/2022BOLE01) |
 
 ### Pyraminx
@@ -176,12 +176,12 @@
 | 56 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) |
 | 50 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
 | 45 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
+| 44 | [Joanna Kierznikiewicz](https://www.worldcubeassociation.org/persons/2022KIER01) |
 | 43 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
-| 43 | [Joanna Kierznikiewicz](https://www.worldcubeassociation.org/persons/2022KIER01) |
 | 42 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
-| 41 | [Szymon Gabara](https://www.worldcubeassociation.org/persons/2023GABA01) |
+| 42 | [Szymon Gabara](https://www.worldcubeassociation.org/persons/2023GABA01) |
 | 40 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) |
-| 39 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) |
+| 40 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) |
 | 38 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 
 ### Skewb
@@ -223,11 +223,11 @@
 | 13 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
 | 12 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) |
 | 12 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) |
-| 10 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) |
+| 11 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) |
 | 9 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) |
 | 8 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
 | 7 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) |
-| 6 | [Daniel Chudecki](https://www.worldcubeassociation.org/persons/2011CHUD01) |
+| 7 | [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) |
 
 ### 5x5x5 Blindfolded
 
@@ -240,9 +240,9 @@
 | 10 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
 | 9 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) |
 | 7 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) |
+| 7 | [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) |
 | 5 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) |
 | 5 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
-| 5 | [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) |
 
 ### 3x3x3 Multi-Blind
 

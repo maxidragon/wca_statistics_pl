@@ -1,6 +1,6 @@
 ## Most bookmarks compared to competitor limit
 
-*Updated on 22 May 2026*
+*Updated on 25 May 2026*
 
 | Competition | Bookmarks | Competitor limit | Ratio |
 | ---: | :--- | :--- | :--- |
@@ -19,10 +19,10 @@
 | [FMC Warszawa 2026](https://www.worldcubeassociation.org/competitions/FMCWarszawa2026) | 11 | 12 | 0.91667 |
 | [5BLD Masters Opole 2025](https://www.worldcubeassociation.org/competitions/5BLDMastersOpole2025) | 25 | 30 | 0.83333 |
 | [Warsaw FMC Tour II Friday 2024](https://www.worldcubeassociation.org/competitions/WarsawFMCTourIIFriday2024) | 10 | 12 | 0.83333 |
+| [All Rounders Katowice IV 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceIV2026) | 97 | 120 | 0.80833 |
 | [BrizZon Sylwester Open 2024](https://www.worldcubeassociation.org/competitions/BrizZonSylwesterOpen2024) | 28 | 35 | 0.8 |
 | [PSS Side Day Gdańsk 2026](https://www.worldcubeassociation.org/competitions/PSSSideDayGdansk2026) | 16 | 20 | 0.8 |
 | [SzczeciNxN 2026](https://www.worldcubeassociation.org/competitions/SzczeciNxN2026) | 40 | 50 | 0.8 |
-| [All Rounders Katowice IV 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceIV2026) | 95 | 120 | 0.79167 |
 | [BrizZon Side Open IV 2025](https://www.worldcubeassociation.org/competitions/BrizzonSideOpenIV2025) | 27 | 35 | 0.77143 |
 
 

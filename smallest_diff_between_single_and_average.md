@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 22 May 2026*
+*Updated on 25 May 2026*
 
 
 ### 3x3x3 Cube
@@ -220,6 +220,7 @@
 | ---: | :--- | ---: | ---: | :--- |
 | 16.00 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 18:05.00 | 18:21.00 | [Poznań MBLD Cup 2023](https://www.worldcubeassociation.org/competitions/PoznanMBLDCup2023/results/by_person#2014MILE01) |
 | 17.00 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | 29:04.00 | 29:21.00 | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021/results/by_person#2016DURA09) |
+| 17.76 | [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) | 8:58.08 | 9:15.84 | [Cube Factory League Zgierz 2026](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueZgierz2026/results/by_person#2021SMIG01) |
 | 19.20 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 4:06.26 | 4:25.46 | [Bishop's Stortford - BBO 2022](https://www.worldcubeassociation.org/competitions/BishopsStortfordAutumnBBO2022/results/by_person#2017DEBS01) |
 | 20.36 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 5:50.18 | 6:10.54 | [Mental Breakdown Germany 2019](https://www.worldcubeassociation.org/competitions/MentalBreakdownGermany2019/results/by_person#2016PRZY01) |
 | 20.96 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | 4:33.07 | 4:54.03 | [Please Be Quiet Opole 2025](https://www.worldcubeassociation.org/competitions/PleaseBeQuietOpole2025/results/by_person#2021MORA01) |
@@ -227,7 +228,6 @@
 | 36.00 | [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) | 11:06.00 | 11:42.00 | [Blind Marathon in Rzeszów 2025](https://www.worldcubeassociation.org/competitions/BlindMarathoninRzeszow2025/results/by_person#2021SMIG01) |
 | 36.64 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) | 5:41.86 | 6:18.50 | [Winter Side Wrocław 2025](https://www.worldcubeassociation.org/competitions/WinterSideWroclaw2025/results/by_person#2021PISK01) |
 | 43.00 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | 19:35.00 | 20:18.00 | [Big 'n Blind Szczecinek 2023](https://www.worldcubeassociation.org/competitions/BignBlindSzczecinek2023/results/by_person#2018ZYNE01) |
-| 74.37 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) | 7:04.75 | 8:19.12 | [Polish Open 2018](https://www.worldcubeassociation.org/competitions/PolishOpen2018/results/by_person#2015BUAT01) |
 
 ### 3x3x3 With Feet
 

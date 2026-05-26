@@ -29,6 +29,7 @@ class MostAttendedCompetitionsInSingleMonthUnique < Statistic
           GROUP_CONCAT(
             CONCAT('[', c.cell_name, '](https://www.worldcubeassociation.org/competitions/', c.id, ')')
             ORDER BY c.start_date
+            SEPARATOR ', '
           ) AS competition_links
         FROM unique_competitions uc
         JOIN competitions c ON c.id = uc.competition_id
@@ -51,7 +52,7 @@ class MostAttendedCompetitionsInSingleMonthUnique < Statistic
       SELECT
         rc.attended_within_month,
         CONCAT('[', p.name, '](https://www.worldcubeassociation.org/persons/', p.wca_id, ')') AS person_link,
-        MONTHNAME(STR_TO_DATE(rc.competitions_month, '%m')) AS month_name,
+        MONTHNAME(STR_TO_DATE(rc.competitions_month, '%c')) AS month_name,
         rc.competitions_year,
         rc.competition_links
       FROM ranked_competitions rc

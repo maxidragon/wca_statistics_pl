@@ -1,6 +1,6 @@
 ## Polish competitors with most competitions in the current year
 
-*Updated on 25 May 2026*
+*Updated on 28 May 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -1032,6 +1032,7 @@
 | 1 | [Michał Ulidowski](https://www.worldcubeassociation.org/persons/2026ULID01) |
 | 1 | [Mikołaj Urbala](https://www.worldcubeassociation.org/persons/2026URBA01) |
 | 1 | [John-Macaulay Walczyna](https://www.worldcubeassociation.org/persons/2026WALC01) |
+| 1 | [Róża Walewska](https://www.worldcubeassociation.org/persons/2026WALE02) |
 | 1 | [Aleksander Waśkowiak](https://www.worldcubeassociation.org/persons/2026WASK02) |
 | 1 | [Szymon Wendycz](https://www.worldcubeassociation.org/persons/2026WEND01) |
 | 1 | [Jakub Werner](https://www.worldcubeassociation.org/persons/2026WERN04) |

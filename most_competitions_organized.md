@@ -22,10 +22,10 @@
 | 23 | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) |
 | 20 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 19 | [Piotr Gabara](https://www.worldcubeassociation.org/persons/2024GABA02) |
+| 18 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
+| 17 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) |
 | 17 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) |
-| 17 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 17 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
-| 16 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) |
 | 15 | [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) |
 | 14 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
 | 14 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |

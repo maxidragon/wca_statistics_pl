@@ -1,6 +1,6 @@
 ## Average results submission time by Polish delegates
 
-*Updated on 28 May 2026*
+*Updated on 31 May 2026*
 
 | Delegate | Average time | Total delegated |
 | ---: | :--- | ---: |
@@ -12,7 +12,7 @@
 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 1d 2.34h | 22 |
 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) | 1d 13.27h | 6 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 1d 22.93h | 130 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 1d 23.81h | 189 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 1d 23.58h | 190 |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 2d 16.03h | 66 |
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 2d 19.84h | 72 |
 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 4d 17.34h | 76 |

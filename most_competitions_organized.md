@@ -1,13 +1,13 @@
 ## Most competitions organized
 
-*Updated on 28 May 2026*
+*Updated on 31 May 2026*
 
 | Organized | Person |
 | ---: | :--- |
-| 138 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
+| 139 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
 | 83 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
 | 74 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
-| 72 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
+| 73 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 53 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 40 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 36 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
@@ -81,6 +81,7 @@
 | 4 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) |
 | 4 | [Maksymilian Januszewski](https://www.worldcubeassociation.org/persons/2022JANU01) |
 | 4 | [Kajtek Kwiatkowski](https://www.worldcubeassociation.org/persons/2023KWIA01) |
+| 4 | [Mateusz Ziemba](https://www.worldcubeassociation.org/persons/2022ZIEM01) |
 | 4 | [Antoni Osman](https://www.worldcubeassociation.org/persons/2024OSMA01) |
 | 3 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) |
 | 3 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) |
@@ -92,6 +93,7 @@
 | 3 | [Tomasz Kiełbasa](https://www.worldcubeassociation.org/persons/2009KIEL01) |
 | 3 | [Weronika Marczyk](https://www.worldcubeassociation.org/persons/2012MARC03) |
 | 3 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) |
+| 3 | [Marcel Nycz](https://www.worldcubeassociation.org/persons/2016NYCZ01) |
 | 3 | [Nikodem Tomaszuk](https://www.worldcubeassociation.org/persons/2018TOMA03) |
 | 3 | [Oliwia Jaworska](https://www.worldcubeassociation.org/persons/2017JAWO02) |
 | 3 | [Aleksander Arefiew](https://www.worldcubeassociation.org/persons/2016AREF01) |
@@ -104,7 +106,6 @@
 | 3 | [Adam Brzana](https://www.worldcubeassociation.org/persons/2022BRZA01) |
 | 3 | [Krystian Fiołek](https://www.worldcubeassociation.org/persons/2022FIOL01) |
 | 3 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) |
-| 3 | [Mateusz Ziemba](https://www.worldcubeassociation.org/persons/2022ZIEM01) |
 | 3 | [Roksana Porucznik](https://www.worldcubeassociation.org/persons/2024PORU01) |
 | 3 | [Daniel Śliwa](https://www.worldcubeassociation.org/persons/2024SLIW01) |
 | 3 | [Julia Dąbrowska](https://www.worldcubeassociation.org/persons/2024DABR01) |

@@ -1,7 +1,7 @@
 ## Best podiums at Polish competitions
 
 *Note: Podium places with sum of best or average times depending on format.*
-*Updated on 28 May 2026*
+*Updated on 31 May 2026*
 
 
 ### 3x3x3 Cube
@@ -115,6 +115,7 @@
 | :--- | :--- | ---: |
 | [Warsaw FMC Tour II Friday 2024](https://www.worldcubeassociation.org/competitions/WarsawFMCTourIIFriday2024) | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) (20.67), [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) (21.33), [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) (21.67), [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) (21.67) | 63.67 |
 | [PSS Side Day Gdańsk 2026](https://www.worldcubeassociation.org/competitions/PSSSideDayGdansk2026) | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) (21.00), [Marcin Chmielewski](https://www.worldcubeassociation.org/persons/2023CHMI01) (21.00), [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) (21.67) | 63.67 |
+| [FMC Warszawa 2026](https://www.worldcubeassociation.org/competitions/FMCWarszawa2026) | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) (20.33), [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) (21.00), [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) (23.67) | 65.00 |
 | [Winter Side Wrocław 2025](https://www.worldcubeassociation.org/competitions/WinterSideWroclaw2025) | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) (20.33), [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) (22.33), [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) (23.33) | 65.99 |
 | [Fun with FM in Warsaw 2026](https://www.worldcubeassociation.org/competitions/FunwithFMinWarsaw2026) | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) (21.33), [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) (22.33), [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) (22.33) | 65.99 |
 | [CFL Goes Sideways Rogów 2025](https://www.worldcubeassociation.org/competitions/CFLGoesSidewaysRogow2025) | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) (21.33), [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) (22.00), [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) (23.33) | 66.66 |
@@ -122,7 +123,6 @@
 | [Cool Down Szczecin 2025](https://www.worldcubeassociation.org/competitions/CoolDownSzczecin2025) | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) (22.00), [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) (22.00), [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) (23.00) | 67.00 |
 | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) (22.00), [Marcin Chmielewski](https://www.worldcubeassociation.org/persons/2023CHMI01) (22.33), [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) (22.67) | 67.00 |
 | [Warsaw FMC Tour Saturday 2024](https://www.worldcubeassociation.org/competitions/WarsawFMCTourSaturday2024) | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) (22.33), [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) (22.67), [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) (23.00) | 68.00 |
-| [Warsaw FMC Tour Friday 2024](https://www.worldcubeassociation.org/competitions/WarsawFMCTourFriday2024) | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) (22.00), [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) (23.00), [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) (23.33) | 68.33 |
 
 ### 3x3x3 One-Handed
 

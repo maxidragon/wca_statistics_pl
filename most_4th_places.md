@@ -1,13 +1,13 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 28 May 2026*
+*Updated on 31 May 2026*
 
 | 4th places | Person |
 | ---: | :--- |
 | 160 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 144 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
-| 123 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 124 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 113 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
 | 103 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 103 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |

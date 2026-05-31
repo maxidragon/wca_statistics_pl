@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 28 May 2026*
+*Updated on 31 May 2026*
 
 
 ### 3x3x3 Cube
@@ -113,7 +113,7 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 20.90 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 21, 19, 21, 20, 19, 21, 23, 20, 27, 24, 20, 20 |
+| 20.60 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 21, 20, 20, 20, 20, 23, 21, 19, 24, 22, 19, 20 |
 | 21.20 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 20, 22, 21, 21, 20, 20, 22, 22, 22, DNF, 20, 22 |
 | 22.30 | [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) | 20, 24, 24, 22, 20, 20, 22, 20, 25, 24, 27, 22 |
 | 23.10 | [Marcin Chmielewski](https://www.worldcubeassociation.org/persons/2023CHMI01) | 23, 23, 21, 22, 21, 26, 25, 23, 22, 29, 25, 20 |

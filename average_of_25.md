@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 28 May 2026*
+*Updated on 31 May 2026*
 
 
 ### 3x3x3 Cube
@@ -111,7 +111,7 @@
 | ---: | :--- | :--- |
 | 21.14 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 19, 21, 20, 19, 21, 23, 20, 27, 24, 20, 20, 23, 22, 18, 23, 24, 19, 22, 20, 21, 23, 22, 22, 20, 17 |
 | 21.71 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 22, 19, 22, 22, 19, 20, 23, 20, 23, 23, 22, 22, 24, 23, 18, 23, 24, 26, 24, 20, 22, 21, 21, 20, 20 |
-| 23.24 | [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) | 20, DNF, 21, 21, 24, 24, 27, 20, 29, 22, 22, DNF, 23, 25, 24, 25, 25, 21, 19, 23, 23, 23, 21, 25, 20 |
+| 22.76 | [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) | 26, 24, 23, 24, 24, 21, 24, DNF, 20, 20, 22, 22, 23, 22, 25, 23, 22, 24, 21, 24, 21, 25, 23, 21, 19 |
 | 24.00 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 23, 25, 28, 23, 23, 22, DNF, 26, 23, 24, 23, 25, 25, 25, 25, 21, 19, 24, 25, 23, 23, 23, 23, 26, 25 |
 | 24.29 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) | 27, 23, 23, 23, 21, 24, 22, 23, 25, 22, 29, 28, 22, 24, 26, DNF, 25, 24, 21, 26, 22, 25, 28, 26, 22 |
 | 24.67 | [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) | 32, 24, 23, 26, 24, 25, 20, 23, 26, 24, 22, 22, 22, 27, DNF, 24, 26, 24, 26, 24, 23, 27, 25, 31, 21 |

@@ -11,7 +11,7 @@ class BestPodiumsInPoland < GroupedStatistic
 
   def query
     <<-SQL
-      SELECT
+      SELECT DISTINCT
         results.event_id,
         results.competition_id,
         competition.cell_name competition_name,

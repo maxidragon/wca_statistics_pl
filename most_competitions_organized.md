@@ -1,6 +1,6 @@
 ## Most competitions organized
 
-*Updated on 31 May 2026*
+*Updated on  1 June 2026*
 
 | Organized | Person |
 | ---: | :--- |
@@ -21,8 +21,8 @@
 | 23 | [Radosław Ciuk](https://www.worldcubeassociation.org/persons/2013CIUK01) |
 | 23 | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) |
 | 20 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 19 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 19 | [Piotr Gabara](https://www.worldcubeassociation.org/persons/2024GABA02) |
-| 18 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 17 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) |
 | 17 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) |
 | 17 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
@@ -93,7 +93,6 @@
 | 3 | [Tomasz Kiełbasa](https://www.worldcubeassociation.org/persons/2009KIEL01) |
 | 3 | [Weronika Marczyk](https://www.worldcubeassociation.org/persons/2012MARC03) |
 | 3 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) |
-| 3 | [Marcel Nycz](https://www.worldcubeassociation.org/persons/2016NYCZ01) |
 | 3 | [Nikodem Tomaszuk](https://www.worldcubeassociation.org/persons/2018TOMA03) |
 | 3 | [Oliwia Jaworska](https://www.worldcubeassociation.org/persons/2017JAWO02) |
 | 3 | [Aleksander Arefiew](https://www.worldcubeassociation.org/persons/2016AREF01) |

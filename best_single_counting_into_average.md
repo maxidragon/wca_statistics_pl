@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 31 May 2026*
+*Updated on  1 June 2026*
 
 
 ### 3x3x3 Cube
@@ -41,12 +41,12 @@
 | 16.19 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Piła Open 2025](https://www.worldcubeassociation.org/competitions/PilaOpen2025/results/by_person#2016KOLA02) |
 | 16.40 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Energy Cube Tomaszów 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2025/results/by_person#2016KOLA02) |
 | 16.41 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Oslo Open 2025](https://www.worldcubeassociation.org/competitions/OsloOpen2025/results/by_person#2016KOLA02) |
+| 16.60 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Cube4fun in Bełchatów 2026](https://www.worldcubeassociation.org/competitions/Cube4funinBelchatow2026/results/by_person#2016KOLA02) |
+| 16.99 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Cube4fun in Bełchatów 2026](https://www.worldcubeassociation.org/competitions/Cube4funinBelchatow2026/results/by_person#2016KOLA02) |
 | 17.17 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Felgueiras ao Cubo 2026](https://www.worldcubeassociation.org/competitions/FelgueirasaoCubo2026/results/by_person#2016KOLA02) |
 | 17.20 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [CFL Brzeziny 2025](https://www.worldcubeassociation.org/competitions/CFLBrzeziny2025/results/by_person#2016KOLA02) |
 | 17.25 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Kostelec NxN 2026](https://www.worldcubeassociation.org/competitions/KostelecNxN2026/results/by_person#2016KOLA02) |
 | 17.29 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2016KOLA02) |
-| 17.41 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Gorzów Cubing Days 2026](https://www.worldcubeassociation.org/competitions/GorzowCubingDays2026/results/by_person#2016KOLA02) |
-| 17.47 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Bergen Fall 2025](https://www.worldcubeassociation.org/competitions/BergenFall2025/results/by_person#2016KOLA02) |
 
 ### 5x5x5 Cube
 
@@ -75,8 +75,8 @@
 | 7.49 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | [Cube4fun Bełżyce 2023](https://www.worldcubeassociation.org/competitions/Cube4funBelzyceMultiEvents2023/results/by_person#2014ZAKR01) |
 | 7.56 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | [Silesian Cubing Chorzów 2025](https://www.worldcubeassociation.org/competitions/SilesianCubingChorzow2025/results/by_person#2022GLAD01) |
 | 7.58 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [Cube4fun Tylmanowa Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaWinter2026/results/by_person#2022MARC05) |
+| 7.60 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | [Beskidy Cubing Days 2026](https://www.worldcubeassociation.org/competitions/BeskidyCubingDays2026/results/by_person#2022GLAD01) |
 | 7.66 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [Rzeszów Open 2025](https://www.worldcubeassociation.org/competitions/RzeszowOpen2025/results/by_person#2022MARC05) |
-| 7.72 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | [Energy Cube Konin 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeKonin2023/results/by_person#2013BURL01) |
 
 ### Megaminx
 
@@ -130,13 +130,13 @@
 | 0.87 | [Szymon Brągiel](https://www.worldcubeassociation.org/persons/2022BRAG03) | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/by_person#2022BRAG03) |
 | 0.88 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | [Cube Factory Brzeziny 2024](https://www.worldcubeassociation.org/competitions/CubeFactoryBrzeziny2024/results/by_person#2022STOJ03) |
 | 0.96 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) | [Cube Factory League Rogów 2026](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueRogow2026/results/by_person#2021GORE01) |
+| 0.96 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | [Beskidy Cubing Days 2026](https://www.worldcubeassociation.org/competitions/BeskidyCubingDays2026/results/by_person#2013BURL01) |
 | 0.97 | [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) | [Szansa Cubing Open Warsaw 2024](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2024/results/by_person#2021MAJC01) |
 | 0.98 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/by_person#2022SAMS03) |
+| 0.98 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | [Beskidy Cubing Days 2026](https://www.worldcubeassociation.org/competitions/BeskidyCubingDays2026/results/by_person#2013OWCZ01) |
 | 0.99 | [Szymon Brągiel](https://www.worldcubeassociation.org/persons/2022BRAG03) | [Cube4fun in Bełchatów 2025](https://www.worldcubeassociation.org/competitions/Cube4funinBelchatow2025/results/by_person#2022BRAG03) |
 | 1.02 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/by_person#2022CIEP01) |
 | 1.02 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/by_person#2018HANU02) |
-| 1.05 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | [Silesian Minx Fest 2025](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2025/results/by_person#2021PIET01) |
-| 1.09 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [GLS I 2024](https://www.worldcubeassociation.org/competitions/GLSI2024/results/by_person#2013KRAS02) |
 
 ### Square-1
 

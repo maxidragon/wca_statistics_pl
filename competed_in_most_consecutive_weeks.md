@@ -1,7 +1,7 @@
 ## Most consecutive weeks with competitions
 
 *Note: Only includes people from Poland. Weeks are counted as ISO weeks (Monday-Sunday). Multiple competitions in the same week count as one.*
-*Updated on 31 May 2026*
+*Updated on  1 June 2026*
 
 | Count | Person | Start comp | End comp |
 | ---: | :--- | :--- | :--- |
@@ -18,12 +18,12 @@
 | 8 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | [Cube4fun in Jarosław 2023](https://www.worldcubeassociation.org/competitions/Cube4funinJaroslaw2023) | [Wrocław Cubing Holiday 2023](https://www.worldcubeassociation.org/competitions/WroclawCubingHoliday2023) |
 | 8 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | [Polish Sylwester Tour: FMC Warszawa-Wesoła 2025](https://www.worldcubeassociation.org/competitions/PSTFMCWarszawaWesola2025) | [WLS Luty 2026](https://www.worldcubeassociation.org/competitions/WLSLuty2026) |
 | 8 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | [BrizZon Sylwester Open 2022](https://www.worldcubeassociation.org/competitions/BrizZonSylwesterOpen2022) | [Ice Cubing Szczecinek 2023](https://www.worldcubeassociation.org/competitions/IceCubingSzczecinek2023) |
+| 8 | [Robert Ślesicki](https://www.worldcubeassociation.org/persons/2019SLES02) | [Olsztyn Spring Open 2026](https://www.worldcubeassociation.org/competitions/OlsztynSpringOpen2026) | [FMC Ukraine-Poland I 2026](https://www.worldcubeassociation.org/competitions/FMCUkrainePolandI2026) |
 | 8 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | [Try Not To DNF Rzeszów 2023](https://www.worldcubeassociation.org/competitions/TryNotToDNFRzeszow2023) | [Big 'n Blind Szczecinek 2023](https://www.worldcubeassociation.org/competitions/BignBlindSzczecinek2023) |
 | 7 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | [Dragon Cubing X 2025](https://www.worldcubeassociation.org/competitions/DragonCubingX2025) | [Polish Open 2025](https://www.worldcubeassociation.org/competitions/PolishOpen2025) |
 | 7 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | [Project Kedzierzyn-Kozle 2021](https://www.worldcubeassociation.org/competitions/ProjectKedzierzynKozle2021) | [Lubelska Liga Speedcubingu IV Świdnik 2021](https://www.worldcubeassociation.org/competitions/LLSIVSwidnik2021) |
 | 7 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | [Kielce Open 2026](https://www.worldcubeassociation.org/competitions/KielceOpen2026) | [Środowy Kostkowy Wieczór w Rzeszowie 2026](https://www.worldcubeassociation.org/competitions/SrodowyWieczorwRzeszowie2026) |
 | 7 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) | [Kostelec Nonstop Cubing 2023](https://www.worldcubeassociation.org/competitions/KostelecNonstopCubing2023) | [Carnikavas Pavasaris 2023](https://www.worldcubeassociation.org/competitions/CarnikavasPavasaris2023) |
-| 7 | [Robert Ślesicki](https://www.worldcubeassociation.org/persons/2019SLES02) | [Olsztyn Spring Open 2026](https://www.worldcubeassociation.org/competitions/OlsztynSpringOpen2026) | [Cube Factory League Zgierz 2026](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueZgierz2026) |
 | 7 | [Anonymous](https://www.worldcubeassociation.org/persons/2022ANON03) | [Cube4fun Wisła Masters 2023](https://www.worldcubeassociation.org/competitions/Cube4funWislaMasters2023) | [Warsaw Cube Masters 2023](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2023) |
 | 6 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | [Clock Masters Opole 2024](https://www.worldcubeassociation.org/competitions/ClockMastersOpole2024) | [Energy Cube Konin 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeKonin2024) |
 | 6 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | [Poznań MBLD Cup 2023](https://www.worldcubeassociation.org/competitions/PoznanMBLDCup2023) | [Cube4fun Double Weekend Pilzno 2023](https://www.worldcubeassociation.org/competitions/Cube4funDWPilzno2023) |

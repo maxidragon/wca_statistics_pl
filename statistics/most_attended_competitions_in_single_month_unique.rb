@@ -52,7 +52,7 @@ class MostAttendedCompetitionsInSingleMonthUnique < Statistic
       SELECT
         rc.attended_within_month,
         CONCAT('[', p.name, '](https://www.worldcubeassociation.org/persons/', p.wca_id, ')') AS person_link,
-        MONTHNAME(STR_TO_DATE(rc.competitions_month, '%c')) AS month_name,
+        MONTHNAME(DATE(CONCAT('2000-', rc.competitions_month, '-01'))) AS month_name,
         rc.competitions_year,
         rc.competition_links
       FROM ranked_competitions rc

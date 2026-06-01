@@ -16,6 +16,12 @@ jobs:
           fetch-depth: 2
       - name: Activate MySQL # as per https://github.com/actions/virtual-environments/blob/main/images/linux/Ubuntu2004-README.md#mysql
         run: sudo systemctl start mysql.service
+      - name: Free disk space
+        run: |
+          sudo rm -rf /usr/share/dotnet
+          sudo rm -rf /opt/ghc
+          sudo rm -rf /usr/local/lib/android
+          docker system prune -af || true  
       - uses: ruby/setup-ruby@v1
         with:
           bundler-cache: true

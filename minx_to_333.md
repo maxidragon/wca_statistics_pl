@@ -1,28 +1,28 @@
 ## Megaminx results compared to 3x3 (Poland)
 
 *Note: This statistic compares the best Megaminx average to the best 3x3 average for Polish competitors.*
-*Updated on  1 June 2026*
+*Updated on  2 June 2026*
 
 | Person | Megaminx | 3x3 | Ratio |
 | :--- | ---: | ---: | ---: |
 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 1:00.29 | 17.84 | 3.38 |
 | [Kajtek Kwiatkowski](https://www.worldcubeassociation.org/persons/2023KWIA01) | 49.40 | 14.51 | 3.41 |
 | [Maciej Lyer](https://www.worldcubeassociation.org/persons/2014LYER01) | 42.17 | 11.53 | 3.66 |
-| [Klaudia Milewczyk](https://www.worldcubeassociation.org/persons/2022MILE05) | 1:50.57 | 30.16 | 3.67 |
 | [Przemysław Rudziak](https://www.worldcubeassociation.org/persons/2020RUDZ02) | 37.25 | 10.16 | 3.67 |
+| [Klaudia Milewczyk](https://www.worldcubeassociation.org/persons/2022MILE05) | 1:50.57 | 30.16 | 3.67 |
 | [Kacper Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC06) | 1:01.59 | 16.22 | 3.80 |
 | [Szczepan Rozwadowski](https://www.worldcubeassociation.org/persons/2025ROZW02) | 53.15 | 13.86 | 3.84 |
-| [Ernest Seroczyński](https://www.worldcubeassociation.org/persons/2015SERO02) | 35.11 | 9.12 | 3.85 |
 | [Maksymilian Piskorowski](https://www.worldcubeassociation.org/persons/2017PISK01) | 36.65 | 9.52 | 3.85 |
+| [Ernest Seroczyński](https://www.worldcubeassociation.org/persons/2015SERO02) | 35.11 | 9.12 | 3.85 |
 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | 49.83 | 12.53 | 3.98 |
 | [Marcel Borkowski](https://www.worldcubeassociation.org/persons/2023BORK01) | 41.86 | 10.45 | 4.01 |
 | [Zuzanna Bogusz](https://www.worldcubeassociation.org/persons/2022BOGU01) | 2:32.71 | 37.29 | 4.10 |
+| [Jędrzej Topolski](https://www.worldcubeassociation.org/persons/2024TOPO01) | 41.74 | 10.06 | 4.15 |
 | [Dominik Unijewski](https://www.worldcubeassociation.org/persons/2017UNIJ01) | 56.06 | 13.47 | 4.16 |
 | [Mikołaj Dorosiński](https://www.worldcubeassociation.org/persons/2016DORO01) | 53.95 | 12.91 | 4.18 |
-| [Jędrzej Topolski](https://www.worldcubeassociation.org/persons/2024TOPO01) | 43.05 | 10.06 | 4.28 |
+| [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 31.38 | 7.17 | 4.38 |
 | [Bartosz Brudnicki](https://www.worldcubeassociation.org/persons/2023BRUD01) | 55.80 | 12.73 | 4.38 |
 | [Jakub Bacela](https://www.worldcubeassociation.org/persons/2018BACE01) | 2:06.48 | 28.42 | 4.45 |
-| [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 32.01 | 7.17 | 4.46 |
 | [Małgorzata Wójtowicz](https://www.worldcubeassociation.org/persons/2018WOJT01) | 1:41.37 | 22.49 | 4.51 |
 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 39.49 | 8.75 | 4.51 |
 

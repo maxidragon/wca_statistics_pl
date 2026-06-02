@@ -35,7 +35,7 @@ class BestPodiumsInPoland < GroupedStatistic
         ))
         AND results.best > 0
         AND (format.sort_by = 'single' OR results.average > 0)
-      ORDER BY results.event_id, competition.start_date, results.best
+      ORDER BY results.event_id, results.best
     SQL
   end
 

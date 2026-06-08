@@ -43,6 +43,7 @@ All statistics are computed only for competitors from Poland/Polish competitions
 - [Most common delegate teams in Poland](most_common_delegates_team)
 - [Most competitions abroad](most_competitions_abroad)
 - [Most competitions before winning](most_competitions_before_winning)
+- [Most competitions on the same calendar date](most_competitions_on_same_date)
 - [Most competitions organized](most_competitions_organized)
 - [Most competitions together](most_competitions_together)
 - [Most completed solves](most_completed_solves)

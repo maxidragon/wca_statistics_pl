@@ -19,8 +19,9 @@ class MostDistinctDatesCompetedOn < Statistic
           person_id,
           GROUP_CONCAT(DISTINCT competition_date ORDER BY competition_date ASC SEPARATOR ',') dates_list
         FROM (
-          SELECT results.person_id, DATE_FORMAT(competition_dates.competition_date, '%m/%d') competition_date
+          SELECT DISTINCT results.person_id, DATE_FORMAT(competition_dates.competition_date, '%m/%d') competition_date
           FROM results
+          JOIN persons person ON person.wca_id = results.person_id AND person.sub_id = 1 AND person.country_id = 'Poland'
           JOIN (
             SELECT
               competitions.id AS competition_id,

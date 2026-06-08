@@ -14,27 +14,23 @@ class WinnedWeekCount < GroupedStatistic
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
         winned_weeks
       FROM (
-        SELECT
-          333_best_by_week.event_id,
-          person_id,
-          COUNT(DISTINCT 333_best_by_week.event_id, best, week_start_date) winned_weeks
+        SELECT wb.event_id, r.person_id, COUNT(DISTINCT wb.week_start) AS winned_weeks
         FROM (
           SELECT
             event_id,
-            MIN(best) week_best,
-            DATE_ADD(start_date, INTERVAL(-WEEKDAY(start_date)) DAY) week_start_date,
-            DATE_ADD(start_date, INTERVAL(6 - WEEKDAY(start_date)) DAY) week_end_date
+            MIN(best) AS week_best,
+            DATE_ADD(start_date, INTERVAL(-WEEKDAY(start_date)) DAY) AS week_start
           FROM results
           JOIN competitions competition ON competition.id = competition_id
           WHERE best > 0
-          GROUP BY event_id, week_start_date, week_end_date
-        ) AS 333_best_by_week
-        JOIN results result ON result.event_id = 333_best_by_week.event_id AND best = week_best
-        JOIN competitions competition ON competition.id = competition_id
-        WHERE start_date BETWEEN week_start_date AND week_end_date
-        GROUP BY 333_best_by_week.event_id, person_id
+          GROUP BY event_id, week_start
+        ) wb
+        JOIN results r ON r.event_id = wb.event_id AND r.best = wb.week_best
+        JOIN competitions c ON c.id = r.competition_id
+          AND DATE_ADD(c.start_date, INTERVAL(-WEEKDAY(c.start_date)) DAY) = wb.week_start
+        GROUP BY wb.event_id, r.person_id
       ) AS winned_weeks_by_person
-      JOIN persons person ON person.wca_id = person_id AND sub_id = 1 AND person.country_id = 'Poland';
+      JOIN persons person ON person.wca_id = person_id AND sub_id = 1 AND person.country_id = 'Poland'
     SQL
   end
 

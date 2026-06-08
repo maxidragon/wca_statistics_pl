@@ -12,18 +12,36 @@ class LongestStreakOfPodiums < Statistic
   def query
     <<-SQL
       SELECT
-        event.name event_name,
-        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
-        CONCAT('[', competition.cell_name, '](https://www.worldcubeassociation.org/competitions/', competition.id, ')') competition_link,
-        round_type.final is_final,
-        pos place,
-        best single
-      FROM results
-      JOIN events event ON event.id = event_id
-      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1 AND person.country_id = 'Poland'
-      JOIN competitions competition ON competition.id = competition_id
-      JOIN round_types round_type ON round_type.id = round_type_id
-      ORDER BY competition.start_date, round_type.rank
+        event.name AS event_name,
+        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') AS person_link,
+        CONCAT('[', competition.cell_name, '](https://www.worldcubeassociation.org/competitions/', competition.id, ')') AS competition_link,
+        competition.start_date,
+        base.is_final,
+        base.place,
+        base.single
+      FROM (
+        SELECT
+          results.person_id,
+          results.event_id,
+          results.competition_id,
+          MAX(round_type.final) AS is_final,
+          COALESCE(
+            MAX(CASE WHEN results.round_type_id = 'f' THEN results.pos  ELSE NULL END),
+            MAX(CASE WHEN round_type.final = 1      THEN results.pos  ELSE NULL END)
+          ) AS place,
+          COALESCE(
+            MAX(CASE WHEN results.round_type_id = 'f' THEN results.best ELSE NULL END),
+            MAX(CASE WHEN round_type.final = 1      THEN results.best ELSE NULL END)
+          ) AS single
+        FROM results
+        JOIN persons person ON person.wca_id = results.person_id AND person.sub_id = 1 AND person.country_id = 'Poland'
+        JOIN round_types round_type ON round_type.id = results.round_type_id
+        GROUP BY results.person_id, results.event_id, results.competition_id
+      ) base
+      JOIN events event ON event.id = base.event_id
+      JOIN persons person ON person.wca_id = base.person_id AND person.sub_id = 1
+      JOIN competitions competition ON competition.id = base.competition_id
+      ORDER BY competition.start_date
     SQL
   end
 
@@ -49,7 +67,7 @@ class LongestStreakOfPodiums < Statistic
               current_podiums_streak_by_event.delete(event_name)
             end
           end
-        podiums_streaks.concat(current_podiums_streak_by_event.values) # Add remaining, ongoing streaks to the list.
+        podiums_streaks.concat(current_podiums_streak_by_event.values)
       end
       .flatten
       .sort_by! { |podiums_streak| -podiums_streak[:count] }

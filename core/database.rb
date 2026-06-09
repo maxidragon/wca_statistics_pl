@@ -33,12 +33,12 @@ module Database
   )
   REQUIRED_TABLES = DEV_TABLES + RESULTS_TABLES
   INDICES = [
-    "CREATE INDEX index_results_on_competitionId_personId ON results (competition_id, person_id);",
-    "CREATE INDEX index_results_on_person_id ON results (person_id);",
-    "CREATE INDEX index_result_attempts_on_result_id ON result_attempts (result_id);",
-    "CREATE INDEX index_results_on_event_id ON results (event_id);",
-    "CREATE INDEX index_ranks_single_on_person_id ON ranks_single (person_id);",
-    "CREATE INDEX index_ranks_average_on_person_id ON ranks_average (person_id);",
+    "CREATE INDEX IF NOT EXISTS index_results_on_competitionId_personId ON results (competition_id, person_id);",
+    "CREATE INDEX IF NOT EXISTS index_results_on_person_id ON results (person_id);",
+    "CREATE INDEX IF NOT EXISTS index_result_attempts_on_result_id ON result_attempts (result_id);",
+    "CREATE INDEX IF NOT EXISTS index_results_on_event_id ON results (event_id);",
+    "CREATE INDEX IF NOT EXISTS index_ranks_single_on_person_id ON ranks_single (person_id);",
+    "CREATE INDEX IF NOT EXISTS index_ranks_average_on_person_id ON ranks_average (person_id);",
   ]
 
   def self.client

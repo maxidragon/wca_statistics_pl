@@ -111,8 +111,13 @@ Dir.mktmpdir do |tmp_directory|
           end
           table_sql += index_creations
 
-          # Custom indices — only apply to the table they target
-          table_specific_indices = Database::INDICES.select { |idx| idx.match?(/ON\s+#{Regexp.escape(table_name)}[\s(]/i) }
+          # Custom indices — only apply to the table they target and skip any whose name
+          # the dump already defines (avoids duplicate key errors on MySQL 5.7).
+          table_specific_indices = Database::INDICES.select do |idx|
+            next false unless idx.match?(/ON\s+#{Regexp.escape(table_name)}[\s(]/i)
+            idx_name = idx.match(/CREATE INDEX\s+(\S+)\s+ON/i)&.captures&.first
+            idx_name.nil? || !table_sql.match?(/\b#{Regexp.escape(idx_name)}\b/i)
+          end
           table_sql += table_specific_indices.join("\n") + "\n" unless table_specific_indices.empty?
 
           mysql_io.write(table_sql)

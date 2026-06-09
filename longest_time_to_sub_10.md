@@ -24,8 +24,8 @@
 | [Joanna Hołdakowska](https://www.worldcubeassociation.org/persons/2016HOLD04) | 7.23 |
 | [Kacper Gałczyk](https://www.worldcubeassociation.org/persons/2014GACZ01) | 7.19 |
 | [Wojciech Kotulski](https://www.worldcubeassociation.org/persons/2015KOTU01) | 7.09 |
-| [Grzegorz Chudzik](https://www.worldcubeassociation.org/persons/2018CHUD02) | 7.03 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 7.03 |
+| [Grzegorz Chudzik](https://www.worldcubeassociation.org/persons/2018CHUD02) | 7.03 |
 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | 6.88 |
 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | 6.65 |
 | [Krystian Święch](https://www.worldcubeassociation.org/persons/2016SWIE02) | 6.65 |
@@ -60,8 +60,8 @@
 | [Weronika Rogulska](https://www.worldcubeassociation.org/persons/2017ROGU01) | 4.89 |
 | [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) | 4.87 |
 | [Dawid Jasiński](https://www.worldcubeassociation.org/persons/2014JASI01) | 4.85 |
-| [Kacper Jędrzejuk](https://www.worldcubeassociation.org/persons/2019JEDR01) | 4.83 |
 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | 4.83 |
+| [Kacper Jędrzejuk](https://www.worldcubeassociation.org/persons/2019JEDR01) | 4.83 |
 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) | 4.75 |
 | [Aleksander Arefiew](https://www.worldcubeassociation.org/persons/2016AREF01) | 4.75 |
 | [Kalina Jakubowska](https://www.worldcubeassociation.org/persons/2009BRZE01) | 4.69 |

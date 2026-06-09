@@ -2,7 +2,7 @@ require_relative "../core/grouped_statistic"
 
 class LowestRegistrationFee < GroupedStatistic
   def initialize
-    @title = "Lowest base registration fee at Polish competitions"
+    @title = "Lowest registration fee at Polish competitions"
     @note = "Only competitions with a PLN base fee are included."
     @table_header = { "Fee" => :right, "Competition" => :left, "Date" => :left }
   end

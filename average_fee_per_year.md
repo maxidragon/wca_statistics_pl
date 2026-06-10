@@ -1,7 +1,7 @@
 ## Average base registration fee per year
 
 *Note: Only competitions with a PLN base fee are included.*
-*Updated on  7 June 2026*
+*Updated on 10 June 2026*
 
 | Year | Avg Fee | Competitions |
 | :--- | ---: | ---: |
@@ -13,7 +13,7 @@
 | 2016 | 20.36 PLN | 14 |
 | 2017 | 32.63 PLN | 24 |
 | 2018 | 38.16 PLN | 38 |
-| 2019 | 50.98 PLN | 41 |
+| 2019 | 39.05 PLN | 42 |
 | 2020 | 39.00 PLN | 10 |
 | 2021 | 47.37 PLN | 19 |
 | 2022 | 56.52 PLN | 46 |

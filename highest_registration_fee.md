@@ -1,7 +1,7 @@
 ## Highest base registration fee at Polish competitions
 
 *Note: Only competitions with a PLN base fee are included.*
-*Updated on  7 June 2026*
+*Updated on 10 June 2026*
 
 
 ### 2026
@@ -113,7 +113,6 @@
 
 | Fee | Competition | Date |
 | ---: | :--- | :--- |
-| 490.00 PLN | [GLS Winter Camp 2019](https://www.worldcubeassociation.org/competitions/GLSWinterCamp2019) | 2019-02-11 |
 | 50.00 PLN | [PST LLS Lublin 2019](https://www.worldcubeassociation.org/competitions/PSTLLSLublin2019) | 2019-01-12 |
 | 50.00 PLN | [PST Biłgoraj 2019](https://www.worldcubeassociation.org/competitions/PolishSpeedcubingTourBilgora2019) | 2019-02-02 |
 | 50.00 PLN | [PST Mielec 2019](https://www.worldcubeassociation.org/competitions/PolishSpeedcubingTourMielec2019) | 2019-03-02 |
@@ -123,6 +122,7 @@
 | 50.00 PLN | [Polish Championship 2019](https://www.worldcubeassociation.org/competitions/PolishChampionship2019) | 2019-10-11 |
 | 50.00 PLN | [PST CFL Częstochowa 2019](https://www.worldcubeassociation.org/competitions/PSTCFLCzestochowa2019) | 2019-11-09 |
 | 50.00 PLN | [LLS V Final 2019](https://www.worldcubeassociation.org/competitions/LLSVFinal2019) | 2019-11-16 |
+| 50.00 PLN | [PST Łuków 2019](https://www.worldcubeassociation.org/competitions/PSTLukow2019) | 2019-12-14 |
 
 ### 2018
 

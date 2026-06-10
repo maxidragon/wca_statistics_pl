@@ -1,7 +1,7 @@
 ## Lowest base registration fee at Polish competitions
 
 *Note: Only competitions with a PLN base fee are included.*
-*Updated on  7 June 2026*
+*Updated on 10 June 2026*
 
 
 ### 2026
@@ -113,6 +113,7 @@
 
 | Fee | Competition | Date |
 | ---: | :--- | :--- |
+| 0.00 PLN | [PSS FMC Warszawa 2019](https://www.worldcubeassociation.org/competitions/PSSFMCWarszawa2019) | 2019-01-26 |
 | 15.00 PLN | [Grudziądz Open 2019](https://www.worldcubeassociation.org/competitions/GrudziadzOpen2019) | 2019-04-06 |
 | 15.00 PLN | [Wrocław FMC Masters 2019](https://www.worldcubeassociation.org/competitions/WroclawFMCMasters2019) | 2019-05-25 |
 | 25.00 PLN | [Dąbrowa Górnicza Spring 2019](https://www.worldcubeassociation.org/competitions/DabrowaGorniczaSpring2019) | 2019-03-24 |
@@ -122,7 +123,6 @@
 | 35.00 PLN | [CFL Domaniewice 2019](https://www.worldcubeassociation.org/competitions/CFLDomaniewice2019) | 2019-05-26 |
 | 35.00 PLN | [GLS Cup II 2019](https://www.worldcubeassociation.org/competitions/GLSCupII2019) | 2019-06-08 |
 | 35.00 PLN | [GLS Cup III 2019](https://www.worldcubeassociation.org/competitions/GLSCupIII2019) | 2019-08-10 |
-| 35.00 PLN | [Wrocław Side Challenge 2019](https://www.worldcubeassociation.org/competitions/WroclawSideChallenge2019) | 2019-08-31 |
 
 ### 2018
 

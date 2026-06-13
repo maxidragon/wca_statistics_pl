@@ -1,6 +1,6 @@
 ## Biggest rounds in Poland
 
-*Updated on 10 June 2026*
+*Updated on 13 June 2026*
 
 
 ### 3x3x3 Cube
@@ -223,10 +223,10 @@
 | 19 | [Euro 2012](https://www.worldcubeassociation.org/competitions/Euro2012) |
 | 19 | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) |
 | 19 | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021) |
+| 18 | [GLS Side Challenge Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSSideChallengeGdansk2026) |
 | 17 | [Cube Factory League Zgierz 2026](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueZgierz2026) |
 | 17 | [Gniezno Big Blind Cubing 2022](https://www.worldcubeassociation.org/competitions/GnieznoBigBlindCubing2022) |
 | 17 | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) |
-| 16 | [5BLD Masters Opole 2025](https://www.worldcubeassociation.org/competitions/5BLDMastersOpole2025) |
 
 ### 5x5x5 Blindfolded
 
@@ -254,9 +254,9 @@
 | 26 | [CFL Brzeziny 2025](https://www.worldcubeassociation.org/competitions/CFLBrzeziny2025) |
 | 26 | [Warsaw Cube Masters 2023](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2023) |
 | 25 | [BrizZon Side Open V 2022](https://www.worldcubeassociation.org/competitions/BrizzonSideOpenV2022) |
+| 25 | [GLS Side Challenge Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSSideChallengeGdansk2026) |
 | 25 | [Polish Championship 2021](https://www.worldcubeassociation.org/competitions/PolishChampionship2021) |
 | 25 | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021) |
-| 24 | [BrizZon Side Open III 2025](https://www.worldcubeassociation.org/competitions/BrizzonSideOpenIII2025) |
 
 ### 3x3x3 With Feet
 

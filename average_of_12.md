@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 10 June 2026*
+*Updated on 13 June 2026*
 
 
 ### 3x3x3 Cube
@@ -10,7 +10,7 @@
 | ---: | :--- | :--- |
 | 4.71 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 4.50, 5.36, 4.86, 3.84, 3.94, 4.43, 4.58, 6.33, 3.41, 4.85, 6.22, 4.50 |
 | 4.78 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 5.00, 4.93, 4.86, 4.24, 4.71, 3.56, 5.86, 4.52, 5.61, 3.99, 5.39, 4.56 |
-| 5.36 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 4.46, 6.21, 5.86, 5.77, 4.92, 3.87, 5.19, 5.44, 9.20, 5.23, 5.08, 5.39 |
+| 5.15 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 5.35, 5.29, 5.59, 5.51, 4.55, 4.82, 8.83, 4.93, 5.19, 4.72, 4.56, 5.51 |
 | 5.73 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | 4.87, 5.88, 7.07, 5.52, 5.45, 8.47, 6.16, 5.03, 5.24, 6.40, 5.25, 5.27 |
 | 5.87 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | 6.01, 6.16, 5.99, 6.03, 8.10, 5.77, 6.19, 5.25, 5.59, 5.67, 5.75, 5.53 |
 | 6.32 | [Szymon Musiał](https://www.worldcubeassociation.org/persons/2018MUSI03) | 5.40, 7.27, 5.46, 4.79, 5.52, 6.31, 7.42, 7.23, 6.64, 7.10, 6.23, 6.05 |
@@ -88,11 +88,11 @@
 | 2:14.49 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 2:17.00, 2:11.84, 2:33.28, 2:15.80, 2:18.10, 2:15.90, 2:23.76, 2:12.43, 2:12.51, 2:07.72, 2:08.67, 2:08.86 |
 | 2:16.00 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 2:23.32, 2:23.36, 2:15.11, 2:11.00, 2:12.81, 2:10.88, 2:08.39, 2:24.63, 2:17.22, 2:13.27, 2:31.27, 1:53.22 |
 | 2:16.52 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 2:14.36, 2:23.16, 2:15.79, 2:16.35, 2:12.46, 2:15.84, 2:20.00, 2:14.16, 2:18.06, 2:10.87, 2:19.84, 2:18.36 |
+| 2:24.30 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | 2:26.57, 2:31.53, 2:24.56, 2:14.60, 2:31.50, 2:30.57, 2:16.70, 2:22.09, 2:21.98, 2:29.10, 2:18.25, 2:21.67 |
 | 2:24.35 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) | 2:26.97, 2:28.37, 2:47.61, 2:19.87, 2:17.87, 2:27.21, 2:16.39, 2:27.63, 2:24.11, 2:11.02, 2:28.95, 2:26.13 |
 | 2:25.38 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | 2:17.25, 2:32.70, 2:14.71, 2:28.99, 2:39.74, 2:28.28, 2:33.64, 2:38.66, 2:22.99, 2:17.08, 2:15.06, 2:19.12 |
 | 2:26.29 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | 2:20.01, 2:19.58, 2:42.06, 2:28.60, 2:36.61, 2:34.96, 2:20.21, 2:35.28, 2:24.02, 2:18.92, 2:24.68, 2:10.53 |
 | 2:28.57 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) | 2:29.15, 2:24.23, 2:32.59, 2:29.76, 2:30.35, 2:30.74, 2:53.95, 2:39.83, 2:17.98, 2:18.46, 2:32.65, 2:13.15 |
-| 2:28.96 | [Oskar Matysik](https://www.worldcubeassociation.org/persons/2019MATY01) | 2:38.25, 2:35.49, 2:26.90, 2:37.79, 2:29.98, 2:28.03, 2:30.92, 2:31.97, 2:20.18, 2:21.95, 2:16.70, 2:26.37 |
 
 ### 3x3x3 Blindfolded
 

@@ -1,7 +1,7 @@
 ## Most personal records by event
 
 *Note: Counts how many personal records (single or average) a competitor achieved in each event.*
-*Updated on 10 June 2026*
+*Updated on 13 June 2026*
 
 
 ### 3x3x3 Cube
@@ -90,8 +90,8 @@
 | 36 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) |
 | 34 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 34 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) |
+| 31 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 31 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) |
-| 30 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 30 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) |
 
 ### 3x3x3 Blindfolded
@@ -105,8 +105,8 @@
 | 29 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) |
 | 28 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) |
 | 25 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
+| 25 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 24 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) |
-| 24 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 24 | [Kamil Michalak](https://www.worldcubeassociation.org/persons/2016MICH01) |
 
 ### 3x3x3 Fewest Moves
@@ -219,8 +219,8 @@
 | PRs | Person |
 | ---: | :--- |
 | 20 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 14 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
 | 14 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
-| 13 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
 | 12 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) |
 | 12 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) |
 | 11 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) |

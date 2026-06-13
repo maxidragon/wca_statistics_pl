@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 10 June 2026*
+*Updated on 13 June 2026*
 
 
 ### 3x3x3 Cube
@@ -252,12 +252,12 @@
 | 21/21 56:32 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 20/21 48:49 | [Mikołaj Salamon](https://www.worldcubeassociation.org/persons/2016SALA18) |
 | 16/16 53:28 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) |
+| 13/16 57:21 | [Łukasz Kamiński](https://www.worldcubeassociation.org/persons/2023KAMI07) |
 | 9/9 44:33 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) |
 | 13/17 57:10 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
 | 9/10 41:39 | [Marcin Chmielewski](https://www.worldcubeassociation.org/persons/2023CHMI01) |
 | 9/10 57:46 | [Maksymilian Sordyl](https://www.worldcubeassociation.org/persons/2022SORD01) |
 | 8/9 51:28 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) |
-| 6/6 43:21 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) |
 
 ### 3x3x3 With Feet
 

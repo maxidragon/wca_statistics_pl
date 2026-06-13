@@ -1,7 +1,7 @@
 ## Shortest time to get all singles
 
 *Note: Only current official events are taken into account.*
-*Updated on 10 June 2026*
+*Updated on 13 June 2026*
 
 | Days | Person |
 | ---: | :--- |
@@ -11,7 +11,7 @@
 | 1084 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) |
 | 1133 | [Igor Wojciech Wawrzynski](https://www.worldcubeassociation.org/persons/2019WAWR01) |
 | 1141 | [Gabriel Radosz](https://www.worldcubeassociation.org/persons/2022RADO03) |
-| 1155 | [Marcin Wawiórko](https://www.worldcubeassociation.org/persons/2023WAWI01) |
+| 1183 | [Marcin Wawiórko](https://www.worldcubeassociation.org/persons/2023WAWI01) |
 | 1393 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) |
 | 1414 | [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) |
 | 1476 | [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) |

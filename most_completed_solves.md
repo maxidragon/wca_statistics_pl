@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 10 June 2026*
+*Updated on 13 June 2026*
 
 
 ### Competition
@@ -32,24 +32,24 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **20489** | 21331 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **20517** | 21368 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **16363** | 17022 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **15597** | 16021 |
-| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **13271** | 13749 |
-| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **13152** | 14152 |
-| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **12608** | 13267 |
-| [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **11385** | 12000 |
+| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **13298** | 13776 |
+| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **13181** | 14198 |
+| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **12613** | 13275 |
+| [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **11422** | 12043 |
 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | **11235** | 11596 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | **10264** | 10451 |
 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | **9951** | 10577 |
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | **9714** | 10271 |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | **9377** | 9589 |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **9203** | 10624 |
+| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **9223** | 10660 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **9080** | 9250 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **9068** | 9400 |
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | **8630** | 8814 |
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | **7956** | 8230 |
-| [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | **7462** | 8131 |
+| [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | **7494** | 8170 |
 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | **7442** | 7578 |
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | **7267** | 7866 |
 
@@ -61,7 +61,7 @@
 | 2024 | **224448** | 235988 |
 | 2023 | **188218** | 198622 |
 | 2022 | **116402** | 123618 |
-| 2026 | **103450** | 109953 |
+| 2026 | **104726** | 111523 |
 | 2019 | **91337** | 95933 |
 | 2014 | **76324** | 80953 |
 | 2018 | **72402** | 75406 |
@@ -82,7 +82,7 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **367729** | 375037 |
+| 3x3x3 Cube | **368515** | 375842 |
 | 2x2x2 Cube | **240192** | 246732 |
 | Pyraminx | **185386** | 190259 |
 | Skewb | **129463** | 132816 |
@@ -92,16 +92,16 @@
 | Megaminx | **62344** | 64845 |
 | 5x5x5 Cube | **61133** | 63328 |
 | Square-1 | **50775** | 52784 |
-| 6x6x6 Cube | **14360** | 14903 |
-| 3x3x3 Blindfolded | **13432** | 34967 |
-| 7x7x7 Cube | **12115** | 12654 |
-| 3x3x3 Fewest Moves | **6754** | 8892 |
+| 6x6x6 Cube | **14496** | 15046 |
+| 3x3x3 Blindfolded | **13548** | 35260 |
+| 7x7x7 Cube | **12239** | 12782 |
+| 3x3x3 Fewest Moves | **6830** | 8987 |
 | Magic | **4230** | 4674 |
 | 3x3x3 With Feet | **2450** | 2650 |
-| 3x3x3 Multi-Blind | **2353** | 3495 |
+| 3x3x3 Multi-Blind | **2374** | 3535 |
 | Master Magic | **2181** | 2238 |
-| 4x4x4 Blindfolded | **850** | 2806 |
-| 5x5x5 Blindfolded | **386** | 1508 |
+| 4x4x4 Blindfolded | **862** | 2850 |
+| 5x5x5 Blindfolded | **391** | 1530 |
 
 
 <a href="https://github.com/maxidragon/wca_statistics_pl" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

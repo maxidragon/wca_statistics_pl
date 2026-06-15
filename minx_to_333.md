@@ -20,8 +20,8 @@
 | [Jędrzej Topolski](https://www.worldcubeassociation.org/persons/2024TOPO01) | 41.74 | 10.06 | 4.15 |
 | [Dominik Unijewski](https://www.worldcubeassociation.org/persons/2017UNIJ01) | 56.06 | 13.47 | 4.16 |
 | [Mikołaj Dorosiński](https://www.worldcubeassociation.org/persons/2016DORO01) | 53.95 | 12.91 | 4.18 |
+| [Bartosz Brudnicki](https://www.worldcubeassociation.org/persons/2023BRUD01) | 54.29 | 12.73 | 4.27 |
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 31.38 | 7.17 | 4.38 |
-| [Bartosz Brudnicki](https://www.worldcubeassociation.org/persons/2023BRUD01) | 55.80 | 12.73 | 4.38 |
 | [Jakub Bacela](https://www.worldcubeassociation.org/persons/2018BACE01) | 2:06.48 | 28.42 | 4.45 |
 | [Małgorzata Wójtowicz](https://www.worldcubeassociation.org/persons/2018WOJT01) | 1:41.37 | 22.49 | 4.51 |
 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 39.49 | 8.75 | 4.51 |

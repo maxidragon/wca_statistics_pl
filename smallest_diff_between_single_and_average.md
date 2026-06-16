@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 13 June 2026*
+*Updated on 16 June 2026*
 
 
 ### 3x3x3 Cube
@@ -191,13 +191,13 @@
 | 0.02 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 22.37 | 22.39 | [Cube4fun Skierniewice 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueSkierniewice2022/results/by_person#2013OWCZ01) |
 | 0.08 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 11.69 | 11.77 | [BrizZon Side Open IV 2023](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenIV2023/results/by_person#2021WARC01) |
 | 0.09 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 14.42 | 14.51 | [K:nummen Kuutionvääntelyt 2022](https://www.worldcubeassociation.org/competitions/KnummenKuutionvaantelyt2022/results/by_person#2014ZYCH01) |
+| 0.12 | [Konrad Leśniak](https://www.worldcubeassociation.org/persons/2014LENI02) | 24.47 | 24.59 | [Cube4fun Lublin on POLLUB 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinonPOLLUB2026/results/by_person#2014LENI02) |
 | 0.14 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | 9.50 | 9.64 | [SST Rzeszów 2021](https://www.worldcubeassociation.org/competitions/SSTRzeszow2021/results/by_person#2017SZUL01) |
 | 0.15 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 6.86 | 7.01 | [BrizZon Side Open V 2022](https://www.worldcubeassociation.org/competitions/BrizzonSideOpenV2022/results/by_person#2013KRAS02) |
 | 0.16 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 6.79 | 6.95 | [Schnelle Solves Siegen 2025](https://www.worldcubeassociation.org/competitions/SchnelleSolvesSiegen2025/results/by_person#2018DUBI01) |
 | 0.17 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 5.56 | 5.73 | [Cube4fun Siedlce Autumn 2023](https://www.worldcubeassociation.org/competitions/Cube4funSiedlceAutumn2023/results/by_person#2013KRAS02) |
 | 0.17 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 9.48 | 9.65 | [Siedlce Open 2025](https://www.worldcubeassociation.org/competitions/SiedlceOpen2025/results/by_person#2022STOJ03) |
 | 0.17 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 33.88 | 34.05 | [Cube Factory League Jeżów 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueJezow2025/results/by_person#2014SZWU01) |
-| 0.19 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 5.82 | 6.01 | [Olsztyn Spring Open 2026](https://www.worldcubeassociation.org/competitions/OlsztynSpringOpen2026/results/by_person#2013KRAS02) |
 
 ### 4x4x4 Blindfolded
 

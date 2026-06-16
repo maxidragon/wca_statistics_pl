@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 13 June 2026*
+*Updated on 16 June 2026*
 
 
 ### 3x3x3 Cube
@@ -54,6 +54,7 @@
 | First single | Person |
 | ---: | :--- |
 | 1:15.80 | [Szymon Musiał](https://www.worldcubeassociation.org/persons/2018MUSI03) |
+| 1:20.76 | [Wiktor Rudowicz](https://www.worldcubeassociation.org/persons/2026RUDO01) |
 | 1:21.55 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) |
 | 1:22.55 | [Dominik Smagowski](https://www.worldcubeassociation.org/persons/2023SMAG02) |
 | 1:22.56 | [Dominik Stryczek](https://www.worldcubeassociation.org/persons/2023STRY01) |
@@ -62,7 +63,6 @@
 | 1:24.51 | [Krzysztof Chlebowski](https://www.worldcubeassociation.org/persons/2021CHLE01) |
 | 1:24.60 | [Maciej Chodakowski](https://www.worldcubeassociation.org/persons/2019CHOD01) |
 | 1:24.74 | [Krzysztof Grabowski](https://www.worldcubeassociation.org/persons/2021GRAB01) |
-| 1:24.77 | [Artur Rzegost](https://www.worldcubeassociation.org/persons/2017RZEG01) |
 
 ### 6x6x6 Cube
 
@@ -147,12 +147,12 @@
 | 55.90 | [Aleksander Kołodziński](https://www.worldcubeassociation.org/persons/2021KOLO01) |
 | 55.99 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) |
 | 58.78 | [Krzysztof Boguszewski](https://www.worldcubeassociation.org/persons/2019BOGU01) |
+| 1:01.03 | [Sebastian Fornal](https://www.worldcubeassociation.org/persons/2022FORN02) |
 | 1:05.53 | [Wojciech Piórczyński](https://www.worldcubeassociation.org/persons/2021PIOR01) |
 | 1:14.12 | [Dawid Kamiński](https://www.worldcubeassociation.org/persons/2026KAMI01) |
 | 1:16.74 | [Szczepan Rozwadowski](https://www.worldcubeassociation.org/persons/2025ROZW02) |
 | 1:17.08 | [Rafał Rowiński](https://www.worldcubeassociation.org/persons/2024ROWI03) |
 | 1:17.18 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
-| 1:17.88 | [Grzegorz Chudzik](https://www.worldcubeassociation.org/persons/2018CHUD02) |
 
 ### Pyraminx
 
@@ -191,13 +191,13 @@
 | 3.09 | [Robert Cegiel](https://www.worldcubeassociation.org/persons/2017CEGI01) |
 | 3.44 | [Kinga Bednarska](https://www.worldcubeassociation.org/persons/2021BEDN01) |
 | 3.60 | [Jakub Grzybowski](https://www.worldcubeassociation.org/persons/2017GRZY02) |
+| 3.64 | [Franciszek Turżański](https://www.worldcubeassociation.org/persons/2026TURZ01) |
 | 3.72 | [Kacper Jędrzejuk](https://www.worldcubeassociation.org/persons/2019JEDR01) |
 | 3.76 | [Zuzanna Kozicka](https://www.worldcubeassociation.org/persons/2021KOZI01) |
 | 3.79 | [Kamil Kazimierczak](https://www.worldcubeassociation.org/persons/2016KAZI01) |
 | 4.02 | [Grzegorz Baryła](https://www.worldcubeassociation.org/persons/2017BARY01) |
 | 4.05 | [Adam Semeniuk](https://www.worldcubeassociation.org/persons/2023SEME01) |
 | 4.09 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) |
-| 4.21 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
 
 ### Square-1
 

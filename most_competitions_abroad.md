@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 13 June 2026*
+*Updated on 16 June 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -29,13 +29,13 @@
 | 16 | [Naama Anbar](https://www.worldcubeassociation.org/persons/2023ANBA01) |
 | 16 | [Tymoteusz Zmudzki Piskorska](https://www.worldcubeassociation.org/persons/2024PISK02) |
 | 15 | [Michal J. Sekulski](https://www.worldcubeassociation.org/persons/2023SEKU01) |
+| 15 | [Marcin Karczmarz](https://www.worldcubeassociation.org/persons/2023KARC01) |
 | 14 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) |
 | 14 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) |
 | 14 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
 | 14 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) |
 | 14 | [Alex Myrus](https://www.worldcubeassociation.org/persons/2022MYRU01) |
 | 14 | [Liam Stuart Ferreira](https://www.worldcubeassociation.org/persons/2022FERR14) |
-| 14 | [Marcin Karczmarz](https://www.worldcubeassociation.org/persons/2023KARC01) |
 | 13 | [Wojciech Poljanowski](https://www.worldcubeassociation.org/persons/2010POLJ01) |
 | 13 | [Nathaniel Bigaj](https://www.worldcubeassociation.org/persons/2019BIGA01) |
 | 13 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) |
@@ -102,6 +102,7 @@
 | 6 | [Oskar Matysik](https://www.worldcubeassociation.org/persons/2019MATY01) |
 | 6 | [Michał Soboń](https://www.worldcubeassociation.org/persons/2019SOBO03) |
 | 6 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
+| 6 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) |
 | 6 | [Filip Chudy](https://www.worldcubeassociation.org/persons/2022CHUD02) |
 | 6 | [Marcin Szacki](https://www.worldcubeassociation.org/persons/2022SZAC01) |
 | 6 | [Franciszek Gawlik](https://www.worldcubeassociation.org/persons/2022GAWL01) |
@@ -138,7 +139,6 @@
 | 5 | [Radosław Michałek](https://www.worldcubeassociation.org/persons/2021MICH03) |
 | 5 | [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) |
 | 5 | [Ignacy Malinowski](https://www.worldcubeassociation.org/persons/2021MALI02) |
-| 5 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) |
 | 5 | [Marcin Chudy](https://www.worldcubeassociation.org/persons/2022CHUD03) |
 | 5 | [Witold Wesołowski](https://www.worldcubeassociation.org/persons/2022WESO01) |
 | 5 | [Stanislaw Szumielewicz](https://www.worldcubeassociation.org/persons/2022SZUM02) |

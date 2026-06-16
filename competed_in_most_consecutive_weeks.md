@@ -1,7 +1,7 @@
 ## Most consecutive weeks with competitions
 
 *Note: Only includes people from Poland. Weeks are counted as ISO weeks (Monday-Sunday). Multiple competitions in the same week count as one.*
-*Updated on 13 June 2026*
+*Updated on 16 June 2026*
 
 | Count | Person | Start comp | End comp |
 | ---: | :--- | :--- | :--- |
@@ -14,7 +14,7 @@
 | 14 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | [Warm-Up Warsaw 2025](https://www.worldcubeassociation.org/competitions/WarmUpWarsaw2025) | [Energy Cube Białołęka 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2025) |
 | 12 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | [No Triangle in Dębica 2023](https://www.worldcubeassociation.org/competitions/NoTriangleinDebica2023) | [Beskid Cubing 2023](https://www.worldcubeassociation.org/competitions/BeskidCubing2023) |
 | 10 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | [Cube Factory League Rogów 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueRogow2025) | [CF Goes Sideways Brzeziny 2025](https://www.worldcubeassociation.org/competitions/CFGoesSidewaysBrzeziny2025) |
-| 9 | [Robert Ślesicki](https://www.worldcubeassociation.org/persons/2019SLES02) | [Olsztyn Spring Open 2026](https://www.worldcubeassociation.org/competitions/OlsztynSpringOpen2026) | [Sofia Summer 2026](https://www.worldcubeassociation.org/competitions/SofiaSummer2026) |
+| 10 | [Robert Ślesicki](https://www.worldcubeassociation.org/persons/2019SLES02) | [Olsztyn Spring Open 2026](https://www.worldcubeassociation.org/competitions/OlsztynSpringOpen2026) | [Cube Factory League Kalisz 2026](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueKalisz2026) |
 | 9 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | [Cubing Spring Rybnik 2025](https://www.worldcubeassociation.org/competitions/CubingSpringRybnik2025) | [Czechowice-Dziedzice Open 2025](https://www.worldcubeassociation.org/competitions/CzechowiceDziedziceOpen2025) |
 | 8 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | [Cube4fun in Jarosław 2023](https://www.worldcubeassociation.org/competitions/Cube4funinJaroslaw2023) | [Wrocław Cubing Holiday 2023](https://www.worldcubeassociation.org/competitions/WroclawCubingHoliday2023) |
 | 8 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | [Polish Sylwester Tour: FMC Warszawa-Wesoła 2025](https://www.worldcubeassociation.org/competitions/PSTFMCWarszawaWesola2025) | [WLS Luty 2026](https://www.worldcubeassociation.org/competitions/WLSLuty2026) |

@@ -1,7 +1,7 @@
 ## Highest base registration fee at Polish competitions
 
 *Note: Only competitions with a PLN base fee are included.*
-*Updated on 13 June 2026*
+*Updated on 16 June 2026*
 
 
 ### 2026
@@ -16,8 +16,8 @@
 | 95.00 PLN | [GLS Gdańsk III 2026](https://www.worldcubeassociation.org/competitions/GLSGdanskIII2026) | 2026-04-25 |
 | 95.00 PLN | [GLS Gdańsk IV 2026](https://www.worldcubeassociation.org/competitions/GLSGdanskIV2026) | 2026-05-16 |
 | 95.00 PLN | [Cube Factory League Zgierz 2026](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueZgierz2026) | 2026-05-23 |
+| 95.00 PLN | [Cube Factory League Kalisz 2026](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueKalisz2026) | 2026-06-13 |
 | 89.00 PLN | [Cube4fun Lublin Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2026) | 2026-01-10 |
-| 89.00 PLN | [Cube4fun Tylmanowa Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaWinter2026) | 2026-01-24 |
 
 ### 2025
 

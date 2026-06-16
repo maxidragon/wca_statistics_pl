@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 13 June 2026*
+*Updated on 16 June 2026*
 
 
 ### 3x3x3 Cube
@@ -105,8 +105,8 @@
 | 1.02 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | [Warm-Up Warsaw 2025](https://www.worldcubeassociation.org/competitions/WarmUpWarsaw2025/results/by_person#2020DOZA01) |
 | 1.04 | [Adam Jagła](https://www.worldcubeassociation.org/persons/2017JAGL01) | [Santa Claus Cube Race 2019](https://www.worldcubeassociation.org/competitions/SantaClausCubeRace2019/results/by_person#2017JAGL01) |
 | 1.05 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | [Cube Factory League Rogów 2026](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueRogow2026/results/by_person#2022URBA02) |
+| 1.09 | [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) | [Cube Factory League Kalisz 2026](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueKalisz2026/results/by_person#2021MAJC01) |
 | 1.10 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | [SST Kielce 2021](https://www.worldcubeassociation.org/competitions/SSTKielce2021/results/by_person#2013OLSZ02) |
-| 1.11 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | [Cube4fun Bełżyce 2023](https://www.worldcubeassociation.org/competitions/Cube4funBelzyceMultiEvents2023/results/by_person#2013WARY01) |
 
 ### Clock
 

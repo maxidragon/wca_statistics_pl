@@ -8,14 +8,14 @@
 | 84 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
 | 75 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 73 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
-| 53 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 54 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 40 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 37 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
 | 32 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) |
 | 32 | [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) |
 | 29 | [Karolina Wiącek](https://www.worldcubeassociation.org/persons/2008WIAC01) |
+| 26 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 26 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) |
-| 25 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 25 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
 | 24 | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) |
 | 23 | [Sylwester Jaroszewski](https://www.worldcubeassociation.org/persons/2014JARO01) |
@@ -60,6 +60,7 @@
 | 6 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 6 | [Marta Radziwanowska](https://www.worldcubeassociation.org/persons/2022RADZ01) |
 | 6 | [Martyna Jarosz](https://www.worldcubeassociation.org/persons/2022JARO01) |
+| 6 | Warszawska Liga Speedcuberów |
 | 5 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 5 | [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) |
 | 5 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) |
@@ -68,7 +69,6 @@
 | 5 | [Tomasz Stawowy](https://www.worldcubeassociation.org/persons/2021STAW01) |
 | 5 | [Marek Kurcyus](https://www.worldcubeassociation.org/persons/2005KURC01) |
 | 5 | [Michał Robaczyk](https://www.worldcubeassociation.org/persons/2006ROBA01) |
-| 5 | Warszawska Liga Speedcuberów |
 | 4 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
 | 4 | [Krzysztof Kuncki](https://www.worldcubeassociation.org/persons/2010KUNC01) |
 | 4 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) |

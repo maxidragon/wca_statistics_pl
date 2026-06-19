@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 16 June 2026*
+*Updated on 19 June 2026*
 
 
 ### Competition
@@ -32,12 +32,12 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **20610** | 21468 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **20624** | 21483 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **16363** | 17022 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **15675** | 16101 |
-| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **13299** | 13777 |
-| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **13181** | 14198 |
-| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **12614** | 13276 |
+| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **13314** | 13792 |
+| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **13196** | 14213 |
+| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **12629** | 13291 |
 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **11527** | 12153 |
 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | **11288** | 11652 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | **10264** | 10451 |
@@ -61,7 +61,7 @@
 | 2024 | **224448** | 235988 |
 | 2023 | **188218** | 198622 |
 | 2022 | **116402** | 123618 |
-| 2026 | **111907** | 119155 |
+| 2026 | **112341** | 119600 |
 | 2019 | **91337** | 95933 |
 | 2014 | **76324** | 80953 |
 | 2018 | **72402** | 75406 |
@@ -82,14 +82,14 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **370127** | 377477 |
+| 3x3x3 Cube | **370298** | 377652 |
 | 2x2x2 Cube | **241189** | 247767 |
 | Pyraminx | **186222** | 191124 |
-| Skewb | **130142** | 133508 |
+| Skewb | **130287** | 133657 |
 | 4x4x4 Cube | **126125** | 130468 |
 | 3x3x3 One-Handed | **100866** | 104114 |
 | Clock | **77933** | 90229 |
-| Megaminx | **62796** | 65319 |
+| Megaminx | **62914** | 65440 |
 | 5x5x5 Cube | **61559** | 63781 |
 | Square-1 | **51148** | 53174 |
 | 6x6x6 Cube | **14559** | 15112 |

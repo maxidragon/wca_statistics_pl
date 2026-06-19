@@ -1,7 +1,7 @@
 ## Lowest base registration fee at Polish competitions
 
 *Note: Only competitions with a PLN base fee are included.*
-*Updated on 16 June 2026*
+*Updated on 19 June 2026*
 
 
 ### 2026
@@ -15,9 +15,9 @@
 | 35.00 PLN | [WLS Marzec 2026](https://www.worldcubeassociation.org/competitions/WLSMarzec2026) | 2026-03-11 |
 | 35.00 PLN | [WLS Kwiecień 2026](https://www.worldcubeassociation.org/competitions/WLSKwiecien2026) | 2026-04-15 |
 | 35.00 PLN | [WLS Maj 2026](https://www.worldcubeassociation.org/competitions/WLSMaj2026) | 2026-05-13 |
+| 35.00 PLN | [WLS Czerwiec 2026](https://www.worldcubeassociation.org/competitions/WLSCzerwiec2026) | 2026-06-17 |
 | 40.00 PLN | [Środowy Wieczór w Rzeszowie 2026](https://www.worldcubeassociation.org/competitions/SrodowyWieczorwRzeszowie2026) | 2026-03-25 |
 | 40.00 PLN | [Nagawczyna Side Open 2026](https://www.worldcubeassociation.org/competitions/NagawczynaSideOpen2026) | 2026-05-16 |
-| 50.00 PLN | [BrizZon Side Open 2026](https://www.worldcubeassociation.org/competitions/BrizZonSideOpen2026) | 2026-01-31 |
 
 ### 2025
 

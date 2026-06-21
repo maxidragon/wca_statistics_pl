@@ -7,7 +7,7 @@
 | 140 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
 | 84 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
 | 75 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
-| 73 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
+| 74 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 54 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 40 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 37 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
@@ -82,6 +82,7 @@
 | 4 | [Maksymilian Januszewski](https://www.worldcubeassociation.org/persons/2022JANU01) |
 | 4 | [Kajtek Kwiatkowski](https://www.worldcubeassociation.org/persons/2023KWIA01) |
 | 4 | [Mateusz Ziemba](https://www.worldcubeassociation.org/persons/2022ZIEM01) |
+| 4 | [Roksana Porucznik](https://www.worldcubeassociation.org/persons/2024PORU01) |
 | 4 | [Antoni Osman](https://www.worldcubeassociation.org/persons/2024OSMA01) |
 | 4 | [Julia Dąbrowska](https://www.worldcubeassociation.org/persons/2024DABR01) |
 | 3 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) |
@@ -106,7 +107,6 @@
 | 3 | [Adam Brzana](https://www.worldcubeassociation.org/persons/2022BRZA01) |
 | 3 | [Krystian Fiołek](https://www.worldcubeassociation.org/persons/2022FIOL01) |
 | 3 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) |
-| 3 | [Roksana Porucznik](https://www.worldcubeassociation.org/persons/2024PORU01) |
 | 3 | [Daniel Śliwa](https://www.worldcubeassociation.org/persons/2024SLIW01) |
 
 

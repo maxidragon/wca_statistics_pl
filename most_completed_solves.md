@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 19 June 2026*
+*Updated on 22 June 2026*
 
 
 ### Competition
@@ -35,9 +35,9 @@
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **20624** | 21483 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **16363** | 17022 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **15675** | 16101 |
-| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **13314** | 13792 |
+| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **13315** | 13793 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **13196** | 14213 |
-| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **12629** | 13291 |
+| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **12631** | 13293 |
 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **11527** | 12153 |
 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | **11288** | 11652 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | **10264** | 10451 |
@@ -61,7 +61,7 @@
 | 2024 | **224448** | 235988 |
 | 2023 | **188218** | 198622 |
 | 2022 | **116402** | 123618 |
-| 2026 | **112341** | 119600 |
+| 2026 | **112384** | 119645 |
 | 2019 | **91337** | 95933 |
 | 2014 | **76324** | 80953 |
 | 2018 | **72402** | 75406 |
@@ -95,7 +95,7 @@
 | 6x6x6 Cube | **14559** | 15112 |
 | 3x3x3 Blindfolded | **13611** | 35454 |
 | 7x7x7 Cube | **12303** | 12847 |
-| 3x3x3 Fewest Moves | **6864** | 9025 |
+| 3x3x3 Fewest Moves | **6907** | 9070 |
 | Magic | **4230** | 4674 |
 | 3x3x3 With Feet | **2450** | 2650 |
 | 3x3x3 Multi-Blind | **2374** | 3535 |

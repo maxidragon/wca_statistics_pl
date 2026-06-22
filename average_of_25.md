@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 19 June 2026*
+*Updated on 22 June 2026*
 
 
 ### 3x3x3 Cube
@@ -112,13 +112,13 @@
 | 21.05 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 20, 21, 22, 22, 22, 23, 18, 21, 23, 28, 21, 21, 20, 20, 20, 20, 23, 21, 19, 24, 22, 19, 20, 18, 22 |
 | 21.71 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 22, 19, 22, 22, 19, 20, 23, 20, 23, 23, 22, 22, 24, 23, 18, 23, 24, 26, 24, 20, 22, 21, 21, 20, 20 |
 | 22.05 | [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) | 20, 20, 22, 22, 23, 22, 25, 23, 22, 24, 21, 24, 21, 25, 23, 21, 19, 23, 22, 23, 21, 21, 22, 20, 23 |
+| 23.48 | [Marcin Chmielewski](https://www.worldcubeassociation.org/persons/2023CHMI01) | 25, 23, 23, 21, 22, 21, 26, 25, 23, 22, 29, 25, 20, 26, 24, DNF, 20, 20, 23, 22, 24, 22, 24, DNF, 23 |
 | 24.00 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 23, 25, 28, 23, 23, 22, DNF, 26, 23, 24, 23, 25, 25, 25, 25, 21, 19, 24, 25, 23, 23, 23, 23, 26, 25 |
 | 24.29 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) | 27, 23, 23, 23, 21, 24, 22, 23, 25, 22, 29, 28, 22, 24, 26, DNF, 25, 24, 21, 26, 22, 25, 28, 26, 22 |
 | 24.67 | [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) | 32, 24, 23, 26, 24, 25, 20, 23, 26, 24, 22, 22, 22, 27, DNF, 24, 26, 24, 26, 24, 23, 27, 25, 31, 21 |
 | 25.10 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 19, 22, 27, 26, 25, 25, 25, 27, 24, 30, 23, 24, 24, 28, 26, 24, 32, 29, 25, 25, 23, 22, 25, 28, 22 |
 | 26.24 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 33, 28, 23, 27, 23, 26, 26, 27, 24, 26, 28, 27, 22, 28, 27, 27, 29, 29, 23, 25, 26, 26, 26, 30, 23 |
 | 28.57 | [Michał Nikiel](https://www.worldcubeassociation.org/persons/2011NIKI01) | 30, 34, 27, DNF, 23, 30, 30, 31, 29, 29, 26, 29, 29, 24, 31, 24, 26, 28, 32, 32, 21, 29, DNF, 27, 21 |
-| 28.67 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 30, 30, 28, 32, 25, 24, 30, 29, 28, 29, 29, 30, 31, 26, 30, 31, 31, 24, 28, 30, 28, 25, 25, 30, 30 |
 
 ### 3x3x3 One-Handed
 

@@ -1,7 +1,7 @@
 ## Average base registration fee per voivodeship
 
 *Note: Voivodeship is inferred from competition coordinates (approximate bounding box). Only PLN competitions are included.*
-*Updated on 19 June 2026*
+*Updated on 22 June 2026*
 
 
 ### 2026
@@ -22,7 +22,7 @@
 | Zachodniopomorskie | 60.00 PLN | 1 |
 | Opolskie | 60.00 PLN | 1 |
 | Podkarpackie | 57.00 PLN | 5 |
-| Mazowieckie | 41.90 PLN | 10 |
+| Mazowieckie | 39.91 PLN | 11 |
 
 ### 2025
 

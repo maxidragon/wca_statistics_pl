@@ -1,7 +1,7 @@
 ## Lowest base registration fee at Polish competitions
 
 *Note: Only competitions with a PLN base fee are included.*
-*Updated on 19 June 2026*
+*Updated on 22 June 2026*
 
 
 ### 2026
@@ -10,6 +10,7 @@
 | ---: | :--- | :--- |
 | 15.00 PLN | [FMC Warszawa 2026](https://www.worldcubeassociation.org/competitions/FMCWarszawa2026) | 2026-05-29 |
 | 20.00 PLN | [Fun with FM in Warsaw 2026](https://www.worldcubeassociation.org/competitions/FunwithFMinWarsaw2026) | 2026-02-01 |
+| 20.00 PLN | [Fun with FM in Warsaw II 2026](https://www.worldcubeassociation.org/competitions/FunWithFMinWarsawII2026) | 2026-06-14 |
 | 35.00 PLN | [WLS Styczeń 2026](https://www.worldcubeassociation.org/competitions/WLSStyczen2026) | 2026-01-21 |
 | 35.00 PLN | [WLS Luty 2026](https://www.worldcubeassociation.org/competitions/WLSLuty2026) | 2026-02-11 |
 | 35.00 PLN | [WLS Marzec 2026](https://www.worldcubeassociation.org/competitions/WLSMarzec2026) | 2026-03-11 |
@@ -17,7 +18,6 @@
 | 35.00 PLN | [WLS Maj 2026](https://www.worldcubeassociation.org/competitions/WLSMaj2026) | 2026-05-13 |
 | 35.00 PLN | [WLS Czerwiec 2026](https://www.worldcubeassociation.org/competitions/WLSCzerwiec2026) | 2026-06-17 |
 | 40.00 PLN | [Środowy Wieczór w Rzeszowie 2026](https://www.worldcubeassociation.org/competitions/SrodowyWieczorwRzeszowie2026) | 2026-03-25 |
-| 40.00 PLN | [Nagawczyna Side Open 2026](https://www.worldcubeassociation.org/competitions/NagawczynaSideOpen2026) | 2026-05-16 |
 
 ### 2025
 

@@ -1,16 +1,16 @@
 ## Most days potentially spent at competitions
 
-*Updated on 19 June 2026*
+*Updated on 22 June 2026*
 
 | Days | Person | Competitions |
 | ---: | :--- | ---: |
 | 732 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 398 |
-| 641 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 373 |
+| 642 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 374 |
 | 516 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 263 |
 | 505 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 268 |
 | 433 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 221 |
 | 421 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 215 |
-| 396 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 230 |
+| 397 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 231 |
 | 391 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 191 |
 | 386 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 186 |
 | 373 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | 193 |
@@ -20,7 +20,7 @@
 | 317 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | 159 |
 | 296 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 145 |
 | 290 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 142 |
-| 282 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 145 |
+| 283 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 146 |
 | 269 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 151 |
 | 269 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 132 |
 | 259 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 136 |
@@ -43,9 +43,9 @@
 | 214 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 112 |
 | 213 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 114 |
 | 213 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 116 |
-| 211 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 110 |
+| 212 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 111 |
 | 207 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 119 |
-| 205 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 105 |
+| 206 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 106 |
 | 205 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 121 |
 | 204 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 96 |
 

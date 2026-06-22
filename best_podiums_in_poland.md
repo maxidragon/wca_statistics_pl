@@ -1,7 +1,7 @@
 ## Best podiums at Polish competitions
 
 *Note: Podium places with sum of best or average times depending on format.*
-*Updated on 19 June 2026*
+*Updated on 22 June 2026*
 
 
 ### 3x3x3 Cube
@@ -120,9 +120,9 @@
 | [Fun with FM in Warsaw 2026](https://www.worldcubeassociation.org/competitions/FunwithFMinWarsaw2026) | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) (21.33), [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) (22.33), [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) (22.33) | 65.99 |
 | [PST: FMC Poznań 2025](https://www.worldcubeassociation.org/competitions/PSTFMCPoznan2025) | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) (22.00), [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) (22.33), [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) (22.33) | 66.66 |
 | [CFL Goes Sideways Rogów 2025](https://www.worldcubeassociation.org/competitions/CFLGoesSidewaysRogow2025) | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) (21.33), [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) (22.00), [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) (23.33) | 66.66 |
+| [Fun with FM in Warsaw II 2026](https://www.worldcubeassociation.org/competitions/FunWithFMinWarsawII2026) | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) (21.33), [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) (22.67), [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) (23.00) | 67.00 |
 | [Cool Down Szczecin 2025](https://www.worldcubeassociation.org/competitions/CoolDownSzczecin2025) | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) (22.00), [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) (22.00), [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) (23.00) | 67.00 |
 | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) (22.00), [Marcin Chmielewski](https://www.worldcubeassociation.org/persons/2023CHMI01) (22.33), [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) (22.67) | 67.00 |
-| [Warsaw FMC Tour Saturday 2024](https://www.worldcubeassociation.org/competitions/WarsawFMCTourSaturday2024) | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) (22.33), [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) (22.67), [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) (23.00) | 68.00 |
 
 ### 3x3x3 Fewest Moves (Best of 2)
 

@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on 19 June 2026*
+*Updated on 22 June 2026*
 
 
 ### 3x3x3 Cube
@@ -344,11 +344,11 @@
 
 | Moving average | Person |
 | ---: | :--- |
-| 21.59 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
-| 22.17 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
-| 22.54 | [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) |
-| 23.15 | [Marcin Chmielewski](https://www.worldcubeassociation.org/persons/2023CHMI01) |
-| 24.66 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) |
+| 21.50 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
+| 22.52 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
+| 22.69 | [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) |
+| 23.04 | [Marcin Chmielewski](https://www.worldcubeassociation.org/persons/2023CHMI01) |
+| 24.60 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) |
 | 24.75 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) |
 | 24.92 | [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) |
 | 27.10 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
@@ -386,8 +386,8 @@
 | 35.52 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) |
 | 35.56 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 35.93 | [Grzegorz Pacewicz](https://www.worldcubeassociation.org/persons/2014PACE01) |
+| 36.07 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
 | 36.21 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) |
-| 36.59 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
 | 36.61 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) |
 | 36.84 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
 | 37.12 | [Szymon Myśliński](https://www.worldcubeassociation.org/persons/2019MYSL01) |

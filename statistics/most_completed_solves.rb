@@ -8,30 +8,24 @@ class MostCompletedSolves < GroupedStatistic
 
   def query
     <<-SQL
+      WITH polish_results AS (
+        SELECT r.id, r.competition_id, r.event_id,
+          CONCAT('[', p.name, '](https://www.worldcubeassociation.org/persons/', p.wca_id, ')') AS person_link
+        FROM results r
+        JOIN persons p ON p.wca_id = r.person_id AND p.sub_id = 1 AND p.country_id = 'Poland'
+      )
       SELECT
-        SUM(CASE WHEN ra.value > 0 THEN 1 ELSE 0 END) completed_count,
-        SUM(CASE WHEN ra.value = -1 THEN 1 ELSE 0 END) dnfs_count,
-        CONCAT('[', competition.cell_name, '](https://www.worldcubeassociation.org/competitions/', competition.id, ')') competition_link,
-        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
-        country.name country,
-        continent.name continent,
-        YEAR(competition.start_date) year,
-        event.name event
-      FROM results r
-      JOIN result_attempts ra ON ra.result_id = r.id
-      JOIN persons person 
-        ON person.wca_id = r.person_id 
-        AND person.sub_id = 1 
-        AND person.country_id = 'Poland'
-      JOIN competitions competition 
-        ON competition.id = r.competition_id
-      JOIN countries country 
-        ON country.id = competition.country_id
-      JOIN continents continent 
-        ON continent.id = country.continent_id
-      JOIN events event 
-        ON event.id = r.event_id
-      GROUP BY r.id
+        SUM(CASE WHEN ra.value > 0 THEN 1 ELSE 0 END) AS completed_count,
+        SUM(CASE WHEN ra.value = -1 THEN 1 ELSE 0 END) AS dnfs_count,
+        CONCAT('[', c.cell_name, '](https://www.worldcubeassociation.org/competitions/', c.id, ')') AS competition_link,
+        pr.person_link,
+        YEAR(c.start_date) AS year,
+        e.name AS event
+      FROM polish_results pr
+      JOIN result_attempts ra ON ra.result_id = pr.id
+      JOIN competitions c ON c.id = pr.competition_id
+      JOIN events e ON e.id = pr.event_id
+      GROUP BY pr.id
     SQL
   end
 

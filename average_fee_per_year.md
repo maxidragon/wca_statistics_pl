@@ -1,4 +1,4 @@
-## Average base registration fee per year
+## Average registration fee per year
 
 *Note: Only competitions with a PLN base fee are included.*
 *Updated on 22 June 2026*

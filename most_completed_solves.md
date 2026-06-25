@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 22 June 2026*
+*Updated on 25 June 2026*
 
 
 ### Competition
@@ -12,6 +12,7 @@
 | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023) | **8783** | 9167 |
 | [All Rounders Katowice I 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceI2026) | **7669** | 8076 |
 | [Polish Championship 2015](https://www.worldcubeassociation.org/competitions/PolishChampionship2015) | **7211** | 7525 |
+| [Żmigród Open 2026](https://www.worldcubeassociation.org/competitions/ZmigrodOpen2026) | **7147** | 7433 |
 | [Santa Claus Cube Race 2015](https://www.worldcubeassociation.org/competitions/SantaClausCubeRace2015) | **6745** | 6984 |
 | [Polish Nationals 2017](https://www.worldcubeassociation.org/competitions/PolishNationals2017) | **6537** | 6858 |
 | [Santa Claus Cube Race 2016](https://www.worldcubeassociation.org/competitions/SantaClausCubeRace2016) | **6502** | 6743 |
@@ -26,27 +27,26 @@
 | [Energy Cube Konin 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeKonin2023) | **5729** | 6020 |
 | [Energy Cube Białołęka 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2025) | **5692** | 5938 |
 | [Energy Cube Białołęka 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2024) | **5670** | 5900 |
-| [Szansa Cubing Open Warsaw 2024](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2024) | **5638** | 5988 |
 
 ### Person
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **20624** | 21483 |
-| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **16363** | 17022 |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **15675** | 16101 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **20714** | 21574 |
+| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **16446** | 17108 |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **15738** | 16164 |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **13315** | 13793 |
-| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **13196** | 14213 |
+| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **13276** | 14299 |
 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **12631** | 13293 |
-| [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **11527** | 12153 |
+| [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **11618** | 12244 |
 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | **11288** | 11652 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | **10264** | 10451 |
-| [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | **9951** | 10577 |
-| [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | **9714** | 10271 |
+| [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | **10030** | 10667 |
+| [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | **9784** | 10341 |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | **9377** | 9589 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **9272** | 10718 |
-| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **9122** | 9455 |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **9080** | 9250 |
+| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **9167** | 9500 |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **9146** | 9316 |
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | **8630** | 8814 |
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | **7956** | 8230 |
 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | **7567** | 8252 |
@@ -60,8 +60,8 @@
 | 2025 | **236931** | 249879 |
 | 2024 | **224448** | 235988 |
 | 2023 | **188218** | 198622 |
+| 2026 | **120086** | 127644 |
 | 2022 | **116402** | 123618 |
-| 2026 | **112384** | 119645 |
 | 2019 | **91337** | 95933 |
 | 2014 | **76324** | 80953 |
 | 2018 | **72402** | 75406 |
@@ -82,19 +82,19 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **370298** | 377652 |
-| 2x2x2 Cube | **241189** | 247767 |
-| Pyraminx | **186222** | 191124 |
-| Skewb | **130287** | 133657 |
-| 4x4x4 Cube | **126125** | 130468 |
-| 3x3x3 One-Handed | **100866** | 104114 |
-| Clock | **77933** | 90229 |
-| Megaminx | **62914** | 65440 |
-| 5x5x5 Cube | **61559** | 63781 |
-| Square-1 | **51148** | 53174 |
-| 6x6x6 Cube | **14559** | 15112 |
+| 3x3x3 Cube | **372365** | 379767 |
+| 2x2x2 Cube | **242086** | 248692 |
+| Pyraminx | **187429** | 192369 |
+| Skewb | **131039** | 134417 |
+| 4x4x4 Cube | **126635** | 131002 |
+| 3x3x3 One-Handed | **101284** | 104544 |
+| Clock | **78403** | 90776 |
+| Megaminx | **63275** | 65827 |
+| 5x5x5 Cube | **61946** | 64183 |
+| Square-1 | **51493** | 53528 |
+| 6x6x6 Cube | **14715** | 15269 |
 | 3x3x3 Blindfolded | **13611** | 35454 |
-| 7x7x7 Cube | **12303** | 12847 |
+| 7x7x7 Cube | **12435** | 12990 |
 | 3x3x3 Fewest Moves | **6907** | 9070 |
 | Magic | **4230** | 4674 |
 | 3x3x3 With Feet | **2450** | 2650 |

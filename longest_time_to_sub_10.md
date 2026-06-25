@@ -1,11 +1,12 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Updated on 22 June 2026*
+*Updated on 25 June 2026*
 
 | Person | Years |
 | :--- | ---: |
 | [Adrian Walkowiak](https://www.worldcubeassociation.org/persons/2011WALK02) | 14.14 |
 | [Kamil Fiedoruk](https://www.worldcubeassociation.org/persons/2012FIED01) | 13.95 |
+| [Paweł Gąsiorowski](https://www.worldcubeassociation.org/persons/2013GSIO01) | 13.28 |
 | [Szymon Moroń](https://www.worldcubeassociation.org/persons/2013MORO01) | 11.90 |
 | [Daniel Jamrużka](https://www.worldcubeassociation.org/persons/2012JAMR01) | 11.50 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 11.31 |
@@ -91,8 +92,8 @@
 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) | 3.87 |
 | [Witold Sołtysik](https://www.worldcubeassociation.org/persons/2015SOLT03) | 3.85 |
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 3.83 |
-| [Ignacy Buczek](https://www.worldcubeassociation.org/persons/2013BUCZ01) | 3.76 |
 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 3.76 |
+| [Ignacy Buczek](https://www.worldcubeassociation.org/persons/2013BUCZ01) | 3.76 |
 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 3.70 |
 | [Hubert Kwasigroch](https://www.worldcubeassociation.org/persons/2014KWAS01) | 3.70 |
 | [Gustaw Rejent](https://www.worldcubeassociation.org/persons/2022REJE02) | 3.64 |
@@ -102,7 +103,6 @@
 | [Cyprian Czuba](https://www.worldcubeassociation.org/persons/2019CZUB01) | 3.56 |
 | [Wojciech Weremczuk](https://www.worldcubeassociation.org/persons/2014WERE01) | 3.53 |
 | [Wojciech Barciaga](https://www.worldcubeassociation.org/persons/2013BARC03) | 3.51 |
-| [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | 3.49 |
 | [Michał Machnik](https://www.worldcubeassociation.org/persons/2022MACH14) | 3.49 |
 
 

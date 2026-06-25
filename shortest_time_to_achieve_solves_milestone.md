@@ -1,6 +1,6 @@
 ## Shortest time to achieve solves milestone
 
-*Updated on 22 June 2026*
+*Updated on 25 June 2026*
 
 
 ### 20000 Solves
@@ -29,6 +29,7 @@
 | 3795 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 3984 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 4047 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
+| 4740 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
 | 6225 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 
 ### 5000 Solves

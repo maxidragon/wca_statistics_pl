@@ -1,7 +1,7 @@
 ## Most consecutive weeks with competitions
 
 *Note: Only includes people from Poland. Weeks are counted as ISO weeks (Monday-Sunday). Multiple competitions in the same week count as one.*
-*Updated on 22 June 2026*
+*Updated on 25 June 2026*
 
 | Count | Person | Start comp | End comp |
 | ---: | :--- | :--- | :--- |
@@ -32,6 +32,8 @@
 | 6 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) | [Cube4fun in Bełchatów 2023](https://www.worldcubeassociation.org/competitions/Cube4funinBelchatow2023) | [Olsztyn Open 2023](https://www.worldcubeassociation.org/competitions/OlsztynOpen2023) |
 | 6 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | [Dragon Cubing 2023](https://www.worldcubeassociation.org/competitions/DragonCubing2023) | [Cube4fun Bełżyce Multi Events 2023](https://www.worldcubeassociation.org/competitions/Cube4funBelzyceMultiEvents2023) |
 | 6 | [Tomasz Stawowy](https://www.worldcubeassociation.org/persons/2021STAW01) | [Kęty Open 2023](https://www.worldcubeassociation.org/competitions/KetyOpen2023) | [GLS II 2023](https://www.worldcubeassociation.org/competitions/GLSII2023) |
+| 6 | [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) | [GLS Gdańsk IV 2026](https://www.worldcubeassociation.org/competitions/GLSGdanskIV2026) | [Oslo Open 2026](https://www.worldcubeassociation.org/competitions/OsloOpen2026) |
+| 6 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | [GLS Gdańsk IV 2026](https://www.worldcubeassociation.org/competitions/GLSGdanskIV2026) | [Oslo Open 2026](https://www.worldcubeassociation.org/competitions/OsloOpen2026) |
 | 6 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) | [Energy Cube Tomaszów Mazowiecki 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2023) | [Beskid Cubing 2023](https://www.worldcubeassociation.org/competitions/BeskidCubing2023) |
 | 6 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | [Silesian Minx Fest 2023](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2023) | [Energy Cube Tomaszów Mazowiecki 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2023) |
 | 6 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | [Cube4fun Double Weekend Pilzno 2023](https://www.worldcubeassociation.org/competitions/Cube4funDWPilzno2023) | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023) |
@@ -50,8 +52,6 @@
 | 5 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022) | [Cube4fun League VII Pawłowice 2022](https://www.worldcubeassociation.org/competitions/Cube4funPawlowice2022) |
 | 5 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | [CF Goes Crazy Brzeziny 2025](https://www.worldcubeassociation.org/competitions/CFGoesCrazyBrzeziny2025) | [Lakeside Megaminx Fiesta Augustów 2025](https://www.worldcubeassociation.org/competitions/MegaminxFiestaAugustow2025) |
 | 5 | [Wojciech Piórczyński](https://www.worldcubeassociation.org/persons/2021PIOR01) | [Polish Sylwester Tour: FMC Poznań 2025](https://www.worldcubeassociation.org/competitions/PSTFMCPoznan2025) | [Fun with Fewest Moves in Warsaw 2026](https://www.worldcubeassociation.org/competitions/FunwithFMinWarsaw2026) |
-| 5 | [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) | [Energy Cube Tomaszów Mazowiecki 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2024) | [Energy Cube Białołęka 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2024) |
-| 5 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | [Energy Cube Tomaszów Mazowiecki 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2024) | [Energy Cube Białołęka 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2024) |
 | 5 | [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) | [Energy Cube Tomaszów Mazowiecki 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2025) | [Cube Factory League Justynów 2025](https://www.worldcubeassociation.org/competitions/CFLJustynow2025) |
 | 5 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | [Cube4fun in Biała Rawska 2024](https://www.worldcubeassociation.org/competitions/Cube4funinBialaRawska2024) | [Energy Cube Ciechanów 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeCiechanow2024) |
 | 5 | [Tomasz Szubert](https://www.worldcubeassociation.org/persons/2022SZUB02) | [Cube4fun in Biała Rawska 2024](https://www.worldcubeassociation.org/competitions/Cube4funinBialaRawska2024) | [Energy Cube Ciechanów 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeCiechanow2024) |

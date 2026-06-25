@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 22 June 2026*
+*Updated on 25 June 2026*
 
 
 ### 3x3x3 Cube
@@ -77,7 +77,7 @@
 | 2:34.25 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) |
 | 2:36.64 | [Piotr Stachurski](https://www.worldcubeassociation.org/persons/2018STAC06) |
 | 2:37.93 | [Krzysztof Chlebowski](https://www.worldcubeassociation.org/persons/2021CHLE01) |
-| 2:38.50 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) |
+| 2:38.27 | [Antoni Polityło](https://www.worldcubeassociation.org/persons/2023POLI06) |
 
 ### 7x7x7 Cube
 

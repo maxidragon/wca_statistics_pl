@@ -30,6 +30,8 @@ All statistics are computed only for competitors from Poland/Polish competitions
 - [Highest registration fee at Polish competitions](highest_registration_fee)
 - [Longest competitions in Poland](longest_competitions)
 - [Longest competitions path](longest_competitions_path)
+- [Longest distance between competitions on consecutive days](longest_distance_between_competitions_on_consecutive_days)
+- [Longest distance between competitions on consecutive days (unique)](longest_distance_between_competitions_on_consecutive_days_unique)
 - [Longest standing records](longest_standing_records)
 - [Longest streak of competitions in Poland](longest_streak_of_competitions_in_own_country)
 - [Longest streak of competitions with a personal record done](longest_streak_of_personal_records)

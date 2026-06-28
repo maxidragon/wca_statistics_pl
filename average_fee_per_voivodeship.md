@@ -1,7 +1,7 @@
 ## Average registration fee per voivodeship
 
 *Note: Voivodeship is inferred from competition coordinates (approximate bounding box). Only PLN competitions are included.*
-*Updated on 25 June 2026*
+*Updated on 28 June 2026*
 
 
 ### 2026

@@ -1,32 +1,32 @@
 ## Most competitions organized
 
-*Updated on 25 June 2026*
+*Updated on 28 June 2026*
 
 | Organized | Person |
 | ---: | :--- |
 | 140 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
 | 84 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
-| 75 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
-| 74 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
+| 76 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
+| 75 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 54 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 40 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 37 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
+| 33 | [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) |
 | 32 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) |
-| 32 | [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) |
 | 29 | [Karolina Wiącek](https://www.worldcubeassociation.org/persons/2008WIAC01) |
+| 27 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) |
 | 26 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
-| 26 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) |
+| 25 | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) |
 | 25 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
-| 24 | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) |
 | 23 | [Sylwester Jaroszewski](https://www.worldcubeassociation.org/persons/2014JARO01) |
 | 23 | [Radosław Ciuk](https://www.worldcubeassociation.org/persons/2013CIUK01) |
 | 21 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
+| 21 | [Piotr Gabara](https://www.worldcubeassociation.org/persons/2024GABA02) |
 | 20 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
-| 20 | [Piotr Gabara](https://www.worldcubeassociation.org/persons/2024GABA02) |
 | 18 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) |
 | 18 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) |
+| 17 | [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) |
 | 17 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
-| 16 | [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) |
 | 15 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
 | 14 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
 | 13 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) |
@@ -69,6 +69,7 @@
 | 5 | [Tomasz Stawowy](https://www.worldcubeassociation.org/persons/2021STAW01) |
 | 5 | [Marek Kurcyus](https://www.worldcubeassociation.org/persons/2005KURC01) |
 | 5 | [Michał Robaczyk](https://www.worldcubeassociation.org/persons/2006ROBA01) |
+| 5 | [Julia Dąbrowska](https://www.worldcubeassociation.org/persons/2024DABR01) |
 | 4 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
 | 4 | [Krzysztof Kuncki](https://www.worldcubeassociation.org/persons/2010KUNC01) |
 | 4 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) |
@@ -84,7 +85,6 @@
 | 4 | [Mateusz Ziemba](https://www.worldcubeassociation.org/persons/2022ZIEM01) |
 | 4 | [Roksana Porucznik](https://www.worldcubeassociation.org/persons/2024PORU01) |
 | 4 | [Antoni Osman](https://www.worldcubeassociation.org/persons/2024OSMA01) |
-| 4 | [Julia Dąbrowska](https://www.worldcubeassociation.org/persons/2024DABR01) |
 | 3 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) |
 | 3 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) |
 | 3 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |

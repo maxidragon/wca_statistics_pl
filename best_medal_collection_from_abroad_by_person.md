@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 25 June 2026*
+*Updated on 28 June 2026*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -75,9 +75,9 @@
 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) | **2** | 3 | 1 | 6 |
 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | **2** | 2 | 2 | 6 |
 | [Liam Stuart Ferreira](https://www.worldcubeassociation.org/persons/2022FERR14) | **2** | 2 | 2 | 6 |
+| [Alan Żeromski](https://www.worldcubeassociation.org/persons/2018ZERO01) | **2** | 1 | 2 | 5 |
 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | **2** | 1 | 0 | 3 |
 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | **2** | 0 | 2 | 4 |
-| [Alan Żeromski](https://www.worldcubeassociation.org/persons/2018ZERO01) | **2** | 0 | 1 | 3 |
 | [Oskar Matysik](https://www.worldcubeassociation.org/persons/2019MATY01) | **2** | 0 | 1 | 3 |
 | [Tomasz Korzeniewski](https://www.worldcubeassociation.org/persons/2007KORZ01) | **2** | 0 | 1 | 3 |
 | [Korneliusz Tombarkiewicz](https://www.worldcubeassociation.org/persons/2009TOMB01) | **2** | 0 | 0 | 2 |

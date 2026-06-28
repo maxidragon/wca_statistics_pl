@@ -1,6 +1,6 @@
 ## Polish competitors with most competitions in the current year
 
-*Updated on 25 June 2026*
+*Updated on 28 June 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -47,6 +47,7 @@
 | 12 | [Marta Szcześniak](https://www.worldcubeassociation.org/persons/2023SZCZ07) |
 | 12 | [Bartosz Łopacki](https://www.worldcubeassociation.org/persons/2025LOPA01) |
 | 12 | [Wojciech Łopacki](https://www.worldcubeassociation.org/persons/2025LOPA02) |
+| 11 | [Alan Żeromski](https://www.worldcubeassociation.org/persons/2018ZERO01) |
 | 11 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 11 | [Bartosz Łebkowski](https://www.worldcubeassociation.org/persons/2021LEBK01) |
 | 11 | [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) |
@@ -55,7 +56,6 @@
 | 10 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 10 | [Szymon Ruksza](https://www.worldcubeassociation.org/persons/2013RUKS01) |
 | 10 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) |
-| 10 | [Alan Żeromski](https://www.worldcubeassociation.org/persons/2018ZERO01) |
 | 10 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 10 | [Kinga Bednarska](https://www.worldcubeassociation.org/persons/2021BEDN01) |
 | 10 | [Szymon Jaworski](https://www.worldcubeassociation.org/persons/2021JAWO01) |

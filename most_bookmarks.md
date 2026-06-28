@@ -1,6 +1,6 @@
 ## Most bookmarks compared to competitor limit
 
-*Updated on 25 June 2026*
+*Updated on 28 June 2026*
 
 | Competition | Bookmarks | Competitor limit | Ratio |
 | ---: | :--- | :--- | :--- |
@@ -14,8 +14,8 @@
 | [Warsaw FMC Tour II Sunday 2024](https://www.worldcubeassociation.org/competitions/WarsawFMCTourIISunday2024) | 10 | 10 | 1.0 |
 | [Warsaw Late Solving 2025](https://www.worldcubeassociation.org/competitions/WarsawLateSolving2025) | 29 | 30 | 0.96667 |
 | [Cubing Mine Rybnik II 2024](https://www.worldcubeassociation.org/competitions/CubingMineRybnikII2024) | 48 | 50 | 0.96 |
+| [All Rounders Katowice IV 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceIV2026) | 115 | 120 | 0.95833 |
 | [Winter Side Wrocław 2025](https://www.worldcubeassociation.org/competitions/WinterSideWroclaw2025) | 33 | 35 | 0.94286 |
-| [All Rounders Katowice IV 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceIV2026) | 113 | 120 | 0.94167 |
 | [2 Rounds of FMC in Rzeszów 2023](https://www.worldcubeassociation.org/competitions/2RoundsofFMCinRzeszow2023) | 12 | 13 | 0.92308 |
 | [FMC Warszawa 2026](https://www.worldcubeassociation.org/competitions/FMCWarszawa2026) | 11 | 12 | 0.91667 |
 | [5BLD Masters Opole 2025](https://www.worldcubeassociation.org/competitions/5BLDMastersOpole2025) | 25 | 30 | 0.83333 |

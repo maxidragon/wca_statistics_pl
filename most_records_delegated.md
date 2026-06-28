@@ -1,7 +1,7 @@
 ## Most records delegated
 
 *Note: Counts records achieved in competitions where the Polish Delegate was listed.*
-*Updated on 25 June 2026*
+*Updated on 28 June 2026*
 
 | Records | WR | CR | NR | Delegate |
 | ---: | ---: | ---: | ---: | :--- |

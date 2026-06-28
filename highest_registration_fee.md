@@ -1,7 +1,7 @@
 ## Highest registration fee at Polish competitions
 
 *Note: Only competitions with a PLN base fee are included.*
-*Updated on 25 June 2026*
+*Updated on 28 June 2026*
 
 
 ### 2026

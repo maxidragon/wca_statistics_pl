@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 25 June 2026*
+*Updated on 28 June 2026*
 
 | Person | Distance |
 | :--- | ---: |
@@ -199,13 +199,13 @@
 | [Marcin Karczmarz](https://www.worldcubeassociation.org/persons/2023KARC01) | 10 988 km |
 | [Radosław Ciuk](https://www.worldcubeassociation.org/persons/2013CIUK01) | 10 808 km |
 | [Piotr Kuchta](https://www.worldcubeassociation.org/persons/2012KUCH01) | 10 758 km |
+| [Alan Żeromski](https://www.worldcubeassociation.org/persons/2018ZERO01) | 10 657 km |
 | [Marcel Nycz](https://www.worldcubeassociation.org/persons/2016NYCZ01) | 10 411 km |
 | [Maciej Hebel](https://www.worldcubeassociation.org/persons/2019HEBE01) | 10 391 km |
 | [Igor Łabędź](https://www.worldcubeassociation.org/persons/2021LABE01) | 10 364 km |
 | [Marcel Politowicz](https://www.worldcubeassociation.org/persons/2021POLI02) | 10 206 km |
 | [Piotr Brokos](https://www.worldcubeassociation.org/persons/2023BROK01) | 10 145 km |
 | [Łukasz Cichecki](https://www.worldcubeassociation.org/persons/2007CICH01) | 10 115 km |
-| [Alan Żeromski](https://www.worldcubeassociation.org/persons/2018ZERO01) | 10 095 km |
 | [Michał Robaczyk](https://www.worldcubeassociation.org/persons/2006ROBA01) | 9 907 km |
 | [Anonymous](https://www.worldcubeassociation.org/persons/2022ANON03) | 9 879 km |
 | [Marcin Chmielewski](https://www.worldcubeassociation.org/persons/2023CHMI01) | 9 738 km |

@@ -1,6 +1,9 @@
 require_relative "../core/statistic"
+require_relative "../core/voivodeships"
 
 class CompetedInMostVoivodeships < Statistic
+  include Voivodeships
+
   def initialize
     @title = "Competed in most voivodeships in Poland"
     @note = "Voivodeships are inferred from competition coordinates. Approximate bounding box classification."
@@ -32,34 +35,6 @@ class CompetedInMostVoivodeships < Statistic
   end
 
   def transform(results)
-    voivodeships = {
-      "dolnośląskie" => [50.09, 51.74, 15.03, 17.93],
-      "kujawsko-pomorskie" => [52.58, 53.81, 17.45, 19.85],
-      "lubelskie" => [50.33, 51.64, 22.01, 24.15],
-      "lubuskie" => [51.08, 52.92, 14.12, 16.12],
-      "łódzkie" => [51.00, 52.25, 18.17, 20.28],
-      "małopolskie" => [49.33, 50.50, 19.15, 21.25],
-      "mazowieckie" => [51.40, 53.55, 19.00, 22.00],
-      "opolskie" => [50.17, 51.13, 17.33, 18.77],
-      "podkarpackie" => [49.00, 50.55, 21.28, 23.53],
-      "podlaskie" => [52.60, 54.50, 22.75, 23.85],
-      "pomorskie" => [53.60, 55.15, 16.50, 19.75],
-      "śląskie" => [49.40, 50.75, 18.00, 19.95],
-      "świętokrzyskie" => [50.30, 51.15, 19.90, 21.45],
-      "warmińsko-mazurskie" => [53.50, 54.45, 19.20, 22.95],
-      "wielkopolskie" => [51.60, 53.50, 16.10, 18.90],
-      "zachodniopomorskie" => [53.05, 54.35, 14.10, 16.70]
-    }
-
-    def voivodeship_for(lat, lon, voivodeships)
-      candidates = voivodeships.select do |_, (lat_min, lat_max, lon_min, lon_max)|
-        lat >= lat_min && lat <= lat_max && lon >= lon_min && lon <= lon_max
-      end
-      candidates.min_by do |_, (lat_min, lat_max, lon_min, lon_max)|
-        (lat_max - lat_min) * (lon_max - lon_min)
-      end&.first
-    end
-
     person_competitions = Hash.new { |h, k| h[k] = { name: "", voivodeships: Set.new, history: [] } }
 
     sorted_results = results.sort_by { |r| [r["wca_id"], r["end_date"]] }
@@ -72,7 +47,7 @@ class CompetedInMostVoivodeships < Statistic
       competition_id = r["competition_id"]
       competition_name = r["competition_name"]
       end_date = r["end_date"]
-      voiv = voivodeship_for(lat, lon, voivodeships)
+      voiv = voivodeship_for(lat, lon)
       next unless voiv
 
       unless person_competitions[wca_id][:voivodeships].include?(voiv)
@@ -88,11 +63,9 @@ class CompetedInMostVoivodeships < Statistic
       person_competitions[wca_id][:voivodeships] << voiv
     end
 
-    all_voivs = voivodeships.keys
-
     person_competitions.map do |wca_id, data|
       completed = data[:voivodeships].to_a.sort
-      missed = all_voivs - completed
+      missed = ALL - completed
       completion_info = nil
 
       if missed.empty? && data[:history].any?

@@ -19,7 +19,7 @@ class NumberOfPeopleToReachMilestoneInCompsCount < Statistic
       SELECT '>= 200' AS Competitions, COUNT(id) AS Persons FROM t WHERE comps >= 200 UNION ALL
       SELECT '>= 250' AS Competitions, COUNT(id) AS Persons FROM t WHERE comps >= 250 UNION ALL
       SELECT '>= 300' AS Competitions, COUNT(id) AS Persons FROM t WHERE comps >= 300 UNION ALL
-      SELECT '>= 350' AS Competitions, COUNT(id) AS Persons FROM t WHERE comps >= 350;
+      SELECT '>= 350' AS Competitions, COUNT(id) AS Persons FROM t WHERE comps >= 350 UNION ALL
       SELECT '>= 400' AS Competitions, COUNT(id) AS Persons FROM t WHERE comps >= 400;
     SQL
   end

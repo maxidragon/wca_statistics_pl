@@ -6,9 +6,9 @@ class MostCompetitionsInVoivodeshipAtFirstComp < Statistic
 
   def initialize
     @title = "Most % of competitions attended in the same voivodeship as the first competition of the competitor"
-    @note = "Counts how many competitions a Polish person attended in the same voivodeship " \
-            "where they had their first competition. " \
-            "Voivodeships are inferred from competition coordinates (approximate bounding box)."
+    @note = "Counts how many Polish competitions a person attended in the same voivodeship " \
+            "where they had their first Polish competition. " \
+            "The ratio is computed against all competitions attended, including those abroad."
     @table_header = {
       "Person" => :left,
       "First Competition" => :left,
@@ -27,16 +27,15 @@ class MostCompetitionsInVoivodeshipAtFirstComp < Statistic
         c.id AS competition_id,
         c.name AS competition_name,
         c.start_date,
-        c.latitude / 1000000.0 AS lat,
-        c.longitude / 1000000.0 AS lon
+        IF(c.country_id = 'Poland' AND c.latitude IS NOT NULL AND c.longitude IS NOT NULL,
+           c.latitude / 1000000.0, NULL) AS lat,
+        IF(c.country_id = 'Poland' AND c.latitude IS NOT NULL AND c.longitude IS NOT NULL,
+           c.longitude / 1000000.0, NULL) AS lon
       FROM results r
       JOIN persons p ON p.wca_id = r.person_id AND p.sub_id = 1 AND p.country_id = 'Poland'
       JOIN competitions c ON c.id = r.competition_id
-      WHERE c.country_id = 'Poland'
-        AND c.results_posted_at IS NOT NULL
+      WHERE c.results_posted_at IS NOT NULL
         AND c.cancelled_at IS NULL
-        AND c.latitude IS NOT NULL
-        AND c.longitude IS NOT NULL
       GROUP BY p.wca_id, c.id
     SQL
   end
@@ -57,11 +56,13 @@ class MostCompetitionsInVoivodeshipAtFirstComp < Statistic
 
     rows = persons.filter_map do |wca_id, data|
       first_comp = data[:comps].min_by { |c| c[:start_date] }
+      next unless first_comp[:lat] && first_comp[:lon]
+
       voiv = voivodeship_for(first_comp[:lat], first_comp[:lon])
       next unless voiv
 
       total = data[:comps].size
-      count = data[:comps].count { |c| voivodeship_for(c[:lat], c[:lon]) == voiv }
+      count = data[:comps].count { |c| c[:lat] && c[:lon] && voivodeship_for(c[:lat], c[:lon]) == voiv }
       ratio = count.to_f / total
 
       [

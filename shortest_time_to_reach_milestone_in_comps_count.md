@@ -3,6 +3,13 @@
 *Updated on 28 June 2026*
 
 
+### 350 Competitions
+
+| Days | Person |
+| ---: | :--- |
+| 2042 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 4334 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+
 ### 300 Competitions
 
 | Days | Person |

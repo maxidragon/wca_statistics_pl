@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 28 June 2026*
+*Updated on  1 July 2026*
 
 
 ### 3x3x3 Cube
@@ -46,13 +46,14 @@
 | 44.10 | [Bruno Fromm](https://www.worldcubeassociation.org/persons/2023FROM01) |
 | 44.13 | [Dominik Smagowski](https://www.worldcubeassociation.org/persons/2023SMAG02) |
 | 44.48 | [Kacper Dłubała](https://www.worldcubeassociation.org/persons/2018DLUB01) |
+| 45.36 | [Borys Hładyn](https://www.worldcubeassociation.org/persons/2026HLAD01) |
 | 45.54 | [Maciej Chodakowski](https://www.worldcubeassociation.org/persons/2019CHOD01) |
-| 45.70 | [Jan Pietralski](https://www.worldcubeassociation.org/persons/2024PIET02) |
 
 ### 5x5x5 Cube
 
 | First average | Person |
 | ---: | :--- |
+| 1:16.66 | [Michał Majchrzak](https://www.worldcubeassociation.org/persons/2022MAJC01) |
 | 1:16.98 | [Szymon Musiał](https://www.worldcubeassociation.org/persons/2018MUSI03) |
 | 1:17.35 | [Jan Woźniak](https://www.worldcubeassociation.org/persons/2021WOZN01) |
 | 1:19.47 | [Igor Kamiński](https://www.worldcubeassociation.org/persons/2023KAMI04) |
@@ -62,7 +63,6 @@
 | 1:22.59 | [Cyprian Czuba](https://www.worldcubeassociation.org/persons/2019CZUB01) |
 | 1:22.62 | [Maksymilian Sordyl](https://www.worldcubeassociation.org/persons/2022SORD01) |
 | 1:24.17 | [Dawid Centkowski](https://www.worldcubeassociation.org/persons/2022CENT03) |
-| 1:25.71 | [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) |
 
 ### 6x6x6 Cube
 
@@ -72,12 +72,12 @@
 | 2:14.79 | [Jerzy Chmiel](https://www.worldcubeassociation.org/persons/2019CHMI01) |
 | 2:23.08 | [Bartłomiej Gołda](https://www.worldcubeassociation.org/persons/2015GODA01) |
 | 2:24.73 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) |
+| 2:25.07 | [Marcel Borkowski](https://www.worldcubeassociation.org/persons/2023BORK01) |
 | 2:27.66 | [Mikołaj Zubowicz](https://www.worldcubeassociation.org/persons/2015ZUBO01) |
 | 2:33.44 | [Dominik Kądziołka](https://www.worldcubeassociation.org/persons/2023KADZ01) |
 | 2:34.25 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) |
 | 2:36.64 | [Piotr Stachurski](https://www.worldcubeassociation.org/persons/2018STAC06) |
 | 2:37.93 | [Krzysztof Chlebowski](https://www.worldcubeassociation.org/persons/2021CHLE01) |
-| 2:38.27 | [Antoni Polityło](https://www.worldcubeassociation.org/persons/2023POLI06) |
 
 ### 7x7x7 Cube
 

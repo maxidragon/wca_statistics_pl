@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 28 June 2026*
+*Updated on  1 July 2026*
 
 
 ### 3x3x3 Cube
@@ -44,8 +44,8 @@
 | 24.86 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 23.36, 25.44, 25.13, 26.13, 24.00 |
 | 25.02 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 24.15, 30.14, 25.39, 25.52, 21.39 |
 | 25.10 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) | 24.72, 24.20, 29.09, 26.39, 23.53 |
+| 25.13 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 23.19, 24.89, 25.68, 29.48, 24.83 |
 | 25.38 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 25.27, 23.55, 27.42, 27.18, 23.68 |
-| 25.53 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 24.82, 24.84, 26.47, 28.76, 25.28 |
 | 25.62 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | 24.87, 26.46, 26.39, 24.16, 25.60 |
 | 25.71 | [Maksymilian Sordyl](https://www.worldcubeassociation.org/persons/2022SORD01) | 25.72, 24.55, 28.70, 26.11, 25.29 |
 

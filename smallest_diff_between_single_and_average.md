@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 28 June 2026*
+*Updated on  1 July 2026*
 
 
 ### 3x3x3 Cube
@@ -88,11 +88,11 @@
 | 0.15 | [Oskar Matysik](https://www.worldcubeassociation.org/persons/2019MATY01) | 3:19.78 | 3:19.93 | [Cube4fun Cubers Eve 2023](https://www.worldcubeassociation.org/competitions/Cube4funCubersEve2023/results/by_person#2019MATY01) |
 | 0.16 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 3:06.62 | 3:06.78 | [C4fun League III Lubartów 2022](https://www.worldcubeassociation.org/competitions/C4funLeagueIIILubartow2022/results/by_person#2013OWCZ01) |
 | 0.24 | [Jakub Cabaj](https://www.worldcubeassociation.org/persons/2008CABA03) | 5:25.11 | 5:25.35 | [Silesia Open 2012](https://www.worldcubeassociation.org/competitions/SilesiaOpen2012/results/by_person#2008CABA03) |
+| 0.27 | [Martyna Jarosz](https://www.worldcubeassociation.org/persons/2022JARO01) | 3:08.20 | 3:08.47 | [Jasło Cubing Days 2026](https://www.worldcubeassociation.org/competitions/JasloCubingDays2026/results/by_person#2022JARO01) |
 | 0.29 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 2:32.34 | 2:32.63 | [PST CFL Częstochowa 2019](https://www.worldcubeassociation.org/competitions/PSTCFLCzestochowa2019/results/by_person#2016KOLA02) |
 | 0.34 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 2:29.11 | 2:29.45 | [Speed Days Kraśnik 2018](https://www.worldcubeassociation.org/competitions/SpeedDaysKrasnik2018/results/by_person#2006HALC01) |
 | 0.40 | [Jakub Sokołowski](https://www.worldcubeassociation.org/persons/2012SOKO01) | 4:01.97 | 4:02.37 | [PLS Sopot 2014](https://www.worldcubeassociation.org/competitions/PLSSopot2014/results/by_person#2012SOKO01) |
 | 0.44 | [Adam Łyskawa](https://www.worldcubeassociation.org/persons/2017LYSK01) | 2:49.06 | 2:49.50 | [Mysłowice Big Cube Open 2022](https://www.worldcubeassociation.org/competitions/MyslowiceBigCubeOpen2022/results/by_person#2017LYSK01) |
-| 0.45 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 3:39.13 | 3:39.58 | [Staszic Open 2017](https://www.worldcubeassociation.org/competitions/StaszicOpen2017/results/by_person#2011KNOT01) |
 
 ### 3x3x3 Blindfolded
 

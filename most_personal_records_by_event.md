@@ -1,7 +1,7 @@
 ## Most personal records by event
 
 *Note: Counts how many personal records (single or average) a competitor achieved in each event.*
-*Updated on 28 June 2026*
+*Updated on  1 July 2026*
 
 
 ### 3x3x3 Cube
@@ -59,10 +59,10 @@
 | 49 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) |
 | 49 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 49 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
+| 45 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) |
 | 44 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 44 | [Przemysław Kruczek](https://www.worldcubeassociation.org/persons/2013KRUC01) |
 | 44 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
-| 44 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) |
 
 ### 6x6x6 Cube
 

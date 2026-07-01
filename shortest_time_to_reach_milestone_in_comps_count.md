@@ -1,7 +1,13 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 28 June 2026*
+*Updated on  1 July 2026*
 
+
+### 400 Competitions
+
+| Days | Person |
+| ---: | :--- |
+| 4579 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 
 ### 350 Competitions
 

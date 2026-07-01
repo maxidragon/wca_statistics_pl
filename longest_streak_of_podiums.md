@@ -1,7 +1,7 @@
 ## Longest streak of podiums
 
 *Note: All competitions that did not hold the given event are ignored. Results without any completed attempt are not eligible for podium. Only finals are taken into account.*
-*Updated on 28 June 2026*
+*Updated on  1 July 2026*
 
 | Count | Person | Event | Started at | Ended at |
 | ---: | :--- | :--- | :--- | :--- |
@@ -47,19 +47,19 @@
 | 24 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 4x4x4 Cube | [Warszawa Open 2012](https://www.worldcubeassociation.org/competitions/WarszawaOpen2012) | [Euro 2014](https://www.worldcubeassociation.org/competitions/Euro2014) |
 | 24 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 3x3x3 Cube | [Szczecin Summer 2023](https://www.worldcubeassociation.org/competitions/SzczecinSummer2023) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) |
 | 24 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 3x3x3 Fewest Moves | [Poznań Summer Side Open 2022](https://www.worldcubeassociation.org/competitions/PoznanSummerSideOpen2022) | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024) |
+| 24 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | 3x3x3 One-Handed | [Cube4fun in Tylmanowa 2025](https://www.worldcubeassociation.org/competitions/Cube4funinTylmanowa2025) |  |
+| 24 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | 3x3x3 Cube | [Dolné Orešany Open 2025](https://www.worldcubeassociation.org/competitions/DolneOresanyOpen2025) |  |
 | 24 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | Skewb | [Cube4fun Żyrardów 2024](https://www.worldcubeassociation.org/competitions/Cube4funCEZyrardow2024) | [Cube4fun DW Zbuczyn 2026](https://www.worldcubeassociation.org/competitions/Cube4funDWZbuczyn2026) |
 | 23 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) | Skewb | [SLS Bielsko-Biala 2014](https://www.worldcubeassociation.org/competitions/SLSBielskoBiala2014) | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) |
 | 23 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | Megaminx | [Slovakian Open 2017](https://www.worldcubeassociation.org/competitions/SlovakianOpen2017) | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
+| 23 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | Megaminx | [Dębica Cubing Summer 2024](https://www.worldcubeassociation.org/competitions/DebicaCubingSummer2024) |  |
 | 23 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | Square-1 | [Kostelec Summer 2022](https://www.worldcubeassociation.org/competitions/KostelecSummer2022) | [Cube4fun DW Dębica 2023](https://www.worldcubeassociation.org/competitions/Cube4funDWDebica2023) |
 | 23 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 3x3x3 One-Handed | [Dębica Cubing Summer 2024](https://www.worldcubeassociation.org/competitions/DebicaCubingSummer2024) | [Dragon Cubing X 2025](https://www.worldcubeassociation.org/competitions/DragonCubingX2025) |
-| 23 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | 3x3x3 One-Handed | [Cube4fun in Tylmanowa 2025](https://www.worldcubeassociation.org/competitions/Cube4funinTylmanowa2025) |  |
-| 23 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | 3x3x3 Cube | [Dolné Orešany Open 2025](https://www.worldcubeassociation.org/competitions/DolneOresanyOpen2025) |  |
 | 22 | [Tomasz Kiedrowicz](https://www.worldcubeassociation.org/persons/2006KIED01) | Pyraminx | [Gdansk Open 2008](https://www.worldcubeassociation.org/competitions/GdanskOpen2008) | [Euro 2012](https://www.worldcubeassociation.org/competitions/Euro2012) |
 | 22 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | Pyraminx | [LLS III 2018](https://www.worldcubeassociation.org/competitions/LLSIII2018) | [Project Będzin 2019](https://www.worldcubeassociation.org/competitions/ProjectBedzin2019) |
 | 22 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | Skewb | [Project Będzin 2019](https://www.worldcubeassociation.org/competitions/ProjectBedzin2019) | [Cube4fun Dąbrowa Górnicza 2022](https://www.worldcubeassociation.org/competitions/Cube4funDabrowaGornicza2022) |
 | 22 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | Skewb | [Cube4fun Skierniewice 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueSkierniewice2022) | [Warsaw Cube Masters 2023](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2023) |
 | 22 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 3x3x3 One-Handed | [Cube4fun Bielsko-Biała 2022](https://www.worldcubeassociation.org/competitions/Cube4funBielskoBiala2022) | [Silesian Minx Fest 2023](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2023) |
-| 22 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | Megaminx | [Dębica Cubing Summer 2024](https://www.worldcubeassociation.org/competitions/DebicaCubingSummer2024) |  |
 | 22 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 3x3x3 One-Handed | [Elektryk Cube Race 2022](https://www.worldcubeassociation.org/competitions/ElektrykCubeRace2022) | [Dębica Cubing Winter 2024](https://www.worldcubeassociation.org/competitions/DebicaCubingWinter2024) |
 | 22 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | Clock | [Żory Cubing Mansion 2024](https://www.worldcubeassociation.org/competitions/ZoryCubingMansion2024) | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) |
 | 21 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | Clock | [Grudziadz Open 2011](https://www.worldcubeassociation.org/competitions/GrudziadzOpen2011) | [PLS Sopot 2014](https://www.worldcubeassociation.org/competitions/PLSSopot2014) |

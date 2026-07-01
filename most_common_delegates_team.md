@@ -1,13 +1,13 @@
 ## Most common delegate teams in Poland
 
 *Note: This statistic shows the most common teams of delegates in Poland. It is based on the number of competitions where the exact team of delegates was listed.*
-*Updated on 28 June 2026*
+*Updated on  1 July 2026*
 
 | Number of competitions | Team |
 | :--- | :--- |
 | 48 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) + [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 21 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) + [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
-| 11 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) + [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
+| 12 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) + [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
 | 11 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) + [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) + [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) + [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 9 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) + [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 7 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) + [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) + [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |

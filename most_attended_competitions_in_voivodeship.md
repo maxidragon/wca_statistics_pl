@@ -1,7 +1,7 @@
 ## Competitions per voivodeship
 
 *Note: Voivodeships are inferred from competition coordinates (approximate bounding box). *
-*Updated on 28 June 2026*
+*Updated on  1 July 2026*
 
 
 ### Pomorskie
@@ -221,38 +221,38 @@ _Total competitions: 55_
 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | 19 |
 
 ### Podkarpackie
-_Total competitions: 44_
+_Total competitions: 45_
 
 | Person | Competitions |
 | :--- | ---: |
-| [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) | 33 |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 33 |
+| [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) | 34 |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 34 |
 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 32 |
-| [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) | 27 |
-| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 27 |
-| [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 26 |
-| [Kinga Bednarska](https://www.worldcubeassociation.org/persons/2021BEDN01) | 25 |
-| [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | 25 |
-| [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | 25 |
+| [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) | 28 |
+| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 28 |
+| [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 27 |
+| [Kinga Bednarska](https://www.worldcubeassociation.org/persons/2021BEDN01) | 26 |
+| [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | 26 |
+| [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | 26 |
+| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 24 |
 | [Jakub Lorens](https://www.worldcubeassociation.org/persons/2018LORE01) | 23 |
-| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 23 |
-| [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 22 |
-| [Martyna Jarosz](https://www.worldcubeassociation.org/persons/2022JARO01) | 21 |
-| [Krystian Fiołek](https://www.worldcubeassociation.org/persons/2022FIOL01) | 19 |
+| [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 23 |
+| [Martyna Jarosz](https://www.worldcubeassociation.org/persons/2022JARO01) | 22 |
+| [Krystian Fiołek](https://www.worldcubeassociation.org/persons/2022FIOL01) | 20 |
+| [Szymon Brągiel](https://www.worldcubeassociation.org/persons/2022BRAG03) | 19 |
 | [Mateusz Kotwica](https://www.worldcubeassociation.org/persons/2016KOTW01) | 18 |
-| [Szymon Brągiel](https://www.worldcubeassociation.org/persons/2022BRAG03) | 18 |
 | [Konrad Leśniak](https://www.worldcubeassociation.org/persons/2014LENI02) | 18 |
 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 17 |
 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | 17 |
 | [Ignacy Wesołowski](https://www.worldcubeassociation.org/persons/2021WESO01) | 17 |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 17 |
 | [Igor Łabędź](https://www.worldcubeassociation.org/persons/2021LABE01) | 16 |
-| [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | 15 |
+| [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | 16 |
+| [Franciszek Kłos](https://www.worldcubeassociation.org/persons/2021KLOS02) | 15 |
+| [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | 15 |
 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | 14 |
-| [Franciszek Kłos](https://www.worldcubeassociation.org/persons/2021KLOS02) | 14 |
+| [Krzysztof Kucharski](https://www.worldcubeassociation.org/persons/2022KUCH02) | 14 |
 | [Witold Wesołowski](https://www.worldcubeassociation.org/persons/2022WESO01) | 14 |
-| [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | 14 |
-| [Krzysztof Kucharski](https://www.worldcubeassociation.org/persons/2022KUCH02) | 13 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 12 |
 | [Paweł Stolarski](https://www.worldcubeassociation.org/persons/2023STOL04) | 11 |
 
@@ -437,26 +437,30 @@ _Total competitions: 13_
 | [Adam Łyskawa](https://www.worldcubeassociation.org/persons/2017LYSK01) | 4 |
 
 ### Zachodniopomorskie
-_Total competitions: 11_
+_Total competitions: 12_
 
 | Person | Competitions |
 | :--- | ---: |
-| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 11 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 11 |
-| [Ernest Zakrzewski](https://www.worldcubeassociation.org/persons/2011ZAKR01) | 9 |
+| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 12 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 12 |
+| [Ernest Zakrzewski](https://www.worldcubeassociation.org/persons/2011ZAKR01) | 10 |
 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 9 |
+| [Adam Janiszewski](https://www.worldcubeassociation.org/persons/2022JANI01) | 9 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 8 |
 | [Grzegorz Łucki](https://www.worldcubeassociation.org/persons/2013UCKI01) | 8 |
 | [Szymon Myśliński](https://www.worldcubeassociation.org/persons/2019MYSL01) | 8 |
 | [Marta Radziwanowska](https://www.worldcubeassociation.org/persons/2022RADZ01) | 8 |
-| [Adam Janiszewski](https://www.worldcubeassociation.org/persons/2022JANI01) | 8 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 7 |
+| [Kajtek Kwiatkowski](https://www.worldcubeassociation.org/persons/2023KWIA01) | 7 |
+| [Igor Marczak](https://www.worldcubeassociation.org/persons/2022MARC07) | 7 |
 | [Adam Blicharski](https://www.worldcubeassociation.org/persons/2013BLIC01) | 6 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 6 |
-| [Kajtek Kwiatkowski](https://www.worldcubeassociation.org/persons/2023KWIA01) | 6 |
-| [Igor Marczak](https://www.worldcubeassociation.org/persons/2022MARC07) | 6 |
+| [Jan Jędrzej Kasprzak](https://www.worldcubeassociation.org/persons/2022KASP03) | 6 |
 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) | 6 |
+| [Oleksandr Pryimakov](https://www.worldcubeassociation.org/persons/2018PRYI01) | 6 |
 | [Michał Kopeć](https://www.worldcubeassociation.org/persons/2020KOPE01) | 6 |
+| [Abigail Milewska](https://www.worldcubeassociation.org/persons/2022MILE08) | 6 |
+| [Krzysztof Górka](https://www.worldcubeassociation.org/persons/2010GORK01) | 6 |
 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 5 |
 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 5 |
 | [Alan Żeromski](https://www.worldcubeassociation.org/persons/2018ZERO01) | 5 |
@@ -465,12 +469,8 @@ _Total competitions: 11_
 | [Szymon Walczak](https://www.worldcubeassociation.org/persons/2022WALC02) | 5 |
 | [Aleksander Zakrzewski](https://www.worldcubeassociation.org/persons/2022ZAKR01) | 5 |
 | [Filip Brokos](https://www.worldcubeassociation.org/persons/2022BROK03) | 5 |
-| [Jan Jędrzej Kasprzak](https://www.worldcubeassociation.org/persons/2022KASP03) | 5 |
-| [Oleksandr Pryimakov](https://www.worldcubeassociation.org/persons/2018PRYI01) | 5 |
-| [Abigail Milewska](https://www.worldcubeassociation.org/persons/2022MILE08) | 5 |
-| [Tymoteusz Orzechowski](https://www.worldcubeassociation.org/persons/2022ORZE01) | 5 |
-| [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | 5 |
-| [Krzysztof Górka](https://www.worldcubeassociation.org/persons/2010GORK01) | 5 |
+| [Kamil Lewandowski](https://www.worldcubeassociation.org/persons/2023LEWA03) | 5 |
+| [Łukasz Kurowski](https://www.worldcubeassociation.org/persons/2022KURO01) | 5 |
 
 ### Podlaskie
 _Total competitions: 9_

@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 28 June 2026*
+*Updated on  1 July 2026*
 
 
 ### 3x3x3 Cube
@@ -53,6 +53,7 @@
 
 | First single | Person |
 | ---: | :--- |
+| 1:09.55 | [Michał Majchrzak](https://www.worldcubeassociation.org/persons/2022MAJC01) |
 | 1:15.80 | [Szymon Musiał](https://www.worldcubeassociation.org/persons/2018MUSI03) |
 | 1:20.76 | [Wiktor Rudowicz](https://www.worldcubeassociation.org/persons/2026RUDO01) |
 | 1:21.55 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) |
@@ -62,13 +63,13 @@
 | 1:23.36 | [Ignacy Chodarcewicz](https://www.worldcubeassociation.org/persons/2023CHOD04) |
 | 1:24.51 | [Krzysztof Chlebowski](https://www.worldcubeassociation.org/persons/2021CHLE01) |
 | 1:24.60 | [Maciej Chodakowski](https://www.worldcubeassociation.org/persons/2019CHOD01) |
-| 1:24.74 | [Krzysztof Grabowski](https://www.worldcubeassociation.org/persons/2021GRAB01) |
 
 ### 6x6x6 Cube
 
 | First single | Person |
 | ---: | :--- |
 | 2:16.34 | [Jerzy Chmiel](https://www.worldcubeassociation.org/persons/2019CHMI01) |
+| 2:17.17 | [Marcel Borkowski](https://www.worldcubeassociation.org/persons/2023BORK01) |
 | 2:17.27 | [Bartłomiej Gołda](https://www.worldcubeassociation.org/persons/2015GODA01) |
 | 2:18.33 | [Igor Kamiński](https://www.worldcubeassociation.org/persons/2023KAMI04) |
 | 2:21.36 | [Mikołaj Zubowicz](https://www.worldcubeassociation.org/persons/2015ZUBO01) |
@@ -77,7 +78,6 @@
 | 2:35.89 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) |
 | 2:36.55 | [Jan Zachwatowicz](https://www.worldcubeassociation.org/persons/2022ZACH01) |
 | 2:38.08 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
-| 2:38.18 | [Krzysztof Grabowski](https://www.worldcubeassociation.org/persons/2021GRAB01) |
 
 ### 7x7x7 Cube
 
@@ -91,8 +91,8 @@
 | 3:36.12 | [Dominik Kądziołka](https://www.worldcubeassociation.org/persons/2023KADZ01) |
 | 3:40.22 | [Mikołaj Zubowicz](https://www.worldcubeassociation.org/persons/2015ZUBO01) |
 | 3:45.01 | [Jerzy Chmiel](https://www.worldcubeassociation.org/persons/2019CHMI01) |
+| 3:51.36 | [Marcel Borkowski](https://www.worldcubeassociation.org/persons/2023BORK01) |
 | 3:55.42 | [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) |
-| 3:57.91 | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) |
 
 ### 3x3x3 Blindfolded
 

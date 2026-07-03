@@ -1,17 +1,15 @@
 require_relative "../core/statistic"
 require_relative "../core/voivodeships"
 
-class CompetedInMostVoivodeships < Statistic
+class ShortestTimeToCompeteInAllVoivodeships < Statistic
   include Voivodeships
 
   def initialize
-    @title = "Competed in most voivodeships in Poland"
+    @title = "Shortest time to compete in all voivodeships in Poland"
     @note = "Voivodeships are inferred from competition coordinates. Approximate bounding box classification."
     @table_header = {
       "Person" => :left,
-      "Completed" => :right,
-      "Missed" => :right,
-      "Missed Voivodeships" => :left,
+      "Days" => :right,
       "Completed At" => :left
     }
   end
@@ -23,6 +21,7 @@ class CompetedInMostVoivodeships < Statistic
         p.wca_id,
         c.id AS competition_id,
         c.name AS competition_name,
+        c.start_date,
         c.end_date,
         c.latitude / 1000000.0 AS lat,
         c.longitude / 1000000.0 AS lon
@@ -35,7 +34,7 @@ class CompetedInMostVoivodeships < Statistic
   end
 
   def transform(results)
-    person_competitions = Hash.new { |h, k| h[k] = { name: "", voivodeships: Set.new, history: [] } }
+    person_competitions = Hash.new { |h, k| h[k] = { name: "", voivodeships: Set.new, history: [], first_start_date: nil } }
 
     sorted_results = results.sort_by { |r| [r["wca_id"], r["end_date"]] }
 
@@ -46,15 +45,19 @@ class CompetedInMostVoivodeships < Statistic
       lon = r["lon"]
       competition_id = r["competition_id"]
       competition_name = r["competition_name"]
+      start_date = r["start_date"]
       end_date = r["end_date"]
       voiv = voivodeship_for(lat, lon)
       next unless voiv
+
+      person_competitions[wca_id][:first_start_date] ||= start_date
 
       unless person_competitions[wca_id][:voivodeships].include?(voiv)
         person_competitions[wca_id][:history] << {
           voiv: voiv,
           competition_id: competition_id,
           competition_name: competition_name,
+          start_date: start_date,
           end_date: end_date
         }
       end
@@ -63,24 +66,19 @@ class CompetedInMostVoivodeships < Statistic
       person_competitions[wca_id][:voivodeships] << voiv
     end
 
-    person_competitions.map do |wca_id, data|
+    person_competitions.filter_map do |wca_id, data|
       completed = data[:voivodeships].to_a.sort
-      missed = ALL - completed
-      completion_info = nil
-      completion_date = nil
+      next unless (ALL - completed).empty? && data[:history].any?
 
-      if missed.empty? && data[:history].any?
-        last = data[:history].max_by { |h| h[:end_date] }
-        completion_info = "[#{last[:competition_name]}](https://www.worldcubeassociation.org/competitions/#{last[:competition_id]})"
-        completion_date = last[:end_date].to_s
-      end
+      last = data[:history].max_by { |h| h[:end_date] }
+      completion_info = "[#{last[:competition_name]}](https://www.worldcubeassociation.org/competitions/#{last[:competition_id]})"
+      days = (last[:start_date] - data[:first_start_date]).to_i + 1
 
-      person_link = "[#{data[:name]}](https://www.worldcubeassociation.org/persons/#{wca_id})"
-      row = [person_link, completed.size, missed.size, missed.join(", "), completion_info]
-      sort_key = [-completed.size, completion_date, missed.size, person_link]
-      [sort_key, row]
-    end.sort_by { |sort_key, _| sort_key }
-       .map { |_, row| row }
-       .first(100)
+      [
+        "[#{data[:name]}](https://www.worldcubeassociation.org/persons/#{wca_id})",
+        days,
+        completion_info
+      ]
+    end.sort_by { |row| [row[1], row[0]] }
   end
 end

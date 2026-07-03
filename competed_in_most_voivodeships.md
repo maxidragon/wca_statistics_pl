@@ -5,17 +5,17 @@
 
 | Person | Completed | Missed | Missed Voivodeships | Completed At |
 | :--- | ---: | ---: | :--- | :--- |
-| [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) | 16 | 0 |  | [Back To Białystok 2024](https://www.worldcubeassociation.org/competitions/BackToBialystok2024) |
-| [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 16 | 0 |  | [Kielce Open 2026](https://www.worldcubeassociation.org/competitions/KielceOpen2026) |
-| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 16 | 0 |  | [Back To Białystok 2024](https://www.worldcubeassociation.org/competitions/BackToBialystok2024) |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 16 | 0 |  | [Ostróda Open 2024](https://www.worldcubeassociation.org/competitions/OstrodaOpen2024) |
-| [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | 16 | 0 |  | [Gorzów Cubing Days 2026](https://www.worldcubeassociation.org/competitions/GorzowCubingDays2026) |
-| [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 16 | 0 |  | [Kielce Open 2026](https://www.worldcubeassociation.org/competitions/KielceOpen2026) |
-| [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | 16 | 0 |  | [Olsztyn Open 2024](https://www.worldcubeassociation.org/competitions/OlsztynOpen2024) |
-| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 16 | 0 |  | [Back To Białystok 2024](https://www.worldcubeassociation.org/competitions/BackToBialystok2024) |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 16 | 0 |  | [Nowa Sól Open 2024](https://www.worldcubeassociation.org/competitions/NowaSolOpen2024) |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 16 | 0 |  | [Nowa Sól Open 2024](https://www.worldcubeassociation.org/competitions/NowaSolOpen2024) |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 16 | 0 |  | [Ostróda Open 2024](https://www.worldcubeassociation.org/competitions/OstrodaOpen2024) |
+| [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) | 16 | 0 |  | [Back To Białystok 2024](https://www.worldcubeassociation.org/competitions/BackToBialystok2024) |
+| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 16 | 0 |  | [Back To Białystok 2024](https://www.worldcubeassociation.org/competitions/BackToBialystok2024) |
+| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 16 | 0 |  | [Back To Białystok 2024](https://www.worldcubeassociation.org/competitions/BackToBialystok2024) |
 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 16 | 0 |  | [Back To Białystok 2024](https://www.worldcubeassociation.org/competitions/BackToBialystok2024) |
+| [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | 16 | 0 |  | [Olsztyn Open 2024](https://www.worldcubeassociation.org/competitions/OlsztynOpen2024) |
+| [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 16 | 0 |  | [Kielce Open 2026](https://www.worldcubeassociation.org/competitions/KielceOpen2026) |
+| [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 16 | 0 |  | [Kielce Open 2026](https://www.worldcubeassociation.org/competitions/KielceOpen2026) |
+| [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | 16 | 0 |  | [Gorzów Cubing Days 2026](https://www.worldcubeassociation.org/competitions/GorzowCubingDays2026) |
 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 15 | 1 | kujawsko-pomorskie |  |
 | [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) | 15 | 1 | warmińsko-mazurskie |  |
 | [Tomasz Stawowy](https://www.worldcubeassociation.org/persons/2021STAW01) | 15 | 1 | lubelskie |  |

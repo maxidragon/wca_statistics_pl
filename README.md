@@ -93,6 +93,7 @@ All statistics are computed only for competitors from Poland/Polish competitions
 - [Shortest amount of time to reach a milestone in competitions count](shortest_time_to_reach_milestone_in_comps_count)
 - [Shortest time to achieve solves milestone](shortest_time_to_achieve_solves_milestone)
 - [Shortest time to compete in all voivodeships in Poland](shortest_time_to_compete_in_all_voivodeships)
+- [Shortest time to compete in all voivodeships since it became possible](shortest_time_to_compete_in_all_voivodeships_since_possible)
 - [Shortest time to get all singles](shortest_time_to_get_all_singles)
 - [Shortest time to get all singles and averages](shortest_time_to_get_all_singles_and_averages)
 - [Smallest difference between a single and an average](smallest_diff_between_single_and_average)

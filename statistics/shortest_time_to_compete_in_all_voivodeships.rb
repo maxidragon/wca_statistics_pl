@@ -72,7 +72,7 @@ class ShortestTimeToCompeteInAllVoivodeships < Statistic
 
       last = data[:history].max_by { |h| h[:end_date] }
       completion_info = "[#{last[:competition_name]}](https://www.worldcubeassociation.org/competitions/#{last[:competition_id]})"
-      days = (last[:start_date] - data[:first_start_date]).to_i + 1
+      days = (last[:start_date] - data[:first_start_date]).to_i
 
       [
         "[#{data[:name]}](https://www.worldcubeassociation.org/persons/#{wca_id})",

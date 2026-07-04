@@ -1,7 +1,7 @@
 ## Most personal records by event
 
 *Note: Counts how many personal records (single or average) a competitor achieved in each event.*
-*Updated on  1 July 2026*
+*Updated on  4 July 2026*
 
 
 ### 3x3x3 Cube
@@ -68,7 +68,7 @@
 
 | PRs | Person |
 | ---: | :--- |
-| 43 | [Przemysław Kruczek](https://www.worldcubeassociation.org/persons/2013KRUC01) |
+| 44 | [Przemysław Kruczek](https://www.worldcubeassociation.org/persons/2013KRUC01) |
 | 42 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) |
 | 41 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 38 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |

@@ -1,7 +1,7 @@
 ## Most % of competitions attended in the same voivodeship as the first competition of the competitor
 
 *Note: Counts how many Polish competitions a person attended in the same voivodeship where they had their first Polish competition. The ratio is computed against all competitions attended, including those abroad.*
-*Updated on  1 July 2026*
+*Updated on  4 July 2026*
 
 | Person | First Competition | Voivodeship | Comps in Voivodeship | Total Comps | Ratio |
 | :--- | :--- | :--- | ---: | ---: | ---: |
@@ -60,6 +60,7 @@
 | [Alan Lisewski](https://www.worldcubeassociation.org/persons/2019LISE01) | [GLS Cup I 2019](https://www.worldcubeassociation.org/competitions/GLSCupI2019) | Pomorskie | 8 | 8 | 100.0% |
 | [Bartłomiej Maj](https://www.worldcubeassociation.org/persons/2018MAJB01) | [Project Zamość 2018](https://www.worldcubeassociation.org/competitions/ProjectZamosc2018) | Lubelskie | 8 | 8 | 100.0% |
 | [Denis Frejtak](https://www.worldcubeassociation.org/persons/2014FREJ01) | [PLS Marina 2014](https://www.worldcubeassociation.org/competitions/PLSMarina2014) | Pomorskie | 8 | 8 | 100.0% |
+| [Gustaw Kuras](https://www.worldcubeassociation.org/persons/2025KURA08) | [Gdańska Liga Speedcubingu V 2025](https://www.worldcubeassociation.org/competitions/GdanskaLigaSpeedcubinguV2025) | Pomorskie | 8 | 8 | 100.0% |
 | [Ignacy Szczeciński](https://www.worldcubeassociation.org/persons/2024SZCZ03) | [Cube Factory Rogów 2024](https://www.worldcubeassociation.org/competitions/CubeFactoryRogow2024) | Łódzkie | 8 | 8 | 100.0% |
 | [Jakub Jastrzębski](https://www.worldcubeassociation.org/persons/2023JAST02) | [GLS III 2023](https://www.worldcubeassociation.org/competitions/GLSIII2023) | Pomorskie | 8 | 8 | 100.0% |
 | [Jakub Kowalski](https://www.worldcubeassociation.org/persons/2020KOWA01) | [GLS Gdynia 2020](https://www.worldcubeassociation.org/competitions/GLSGdynia2020) | Pomorskie | 8 | 8 | 100.0% |
@@ -86,7 +87,6 @@
 | [Dylan Wyrzykowski](https://www.worldcubeassociation.org/persons/2016WYRZ01) | [GLS Cup II 2016](https://www.worldcubeassociation.org/competitions/GLSCupII2016) | Pomorskie | 7 | 7 | 100.0% |
 | [Franciszek Dziemaszkiewicz](https://www.worldcubeassociation.org/persons/2023DZIE08) | [GLS V 2023](https://www.worldcubeassociation.org/competitions/GLSV2023) | Pomorskie | 7 | 7 | 100.0% |
 | [Grzegorz Wrzosek](https://www.worldcubeassociation.org/persons/2016WRZO01) | [GLS Cup I 2016](https://www.worldcubeassociation.org/competitions/GLSCupI2016) | Pomorskie | 7 | 7 | 100.0% |
-| [Gustaw Kuras](https://www.worldcubeassociation.org/persons/2025KURA08) | [Gdańska Liga Speedcubingu V 2025](https://www.worldcubeassociation.org/competitions/GdanskaLigaSpeedcubinguV2025) | Pomorskie | 7 | 7 | 100.0% |
 | [Ignacy Turek](https://www.worldcubeassociation.org/persons/2017TURE01) | [GLS Cup II 2017](https://www.worldcubeassociation.org/competitions/GLSCupII2017) | Pomorskie | 7 | 7 | 100.0% |
 | [Jakub Dybek](https://www.worldcubeassociation.org/persons/2025DYBE01) | [Gdańska Liga Speedcubingu IV 2025](https://www.worldcubeassociation.org/competitions/GLSIV2025) | Pomorskie | 7 | 7 | 100.0% |
 | [Jakub Szpyra](https://www.worldcubeassociation.org/persons/2013SZPY01) | [SLS Jastrzebie 2013](https://www.worldcubeassociation.org/competitions/SLSJastrzebie2013) | Śląskie | 7 | 7 | 100.0% |

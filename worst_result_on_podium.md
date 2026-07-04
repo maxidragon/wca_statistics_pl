@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on  1 July 2026*
+*Updated on  4 July 2026*
 
 
 ### 3x3x3 Cube
@@ -225,9 +225,9 @@
 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) | **24:57.00** | DNF | [Staszic Open 2017](https://www.worldcubeassociation.org/competitions/StaszicOpen2017/results/podiums#e444bf) | 3 |
 | [Tomasz Korzeniewski](https://www.worldcubeassociation.org/persons/2007KORZ01) | **24:03.00** |  | [Pabianice Open 2010](https://www.worldcubeassociation.org/competitions/PabianiceOpen2010/results/podiums#e444bf) | 3 |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **23:04.00** | DNF | [Speed Days Kraśnik 2015](https://www.worldcubeassociation.org/competitions/SpeedDaysKrasnik2015/results/podiums#e444bf) | 2 |
+| [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **22:31.00** | DNF | [CFGS VI Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGSVIBrzeziny2026/results/podiums#e444bf) | 3 |
 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) | **22:16.00** | DNF | [Polish Nationals 2014](https://www.worldcubeassociation.org/competitions/PolishNationals2014/results/podiums#e444bf) | 3 |
 | [Grzegorz Pacewicz](https://www.worldcubeassociation.org/persons/2014PACE01) | **21:19.00** | DNF | [Gdańsk Open 2015](https://www.worldcubeassociation.org/competitions/GdanskOpen2015/results/podiums#e444bf) | 2 |
-| [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) | **20:17.00** | DNF | [PLS Marina 2014](https://www.worldcubeassociation.org/competitions/PLSMarina2014/results/podiums#e444bf) | 2 |
 
 ### 5x5x5 Blindfolded
 

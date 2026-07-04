@@ -1,13 +1,13 @@
 ## Most competitions on the same calendar date
 
-*Updated on  1 July 2026*
+*Updated on  4 July 2026*
 
 | Count | Person | Date | Years |
 | ---: | :--- | :--- | :--- |
 | 7 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 28 August | 2021, 2022, 2022, 2022, 2022, 2023, 2025 |
 | 6 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 27 August | 2022, 2022, 2022, 2022, 2023, 2024 |
-| 5 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | 31 December | 2021, 2022, 2023, 2024, 2025 |
 | 5 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | 1 May | 2022, 2023, 2024, 2025, 2026 |
+| 5 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | 31 December | 2021, 2022, 2023, 2024, 2025 |
 | 5 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 1 May | 2022, 2023, 2024, 2025, 2026 |
 | 5 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 31 December | 2021, 2022, 2023, 2024, 2025 |
 | 5 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 29 December | 2021, 2022, 2024, 2024, 2025 |
@@ -30,16 +30,16 @@
 | 5 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 9 December | 2016, 2017, 2018, 2023, 2025 |
 | 5 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 28 August | 2016, 2021, 2021, 2022, 2022 |
 | 5 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 31 December | 2021, 2022, 2023, 2024, 2025 |
+| 5 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 26 October | 2014, 2018, 2019, 2024, 2025 |
 | 5 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 15 August | 2021, 2022, 2023, 2024, 2025 |
+| 5 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 13 January | 2018, 2019, 2023, 2024, 2024 |
 | 5 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 1 June | 2014, 2019, 2024, 2024, 2025 |
 | 5 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 1 May | 2022, 2023, 2024, 2025, 2026 |
-| 5 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 13 January | 2018, 2019, 2023, 2024, 2024 |
-| 5 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 26 October | 2014, 2018, 2019, 2024, 2025 |
 | 5 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 12 September | 2020, 2020, 2021, 2021, 2025 |
 | 5 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) | 1 May | 2022, 2023, 2024, 2025, 2026 |
 | 5 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 31 May | 2014, 2015, 2024, 2025, 2026 |
-| 4 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) | 6 October | 2018, 2019, 2023, 2024 |
 | 4 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) | 8 December | 2018, 2019, 2023, 2024 |
+| 4 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) | 6 October | 2018, 2019, 2023, 2024 |
 | 4 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 9 November | 2013, 2014, 2019, 2024 |
 | 4 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 31 December | 2021, 2022, 2024, 2025 |
 | 4 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 1 May | 2022, 2024, 2025, 2026 |
@@ -47,8 +47,8 @@
 | 4 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 15 August | 2022, 2023, 2024, 2025 |
 | 4 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | 2 May | 2022, 2024, 2025, 2026 |
 | 4 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 31 May | 2014, 2024, 2025, 2026 |
-| 4 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 2 May | 2022, 2024, 2025, 2026 |
 | 4 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 15 August | 2022, 2023, 2024, 2025 |
+| 4 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 2 May | 2022, 2024, 2025, 2026 |
 | 4 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 31 December | 2021, 2023, 2024, 2025 |
 | 4 | [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) | 9 December | 2016, 2017, 2018, 2025 |
 | 4 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 16 September | 2006, 2007, 2018, 2023 |

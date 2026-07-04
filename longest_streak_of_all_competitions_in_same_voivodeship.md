@@ -1,7 +1,7 @@
 ## Longest streak of all competitions in a voivodeship
 
 *Note: The streak ends whenever the person misses a competition in that voivodeship. Voivodeships are inferred from competition coordinates (approximate bounding box).*
-*Updated on  1 July 2026*
+*Updated on  4 July 2026*
 
 | Competitions | Person | Voivodeship | Started at | Missed |
 | ---: | :--- | :--- | :--- | :--- |
@@ -51,7 +51,7 @@
 | 17 | [Marcel Nycz](https://www.worldcubeassociation.org/persons/2016NYCZ01) | Śląskie | [Santa Claus Cube Race 2016](https://www.worldcubeassociation.org/competitions/SantaClausCubeRace2016) | [Cube4fun Dąbrowa Górnicza 2022](https://www.worldcubeassociation.org/competitions/Cube4funDabrowaGornicza2022) |
 | 17 | [Michał Machnik](https://www.worldcubeassociation.org/persons/2022MACH14) | Śląskie | [Cube4fun Bielsko-Biała 2022](https://www.worldcubeassociation.org/competitions/Cube4funBielskoBiala2022) | [Cubing Mine Rybnik III 2025](https://www.worldcubeassociation.org/competitions/CubingMineRybnikIII2025) |
 | 16 | [Patrycja Michalska](https://www.worldcubeassociation.org/persons/2013MICH02) | Pomorskie | [Polish Open 2014](https://www.worldcubeassociation.org/competitions/PolishOpen2014) | [Gdańsk Rubik's Cube Day 2015](https://www.worldcubeassociation.org/competitions/GdanskRubiksCubeDay2015) |
-| 16 | [Marcin Wawiórko](https://www.worldcubeassociation.org/persons/2023WAWI01) | Pomorskie | [GLS II 2025](https://www.worldcubeassociation.org/competitions/GLSII2025) |  |
+| 16 | [Marcin Wawiórko](https://www.worldcubeassociation.org/persons/2023WAWI01) | Pomorskie | [GLS II 2025](https://www.worldcubeassociation.org/competitions/GLSII2025) | [Gdańsk Cubing Day 2026](https://www.worldcubeassociation.org/competitions/GdanskCubingDay2026) |
 | 16 | [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) | Łódzkie | [CF Goes Sideways Brzeziny 2025](https://www.worldcubeassociation.org/competitions/CFGoesSidewaysBrzeziny2025) | [Cube4fun Biała Rawska 2026](https://www.worldcubeassociation.org/competitions/Cube4funBialaRawskaSpring2026) |
 | 16 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | Wielkopolskie | [BrizZon Sylwester Open 2023](https://www.worldcubeassociation.org/competitions/BrizZonSylwesterOpen2023) | [BrizZon Side Open IV 2025](https://www.worldcubeassociation.org/competitions/BrizzonSideOpenIV2025) |
 | 16 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | Mazowieckie | [Warsaw Cube Masters 2015](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2015) | [III Masovian Open 2019](https://www.worldcubeassociation.org/competitions/IIIMasovianOpen2019) |

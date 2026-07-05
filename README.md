@@ -37,6 +37,7 @@ All statistics are computed only for competitors from Poland/Polish competitions
 - [Longest distance between competitions on consecutive days](longest_distance_between_competitions_on_consecutive_days)
 - [Longest distance between competitions on consecutive days (unique)](longest_distance_between_competitions_on_consecutive_days_unique)
 - [Longest standing records](longest_standing_records)
+- [Longest streak of all competitions in a city](longest_streak_of_all_competitions_in_same_city)
 - [Longest streak of all competitions in a voivodeship](longest_streak_of_all_competitions_in_same_voivodeship)
 - [Longest streak of competitions in Poland](longest_streak_of_competitions_in_own_country)
 - [Longest streak of competitions with a personal record done](longest_streak_of_personal_records)

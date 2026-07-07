@@ -49,6 +49,7 @@ All statistics are computed only for competitors from Poland/Polish competitions
 - [Megaminx results compared to 3x3 (Poland)](minx_to_333)
 - [Most % of competitions attended in the same city as the first competition of the competitor](most_competitions_in_city_at_first_comp)
 - [Most % of competitions attended in the same voivodeship as the first competition of the competitor](most_competitions_in_voivodeship_at_first_comp)
+- [Most % of successful solves in each event](most_successful_solves_percentage_by_event)
 - [Most 4th places](most_4th_places)
 - [Most N/N 3x3 MBLD successes](most_nxn_mbld_successes)
 - [Most attended competitions in a city](most_attended_competitions_in_city)

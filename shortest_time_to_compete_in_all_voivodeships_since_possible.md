@@ -1,7 +1,7 @@
 ## Shortest time to compete in all voivodeships since it became possible
 
 *Note: Voivodeships are inferred from competition coordinates. Approximate bounding box classification. The timer starts when all voivodeships had at least one competition the person could have attended (on or after their debut).*
-*Updated on  4 July 2026*
+*Updated on  7 July 2026*
 
 | Person | Days | Completed at | Enabled by |
 | :--- | ---: | :--- | :--- |
@@ -9,6 +9,7 @@
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 0 | [Nowa Sól Open 2024](https://www.worldcubeassociation.org/competitions/NowaSolOpen2024) | [Nowa Sól Open 2024](https://www.worldcubeassociation.org/competitions/NowaSolOpen2024) |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 0 | [Nowa Sól Open 2024](https://www.worldcubeassociation.org/competitions/NowaSolOpen2024) | [Nowa Sól Open 2024](https://www.worldcubeassociation.org/competitions/NowaSolOpen2024) |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 84 | [Ostróda Open 2024](https://www.worldcubeassociation.org/competitions/OstrodaOpen2024) | [Nowa Sól Open 2024](https://www.worldcubeassociation.org/competitions/NowaSolOpen2024) |
+| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 140 | [Cube4fun in Barcin 2026](https://www.worldcubeassociation.org/competitions/Cube4funinBarcin2026) | [Kielce Open 2026](https://www.worldcubeassociation.org/competitions/KielceOpen2026) |
 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) | 259 | [Back To Białystok 2024](https://www.worldcubeassociation.org/competitions/BackToBialystok2024) | [Nowa Sól Open 2024](https://www.worldcubeassociation.org/competitions/NowaSolOpen2024) |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 259 | [Back To Białystok 2024](https://www.worldcubeassociation.org/competitions/BackToBialystok2024) | [Nowa Sól Open 2024](https://www.worldcubeassociation.org/competitions/NowaSolOpen2024) |
 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 259 | [Back To Białystok 2024](https://www.worldcubeassociation.org/competitions/BackToBialystok2024) | [Nowa Sól Open 2024](https://www.worldcubeassociation.org/competitions/NowaSolOpen2024) |

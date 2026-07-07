@@ -1,7 +1,7 @@
 ## Delegated competitions in most voivodeships in Poland
 
 *Note: Voivodeships are inferred from competition coordinates (approximate bounding box). Only Polish delegates and Polish competitions with posted results are included.*
-*Updated on  4 July 2026*
+*Updated on  7 July 2026*
 
 | Delegate | Delegated | Missed | Missed Voivodeships | Completed At |
 | :--- | ---: | ---: | :--- | :--- |
@@ -10,9 +10,9 @@
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 13 | 3 | kujawsko-pomorskie, podlaskie, świętokrzyskie |  |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 12 | 4 | dolnośląskie, lubuskie, podlaskie, zachodniopomorskie |  |
 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 11 | 5 | dolnośląskie, lubuskie, opolskie, podlaskie, świętokrzyskie |  |
+| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 11 | 5 | lubuskie, podlaskie, wielkopolskie, zachodniopomorskie, świętokrzyskie |  |
 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 10 | 6 | lubelskie, lubuskie, małopolskie, opolskie, podkarpackie, świętokrzyskie |  |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 10 | 6 | dolnośląskie, lubuskie, opolskie, podkarpackie, podlaskie, świętokrzyskie |  |
-| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 10 | 6 | kujawsko-pomorskie, lubuskie, podlaskie, wielkopolskie, zachodniopomorskie, świętokrzyskie |  |
 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) | 10 | 6 | lubuskie, mazowieckie, warmińsko-mazurskie, wielkopolskie, zachodniopomorskie, świętokrzyskie |  |
 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) | 10 | 6 | lubuskie, mazowieckie, opolskie, warmińsko-mazurskie, zachodniopomorskie, świętokrzyskie |  |
 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) | 9 | 7 | dolnośląskie, lubuskie, podlaskie, warmińsko-mazurskie, wielkopolskie, zachodniopomorskie, świętokrzyskie |  |

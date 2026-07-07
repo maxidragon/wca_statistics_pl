@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  4 July 2026*
+*Updated on  7 July 2026*
 
 
 ### 3x3x3 Cube
@@ -13,10 +13,10 @@
 | 3.82 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Ohio State RPAC Cube Clash 2024](https://www.worldcubeassociation.org/competitions/OhioStateRPACCubeClash2024/results/by_person#2016KOLA02) |
 | 3.84 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | [GLS Gdańsk III 2026](https://www.worldcubeassociation.org/competitions/GLSGdanskIII2026/results/by_person#2021ZAJD03) |
 | 3.85 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Stevenage May 2023](https://www.worldcubeassociation.org/competitions/StevenageMay2023/results/by_person#2016KOLA02) |
+| 3.85 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [NxN in Jura 2026](https://www.worldcubeassociation.org/competitions/NxNinJura2026/results/by_person#2016KOLA02) |
 | 3.86 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | [Gorzów Cubing Days 2026](https://www.worldcubeassociation.org/competitions/GorzowCubingDays2026/results/by_person#2021ZAJD03) |
 | 3.87 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | [GLS Big Cubes Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSBigCubesGdansk2026/results/by_person#2018KUZM02) |
 | 3.89 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Seoul Winter 2026](https://www.worldcubeassociation.org/competitions/SeoulWinter2026/results/by_person#2016KOLA02) |
-| 3.91 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Melbourne Summer 2026](https://www.worldcubeassociation.org/competitions/MelbourneSummer2026/results/by_person#2016KOLA02) |
 
 ### 2x2x2 Cube
 
@@ -61,7 +61,7 @@
 | 32.46 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Melbourne Summer 2026](https://www.worldcubeassociation.org/competitions/MelbourneSummer2026/results/by_person#2016KOLA02) |
 | 32.61 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Flatåsen Open 2025](https://www.worldcubeassociation.org/competitions/FlatasenOpen2025/results/by_person#2016KOLA02) |
 | 32.65 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Seoul Winter 2026](https://www.worldcubeassociation.org/competitions/SeoulWinter2026/results/by_person#2016KOLA02) |
-| 32.90 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [PBs in Palisades Winter 2025](https://www.worldcubeassociation.org/competitions/PBsinPalisadesWinter2025/results/by_person#2016KOLA02) |
+| 32.85 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [NxN in Jura 2026](https://www.worldcubeassociation.org/competitions/NxNinJura2026/results/by_person#2016KOLA02) |
 
 ### 3x3x3 One-Handed
 

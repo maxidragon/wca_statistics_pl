@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on  4 July 2026*
+*Updated on  7 July 2026*
 
 
 ### 3x3x3 Blindfolded
@@ -16,6 +16,7 @@
 | 26 | [Ignacy Buczek](https://www.worldcubeassociation.org/persons/2013BUCZ01) |
 | 24 | [Łukasz Owczarek](https://www.worldcubeassociation.org/persons/2022OWCZ02) |
 | 23 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) |
+| 23 | [Hubert Darłak](https://www.worldcubeassociation.org/persons/2023DARL03) |
 | 22 | [Jakub Cabaj](https://www.worldcubeassociation.org/persons/2008CABA03) |
 | 20 | [Kamil Pawlak](https://www.worldcubeassociation.org/persons/2006PAWL01) |
 | 20 | [Łukasz Gębicz](https://www.worldcubeassociation.org/persons/2013GBIC01) |
@@ -26,7 +27,6 @@
 | 18 | [Mateusz Bednarczyk](https://www.worldcubeassociation.org/persons/2018BEDN03) |
 | 17 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) |
 | 17 | [Joachim Rogal](https://www.worldcubeassociation.org/persons/2022ROGA02) |
-| 16 | [Kacper Wiłkojć](https://www.worldcubeassociation.org/persons/2013WIKO01) |
 
 ### 4x4x4 Blindfolded
 

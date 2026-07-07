@@ -1,7 +1,7 @@
 ## Longest distance between competitions on consecutive days
 
 *Note: Calculated as the direct distance between two competitions with overlapping or adjacent dates. Excludes multi-location competitions.*
-*Updated on  4 July 2026*
+*Updated on  7 July 2026*
 
 | Person | Distance | From | To |
 | :--- | ---: | :--- | :--- |

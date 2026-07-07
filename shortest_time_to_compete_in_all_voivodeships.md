@@ -1,11 +1,12 @@
 ## Shortest time to compete in all voivodeships in Poland
 
 *Note: Voivodeships are inferred from competition coordinates. Approximate bounding box classification.*
-*Updated on  4 July 2026*
+*Updated on  7 July 2026*
 
 | Person | Days | Completed At |
 | :--- | ---: | :--- |
 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 1561 | [Back To Białystok 2024](https://www.worldcubeassociation.org/competitions/BackToBialystok2024) |
+| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 1575 | [Cube4fun in Barcin 2026](https://www.worldcubeassociation.org/competitions/Cube4funinBarcin2026) |
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 1687 | [Kielce Open 2026](https://www.worldcubeassociation.org/competitions/KielceOpen2026) |
 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | 2275 | [Gorzów Cubing Days 2026](https://www.worldcubeassociation.org/competitions/GorzowCubingDays2026) |
 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 2296 | [Back To Białystok 2024](https://www.worldcubeassociation.org/competitions/BackToBialystok2024) |

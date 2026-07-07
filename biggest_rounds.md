@@ -1,6 +1,6 @@
 ## Biggest rounds in Poland
 
-*Updated on  4 July 2026*
+*Updated on  7 July 2026*
 
 
 ### 3x3x3 Cube
@@ -42,8 +42,8 @@
 | 156 | [Polish Nationals 2014](https://www.worldcubeassociation.org/competitions/PolishNationals2014) |
 | 141 | [Dragon Cubing X 2025](https://www.worldcubeassociation.org/competitions/DragonCubingX2025) |
 | 141 | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023) |
-| 139 | [Żmigród Open 2026](https://www.worldcubeassociation.org/competitions/ZmigrodOpen2026) |
 | 139 | [Euro 2012](https://www.worldcubeassociation.org/competitions/Euro2012) |
+| 139 | [Żmigród Open 2026](https://www.worldcubeassociation.org/competitions/ZmigrodOpen2026) |
 | 134 | [Cube4fun Warsaw 2022](https://www.worldcubeassociation.org/competitions/Cube4funWarsaw2022) |
 | 131 | [Szansa Cubing Open Warsaw 2024](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2024) |
 | 129 | [Polish Nationals 2017](https://www.worldcubeassociation.org/competitions/PolishNationals2017) |
@@ -90,8 +90,8 @@
 | 55 | [Żory Open 2025](https://www.worldcubeassociation.org/competitions/ZoryOpen2025) |
 | 51 | [All Rounders Katowice I 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceI2026) |
 | 48 | [Siedlce Open 2023](https://www.worldcubeassociation.org/competitions/SiedlceOpen2023) |
-| 46 | [GLS Big Cubes Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSBigCubesGdansk2026) |
 | 46 | [Cube4fun Żyrardów 2025](https://www.worldcubeassociation.org/competitions/Cube4funZyrardow2025) |
+| 46 | [GLS Big Cubes Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSBigCubesGdansk2026) |
 
 ### 3x3x3 Blindfolded
 
@@ -295,8 +295,8 @@
 | 88 | [Euro 2012](https://www.worldcubeassociation.org/competitions/Euro2012) |
 | 23 | [Polish Nationals 2012](https://www.worldcubeassociation.org/competitions/PolishNationals2012) |
 | 22 | [Jura Open 2012](https://www.worldcubeassociation.org/competitions/JuraOpen2012) |
-| 19 | [Cubing Spring Grudziadz 2012](https://www.worldcubeassociation.org/competitions/CubingSpringGrudziadz2012) |
 | 19 | [Polish Open 2012](https://www.worldcubeassociation.org/competitions/PolishOpen2012) |
+| 19 | [Cubing Spring Grudziadz 2012](https://www.worldcubeassociation.org/competitions/CubingSpringGrudziadz2012) |
 | 18 | [Silesia Open 2012](https://www.worldcubeassociation.org/competitions/SilesiaOpen2012) |
 | 18 | [Warszawa Open 2012](https://www.worldcubeassociation.org/competitions/WarszawaOpen2012) |
 | 15 | [Bialystok Open 2011](https://www.worldcubeassociation.org/competitions/BialystokOpen2011) |

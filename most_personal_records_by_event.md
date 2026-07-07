@@ -1,14 +1,14 @@
 ## Most personal records by event
 
 *Note: Counts how many personal records (single or average) a competitor achieved in each event.*
-*Updated on  4 July 2026*
+*Updated on  7 July 2026*
 
 
 ### 3x3x3 Cube
 
 | PRs | Person |
 | ---: | :--- |
-| 68 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
+| 69 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 60 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) |
 | 56 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) |
 | 53 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
@@ -47,7 +47,7 @@
 | 45 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 45 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 45 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
-| 43 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
+| 44 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
 
 ### 5x5x5 Cube
 
@@ -90,9 +90,9 @@
 | 36 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) |
 | 34 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 34 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) |
+| 32 | [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) |
 | 31 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 31 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) |
-| 31 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) |
 
 ### 3x3x3 Blindfolded
 
@@ -151,8 +151,8 @@
 | 49 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) |
 | 44 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) |
 | 43 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) |
+| 43 | [Idan Bolesto](https://www.worldcubeassociation.org/persons/2022BOLE01) |
 | 43 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) |
-| 42 | [Idan Bolesto](https://www.worldcubeassociation.org/persons/2022BOLE01) |
 
 ### Pyraminx
 

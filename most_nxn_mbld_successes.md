@@ -1,7 +1,7 @@
 ## Most N/N 3x3 MBLD successes
 
 *Note: Count of all 3x3 MBLD successes where all cubes were solved. Only people with at least 3 N/N successes are shown.*
-*Updated on  7 July 2026*
+*Updated on 10 July 2026*
 
 | Name | N/N successes | Breakdown |
 | :--- | ---: | :--- |

@@ -1,7 +1,7 @@
 ## Most competitions organized in a single city before organizing elsewhere
 
 *Note: Counts how many competitions a Polish organizer organized in their first city before organizing in a different city for the first time. Only Polish competitions are included.*
-*Updated on  7 July 2026*
+*Updated on 10 July 2026*
 
 | Person | City | Competitions | Ended at |
 | :--- | :--- | ---: | :--- |

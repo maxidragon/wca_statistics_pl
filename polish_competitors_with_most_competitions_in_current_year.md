@@ -1,6 +1,6 @@
 ## Polish competitors with most competitions in the current year
 
-*Updated on  7 July 2026*
+*Updated on 10 July 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -287,6 +287,7 @@
 | 4 | [Tymon Jakubowski](https://www.worldcubeassociation.org/persons/2024JAKU02) |
 | 4 | [Piotr Nieczypor](https://www.worldcubeassociation.org/persons/2024NIEC01) |
 | 4 | [Jakub Pieliński](https://www.worldcubeassociation.org/persons/2024PIEL01) |
+| 4 | [Szymon Plesniak](https://www.worldcubeassociation.org/persons/2024PLES01) |
 | 4 | [Michał Wójcicki](https://www.worldcubeassociation.org/persons/2024WOJC01) |
 | 4 | [Michał Antczak](https://www.worldcubeassociation.org/persons/2025ANTC01) |
 | 4 | [Karolina Antczak](https://www.worldcubeassociation.org/persons/2025ANTC02) |
@@ -400,7 +401,6 @@
 | 3 | [Zygmunt Małkiewicz](https://www.worldcubeassociation.org/persons/2024MALK02) |
 | 3 | [Jan Milewski](https://www.worldcubeassociation.org/persons/2024MILE01) |
 | 3 | [Kacper Piątek](https://www.worldcubeassociation.org/persons/2024PIAT01) |
-| 3 | [Szymon Plesniak](https://www.worldcubeassociation.org/persons/2024PLES01) |
 | 3 | [Stefan Pokrycki](https://www.worldcubeassociation.org/persons/2024POKR01) |
 | 3 | [Agata Szal](https://www.worldcubeassociation.org/persons/2024SZAL02) |
 | 3 | [Karol Szczypek](https://www.worldcubeassociation.org/persons/2024SZCZ01) |

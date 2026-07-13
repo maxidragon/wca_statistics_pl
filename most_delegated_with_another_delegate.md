@@ -1,7 +1,7 @@
 ## Most delegated competitions with another delegate
 
 *Note: Shows how many times each delegate has co-delegated with others. Only Polish delegates are included, and only competitions that have taken place in Poland and have results posted are considered.*
-*Updated on 10 July 2026*
+*Updated on 13 July 2026*
 
 
 ### [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01)
@@ -23,12 +23,12 @@ _Total delegated competitions: 78 (76 in Poland)_
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 1 |
 
 ### [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01)
-_Total delegated competitions: 36 (36 in Poland)_
+_Total delegated competitions: 37 (37 in Poland)_
 
 | Co-delegate | Count |
 | :--- | ---: |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 28 |
-| [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 25 |
+| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 29 |
+| [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 26 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 19 |
 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 8 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 5 |
@@ -37,12 +37,12 @@ _Total delegated competitions: 36 (36 in Poland)_
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 2 |
 
 ### [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01)
-_Total delegated competitions: 32 (32 in Poland)_
+_Total delegated competitions: 33 (33 in Poland)_
 
 | Co-delegate | Count |
 | :--- | ---: |
-| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 25 |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 24 |
+| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 26 |
+| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 25 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 15 |
 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 8 |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 3 |
@@ -107,13 +107,13 @@ _Total delegated competitions: 73 (69 in Poland)_
 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 1 |
 
 ### [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01)
-_Total delegated competitions: 126 (124 in Poland)_
+_Total delegated competitions: 127 (125 in Poland)_
 
 | Co-delegate | Count |
 | :--- | ---: |
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 32 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 23 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 19 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 20 |
 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 17 |
 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 15 |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 9 |
@@ -123,13 +123,13 @@ _Total delegated competitions: 126 (124 in Poland)_
 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 1 |
 
 ### [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01)
-_Total delegated competitions: 134 (131 in Poland)_
+_Total delegated competitions: 135 (132 in Poland)_
 
 | Co-delegate | Count |
 | :--- | ---: |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 89 |
-| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 28 |
-| [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 24 |
+| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 29 |
+| [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 25 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 23 |
 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 17 |
 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 13 |
@@ -147,7 +147,7 @@ _Total delegated competitions: 18 (18 in Poland)_
 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 2 |
 
 ### [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01)
-_Total delegated competitions: 49 (45 in Poland)_
+_Total delegated competitions: 50 (46 in Poland)_
 
 | Co-delegate | Count |
 | :--- | ---: |
@@ -210,14 +210,14 @@ _Total delegated competitions: 32 (27 in Poland)_
 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 1 |
 
 ### [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02)
-_Total delegated competitions: 200 (189 in Poland)_
+_Total delegated competitions: 201 (190 in Poland)_
 
 | Co-delegate | Count |
 | :--- | ---: |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 89 |
 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 22 |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 20 |
 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 19 |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 19 |
 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 16 |
 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 15 |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 14 |

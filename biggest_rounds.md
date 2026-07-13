@@ -1,6 +1,6 @@
 ## Biggest rounds in Poland
 
-*Updated on 10 July 2026*
+*Updated on 13 July 2026*
 
 
 ### 3x3x3 Cube
@@ -295,8 +295,8 @@
 | 88 | [Euro 2012](https://www.worldcubeassociation.org/competitions/Euro2012) |
 | 23 | [Polish Nationals 2012](https://www.worldcubeassociation.org/competitions/PolishNationals2012) |
 | 22 | [Jura Open 2012](https://www.worldcubeassociation.org/competitions/JuraOpen2012) |
-| 19 | [Polish Open 2012](https://www.worldcubeassociation.org/competitions/PolishOpen2012) |
 | 19 | [Cubing Spring Grudziadz 2012](https://www.worldcubeassociation.org/competitions/CubingSpringGrudziadz2012) |
+| 19 | [Polish Open 2012](https://www.worldcubeassociation.org/competitions/PolishOpen2012) |
 | 18 | [Silesia Open 2012](https://www.worldcubeassociation.org/competitions/SilesiaOpen2012) |
 | 18 | [Warszawa Open 2012](https://www.worldcubeassociation.org/competitions/WarszawaOpen2012) |
 | 15 | [Bialystok Open 2011](https://www.worldcubeassociation.org/competitions/BialystokOpen2011) |

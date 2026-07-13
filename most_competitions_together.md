@@ -1,96 +1,96 @@
 ## Most competitions together
 
-*Updated on 10 July 2026*
+*Updated on 13 July 2026*
 
 | Shared competitions | Pair |
 | ---: | :--- |
 | 215 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) & [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 188 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) & [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 184 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) & [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
-| 161 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) & [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
-| 153 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) & [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
+| 162 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) & [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
+| 154 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) & [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
+| 146 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) & [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) |
 | 146 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) & [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) |
-| 145 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) & [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) |
 | 143 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) & [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
 | 134 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) & [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) |
 | 133 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) & [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 131 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) & [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 129 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) & [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
-| 122 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) & [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 123 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) & [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 121 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) & [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 119 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) & [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
-| 118 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) & [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
-| 117 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) & [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
+| 119 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) & [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 118 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) & [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
 | 115 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) & [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
-| 110 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) & [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
+| 111 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) & [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
 | 110 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) & [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
-| 109 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) & [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 110 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) & [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 108 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) & [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
 | 108 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) & [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
 | 106 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) & [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 106 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) & [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 106 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) & [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 106 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) & [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 105 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) & [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
-| 105 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) & [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 105 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) & [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 104 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) & [Kalina Jakubowska](https://www.worldcubeassociation.org/persons/2009BRZE01) |
 | 104 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) & [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
-| 103 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) & [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
+| 104 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) & [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
 | 103 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) & [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 102 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) & [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
-| 100 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) & [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
-| 100 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) & [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
-| 100 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) & [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
+| 101 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) & [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
+| 101 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) & [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
+| 101 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) & [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 98 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) & [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
 | 98 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) & [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) |
 | 98 | [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) & [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
-| 97 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) & [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
+| 98 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) & [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
+| 98 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) & [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
 | 97 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) & [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) |
-| 97 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) & [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
 | 96 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) & [Karolina Wiącek](https://www.worldcubeassociation.org/persons/2008WIAC01) |
 | 95 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) & [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
+| 94 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) & [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 93 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) & [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) |
-| 93 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) & [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 93 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) & [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 93 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) & [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) |
 | 93 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) & [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) |
+| 93 | [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) & [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 93 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) & [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
 | 92 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) & [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
 | 92 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) & [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
-| 92 | [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) & [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 91 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) & [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) |
 | 91 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) & [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
+| 90 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) & [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
 | 90 | [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) & [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
-| 89 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) & [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
 | 89 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) & [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) |
 | 89 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) & [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 89 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) & [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 87 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) & [Karolina Wiącek](https://www.worldcubeassociation.org/persons/2008WIAC01) |
 | 87 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) & [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
+| 87 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) & [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
+| 87 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) & [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
+| 86 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) & [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |
 | 86 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) & [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) |
 | 86 | [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) & [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
-| 86 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) & [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 86 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) & [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
-| 86 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) & [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
 | 86 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) & [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
 | 85 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) & [Kalina Jakubowska](https://www.worldcubeassociation.org/persons/2009BRZE01) |
-| 85 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) & [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |
 | 85 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) & [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 85 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) & [Tomasz Szubert](https://www.worldcubeassociation.org/persons/2022SZUB02) |
 | 84 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) & [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 84 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) & [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) |
+| 84 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) & [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |
 | 84 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) & [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
-| 83 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) & [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |
 | 83 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) & [Wiktoria Waryszak](https://www.worldcubeassociation.org/persons/2018WARY01) |
+| 83 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) & [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 82 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) & [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 82 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) & [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) |
 | 82 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) & [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 82 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) & [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
-| 82 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) & [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
+| 82 | [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) & [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 81 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) & [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
-| 81 | [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) & [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
+| 81 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) & [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
 | 81 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) & [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
-| 80 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) & [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
 | 80 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) & [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) |
 | 80 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) & [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 80 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) & [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) |

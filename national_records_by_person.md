@@ -1,6 +1,6 @@
 ## National records count by person
 
-*Updated on 10 July 2026*
+*Updated on 13 July 2026*
 
 | WRs | Person |
 | ---: | :--- |
@@ -30,6 +30,7 @@
 | 7 | [Kamil Fiedoruk](https://www.worldcubeassociation.org/persons/2012FIED01) |
 | 7 | [Marek Kurcyus](https://www.worldcubeassociation.org/persons/2005KURC01) |
 | 7 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
+| 7 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) |
 | 7 | [Rafał Guzewicz](https://www.worldcubeassociation.org/persons/2006GUZE01) |
 | 6 | [Ernest Seroczyński](https://www.worldcubeassociation.org/persons/2015SERO02) |
 | 6 | [Filip Miazek](https://www.worldcubeassociation.org/persons/2010MIAZ01) |
@@ -37,7 +38,6 @@
 | 6 | [Krzysztof Natusiewicz](https://www.worldcubeassociation.org/persons/2011NATU01) |
 | 6 | [Piotr Frankowski](https://www.worldcubeassociation.org/persons/2006FRAN01) |
 | 6 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) |
-| 6 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) |
 | 6 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
 | 5 | [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) |
 | 5 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) |
@@ -65,6 +65,7 @@
 | 2 | [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) |
 | 2 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) |
 | 2 | [Korneliusz Tombarkiewicz](https://www.worldcubeassociation.org/persons/2009TOMB01) |
+| 2 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 2 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) |
 | 2 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) |
 | 2 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) |
@@ -86,7 +87,6 @@
 | 1 | [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) |
 | 1 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) |
 | 1 | [Maciej Mancewicz](https://www.worldcubeassociation.org/persons/2010MANC01) |
-| 1 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 1 | [Marcin Bloch](https://www.worldcubeassociation.org/persons/2013BLOC01) |
 | 1 | [Marek Pepke](https://www.worldcubeassociation.org/persons/2008PEPK01) |
 | 1 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) |

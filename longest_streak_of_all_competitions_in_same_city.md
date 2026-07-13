@@ -1,7 +1,7 @@
 ## Longest streak of all competitions in a city
 
 *Note: The streak ends whenever the person misses a competition in that city.*
-*Updated on 10 July 2026*
+*Updated on 13 July 2026*
 
 | Competitions | Person | City | Started at | Missed |
 | ---: | :--- | :--- | :--- | :--- |
@@ -9,7 +9,7 @@
 | 47 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | Gdańsk | [GLS Cup IV 2017](https://www.worldcubeassociation.org/competitions/GLSCupIV2017) | [GLS Gdańsk III 2026](https://www.worldcubeassociation.org/competitions/GLSGdanskIII2026) |
 | 43 | [Karolina Wiącek](https://www.worldcubeassociation.org/persons/2008WIAC01) | Gdańsk | [Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/PolishNationals2009) | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022) |
 | 37 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | Poznań | [Poznań Side Challenge 2017](https://www.worldcubeassociation.org/competitions/PoznanSideChallenge2017) | [PST: FMC Poznań 2025](https://www.worldcubeassociation.org/competitions/PSTFMCPoznan2025) |
-| 36 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | Lublin | [Speed Day Lublin 2016](https://www.worldcubeassociation.org/competitions/SpeedDayLublin2016) |  |
+| 37 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | Lublin | [Speed Day Lublin 2016](https://www.worldcubeassociation.org/competitions/SpeedDayLublin2016) |  |
 | 30 | [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) | Gdańsk | [3Mola Open 2011](https://www.worldcubeassociation.org/competitions/3MolaOpen2011) | [GLS Winter Camp 2019](https://www.worldcubeassociation.org/competitions/GLSWinterCamp2019) |
 | 29 | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) | Gdańsk | [GLS Cup Final 2018](https://www.worldcubeassociation.org/competitions/GLSCupFinal2018) | [Cichy Piątek w Gdańsku 2025](https://www.worldcubeassociation.org/competitions/CichyPiatekwGdansku2025) |
 | 28 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | Warszawa | [Warsaw FMC Tour Thursday 2024](https://www.worldcubeassociation.org/competitions/WarsawFMCTourThursday2024) |  |
@@ -21,10 +21,10 @@
 | 23 | [Andrzej Kwiatkowski](https://www.worldcubeassociation.org/persons/2016KWIA01) | Lublin | [Staszic Open 2017](https://www.worldcubeassociation.org/competitions/StaszicOpen2017) | [Cube4fun Lublin Winter 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2025) |
 | 22 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | Poznań | [BrizZon Poznań Side Open 2020](https://www.worldcubeassociation.org/competitions/BrizZonPoznanSideOpen2020) | [Poznań Autumn 2023](https://www.worldcubeassociation.org/competitions/PoznanAutumn2023) |
 | 21 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | Gdańsk | [Gdańsk Open 2020](https://www.worldcubeassociation.org/competitions/GdanskOpen2020) | [Cichy Piątek w Gdańsku 2025](https://www.worldcubeassociation.org/competitions/CichyPiatekwGdansku2025) |
+| 21 | [Ryszard Kędziora](https://www.worldcubeassociation.org/persons/2022KEDZ01) | Lublin | [Cube4fun Lublin 2022](https://www.worldcubeassociation.org/competitions/Cube4funLublin2022) |  |
 | 20 | [Cezary Mach](https://www.worldcubeassociation.org/persons/2018MACH04) | Gdańsk | [GLS Cup Final 2018](https://www.worldcubeassociation.org/competitions/GLSCupFinal2018) | [Gdańsk Goes Quiet 2024](https://www.worldcubeassociation.org/competitions/GdanskGoesQuiet2024) |
 | 20 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) | Gdańsk | [GLS Cup Final 2018](https://www.worldcubeassociation.org/competitions/GLSCupFinal2018) | [Gdańsk Goes Quiet 2024](https://www.worldcubeassociation.org/competitions/GdanskGoesQuiet2024) |
 | 20 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | Lublin | [Polish Open 2013](https://www.worldcubeassociation.org/competitions/PolishOpen2013) | [Cube4fun Lublin in Staszic 2023](https://www.worldcubeassociation.org/competitions/Cube4funLublininStaszic2023) |
-| 20 | [Ryszard Kędziora](https://www.worldcubeassociation.org/persons/2022KEDZ01) | Lublin | [Cube4fun Lublin 2022](https://www.worldcubeassociation.org/competitions/Cube4funLublin2022) |  |
 | 19 | [Julian Helowicz](https://www.worldcubeassociation.org/persons/2023HELO01) | Gdańsk | [GLS I 2023](https://www.worldcubeassociation.org/competitions/GLSI2023) | [Monday Night in Gdańsk 2025](https://www.worldcubeassociation.org/competitions/MondayNightinGdansk2025) |
 | 19 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | Poznań | [BrizZon Poznań Side Open 2020](https://www.worldcubeassociation.org/competitions/BrizZonPoznanSideOpen2020) | [Poznań MBLD Cup 2023](https://www.worldcubeassociation.org/competitions/PoznanMBLDCup2023) |
 | 19 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | Poznań | [BrizZon Side Open 2023](https://www.worldcubeassociation.org/competitions/BrizZonSideOpen2023) | [PST: FMC Poznań 2025](https://www.worldcubeassociation.org/competitions/PSTFMCPoznan2025) |
@@ -48,6 +48,7 @@
 | 13 | [Maksymilian Jedynak](https://www.worldcubeassociation.org/persons/2019JEDY01) | Poznań | [Poznań Autumn 2023](https://www.worldcubeassociation.org/competitions/PoznanAutumn2023) | [PST: FMC Poznań 2025](https://www.worldcubeassociation.org/competitions/PSTFMCPoznan2025) |
 | 13 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | Lublin | [Staszic Open 2017](https://www.worldcubeassociation.org/competitions/StaszicOpen2017) | [PST LLS Lublin 2020](https://www.worldcubeassociation.org/competitions/PSTLLSLublin2020) |
 | 13 | [Wiktoria Waryszak](https://www.worldcubeassociation.org/persons/2018WARY01) | Lublin | [LLS II 2018](https://www.worldcubeassociation.org/competitions/LLSII2018) | [LLS II 2020](https://www.worldcubeassociation.org/competitions/LLSII2020) |
+| 13 | [Łukasz Pawłowski](https://www.worldcubeassociation.org/persons/2020PAWL01) | Lublin | [Cube4fun Lublin Winter 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2025) |  |
 | 12 | [Patrycja Michalska](https://www.worldcubeassociation.org/persons/2013MICH02) | Gdańsk | [GLS Cup Final 2016](https://www.worldcubeassociation.org/competitions/GLSCupFinal2016) | [Gdańsk Side Day 2018](https://www.worldcubeassociation.org/competitions/GdanskSideDay2018) |
 | 12 | [Igor Ośmiałowski](https://www.worldcubeassociation.org/persons/2014OMIA01) | Gdańsk | [GLS Cup Final 2016](https://www.worldcubeassociation.org/competitions/GLSCupFinal2016) | [Gdańsk Side Day 2018](https://www.worldcubeassociation.org/competitions/GdanskSideDay2018) |
 | 12 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | Gdańsk | [GLS Cup Final 2016](https://www.worldcubeassociation.org/competitions/GLSCupFinal2016) | [Gdańsk Side Day 2018](https://www.worldcubeassociation.org/competitions/GdanskSideDay2018) |
@@ -57,8 +58,7 @@
 | 12 | [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) | Warszawa | [DLS Czerwiec 2017](https://www.worldcubeassociation.org/competitions/DLSCzerwiec2017) | [Cube4fun Warsaw 2022](https://www.worldcubeassociation.org/competitions/Cube4funWarsaw2022) |
 | 12 | [Mateusz Gil](https://www.worldcubeassociation.org/persons/2013GILM01) | Lublin | [Polish Open 2013](https://www.worldcubeassociation.org/competitions/PolishOpen2013) | [LLS III 2019](https://www.worldcubeassociation.org/competitions/LLSIII2019) |
 | 12 | [Nikodem Tomaszuk](https://www.worldcubeassociation.org/persons/2018TOMA03) | Lublin | [LLS II 2018](https://www.worldcubeassociation.org/competitions/LLSII2018) | [PST LLS Lublin 2020](https://www.worldcubeassociation.org/competitions/PSTLLSLublin2020) |
-| 12 | [Łukasz Pawłowski](https://www.worldcubeassociation.org/persons/2020PAWL01) | Lublin | [Cube4fun Lublin Winter 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2025) |  |
-| 12 | [Piotr Nieczypor](https://www.worldcubeassociation.org/persons/2024NIEC01) | Lublin | [Cube4fun Lublin Winter 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2025) |  |
+| 12 | [Piotr Nieczypor](https://www.worldcubeassociation.org/persons/2024NIEC01) | Lublin | [Cube4fun Lublin Winter 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2025) | [Cube4fun Lublin Summer 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinSummer2026) |
 | 12 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | Kraków | [Krakow Cubing Spree 2014](https://www.worldcubeassociation.org/competitions/KrakowCubingSpree2014) | [Fun with FM in Kraków 2025](https://www.worldcubeassociation.org/competitions/FunwithFMinKrakow2025) |
 | 12 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | Brzeziny | [Cube Factory Brzeziny 2023](https://www.worldcubeassociation.org/competitions/CubeFactoryBrzeziny2023) |  |
 | 12 | [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) | Brzeziny | [Cube Factory Brzeziny 2023](https://www.worldcubeassociation.org/competitions/CubeFactoryBrzeziny2023) |  |

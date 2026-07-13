@@ -1,11 +1,11 @@
 ## Longest streak of all competitions in a voivodeship
 
 *Note: The streak ends whenever the person misses a competition in that voivodeship. Voivodeships are inferred from competition coordinates (approximate bounding box).*
-*Updated on 10 July 2026*
+*Updated on 13 July 2026*
 
 | Competitions | Person | Voivodeship | Started at | Missed |
 | ---: | :--- | :--- | :--- | :--- |
-| 65 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | Lubelskie | [Speed Day Lublin 2016](https://www.worldcubeassociation.org/competitions/SpeedDayLublin2016) |  |
+| 66 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | Lubelskie | [Speed Day Lublin 2016](https://www.worldcubeassociation.org/competitions/SpeedDayLublin2016) |  |
 | 53 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | Pomorskie | [PLS Marina 2014](https://www.worldcubeassociation.org/competitions/PLSMarina2014) | [Gdańsk Goes Quiet 2024](https://www.worldcubeassociation.org/competitions/GdanskGoesQuiet2024) |
 | 47 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | Lubelskie | [Polish Open 2013](https://www.worldcubeassociation.org/competitions/PolishOpen2013) | [Cube4fun Lublin in Staszic 2023](https://www.worldcubeassociation.org/competitions/Cube4funLublininStaszic2023) |
 | 39 | [Karolina Wiącek](https://www.worldcubeassociation.org/persons/2008WIAC01) | Pomorskie | [GLS Winter 2014](https://www.worldcubeassociation.org/competitions/GLSWinter2014) | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022) |

@@ -1,7 +1,7 @@
 ## Most % of competitions attended in the same city as the first competition of the competitor
 
 *Note: Counts how many competitions a Polish person attended in the same city where they had their very first competition. The ratio is computed against all competitions attended, including those abroad.*
-*Updated on 10 July 2026*
+*Updated on 13 July 2026*
 
 | Person | First Competition | City | Comps in City | Total Comps | Ratio |
 | :--- | :--- | :--- | ---: | ---: | ---: |
@@ -21,13 +21,14 @@
 | [Jonasz Chełmikowski](https://www.worldcubeassociation.org/persons/2025CHEL02) | [Gdańska Liga Speedcubingu III 2025](https://www.worldcubeassociation.org/competitions/GLSIII2025) | Gdańsk | 9 | 9 | 100.0% |
 | [Mateusz Madej](https://www.worldcubeassociation.org/persons/2025MADE02) | [Gdańska Liga Speedcubingu II 2025](https://www.worldcubeassociation.org/competitions/GLSII2025) | Gdańsk | 9 | 9 | 100.0% |
 | [Samuel Czerwionka](https://www.worldcubeassociation.org/persons/2023CZER03) | [GLS III 2023](https://www.worldcubeassociation.org/competitions/GLSIII2023) | Gdańsk | 9 | 9 | 100.0% |
+| [Tymon Kozłowski](https://www.worldcubeassociation.org/persons/2025KOZL02) | [Cube4fun Lublin Summer 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinSummer2025) | Lublin | 9 | 9 | 100.0% |
 | [Jakub Jastrzębski](https://www.worldcubeassociation.org/persons/2023JAST02) | [GLS III 2023](https://www.worldcubeassociation.org/competitions/GLSIII2023) | Gdańsk | 8 | 8 | 100.0% |
 | [Karolina Czuraj](https://www.worldcubeassociation.org/persons/2017CZUR01) | [GLS Cup I 2017](https://www.worldcubeassociation.org/competitions/GLSCupI2017) | Gdańsk | 8 | 8 | 100.0% |
 | [Laura Kowalska](https://www.worldcubeassociation.org/persons/2015KOWA03) | [Polish Championship 2015](https://www.worldcubeassociation.org/competitions/PolishChampionship2015) | Gdańsk | 8 | 8 | 100.0% |
 | [Leon Białkowski](https://www.worldcubeassociation.org/persons/2022BIAL02) | [Gdańsk Open 2022](https://www.worldcubeassociation.org/competitions/GdanskOpen2022) | Gdańsk | 8 | 8 | 100.0% |
+| [Maria Weremczuk](https://www.worldcubeassociation.org/persons/2025WERE01) | [Cube4fun Lublin Winter 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2025) | Lublin | 8 | 8 | 100.0% |
 | [Szymon Demko](https://www.worldcubeassociation.org/persons/2015DEMK01) | [Manhattan Gdańsk Open 2015](https://www.worldcubeassociation.org/competitions/ManhattanGdanskOpen2015) | Gdańsk | 8 | 8 | 100.0% |
 | [Tymon Czerwiec](https://www.worldcubeassociation.org/persons/2024CZER02) | [Gdańska Liga Speedcubingu Final 2024](https://www.worldcubeassociation.org/competitions/GdanskaLigaSpeedcubinguFinal2024) | Gdańsk | 8 | 8 | 100.0% |
-| [Tymon Kozłowski](https://www.worldcubeassociation.org/persons/2025KOZL02) | [Cube4fun Lublin Summer 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinSummer2025) | Lublin | 8 | 8 | 100.0% |
 | [Adam Mierzewski](https://www.worldcubeassociation.org/persons/2023MIER01) | [GLS II 2023](https://www.worldcubeassociation.org/competitions/GLSII2023) | Gdańsk | 7 | 7 | 100.0% |
 | [Dylan Wyrzykowski](https://www.worldcubeassociation.org/persons/2016WYRZ01) | [GLS Cup II 2016](https://www.worldcubeassociation.org/competitions/GLSCupII2016) | Gdańsk | 7 | 7 | 100.0% |
 | [Franciszek Dziemaszkiewicz](https://www.worldcubeassociation.org/persons/2023DZIE08) | [GLS V 2023](https://www.worldcubeassociation.org/competitions/GLSV2023) | Gdańsk | 7 | 7 | 100.0% |
@@ -36,7 +37,6 @@
 | [Jakub Dybek](https://www.worldcubeassociation.org/persons/2025DYBE01) | [Gdańska Liga Speedcubingu IV 2025](https://www.worldcubeassociation.org/competitions/GLSIV2025) | Gdańsk | 7 | 7 | 100.0% |
 | [Jan Jakubowski](https://www.worldcubeassociation.org/persons/2017JAKU01) | [GLS Cup V 2017](https://www.worldcubeassociation.org/competitions/GLSCupV2017) | Gdańsk | 7 | 7 | 100.0% |
 | [Juliusz Adamowicz](https://www.worldcubeassociation.org/persons/2015ADAM09) | [Gdańsk Rubik's Cube Day 2015](https://www.worldcubeassociation.org/competitions/GdanskRubiksCubeDay2015) | Gdańsk | 7 | 7 | 100.0% |
-| [Maria Weremczuk](https://www.worldcubeassociation.org/persons/2025WERE01) | [Cube4fun Lublin Winter 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2025) | Lublin | 7 | 7 | 100.0% |
 | [Oskar Iwaszkiewicz](https://www.worldcubeassociation.org/persons/2016IWAS02) | [GLS Cup IV 2016](https://www.worldcubeassociation.org/competitions/GLSCupIV2016) | Gdańsk | 7 | 7 | 100.0% |
 | [Adrian Wąchała](https://www.worldcubeassociation.org/persons/2020WACH01) | [Polish Speedcubing Tour LLS Lublin 2020](https://www.worldcubeassociation.org/competitions/PSTLLSLublin2020) | Lublin | 6 | 6 | 100.0% |
 | [Cezary Jakubowski](https://www.worldcubeassociation.org/persons/2016JAKU01) | [GLS Cup IV 2016](https://www.worldcubeassociation.org/competitions/GLSCupIV2016) | Gdańsk | 6 | 6 | 100.0% |
@@ -46,6 +46,7 @@
 | [Maciej Domagalski](https://www.worldcubeassociation.org/persons/2024DOMA01) | [GLS I 2024](https://www.worldcubeassociation.org/competitions/GLSI2024) | Gdańsk | 6 | 6 | 100.0% |
 | [Maria Szabała](https://www.worldcubeassociation.org/persons/2025SZAB03) | [Cube4fun Lublin Spring 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinSpring2025) | Lublin | 6 | 6 | 100.0% |
 | [Michał Madej](https://www.worldcubeassociation.org/persons/2025MADE03) | [Gdańska Liga Speedcubingu III 2025](https://www.worldcubeassociation.org/competitions/GLSIII2025) | Gdańsk | 6 | 6 | 100.0% |
+| [Adam Drążkiewicz](https://www.worldcubeassociation.org/persons/2025DRAZ01) | [Cube4fun in Lublin 2025](https://www.worldcubeassociation.org/competitions/Cube4funinLublin2025) | Lublin | 5 | 5 | 100.0% |
 | [Aleksander Siwek](https://www.worldcubeassociation.org/persons/2018SIWE01) | [LLS VI 2018](https://www.worldcubeassociation.org/competitions/LLSVI2018) | Lublin | 5 | 5 | 100.0% |
 | [Antoni Darmofalski-Zienkiewicz](https://www.worldcubeassociation.org/persons/2025ZIEN01) | [Gdańska Liga Speedcubingu V 2025](https://www.worldcubeassociation.org/competitions/GdanskaLigaSpeedcubinguV2025) | Gdańsk | 5 | 5 | 100.0% |
 | [Antoni Dziwulski](https://www.worldcubeassociation.org/persons/2023DZIW01) | [GLS II 2023](https://www.worldcubeassociation.org/competitions/GLSII2023) | Gdańsk | 5 | 5 | 100.0% |
@@ -62,6 +63,7 @@
 | [Michał Gołombek](https://www.worldcubeassociation.org/persons/2018GOLO07) | [GLS Cup IV 2018](https://www.worldcubeassociation.org/competitions/GLSCupIV2018) | Gdańsk | 5 | 5 | 100.0% |
 | [Michał Jankowski](https://www.worldcubeassociation.org/persons/2016JANK01) | [GLS Cup II 2016](https://www.worldcubeassociation.org/competitions/GLSCupII2016) | Gdańsk | 5 | 5 | 100.0% |
 | [Michał Koszałka](https://www.worldcubeassociation.org/persons/2025KOSZ01) | [Gdańska Liga Speedcubingu Final 2025](https://www.worldcubeassociation.org/competitions/GLSFinal2025) | Gdańsk | 5 | 5 | 100.0% |
+| [Miłosz Czarnota](https://www.worldcubeassociation.org/persons/2020CZAR02) | [Lubelska Liga Speedcubingu II 2020](https://www.worldcubeassociation.org/competitions/LLSII2020) | Lublin | 5 | 5 | 100.0% |
 | [Oliwia Rozwadowska](https://www.worldcubeassociation.org/persons/2025ROZW01) | [Gdańska Liga Speedcubingu II 2025](https://www.worldcubeassociation.org/competitions/GLSII2025) | Gdańsk | 5 | 5 | 100.0% |
 | [Piotr Nałęczyński](https://www.worldcubeassociation.org/persons/2023NALE01) | [Cube4fun Double Weekend Warsaw 2023](https://www.worldcubeassociation.org/competitions/Cube4funDoubleWeekendWarsaw2023) | Warszawa | 5 | 5 | 100.0% |
 | [Piotr Szwed](https://www.worldcubeassociation.org/persons/2019SZWE01) | [Project Warszawa 2019](https://www.worldcubeassociation.org/competitions/ProjectWarszawa2019) | Warszawa | 5 | 5 | 100.0% |
@@ -69,7 +71,6 @@
 | [Tymon Jutrowski](https://www.worldcubeassociation.org/persons/2024JUTR01) | [GLS I 2024](https://www.worldcubeassociation.org/competitions/GLSI2024) | Gdańsk | 5 | 5 | 100.0% |
 | [Wiktor Meissner](https://www.worldcubeassociation.org/persons/2008MEIS01) | [Poznan Open 2008](https://www.worldcubeassociation.org/competitions/PoznanOpen2008) | Poznań | 5 | 5 | 100.0% |
 | [Wiktoria Lewandowska](https://www.worldcubeassociation.org/persons/2023LEWA01) | [GLS III 2023](https://www.worldcubeassociation.org/competitions/GLSIII2023) | Gdańsk | 5 | 5 | 100.0% |
-| [Adam Drążkiewicz](https://www.worldcubeassociation.org/persons/2025DRAZ01) | [Cube4fun in Lublin 2025](https://www.worldcubeassociation.org/competitions/Cube4funinLublin2025) | Lublin | 4 | 4 | 100.0% |
 | [Alan Kossak](https://www.worldcubeassociation.org/persons/2024KOSS01) | [Gdańska Liga Speedcubingu V 2024](https://www.worldcubeassociation.org/competitions/GdanskaLigaSpeedcubinguV2024) | Gdańsk | 4 | 4 | 100.0% |
 | [Artur Rzegost](https://www.worldcubeassociation.org/persons/2017RZEG01) | [Polish Nationals 2017](https://www.worldcubeassociation.org/competitions/PolishNationals2017) | Kraków | 4 | 4 | 100.0% |
 | [Bartosz Majewski](https://www.worldcubeassociation.org/persons/2025MAJE04) | [Gdańska Liga Speedcubingu Final 2025](https://www.worldcubeassociation.org/competitions/GLSFinal2025) | Gdańsk | 4 | 4 | 100.0% |
@@ -88,7 +89,6 @@
 | [Mateusz Kulesza](https://www.worldcubeassociation.org/persons/2016KULE01) | [GLS Cup I 2016](https://www.worldcubeassociation.org/competitions/GLSCupI2016) | Gdańsk | 4 | 4 | 100.0% |
 | [Michał Mrowicki](https://www.worldcubeassociation.org/persons/2015MROW01) | [Manhattan Gdańsk Open 2015](https://www.worldcubeassociation.org/competitions/ManhattanGdanskOpen2015) | Gdańsk | 4 | 4 | 100.0% |
 | [Michał Wesołowski](https://www.worldcubeassociation.org/persons/2024WESO01) | [GLS II 2024](https://www.worldcubeassociation.org/competitions/GLSII2024) | Gdańsk | 4 | 4 | 100.0% |
-| [Miłosz Czarnota](https://www.worldcubeassociation.org/persons/2020CZAR02) | [Lubelska Liga Speedcubingu II 2020](https://www.worldcubeassociation.org/competitions/LLSII2020) | Lublin | 4 | 4 | 100.0% |
 | [Natalia Bujny](https://www.worldcubeassociation.org/persons/2019BUJN01) | [Gdańsk Cubing Summer Camp 2019](https://www.worldcubeassociation.org/competitions/GdanskCubingSummerCamp2019) | Gdańsk | 4 | 4 | 100.0% |
 | [Paweł Ożóg](https://www.worldcubeassociation.org/persons/2017OZOG01) | [Polish Nationals 2017](https://www.worldcubeassociation.org/competitions/PolishNationals2017) | Kraków | 4 | 4 | 100.0% |
 | [Piotr Kitowski](https://www.worldcubeassociation.org/persons/2017KITO01) | [GLS Cup IV 2017](https://www.worldcubeassociation.org/competitions/GLSCupIV2017) | Gdańsk | 4 | 4 | 100.0% |

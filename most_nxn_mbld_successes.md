@@ -1,11 +1,11 @@
 ## Most N/N 3x3 MBLD successes
 
 *Note: Count of all 3x3 MBLD successes where all cubes were solved. Only people with at least 3 N/N successes are shown.*
-*Updated on 10 July 2026*
+*Updated on 13 July 2026*
 
 | Name | N/N successes | Breakdown |
 | :--- | ---: | :--- |
-| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 21 | 2/2, 17/17 (20) |
+| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 22 | 2/2, 9/9, 17/17 (20) |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 19 | 2/2 (7), 3/3, 4/4 (4), 5/5 (2), 6/6, 7/7, 8/8 (2), 9/9 |
 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) | 12 | 16/16, 19/19, 20/20, 24/24, 25/25 (3), 27/27 (2), 28/28, 29/29, 31/31 |
 | [Bartosz Bździel](https://www.worldcubeassociation.org/persons/2010BZDZ01) | 11 | 2/2, 4/4 (2), 5/5, 7/7 (2), 8/8 (2), 9/9 (2), 10/10 |

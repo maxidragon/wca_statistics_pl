@@ -1,6 +1,6 @@
 ## Most bookmarks compared to competitor limit
 
-*Updated on 13 July 2026*
+*Updated on 16 July 2026*
 
 | Competition | Bookmarks | Competitor limit | Ratio |
 | ---: | :--- | :--- | :--- |
@@ -12,7 +12,7 @@
 | [BrizZon Side Open V 2023](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenV2023) | 35 | 35 | 1.0 |
 | [PST: FMC Warszawa-Wesoła 2025](https://www.worldcubeassociation.org/competitions/PSTFMCWarszawaWesola2025) | 12 | 12 | 1.0 |
 | [Warsaw FMC Tour II Sunday 2024](https://www.worldcubeassociation.org/competitions/WarsawFMCTourIISunday2024) | 10 | 10 | 1.0 |
-| [All Rounders Katowice IV 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceIV2026) | 118 | 120 | 0.98333 |
+| [All Rounders Katowice IV 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceIV2026) | 119 | 120 | 0.99167 |
 | [Warsaw Late Solving 2025](https://www.worldcubeassociation.org/competitions/WarsawLateSolving2025) | 29 | 30 | 0.96667 |
 | [Cubing Mine Rybnik II 2024](https://www.worldcubeassociation.org/competitions/CubingMineRybnikII2024) | 48 | 50 | 0.96 |
 | [Winter Side Wrocław 2025](https://www.worldcubeassociation.org/competitions/WinterSideWroclaw2025) | 33 | 35 | 0.94286 |

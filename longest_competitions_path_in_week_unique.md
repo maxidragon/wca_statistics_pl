@@ -1,7 +1,7 @@
 ## Longest competitions path in a single week (unique)
 
 *Note: Calculated as the sum of direct distance between subsequent competitions attended within the same calendar week (Monday-Sunday). Each person appears at most once.*
-*Updated on 13 July 2026*
+*Updated on 16 July 2026*
 
 | Distance | Person | Start date | End date | List |
 | ---: | :--- | :--- | :--- | :--- |

@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 13 July 2026*
+*Updated on 16 July 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -24,10 +24,10 @@
 | 18 | [Szymon Plesniak](https://www.worldcubeassociation.org/persons/2024PLES01) |
 | 17 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 17 | [Magnus Miłosz Birecki](https://www.worldcubeassociation.org/persons/2022BIRE01) |
+| 17 | [Naama Anbar](https://www.worldcubeassociation.org/persons/2023ANBA01) |
 | 16 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) |
 | 16 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 16 | [Marcin Karczmarz](https://www.worldcubeassociation.org/persons/2023KARC01) |
-| 16 | [Naama Anbar](https://www.worldcubeassociation.org/persons/2023ANBA01) |
 | 16 | [Tymoteusz Zmudzki Piskorska](https://www.worldcubeassociation.org/persons/2024PISK02) |
 | 15 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) |
 | 15 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) |

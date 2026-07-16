@@ -1,6 +1,6 @@
 ## Polish competitors with most competitions in the current year
 
-*Updated on 13 July 2026*
+*Updated on 16 July 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -384,6 +384,7 @@
 | 3 | [Stanisław Wąsewicz](https://www.worldcubeassociation.org/persons/2022WASE02) |
 | 3 | [Kamil Wyrostkiewicz](https://www.worldcubeassociation.org/persons/2022WYRO01) |
 | 3 | [Michał Żarnicki](https://www.worldcubeassociation.org/persons/2022ZARN01) |
+| 3 | [Naama Anbar](https://www.worldcubeassociation.org/persons/2023ANBA01) |
 | 3 | [Leon Bajer](https://www.worldcubeassociation.org/persons/2023BAJE02) |
 | 3 | [Samuel Czerwionka](https://www.worldcubeassociation.org/persons/2023CZER03) |
 | 3 | [Aleksander Dudziński](https://www.worldcubeassociation.org/persons/2023DUDZ01) |
@@ -464,6 +465,7 @@
 | 3 | [Konstanty Chrapkowski](https://www.worldcubeassociation.org/persons/2026CHRA01) |
 | 3 | [Filip Dryja](https://www.worldcubeassociation.org/persons/2026DRYJ01) |
 | 3 | [Krzysztof Dymek](https://www.worldcubeassociation.org/persons/2026DYME01) |
+| 3 | [Adam Gostynski](https://www.worldcubeassociation.org/persons/2026GOST01) |
 | 3 | [Cyprian Grochowski](https://www.worldcubeassociation.org/persons/2026GROC01) |
 | 3 | [Gabriel Jażdżewski](https://www.worldcubeassociation.org/persons/2026JAZD01) |
 | 3 | [Dawid Kamiński](https://www.worldcubeassociation.org/persons/2026KAMI01) |
@@ -541,7 +543,6 @@
 | 2 | [Wojciech Zych](https://www.worldcubeassociation.org/persons/2022ZYCH01) |
 | 2 | [Bartosz Adamowski](https://www.worldcubeassociation.org/persons/2023ADAM01) |
 | 2 | [Michał Adamczyk](https://www.worldcubeassociation.org/persons/2023ADAM21) |
-| 2 | [Naama Anbar](https://www.worldcubeassociation.org/persons/2023ANBA01) |
 | 2 | [Maciej Baraniecki](https://www.worldcubeassociation.org/persons/2023BARA07) |
 | 2 | [Marcel Borkowski](https://www.worldcubeassociation.org/persons/2023BORK01) |
 | 2 | [Szymon Bukowski](https://www.worldcubeassociation.org/persons/2023BUKO01) |
@@ -666,7 +667,6 @@
 | 2 | [Tadeusz Gancarz](https://www.worldcubeassociation.org/persons/2026GANC01) |
 | 2 | [Aleksander Glajcar](https://www.worldcubeassociation.org/persons/2026GLAJ01) |
 | 2 | [Kyrylo Gomonovych](https://www.worldcubeassociation.org/persons/2026GOMO01) |
-| 2 | [Adam Gostynski](https://www.worldcubeassociation.org/persons/2026GOST01) |
 | 2 | [Gabriel Grzegorek](https://www.worldcubeassociation.org/persons/2026GRZE01) |
 | 2 | [Hubert Gudajczyk](https://www.worldcubeassociation.org/persons/2026GUDA01) |
 | 2 | [Jakub Heliński](https://www.worldcubeassociation.org/persons/2026HELI03) |

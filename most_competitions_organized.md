@@ -1,6 +1,6 @@
 ## Most competitions organized
 
-*Updated on 16 July 2026*
+*Updated on 19 July 2026*
 
 | Organized | Person |
 | ---: | :--- |
@@ -37,11 +37,11 @@
 | 10 | [Krzysztof Kasprzak](https://www.worldcubeassociation.org/persons/2015KASP01) |
 | 10 | [Przemysław Malinowski](https://www.worldcubeassociation.org/persons/2022MALI01) |
 | 9 | [Kalina Jakubowska](https://www.worldcubeassociation.org/persons/2009BRZE01) |
+| 9 | [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) |
+| 9 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
 | 9 | [Janusz Łebkowski](https://www.worldcubeassociation.org/persons/2022LEBK01) |
 | 9 | [Tomasz Szubert](https://www.worldcubeassociation.org/persons/2022SZUB02) |
 | 8 | [Klaudia Ciuk](https://www.worldcubeassociation.org/persons/2013CIUK02) |
-| 8 | [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) |
-| 8 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
 | 8 | Stowarzyszenie LIGA NIEZWYKŁYCH |
 | 7 | [Przemysław Piątek](https://www.worldcubeassociation.org/persons/2013PITE01) |
 | 7 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |

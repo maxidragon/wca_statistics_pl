@@ -1,6 +1,6 @@
 ## Longest competitions in Poland
 
-*Updated on 16 July 2026*
+*Updated on 19 July 2026*
 
 | Days | Competition |
 | ---: | :--- |

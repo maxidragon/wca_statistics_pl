@@ -1,7 +1,7 @@
 ## Most attended competitions in a city
 
 *Note: Only Polish persons and Polish competitions with posted results are included.*
-*Updated on 19 July 2026*
+*Updated on 22 July 2026*
 
 
 ### Gdańsk
@@ -3863,6 +3863,42 @@ _Total competitions: 1_
 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | 1 |
 | [Igor Kasprzycki](https://www.worldcubeassociation.org/persons/2021KASP03) | 1 |
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 1 |
+
+### Lipnica Wielka
+_Total competitions: 1_
+
+| Person | Competitions |
+| :--- | ---: |
+| [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | 1 |
+| [Filip Jurczak](https://www.worldcubeassociation.org/persons/2013JURC02) | 1 |
+| [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) | 1 |
+| [Mateusz Bednarczyk](https://www.worldcubeassociation.org/persons/2018BEDN03) | 1 |
+| [Jakub Lorens](https://www.worldcubeassociation.org/persons/2018LORE01) | 1 |
+| [Piotr Melczewski](https://www.worldcubeassociation.org/persons/2019MELC02) | 1 |
+| [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | 1 |
+| [Kinga Bednarska](https://www.worldcubeassociation.org/persons/2021BEDN01) | 1 |
+| [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) | 1 |
+| [Krystian Węgrzyn](https://www.worldcubeassociation.org/persons/2021WEGR01) | 1 |
+| [Krystian Fiołek](https://www.worldcubeassociation.org/persons/2022FIOL01) | 1 |
+| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 1 |
+| [Tymon Martyński](https://www.worldcubeassociation.org/persons/2022MART79) | 1 |
+| [Jakub Trzop](https://www.worldcubeassociation.org/persons/2022TRZO02) | 1 |
+| [Dominik Kądziołka](https://www.worldcubeassociation.org/persons/2023KADZ01) | 1 |
+| [Bartosz Kramkowski](https://www.worldcubeassociation.org/persons/2023KRAM02) | 1 |
+| [Dominik Podolak](https://www.worldcubeassociation.org/persons/2023PODO02) | 1 |
+| [Alan Podobiński](https://www.worldcubeassociation.org/persons/2023PODO03) | 1 |
+| [Konrad Wołowiec](https://www.worldcubeassociation.org/persons/2023WOLO01) | 1 |
+| [Michał Herzyk](https://www.worldcubeassociation.org/persons/2024HERZ04) | 1 |
+| [Zofia Herzyk](https://www.worldcubeassociation.org/persons/2024HERZ05) | 1 |
+| [Mateusz Korolkiewicz](https://www.worldcubeassociation.org/persons/2024KORO03) | 1 |
+| [Kacper Kowal](https://www.worldcubeassociation.org/persons/2024KOWA12) | 1 |
+| [Jadwiga Łuszczek](https://www.worldcubeassociation.org/persons/2024LUSZ01) | 1 |
+| [Filip Orliński](https://www.worldcubeassociation.org/persons/2024ORLI02) | 1 |
+| [Michał Wójcicki](https://www.worldcubeassociation.org/persons/2024WOJC01) | 1 |
+| [Igor Hola](https://www.worldcubeassociation.org/persons/2025HOLA02) | 1 |
+| [Oskar Sobusiak](https://www.worldcubeassociation.org/persons/2025SOBU01) | 1 |
+| [Tomasz Uściniak](https://www.worldcubeassociation.org/persons/2025USCI01) | 1 |
+| [Kacper Antoniak](https://www.worldcubeassociation.org/persons/2026ANTO07) | 1 |
 
 ### Elbląg
 _Total competitions: 1_

@@ -1,7 +1,7 @@
 ## Shortest time to compete in all voivodeships since it became possible
 
 *Note: Voivodeships are inferred from competition coordinates. Approximate bounding box classification. The timer starts when all voivodeships had at least one competition the person could have attended (on or after their debut).*
-*Updated on 19 July 2026*
+*Updated on 22 July 2026*
 
 | Person | Days | Completed at | Enabled by |
 | :--- | ---: | :--- | :--- |

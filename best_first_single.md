@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 19 July 2026*
+*Updated on 22 July 2026*
 
 
 ### 3x3x3 Cube
@@ -106,8 +106,8 @@
 | 48.23 | [Maciej Hebel](https://www.worldcubeassociation.org/persons/2019HEBE01) |
 | 57.77 | [Michał Cichocki](https://www.worldcubeassociation.org/persons/2021CICH01) |
 | 59.83 | [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) |
+| 1:00.30 | [Dominik Podolak](https://www.worldcubeassociation.org/persons/2023PODO02) |
 | 1:04.11 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
-| 1:05.55 | [Łukasz Kamiński](https://www.worldcubeassociation.org/persons/2023KAMI07) |
 
 ### 3x3x3 Fewest Moves
 

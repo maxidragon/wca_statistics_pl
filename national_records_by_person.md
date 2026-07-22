@@ -1,6 +1,6 @@
 ## National records count by person
 
-*Updated on 19 July 2026*
+*Updated on 22 July 2026*
 
 | WRs | Person |
 | ---: | :--- |
@@ -11,7 +11,7 @@
 | 24 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) |
 | 23 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 22 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
-| 19 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) |
+| 20 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) |
 | 17 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) |
 | 14 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) |
 | 14 | [Kamil Zieliński](https://www.worldcubeassociation.org/persons/2008ZIEL01) |

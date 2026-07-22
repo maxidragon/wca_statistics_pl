@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 19 July 2026*
+*Updated on 22 July 2026*
 
 
 ### 3x3x3 Cube
@@ -12,11 +12,11 @@
 | 3.78 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Great Lakes Championship 2023](https://www.worldcubeassociation.org/competitions/GreatLakesChampionship2023/results/by_person#2016KOLA02) |
 | 3.82 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Ohio State RPAC Cube Clash 2024](https://www.worldcubeassociation.org/competitions/OhioStateRPACCubeClash2024/results/by_person#2016KOLA02) |
 | 3.84 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | [GLS Gdańsk III 2026](https://www.worldcubeassociation.org/competitions/GLSGdanskIII2026/results/by_person#2021ZAJD03) |
+| 3.84 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2016KOLA02) |
 | 3.85 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Stevenage May 2023](https://www.worldcubeassociation.org/competitions/StevenageMay2023/results/by_person#2016KOLA02) |
 | 3.85 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [NxN in Jura 2026](https://www.worldcubeassociation.org/competitions/NxNinJura2026/results/by_person#2016KOLA02) |
 | 3.86 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | [Gorzów Cubing Days 2026](https://www.worldcubeassociation.org/competitions/GorzowCubingDays2026/results/by_person#2021ZAJD03) |
 | 3.87 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | [GLS Big Cubes Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSBigCubesGdansk2026/results/by_person#2018KUZM02) |
-| 3.89 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Seoul Winter 2026](https://www.worldcubeassociation.org/competitions/SeoulWinter2026/results/by_person#2016KOLA02) |
 
 ### 2x2x2 Cube
 
@@ -56,12 +56,12 @@
 | 30.70 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [SzczeciNxN 2026](https://www.worldcubeassociation.org/competitions/SzczeciNxN2026/results/by_person#2016KOLA02) |
 | 31.29 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Kostelec NxN 2026](https://www.worldcubeassociation.org/competitions/KostelecNxN2026/results/by_person#2016KOLA02) |
 | 31.36 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Energy Cube Białołęka 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2025/results/by_person#2016KOLA02) |
+| 31.54 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2016KOLA02) |
 | 31.67 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2016KOLA02) |
 | 32.34 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2016KOLA02) |
 | 32.46 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Melbourne Summer 2026](https://www.worldcubeassociation.org/competitions/MelbourneSummer2026/results/by_person#2016KOLA02) |
+| 32.48 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2016KOLA02) |
 | 32.61 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Flatåsen Open 2025](https://www.worldcubeassociation.org/competitions/FlatasenOpen2025/results/by_person#2016KOLA02) |
-| 32.65 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Seoul Winter 2026](https://www.worldcubeassociation.org/competitions/SeoulWinter2026/results/by_person#2016KOLA02) |
-| 32.85 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [NxN in Jura 2026](https://www.worldcubeassociation.org/competitions/NxNinJura2026/results/by_person#2016KOLA02) |
 
 ### 3x3x3 One-Handed
 
@@ -69,14 +69,14 @@
 | ---: | :--- | :--- |
 | 6.17 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [Gift Packs Niepołomice 2025](https://www.worldcubeassociation.org/competitions/GiftPacksNiepolomice2025/results/by_person#2022MARC05) |
 | 6.28 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [Cube4fun Jarosław 2024](https://www.worldcubeassociation.org/competitions/Cube4funLowLimitsJaroslaw2024/results/by_person#2022MARC05) |
+| 6.74 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2022MARC05) |
 | 6.77 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [Warm Up Niepołomice 2026](https://www.worldcubeassociation.org/competitions/WarmUpNiepolomice2026/results/by_person#2022MARC05) |
+| 6.77 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2022MARC05) |
 | 7.03 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | [Gift Packs Niepołomice 2025](https://www.worldcubeassociation.org/competitions/GiftPacksNiepolomice2025/results/by_person#2022GLAD01) |
 | 7.33 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [Mielec Cubing Days 2026](https://www.worldcubeassociation.org/competitions/MielecCubingDays2026/results/by_person#2022MARC05) |
 | 7.34 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [Dębica Cubing Winter 2026](https://www.worldcubeassociation.org/competitions/DebicaCubingWinter2026/results/by_person#2022MARC05) |
-| 7.49 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | [Cube4fun Bełżyce 2023](https://www.worldcubeassociation.org/competitions/Cube4funBelzyceMultiEvents2023/results/by_person#2014ZAKR01) |
-| 7.56 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | [Silesian Cubing Chorzów 2025](https://www.worldcubeassociation.org/competitions/SilesianCubingChorzow2025/results/by_person#2022GLAD01) |
-| 7.58 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [Cube4fun Tylmanowa Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaWinter2026/results/by_person#2022MARC05) |
-| 7.60 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | [Beskidy Cubing Days 2026](https://www.worldcubeassociation.org/competitions/BeskidyCubingDays2026/results/by_person#2022GLAD01) |
+| 7.35 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2022MARC05) |
+| 7.44 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2022GLAD01) |
 
 ### Megaminx
 
@@ -85,13 +85,13 @@
 | 26.36 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | [Silesian Minx Fest 2024](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2024/results/by_person#2014ZYCH01) |
 | 27.35 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [Cube4fun Tylmanowa Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaWinter2026/results/by_person#2017PABI01) |
 | 27.55 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | [Mielec Cubing Days 2025](https://www.worldcubeassociation.org/competitions/MielecCubingDays2025/results/by_person#2014ZYCH01) |
+| 27.93 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2014ZYCH01) |
 | 28.09 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | [Polish Open 2025](https://www.worldcubeassociation.org/competitions/PolishOpen2025/results/by_person#2021PIET01) |
 | 28.21 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | [Cube4fun Lublin Winter 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2025/results/by_person#2021KULA02) |
 | 28.22 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | [GLS Gdańsk III 2026](https://www.worldcubeassociation.org/competitions/GLSGdanskIII2026/results/by_person#2021ZAJD03) |
 | 28.23 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [Czechowice-Dziedzice Open 2025](https://www.worldcubeassociation.org/competitions/CzechowiceDziedziceOpen2025/results/by_person#2017PABI01) |
+| 28.29 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2021KULA02) |
 | 28.38 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | [Dragon Cubing X 2025](https://www.worldcubeassociation.org/competitions/DragonCubingX2025/results/by_person#2021PIET01) |
-| 28.40 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | [Pilzno in the Mirror 2024](https://www.worldcubeassociation.org/competitions/PilznointheMirror2024/results/by_person#2014ZYCH01) |
-| 28.63 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | [Czechowice-Dziedzice Open 2025](https://www.worldcubeassociation.org/competitions/CzechowiceDziedziceOpen2025/results/by_person#2021PIET01) |
 
 ### Pyraminx
 
@@ -150,8 +150,8 @@
 | 4.95 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [Cube4fun DW Świdnik 2023](https://www.worldcubeassociation.org/competitions/Cube4funDWSwidnik2023/results/by_person#2013KRAS02) |
 | 4.96 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [BrizZon Side Open III 2025](https://www.worldcubeassociation.org/competitions/BrizzonSideOpenIII2025/results/by_person#2013KRAS02) |
 | 4.99 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [WLS Styczeń 2026](https://www.worldcubeassociation.org/competitions/WLSStyczen2026/results/by_person#2013KRAS02) |
+| 4.99 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2022URBA02) |
 | 5.03 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/by_person#2013KRAS02) |
-| 5.06 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [Olsztyn Spring Open 2022](https://www.worldcubeassociation.org/competitions/OlsztynSpringOpen2022/results/by_person#2013KRAS02) |
 
 ### 3x3x3 With Feet
 

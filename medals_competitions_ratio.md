@@ -1,32 +1,32 @@
 ## Medals to competitions ratio
 
 *Note: Only Polish competitors included*
-*Updated on 19 July 2026*
+*Updated on 22 July 2026*
 
 | Person | Medals | Competitions | Ratio |
 | :--- | ---: | ---: | ---: |
-| [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 417 | 93 | 4.48 |
-| [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 341 | 78 | 4.37 |
+| [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 417 | 94 | 4.44 |
+| [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 341 | 79 | 4.32 |
 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 390 | 98 | 3.98 |
 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | 168 | 43 | 3.91 |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 641 | 193 | 3.32 |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 646 | 194 | 3.33 |
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 351 | 112 | 3.13 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 557 | 181 | 3.08 |
 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | 151 | 50 | 3.02 |
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 318 | 109 | 2.92 |
-| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 610 | 218 | 2.80 |
+| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 610 | 219 | 2.79 |
 | [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) | 135 | 49 | 2.76 |
 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | 245 | 90 | 2.72 |
 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | 194 | 74 | 2.62 |
 | [Kamil Zieliński](https://www.worldcubeassociation.org/persons/2008ZIEL01) | 87 | 34 | 2.56 |
-| [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 214 | 86 | 2.49 |
-| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 318 | 139 | 2.29 |
+| [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 215 | 87 | 2.47 |
 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | 160 | 70 | 2.29 |
 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 185 | 81 | 2.28 |
-| [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 185 | 81 | 2.28 |
-| [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | 177 | 81 | 2.19 |
+| [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 187 | 82 | 2.28 |
+| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 319 | 140 | 2.28 |
 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) | 135 | 62 | 2.18 |
-| [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 89 | 41 | 2.17 |
+| [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 91 | 42 | 2.17 |
+| [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | 177 | 82 | 2.16 |
 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | 107 | 50 | 2.14 |
 
 

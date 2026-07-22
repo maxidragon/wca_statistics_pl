@@ -1,16 +1,16 @@
 ## Most records delegated
 
 *Note: Counts records achieved in competitions where the Polish Delegate was listed.*
-*Updated on 19 July 2026*
+*Updated on 22 July 2026*
 
 | Records | WR | CR | NR | Delegate |
 | ---: | ---: | ---: | ---: | :--- |
-| 351 | 6 | 50 | 295 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 436 | 6 | 55 | 375 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 242 | 6 | 29 | 207 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 237 | 17 | 22 | 198 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
 | 182 | 10 | 23 | 149 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
 | 164 | 16 | 19 | 129 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) |
 | 159 | 11 | 8 | 140 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) |
-| 157 | 6 | 24 | 127 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 131 | 2 | 14 | 115 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) |
 | 130 | 5 | 10 | 115 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) |
 | 130 | 4 | 23 | 103 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |

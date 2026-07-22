@@ -1,6 +1,6 @@
 ## Shortest time to achieve solves milestone
 
-*Updated on 19 July 2026*
+*Updated on 22 July 2026*
 
 
 ### 20000 Solves
@@ -22,6 +22,7 @@
 | Days | Person |
 | ---: | :--- |
 | 1790 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 1840 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 2654 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
 | 2969 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 3235 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
@@ -43,6 +44,7 @@
 | 1429 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) |
 | 1450 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) |
 | 1478 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) |
+| 1490 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) |
 | 1527 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) |
 | 1541 | [Ignacy Malinowski](https://www.worldcubeassociation.org/persons/2021MALI02) |
 | 1541 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
@@ -55,7 +57,6 @@
 | 1990 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 2010 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
 | 2017 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
-| 2038 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) |
 
 ### 1000 Solves
 

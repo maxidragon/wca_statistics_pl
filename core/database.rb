@@ -26,6 +26,7 @@ module Database
     competition_venues
     bookmarked_competitions
     registrations
+    competition_events
   )
   RESULTS_TABLES = %w(
     ranks_single

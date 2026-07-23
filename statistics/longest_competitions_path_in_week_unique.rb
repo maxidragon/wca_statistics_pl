@@ -24,6 +24,18 @@ class LongestCompetitionsPathInWeekUnique < Statistic
       JOIN competitions competition ON competition.id = competition_id
       WHERE competition.country_id
         NOT IN ('XA', 'XE', 'XF', 'XM', 'XN', 'XO', 'XS', 'XW')
+        AND competition.id NOT IN (
+          SELECT competition_id
+          FROM competition_venues
+          WHERE competition_id IN (
+            SELECT competition_id
+            FROM competition_events
+            GROUP BY competition_id
+            HAVING COUNT(*) = 1 AND MAX(event_id) = '333fm'
+          )
+          GROUP BY competition_id
+          HAVING COUNT(*) > 1
+        )
       ORDER BY person_link, week_start_date, competition.start_date, competition.end_date
     SQL
   end

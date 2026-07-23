@@ -62,13 +62,13 @@
 | [Weronika Rogulska](https://www.worldcubeassociation.org/persons/2017ROGU01) | 4.89 |
 | [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) | 4.87 |
 | [Dawid Jasiński](https://www.worldcubeassociation.org/persons/2014JASI01) | 4.85 |
-| [Kacper Jędrzejuk](https://www.worldcubeassociation.org/persons/2019JEDR01) | 4.83 |
 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | 4.83 |
+| [Kacper Jędrzejuk](https://www.worldcubeassociation.org/persons/2019JEDR01) | 4.83 |
 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) | 4.75 |
 | [Aleksander Arefiew](https://www.worldcubeassociation.org/persons/2016AREF01) | 4.75 |
 | [Kalina Jakubowska](https://www.worldcubeassociation.org/persons/2009BRZE01) | 4.69 |
-| [Jan Koziarski](https://www.worldcubeassociation.org/persons/2019KOZI01) | 4.66 |
 | [Szymon Jeziorski](https://www.worldcubeassociation.org/persons/2013JEZI01) | 4.66 |
+| [Jan Koziarski](https://www.worldcubeassociation.org/persons/2019KOZI01) | 4.66 |
 | [Marta Chwarścianek](https://www.worldcubeassociation.org/persons/2021CHWA02) | 4.62 |
 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | 4.60 |
 | [Maciej Jabłoński](https://www.worldcubeassociation.org/persons/2017JABL01) | 4.58 |
@@ -97,8 +97,8 @@
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 3.83 |
 | [Ignacy Buczek](https://www.worldcubeassociation.org/persons/2013BUCZ01) | 3.76 |
 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 3.76 |
-| [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 3.70 |
 | [Hubert Kwasigroch](https://www.worldcubeassociation.org/persons/2014KWAS01) | 3.70 |
+| [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 3.70 |
 | [Gustaw Rejent](https://www.worldcubeassociation.org/persons/2022REJE02) | 3.64 |
 | [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) | 3.62 |
 | [Bartosz Łebkowski](https://www.worldcubeassociation.org/persons/2021LEBK01) | 3.62 |

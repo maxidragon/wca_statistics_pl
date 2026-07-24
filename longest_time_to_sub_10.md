@@ -29,8 +29,8 @@
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 7.03 |
 | [Grzegorz Chudzik](https://www.worldcubeassociation.org/persons/2018CHUD02) | 7.03 |
 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | 6.88 |
-| [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | 6.65 |
 | [Krystian Święch](https://www.worldcubeassociation.org/persons/2016SWIE02) | 6.65 |
+| [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | 6.65 |
 | [Krzysztof Dybich](https://www.worldcubeassociation.org/persons/2019DYBI01) | 6.48 |
 | [Zygmunt Baranowski](https://www.worldcubeassociation.org/persons/2018BARA06) | 6.42 |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 6.32 |
@@ -95,8 +95,8 @@
 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) | 3.87 |
 | [Witold Sołtysik](https://www.worldcubeassociation.org/persons/2015SOLT03) | 3.85 |
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 3.83 |
-| [Ignacy Buczek](https://www.worldcubeassociation.org/persons/2013BUCZ01) | 3.76 |
 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 3.76 |
+| [Ignacy Buczek](https://www.worldcubeassociation.org/persons/2013BUCZ01) | 3.76 |
 | [Hubert Kwasigroch](https://www.worldcubeassociation.org/persons/2014KWAS01) | 3.70 |
 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 3.70 |
 | [Gustaw Rejent](https://www.worldcubeassociation.org/persons/2022REJE02) | 3.64 |

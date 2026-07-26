@@ -44,6 +44,7 @@
 | [Krystian Fiołek](https://www.worldcubeassociation.org/persons/2022FIOL01) | Pilzno | 3 |  |
 | [Piotr Brokos](https://www.worldcubeassociation.org/persons/2023BROK01) | Barcin | 3 |  |
 | [Nikodem Tomaszuk](https://www.worldcubeassociation.org/persons/2018TOMA03) | Biała Podlaska | 3 |  |
+| [Szymon Kulpa](https://www.worldcubeassociation.org/persons/2023KULP02) | Nowa Sarzyna | 3 |  |
 | [Kalina Jakubowska](https://www.worldcubeassociation.org/persons/2009BRZE01) | Starogard Gdański | 3 | [Kaliska Open 2014](https://www.worldcubeassociation.org/competitions/KaliskaOpen2014) |
 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | Rybnik | 3 |  |
 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) | Grudziądz | 3 | [Industrial Cube 2012](https://www.worldcubeassociation.org/competitions/IndustrialCube2012) |
@@ -73,7 +74,6 @@
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | Dębica | 2 | [Silesian Minx Fest 2023](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2023) |
 | [Ignacy Wesołowski](https://www.worldcubeassociation.org/persons/2021WESO01) | Jarosław | 2 |  |
 | [Witold Wesołowski](https://www.worldcubeassociation.org/persons/2022WESO01) | Jarosław | 2 |  |
-| [Szymon Kulpa](https://www.worldcubeassociation.org/persons/2023KULP02) | Nowa Sarzyna | 2 |  |
 | [Marcel Grüner](https://www.worldcubeassociation.org/persons/2017GRUN02) | Kędzierzyn-Koźle | 2 |  |
 | [Tomasz Larysz](https://www.worldcubeassociation.org/persons/2020LARY01) | Kędzierzyn-Koźle | 2 |  |
 | [Artur Miazga](https://www.worldcubeassociation.org/persons/2010MIAZ02) | Łódź | 2 |  |

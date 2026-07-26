@@ -4,7 +4,7 @@
 
 | Organized | Person |
 | ---: | :--- |
-| 142 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
+| 143 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
 | 84 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
 | 76 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 76 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
@@ -108,6 +108,7 @@
 | 3 | [Krystian Fiołek](https://www.worldcubeassociation.org/persons/2022FIOL01) |
 | 3 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) |
 | 3 | [Piotr Brokos](https://www.worldcubeassociation.org/persons/2023BROK01) |
+| 3 | [Szymon Kulpa](https://www.worldcubeassociation.org/persons/2023KULP02) |
 | 3 | [Daniel Śliwa](https://www.worldcubeassociation.org/persons/2024SLIW01) |
 
 

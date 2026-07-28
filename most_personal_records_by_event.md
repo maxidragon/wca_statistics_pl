@@ -1,7 +1,7 @@
 ## Most personal records by event
 
 *Note: Counts how many personal records (single or average) a competitor achieved in each event.*
-*Updated on 25 July 2026*
+*Updated on 28 July 2026*
 
 
 ### 3x3x3 Cube
@@ -13,9 +13,9 @@
 | 56 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) |
 | 54 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 47 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
+| 47 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 45 | [Igor Ośmiałowski](https://www.worldcubeassociation.org/persons/2014OMIA01) |
 | 45 | [Witold Sołtysik](https://www.worldcubeassociation.org/persons/2015SOLT03) |
-| 45 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 45 | [Jakub Łebkowski](https://www.worldcubeassociation.org/persons/2023LEBK01) |
 | 44 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
 
@@ -88,10 +88,10 @@
 | 43 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) |
 | 41 | [Przemysław Kruczek](https://www.worldcubeassociation.org/persons/2013KRUC01) |
 | 36 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) |
+| 35 | [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) |
 | 34 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 34 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) |
 | 32 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
-| 32 | [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) |
 | 31 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 
 ### 3x3x3 Blindfolded
@@ -191,8 +191,8 @@
 | 43 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) |
 | 36 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 30 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
-| 30 | [Szymon Brągiel](https://www.worldcubeassociation.org/persons/2022BRAG03) |
 | 30 | [Mateusz Otto](https://www.worldcubeassociation.org/persons/2022OTTO01) |
+| 30 | [Szymon Brągiel](https://www.worldcubeassociation.org/persons/2022BRAG03) |
 | 29 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
 | 28 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) |
 | 28 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) |

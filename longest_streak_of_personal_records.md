@@ -1,6 +1,6 @@
 ## Longest streak of competitions with a personal record done
 
-*Updated on 25 July 2026*
+*Updated on 28 July 2026*
 
 | Competitions | Person | Started at | Ended at |
 | ---: | :--- | :--- | :--- |
@@ -15,8 +15,8 @@
 | 47 | [Szymon Gabara](https://www.worldcubeassociation.org/persons/2023GABA01) | [Cube Factory Summer 2023](https://www.worldcubeassociation.org/competitions/CubeFactorySummer2023) | [Cicha Sobota w Łodzi 2026](https://www.worldcubeassociation.org/competitions/CichaSobotawLodzi2026) |
 | 45 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | [Ekonomik Elektryk Cube Race 2018](https://www.worldcubeassociation.org/competitions/EkonomikElektrykCubeRace2018) | [Gniezno Big Blind Cubing 2022](https://www.worldcubeassociation.org/competitions/GnieznoBigBlindCubing2022) |
 | 44 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | [SLS Jastrzebie 2013](https://www.worldcubeassociation.org/competitions/SLSJastrzebie2013) | [FMC Europe 2018](https://www.worldcubeassociation.org/competitions/FMCEurope2018) |
+| 44 | [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) | [German Mini Open B 2021](https://www.worldcubeassociation.org/competitions/GermanMiniOpenB2021) |  |
 | 44 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | [Cubing Rising Stars Olesno 2022](https://www.worldcubeassociation.org/competitions/CubingRisingStarsOlesno2022) | [Żmigród Open 2026](https://www.worldcubeassociation.org/competitions/ZmigrodOpen2026) |
-| 43 | [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) | [German Mini Open B 2021](https://www.worldcubeassociation.org/competitions/GermanMiniOpenB2021) |  |
 | 42 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | [Elektryk Cube Race 2016](https://www.worldcubeassociation.org/competitions/ElektrykCubeRace2016) | [Chorzów Open 2024](https://www.worldcubeassociation.org/competitions/ChorzowOpen2024) |
 | 42 | [Mateusz Otto](https://www.worldcubeassociation.org/persons/2022OTTO01) | [UPP Poznań Cubing 2022](https://www.worldcubeassociation.org/competitions/UPPPoznanCubing2022) | [Cube4fun Warsaw Saturday 2025](https://www.worldcubeassociation.org/competitions/Cube4funWarsawSaturday2025) |
 | 42 | [Filip Brokos](https://www.worldcubeassociation.org/persons/2022BROK03) | [Cube4fun Warsaw 2022](https://www.worldcubeassociation.org/competitions/Cube4funWarsaw2022) | [GLS IV 2025](https://www.worldcubeassociation.org/competitions/GLSIV2025) |

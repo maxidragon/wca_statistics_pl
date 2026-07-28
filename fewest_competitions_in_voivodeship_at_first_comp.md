@@ -1,11 +1,11 @@
 ## Fewest % of competitions attended in the same voivodeship as the first competition of the competitor
 
 *Note: Counts how many Polish competitions a person attended in the same voivodeship where they had their first competition. The ratio is computed against all competitions attended, including those abroad. Requires at least 10 total competitions.*
-*Updated on 25 July 2026*
+*Updated on 28 July 2026*
 
 | Person | First Competition | Voivodeship | Comps in Voivodeship | Total Comps | Ratio |
 | :--- | :--- | :--- | ---: | ---: | ---: |
-| [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | [Cube4fun League Koło 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueKolo2022) | Wielkopolskie | 1 | 86 | 1.2% |
+| [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | [Cube4fun League Koło 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueKolo2022) | Wielkopolskie | 1 | 87 | 1.1% |
 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) | [Polish Open 2008](https://www.worldcubeassociation.org/competitions/PolishOpen2008) | Małopolskie | 1 | 68 | 1.5% |
 | [Andrzej Kwiatkowski](https://www.worldcubeassociation.org/persons/2016KWIA01) | [Mielec Cube Day 2016](https://www.worldcubeassociation.org/competitions/MielecCubeDay2016) | Podkarpackie | 1 | 59 | 1.7% |
 | [Kamil Michalak](https://www.worldcubeassociation.org/persons/2016MICH01) | [Grudziądz Open 2016](https://www.worldcubeassociation.org/competitions/GrudziadzOpen2016) | Kujawsko-Pomorskie | 1 | 58 | 1.7% |
@@ -32,12 +32,12 @@
 | [Mateusz Zieliński](https://www.worldcubeassociation.org/persons/2013ZIEL02) | [Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013) | Łódzkie | 1 | 27 | 3.7% |
 | [Tomasz Odelga](https://www.worldcubeassociation.org/persons/2021ODEL01) | [Lubelska Liga Speedcubingu II Biała Podlaska 2021](https://www.worldcubeassociation.org/competitions/LLSIIBialaPodlaska2021) | Lubelskie | 1 | 27 | 3.7% |
 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | [Lubelska Liga Speedcubingu II Biała Podlaska 2021](https://www.worldcubeassociation.org/competitions/LLSIIBialaPodlaska2021) | Lubelskie | 3 | 79 | 3.8% |
+| [Adrian Kowalczyk](https://www.worldcubeassociation.org/persons/2022KOWA01) | [Cube4fun League Koło 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueKolo2022) | Wielkopolskie | 1 | 26 | 3.8% |
 | [Jan Zachwatowicz](https://www.worldcubeassociation.org/persons/2022ZACH01) | [Cube4fun League Koło 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueKolo2022) | Wielkopolskie | 1 | 26 | 3.8% |
 | [Paweł Zygmunt](https://www.worldcubeassociation.org/persons/2013ZYGM02) | [Grudziadz Open 2013](https://www.worldcubeassociation.org/competitions/GrudziadzOpen2013) | Kujawsko-Pomorskie | 1 | 26 | 3.8% |
 | [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) | [September Speedcubing Tour Kielce 2021](https://www.worldcubeassociation.org/competitions/SSTKielce2021) | Świętokrzyskie | 2 | 52 | 3.8% |
 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) | [Manufaktura Open 2013](https://www.worldcubeassociation.org/competitions/ManufakturaOpen2013) | Warmińsko-Mazurskie | 2 | 52 | 3.8% |
 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | [Cubers Eve Białystok 2018](https://www.worldcubeassociation.org/competitions/CubersEve2018) | Podlaskie | 4 | 104 | 3.8% |
-| [Adrian Kowalczyk](https://www.worldcubeassociation.org/persons/2022KOWA01) | [Cube4fun League Koło 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueKolo2022) | Wielkopolskie | 1 | 25 | 4.0% |
 | [Daniel Chudecki](https://www.worldcubeassociation.org/persons/2011CHUD01) | [Bialystok Open 2011](https://www.worldcubeassociation.org/competitions/BialystokOpen2011) | Podlaskie | 1 | 25 | 4.0% |
 | [Felix Lewicki](https://www.worldcubeassociation.org/persons/2021LEWI03) | [Lubelska Liga Speedcubingu I Bełżyce 2021](https://www.worldcubeassociation.org/competitions/LLSIBelzyce2021) | Lubelskie | 1 | 25 | 4.0% |
 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | [Poznan Open 2011](https://www.worldcubeassociation.org/competitions/PoznanOpen2011) | Wielkopolskie | 2 | 50 | 4.0% |

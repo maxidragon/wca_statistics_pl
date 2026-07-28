@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 25 July 2026*
+*Updated on 28 July 2026*
 
 
 ### 3x3x3 Cube
@@ -73,10 +73,10 @@
 | 6.77 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [Warm Up Niepołomice 2026](https://www.worldcubeassociation.org/competitions/WarmUpNiepolomice2026/results/by_person#2022MARC05) |
 | 6.77 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2022MARC05) |
 | 7.03 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | [Gift Packs Niepołomice 2025](https://www.worldcubeassociation.org/competitions/GiftPacksNiepolomice2025/results/by_person#2022GLAD01) |
+| 7.15 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | [C4F Nowa Sarzyna Summer 2026](https://www.worldcubeassociation.org/competitions/Cube4funNowaSarzynaSummer2026/results/by_person#2019KARP03) |
 | 7.33 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [Mielec Cubing Days 2026](https://www.worldcubeassociation.org/competitions/MielecCubingDays2026/results/by_person#2022MARC05) |
 | 7.34 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [Dębica Cubing Winter 2026](https://www.worldcubeassociation.org/competitions/DebicaCubingWinter2026/results/by_person#2022MARC05) |
 | 7.35 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2022MARC05) |
-| 7.44 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2022GLAD01) |
 
 ### Megaminx
 
@@ -117,11 +117,11 @@
 | 2.01 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Cube4fun Tylmanowa Autumn 2025](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaAutumn2025/results/by_person#2021KASP01) |
 | 2.04 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Kielce Open 2026](https://www.worldcubeassociation.org/competitions/KielceOpen2026/results/by_person#2021KASP01) |
 | 2.04 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Mielec Cubing Days 2026](https://www.worldcubeassociation.org/competitions/MielecCubingDays2026/results/by_person#2021KASP01) |
+| 2.07 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [C4F Nowa Sarzyna Summer 2026](https://www.worldcubeassociation.org/competitions/Cube4funNowaSarzynaSummer2026/results/by_person#2021KASP01) |
 | 2.11 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Energy Cube Tomaszów 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2025/results/by_person#2021KASP01) |
 | 2.14 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | [Cube4fun Żyrardów 2024](https://www.worldcubeassociation.org/competitions/Cube4funCEZyrardow2024/results/by_person#2022STOJ03) |
 | 2.14 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026/results/by_person#2022SLIW01) |
 | 2.15 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Cube4fun Lublin Summer 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinSummer2025/results/by_person#2021KASP01) |
-| 2.16 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026/results/by_person#2021KASP01) |
 
 ### Skewb
 

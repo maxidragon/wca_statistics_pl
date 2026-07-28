@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 25 July 2026*
+*Updated on 28 July 2026*
 
 
 ### 3x3x3 Cube
@@ -60,9 +60,9 @@
 | 47.71 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | 44.28, 47.74, 46.64, 49.95, 48.76 |
 | 47.82 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 50.69, 49.26, 47.29, 46.87, 46.90 |
 | 47.96 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 50.70, 47.77, 48.30, 47.74, 47.82 |
+| 47.99 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 51.78, 43.42, 51.38, 46.85, 45.74 |
 | 48.05 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | 47.46, DNF, 47.01, 48.91, 47.79 |
 | 48.12 | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) | 53.00, 47.34, 51.23, 45.80, 44.64 |
-| 48.19 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 48.17, 50.07, 46.34, 54.65, 45.22 |
 
 ### 6x6x6 Cube
 
@@ -73,10 +73,10 @@
 | 1:26.33 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) | 1:21.22, 1:28.52, 1:29.24, 1:29.97, 1:19.96 |
 | 1:26.85 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 1:25.11, 1:30.87, 1:26.02, 1:28.35, 1:26.17 |
 | 1:27.99 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 1:24.30, 1:30.31, 1:23.16, 1:31.13, 1:29.35 |
+| 1:28.09 | [Jan Woźniak](https://www.worldcubeassociation.org/persons/2021WOZN01) | 1:36.44, 1:26.17, 1:25.91, 1:32.19, 1:23.09 |
 | 1:28.45 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 1:37.17, 1:27.98, 1:30.19, 1:25.14, 1:27.18 |
 | 1:28.48 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | 1:30.44, 1:26.02, 1:36.10, 1:26.64, 1:28.37 |
 | 1:30.29 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 1:28.26, 1:28.71, 1:36.35, 1:31.27, 1:30.90 |
-| 1:31.09 | [Jan Woźniak](https://www.worldcubeassociation.org/persons/2021WOZN01) | 1:31.28, 1:31.37, 1:30.62, 1:42.45, 1:30.10 |
 | 1:32.52 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) | 1:41.08, 1:31.70, 1:31.10, 1:34.75, 1:30.49 |
 
 ### 7x7x7 Cube
@@ -87,12 +87,12 @@
 | 2:04.14 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | 2:13.02, 1:57.83, 2:05.35, 1:59.39, 2:07.69 |
 | 2:08.45 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 2:19.91, 2:11.06, 2:05.74, 2:08.56, 2:01.02 |
 | 2:11.56 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 2:15.11, 2:11.00, 2:12.81, 2:10.88, 2:08.39 |
+| 2:13.51 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 2:11.05, 2:29.48, 2:07.88, 2:05.46, 2:21.59 |
 | 2:13.73 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 2:11.32, 2:16.79, 2:13.08, 2:39.40, 2:07.11 |
-| 2:16.66 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 2:23.10, 2:12.49, 2:15.80, 2:21.68, 2:11.05 |
+| 2:18.46 | [Jan Woźniak](https://www.worldcubeassociation.org/persons/2021WOZN01) | 2:43.97, 2:22.00, 2:20.20, 2:01.31, 2:13.17 |
 | 2:18.60 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | 2:15.06, 2:19.12, 2:35.08, 2:21.62, 2:12.97 |
 | 2:18.73 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) | 2:17.98, 2:18.46, 2:32.65, 2:13.15, 2:19.74 |
 | 2:19.76 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | 2:14.50, 2:13.58, 2:24.57, 2:34.70, 2:20.20 |
-| 2:20.77 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | 2:16.70, 2:22.09, 2:21.98, 2:29.10, 2:18.25 |
 
 ### 3x3x3 Blindfolded
 

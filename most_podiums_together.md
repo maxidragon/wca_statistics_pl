@@ -1,6 +1,6 @@
 ## Most podiums together
 
-*Updated on 25 July 2026*
+*Updated on 28 July 2026*
 
 
 ### Pairs
@@ -90,6 +90,7 @@
 | 25 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) & [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 25 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) & [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 25 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) & [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
+| 24 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) & [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) |
 | 24 | [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) & [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) |
 | 24 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) & [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 24 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) & [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
@@ -97,7 +98,7 @@
 | 24 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) & [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 24 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) & [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) |
 | 24 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) & [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
-| 23 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) & [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) |
+| 23 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) & [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 23 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) & [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
 | 23 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) & [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
 | 23 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) & [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) |
@@ -106,7 +107,6 @@
 | 22 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) & [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) |
 | 21 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) & [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 21 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) & [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
-| 21 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) & [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
 
 ### Triples
 

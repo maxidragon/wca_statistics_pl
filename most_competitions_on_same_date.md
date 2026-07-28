@@ -1,6 +1,6 @@
 ## Most competitions on the same calendar date
 
-*Updated on 25 July 2026*
+*Updated on 28 July 2026*
 
 | Count | Person | Date | Years |
 | ---: | :--- | :--- | :--- |
@@ -51,8 +51,8 @@
 | 4 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | 2 May | 2022, 2024, 2025, 2026 |
 | 4 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 31 May | 2014, 2024, 2025, 2026 |
 | 4 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 4 July | 2021, 2025, 2026, 2026 |
-| 4 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 15 August | 2022, 2023, 2024, 2025 |
 | 4 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 2 May | 2022, 2024, 2025, 2026 |
+| 4 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 15 August | 2022, 2023, 2024, 2025 |
 | 4 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 31 December | 2021, 2023, 2024, 2025 |
 
 

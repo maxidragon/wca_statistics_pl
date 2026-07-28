@@ -1,5 +1,6 @@
 All statistics are computed only for competitors from Poland/Polish competitions.
 
+- [3x3 One-Handed results compared to 3x3 (Poland)](oh_to_333)
 - [Average event count by competition](average_event_count_by_competition)
 - [Average number of competitions of listed delegates at Polish competitions by number of delegates](avg_comps_number_of_delegates)
 - [Average of 5](average_of_5)

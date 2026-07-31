@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 28 July 2026*
+*Updated on 31 July 2026*
 
 
 ### Competition
@@ -44,7 +44,7 @@
 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | **10157** | 10802 |
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | **10086** | 10651 |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | **9512** | 9725 |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **9351** | 10831 |
+| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **9350** | 10831 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **9295** | 9466 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **9245** | 9579 |
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | **8959** | 9152 |
@@ -60,7 +60,7 @@
 | 2025 | **236931** | 249879 |
 | 2024 | **224448** | 235988 |
 | 2023 | **188218** | 198622 |
-| 2026 | **145624** | 154578 |
+| 2026 | **145623** | 154578 |
 | 2022 | **116402** | 123618 |
 | 2019 | **91337** | 95933 |
 | 2014 | **76324** | 80953 |
@@ -93,7 +93,7 @@
 | 5x5x5 Cube | **63369** | 65636 |
 | Square-1 | **52492** | 54554 |
 | 6x6x6 Cube | **15210** | 15773 |
-| 3x3x3 Blindfolded | **13915** | 36239 |
+| 3x3x3 Blindfolded | **13914** | 36239 |
 | 7x7x7 Cube | **12891** | 13456 |
 | 3x3x3 Fewest Moves | **6974** | 9155 |
 | Magic | **4230** | 4674 |

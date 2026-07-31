@@ -1,7 +1,7 @@
 ## Most % of rounds competed in at one competition
 
 *Note: Shows the highest percentage of a competition's rounds that a Polish competitor participated in. Only competitions with more than 1 event and more than 10 rounds are included.*
-*Updated on 28 July 2026*
+*Updated on 31 July 2026*
 
 | % | Person | Competition | Rounds competed | Total rounds |
 | ---: | :--- | :--- | ---: | ---: |

@@ -1,7 +1,7 @@
 ## Average number of successful solves per competition
 
 *Note: Counts successful individual attempts (value > 0). DNS and empty attempts are excluded. Minimum 20 competitions required.*
-*Updated on 28 July 2026*
+*Updated on 31 July 2026*
 
 | Person | Avg. successful | Total successful | Competitions |
 | :--- | ---: | ---: | ---: |

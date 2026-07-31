@@ -1,7 +1,7 @@
 ## Longest competitions path in a single week
 
 *Note: Calculated as the sum of direct distance between subsequent competitions attended within the same calendar week (Monday-Sunday).*
-*Updated on 28 July 2026*
+*Updated on 31 July 2026*
 
 | Distance | Person | Start date | End date | List |
 | ---: | :--- | :--- | :--- | :--- |
@@ -98,7 +98,7 @@
 | 3 752 km | [Abhimanyu Singhal (अभिमन्यु सिंघल)](https://www.worldcubeassociation.org/persons/2013SING12) |  5&nbsp;Aug&nbsp;2024 | 11&nbsp;Aug&nbsp;2024 | [South Bay Weeknight BF 2024](https://www.worldcubeassociation.org/competitions/SouthBayWeeknightBF42024), [Hawaiʻi Big Island Summer 2024](https://www.worldcubeassociation.org/competitions/HawaiiBigIslandSummer2024) |
 | 3 752 km | [Lucas Aubin](https://www.worldcubeassociation.org/persons/2019AUBI01) |  5&nbsp;Aug&nbsp;2024 | 11&nbsp;Aug&nbsp;2024 | [South Bay Weeknight BF 2024](https://www.worldcubeassociation.org/competitions/SouthBayWeeknightBF42024), [Hawaiʻi Big Island Summer 2024](https://www.worldcubeassociation.org/competitions/HawaiiBigIslandSummer2024) |
 | 3 752 km | [TJ Kelly](https://www.worldcubeassociation.org/persons/2017KELL10) |  5&nbsp;Aug&nbsp;2024 | 11&nbsp;Aug&nbsp;2024 | [South Bay Weeknight BF 2024](https://www.worldcubeassociation.org/competitions/SouthBayWeeknightBF42024), [Hawaiʻi Big Island Summer 2024](https://www.worldcubeassociation.org/competitions/HawaiiBigIslandSummer2024) |
-| 3 725 km | [Glen Goh Wee Zhuan (吴洧全)](https://www.worldcubeassociation.org/persons/2015ZHUA01) | 13&nbsp;Jan&nbsp;2025 | 19&nbsp;Jan&nbsp;2025 | [Happy Suseong 2025](https://www.worldcubeassociation.org/competitions/HappySuseong2025), [Bangkok Cube Festival 2025](https://www.worldcubeassociation.org/competitions/BangkokCubeFestival2025) |
+| 3 725 km | [Glen Goh Wee Zhuan (吴洧全)](https://www.worldcubeassociation.org/persons/2015ZHUA01) | 13&nbsp;Jan&nbsp;2025 | 19&nbsp;Jan&nbsp;2025 | [Bangkok Cube Festival 2025](https://www.worldcubeassociation.org/competitions/BangkokCubeFestival2025), [Happy Suseong 2025](https://www.worldcubeassociation.org/competitions/HappySuseong2025) |
 | 3 702 km | [Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04) |  7&nbsp;Nov&nbsp;2022 | 13&nbsp;Nov&nbsp;2022 | [SnoCo Veteran's Weekend A 2022](https://www.worldcubeassociation.org/competitions/SnoCoVeteransWeekendA2022), [Carolina Clock 'Stravaganza 2022](https://www.worldcubeassociation.org/competitions/CarolinaClockStravaganza2022) |
 | 3 520 km | [Chris Martin](https://www.worldcubeassociation.org/persons/2013MART03) | 24&nbsp;Jun&nbsp;2024 | 30&nbsp;Jun&nbsp;2024 | [WCC FMC June 2024](https://www.worldcubeassociation.org/competitions/WCCFMCJune2024), [Southeast Championship 2024](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2024) |
 | 3 471 km | [Peter Hugosson-Miller](https://www.worldcubeassociation.org/persons/2021HUGO01) | 22&nbsp;May&nbsp;2023 | 28&nbsp;May&nbsp;2023 | [Stockholmsligan 9: Foxes 2023](https://www.worldcubeassociation.org/competitions/Stockholmsligan9TheFoxes2023), [Glasgow Spring 2023](https://www.worldcubeassociation.org/competitions/GlasgowSpring2023), [Hampshire Spring 2023](https://www.worldcubeassociation.org/competitions/HampshireSpring2023), [Swedish FMC Championship 2023](https://www.worldcubeassociation.org/competitions/SwedishFMCChampionship2023) |

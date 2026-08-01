@@ -1,7 +1,7 @@
 ## Shortest time to compete in all voivodeships in Poland
 
 *Note: Voivodeships are inferred from competition coordinates. Approximate bounding box classification.*
-*Updated on 31 July 2026*
+*Updated on  1 August 2026*
 
 | Person | Days | Completed At |
 | :--- | ---: | :--- |

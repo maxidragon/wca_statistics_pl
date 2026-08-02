@@ -6,7 +6,7 @@
 | ---: | :--- |
 | 143 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
 | 84 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
-| 76 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
+| 77 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 76 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 54 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 41 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
@@ -42,9 +42,9 @@
 | 9 | [Janusz Łebkowski](https://www.worldcubeassociation.org/persons/2022LEBK01) |
 | 9 | [Tomasz Szubert](https://www.worldcubeassociation.org/persons/2022SZUB02) |
 | 8 | [Klaudia Ciuk](https://www.worldcubeassociation.org/persons/2013CIUK02) |
+| 8 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |
 | 8 | Stowarzyszenie LIGA NIEZWYKŁYCH |
 | 7 | [Przemysław Piątek](https://www.worldcubeassociation.org/persons/2013PITE01) |
-| 7 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |
 | 7 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
 | 7 | [Robert Cegiel](https://www.worldcubeassociation.org/persons/2017CEGI01) |
 | 7 | [Michał Wachowiak](https://www.worldcubeassociation.org/persons/2015WACH01) |

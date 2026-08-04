@@ -1,7 +1,7 @@
 ## Fewest % of competitions attended in the same voivodeship as the first competition of the competitor
 
 *Note: Counts how many Polish competitions a person attended in the same voivodeship where they had their first competition. The ratio is computed against all competitions attended, including those abroad. Requires at least 10 total competitions.*
-*Updated on  1 August 2026*
+*Updated on  4 August 2026*
 
 | Person | First Competition | Voivodeship | Comps in Voivodeship | Total Comps | Ratio |
 | :--- | :--- | :--- | ---: | ---: | ---: |
@@ -78,19 +78,20 @@
 | [Dominik Czechowski](https://www.worldcubeassociation.org/persons/2013CZEC02) | [Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013) | Łódzkie | 3 | 50 | 6.0% |
 | [Jarosław Chodyniecki](https://www.worldcubeassociation.org/persons/2018CHOD01) | [CFL Sieradz 2018](https://www.worldcubeassociation.org/competitions/CFLSieradz2018) | Łódzkie | 3 | 49 | 6.1% |
 | [Przemysław Malinowski](https://www.worldcubeassociation.org/persons/2022MALI01) | [Cube4fun League IV Dąbrowa Górnicza 2022](https://www.worldcubeassociation.org/competitions/Cube4funDabrowaGornicza2022) | Śląskie | 3 | 49 | 6.1% |
+| [Filip Chudy](https://www.worldcubeassociation.org/persons/2022CHUD02) | [Cube4fun League II Kluczbork 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueIIKluczbork2022) | Opolskie | 1 | 16 | 6.2% |
 | [Hubert Borek](https://www.worldcubeassociation.org/persons/2024BORE01) | [Nowa Sól Open 2024](https://www.worldcubeassociation.org/competitions/NowaSolOpen2024) | Lubuskie | 1 | 16 | 6.2% |
 | [Wadim Liszczenko](https://www.worldcubeassociation.org/persons/2024LISZ01) | [Clock Masters Opole 2024](https://www.worldcubeassociation.org/competitions/ClockMastersOpole2024) | Opolskie | 1 | 16 | 6.2% |
 | [Marcel Politowicz](https://www.worldcubeassociation.org/persons/2021POLI02) | [Cubers Eve Lubartów 2021](https://www.worldcubeassociation.org/competitions/CubersEveLubartow2021) | Lubelskie | 2 | 32 | 6.2% |
 | [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) | [Szczytno Open 2021](https://www.worldcubeassociation.org/competitions/SzczytnoOpen2021) | Warmińsko-Mazurskie | 5 | 80 | 6.2% |
 | [Mateusz Cichoracki](https://www.worldcubeassociation.org/persons/2011CICH01) | [Grudziadz Open 2011](https://www.worldcubeassociation.org/competitions/GrudziadzOpen2011) | Kujawsko-Pomorskie | 6 | 93 | 6.5% |
 | [Daniel Stempin](https://www.worldcubeassociation.org/persons/2023STEM03) | [Olsztyn Open 2023](https://www.worldcubeassociation.org/competitions/OlsztynOpen2023) | Warmińsko-Mazurskie | 1 | 15 | 6.7% |
-| [Filip Chudy](https://www.worldcubeassociation.org/persons/2022CHUD02) | [Cube4fun League II Kluczbork 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueIIKluczbork2022) | Opolskie | 1 | 15 | 6.7% |
 | [Kamil Fus](https://www.worldcubeassociation.org/persons/2008FUSK01) | [Poznan Open 2008](https://www.worldcubeassociation.org/competitions/PoznanOpen2008) | Wielkopolskie | 1 | 15 | 6.7% |
 | [Mateusz Ziemba](https://www.worldcubeassociation.org/persons/2022ZIEM01) | [Cube4fun League VII Pawłowice 2022](https://www.worldcubeassociation.org/competitions/Cube4funPawlowice2022) | Śląskie | 1 | 15 | 6.7% |
 | [Oskar Karwot](https://www.worldcubeassociation.org/persons/2020KARW01) | [Dragon Cubing 2020](https://www.worldcubeassociation.org/competitions/DragonCubing2020) | Małopolskie | 1 | 15 | 6.7% |
 | [Tomasz Korzeniewski](https://www.worldcubeassociation.org/persons/2007KORZ01) | [Wroclaw Open 2007](https://www.worldcubeassociation.org/competitions/WroclawOpen2007) | Dolnośląskie | 1 | 15 | 6.7% |
 | [Jakub Kaszuba](https://www.worldcubeassociation.org/persons/2014KASZ01) | [Bydgoszcz Summer 2014](https://www.worldcubeassociation.org/competitions/BydgoszczSummer2014) | Kujawsko-Pomorskie | 2 | 30 | 6.7% |
 | [Tomasz Stawowy](https://www.worldcubeassociation.org/persons/2021STAW01) | [Project Pawłowice 2021](https://www.worldcubeassociation.org/competitions/ProjectPawlowice2021) | Śląskie | 6 | 90 | 6.7% |
+| [Michał Kaczmarek](https://www.worldcubeassociation.org/persons/2021KACZ01) | [Project Kedzierzyn-Kozle 2021](https://www.worldcubeassociation.org/competitions/ProjectKedzierzynKozle2021) | Opolskie | 2 | 29 | 6.9% |
 | [Michał Tomański](https://www.worldcubeassociation.org/persons/2009TOMA01) | [Warsaw Open 2009](https://www.worldcubeassociation.org/competitions/WarsawOpen2009) | Mazowieckie | 2 | 29 | 6.9% |
 | [Zofia Węgrzynowska](https://www.worldcubeassociation.org/persons/2024WEGR01) | [Energy Cube Konin 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeKonin2024) | Wielkopolskie | 2 | 29 | 6.9% |
 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | [Polish Championship 2016](https://www.worldcubeassociation.org/competitions/PolishChampionship2016) | Mazowieckie | 10 | 145 | 6.9% |
@@ -104,7 +105,6 @@
 | [Jakub Jarzombek](https://www.worldcubeassociation.org/persons/2013JARZ01) | [Manufaktura Open 2013](https://www.worldcubeassociation.org/competitions/ManufakturaOpen2013) | Warmińsko-Mazurskie | 1 | 14 | 7.1% |
 | [Jan Koziarski](https://www.worldcubeassociation.org/persons/2019KOZI01) | [Polish Speedcubing Tour Biłgoraj 2019](https://www.worldcubeassociation.org/competitions/PolishSpeedcubingTourBilgora2019) | Lubelskie | 1 | 14 | 7.1% |
 | [Kacper Karpierz](https://www.worldcubeassociation.org/persons/2023KARP06) | [Giżycko Open 2023](https://www.worldcubeassociation.org/competitions/GizyckoOpen2023) | Warmińsko-Mazurskie | 1 | 14 | 7.1% |
-| [Michał Buszczak](https://www.worldcubeassociation.org/persons/2014BUSZ01) | [Polish Open 2014](https://www.worldcubeassociation.org/competitions/PolishOpen2014) | Pomorskie | 1 | 14 | 7.1% |
 
 
 <a href="https://github.com/maxidragon/wca_statistics_pl" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

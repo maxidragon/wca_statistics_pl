@@ -1,6 +1,6 @@
 ## Most competitions on the same calendar date
 
-*Updated on  1 August 2026*
+*Updated on  4 August 2026*
 
 | Count | Person | Date | Years |
 | ---: | :--- | :--- | :--- |
@@ -9,12 +9,12 @@
 | 5 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | 31 December | 2021, 2022, 2023, 2024, 2025 |
 | 5 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | 1 May | 2022, 2023, 2024, 2025, 2026 |
 | 5 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 1 May | 2022, 2023, 2024, 2025, 2026 |
-| 5 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 15 August | 2021, 2021, 2022, 2023, 2024 |
 | 5 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 14 July | 2022, 2024, 2024, 2024, 2025 |
+| 5 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 15 August | 2021, 2021, 2022, 2023, 2024 |
 | 5 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 26 August | 2022, 2023, 2023, 2023, 2024 |
 | 5 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 28 December | 2021, 2022, 2024, 2024, 2025 |
-| 5 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 31 December | 2021, 2022, 2023, 2024, 2025 |
 | 5 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 29 December | 2021, 2022, 2024, 2024, 2025 |
+| 5 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 31 December | 2021, 2022, 2023, 2024, 2025 |
 | 5 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 31 December | 2021, 2022, 2023, 2024, 2025 |
 | 5 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 15 August | 2021, 2022, 2023, 2024, 2025 |
 | 5 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 1 May | 2022, 2023, 2024, 2025, 2026 |

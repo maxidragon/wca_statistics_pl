@@ -1,7 +1,7 @@
 ## Most % of successful solves in each event
 
 *Note: Counts individual attempt values. A successful attempt has value > 0 (not DNF). DNS attempts are excluded. Minimum 10 attempts required.*
-*Updated on  1 August 2026*
+*Updated on  4 August 2026*
 
 
 ### 3x3x3 Cube
@@ -62,9 +62,9 @@
 | 100.00% | 230 | 230 | [Wojciech Piórczyński](https://www.worldcubeassociation.org/persons/2021PIOR01) |
 | 100.00% | 200 | 200 | [Daniel Samoszyn](https://www.worldcubeassociation.org/persons/2015SAMO01) |
 | 100.00% | 179 | 179 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
+| 100.00% | 156 | 156 | [Mikołaj Molski](https://www.worldcubeassociation.org/persons/2015MOLS01) |
 | 100.00% | 151 | 151 | [Tomasz Kaczorowski](https://www.worldcubeassociation.org/persons/2008KACZ01) |
 | 100.00% | 149 | 149 | [Mateusz Adamczyk](https://www.worldcubeassociation.org/persons/2011ADAM03) |
-| 100.00% | 146 | 146 | [Mikołaj Molski](https://www.worldcubeassociation.org/persons/2015MOLS01) |
 | 100.00% | 143 | 143 | [Konrad Wołowiec](https://www.worldcubeassociation.org/persons/2023WOLO01) |
 | 100.00% | 131 | 131 | [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) |
 | 100.00% | 127 | 127 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) |
@@ -317,9 +317,9 @@
 | 100.00% | 180 | 180 | [Michał Machnik](https://www.worldcubeassociation.org/persons/2022MACH14) |
 | 100.00% | 180 | 180 | [Dominik Podolak](https://www.worldcubeassociation.org/persons/2023PODO02) |
 | 100.00% | 172 | 172 | [Paweł Kowol](https://www.worldcubeassociation.org/persons/2011KOWO01) |
+| 100.00% | 160 | 160 | [Filip Chudy](https://www.worldcubeassociation.org/persons/2022CHUD02) |
 | 100.00% | 150 | 150 | [Maciej Sugier](https://www.worldcubeassociation.org/persons/2022SUGI01) |
 | 100.00% | 150 | 150 | [Kacper Wandoch](https://www.worldcubeassociation.org/persons/2024WAND01) |
-| 100.00% | 145 | 145 | [Filip Chudy](https://www.worldcubeassociation.org/persons/2022CHUD02) |
 | 100.00% | 145 | 145 | [Remigiusz Wingert](https://www.worldcubeassociation.org/persons/2024WING03) |
 | 100.00% | 140 | 140 | [Leon Marszal](https://www.worldcubeassociation.org/persons/2024MARS09) |
 | 100.00% | 137 | 137 | [Krzysztof Michałek](https://www.worldcubeassociation.org/persons/2022MICH01) |

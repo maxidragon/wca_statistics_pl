@@ -1,6 +1,6 @@
 ## Most days potentially spent at competitions
 
-*Updated on  1 August 2026*
+*Updated on  4 August 2026*
 
 | Days | Person | Competitions |
 | ---: | :--- | ---: |
@@ -35,8 +35,8 @@
 | 237 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) | 132 |
 | 233 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 126 |
 | 233 | [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) | 124 |
+| 231 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 125 |
 | 231 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | 119 |
-| 230 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 124 |
 | 229 | [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) | 124 |
 | 223 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 109 |
 | 221 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | 104 |

@@ -1,6 +1,6 @@
 ## Polish competitors with most competitions in the current year
 
-*Updated on  1 August 2026*
+*Updated on  4 August 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -18,9 +18,9 @@
 | 21 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
 | 20 | [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) |
 | 19 | [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) |
+| 19 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) |
 | 19 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) |
 | 18 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
-| 18 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) |
 | 18 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
 | 17 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) |
 | 17 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
@@ -93,6 +93,7 @@
 | 9 | [Szymon Moroń](https://www.worldcubeassociation.org/persons/2013MORO01) |
 | 9 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
 | 9 | [Igor Ośmiałowski](https://www.worldcubeassociation.org/persons/2014OMIA01) |
+| 9 | [Mikołaj Molski](https://www.worldcubeassociation.org/persons/2015MOLS01) |
 | 9 | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) |
 | 9 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
 | 9 | [Joanna Dubicka](https://www.worldcubeassociation.org/persons/2018DUBI04) |
@@ -120,7 +121,6 @@
 | 8 | [Kacper Wiłkojć](https://www.worldcubeassociation.org/persons/2013WIKO01) |
 | 8 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) |
 | 8 | [Jakub Bartos](https://www.worldcubeassociation.org/persons/2014BART06) |
-| 8 | [Mikołaj Molski](https://www.worldcubeassociation.org/persons/2015MOLS01) |
 | 8 | [Joanna Hołdakowska](https://www.worldcubeassociation.org/persons/2016HOLD04) |
 | 8 | [Robert Cegiel](https://www.worldcubeassociation.org/persons/2017CEGI01) |
 | 8 | [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) |
@@ -192,6 +192,7 @@
 | 6 | [Marcel Nycz](https://www.worldcubeassociation.org/persons/2016NYCZ01) |
 | 6 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) |
 | 6 | [Aleksandra Bystrova](https://www.worldcubeassociation.org/persons/2021BYST01) |
+| 6 | [Michał Kaczmarek](https://www.worldcubeassociation.org/persons/2021KACZ01) |
 | 6 | [Ignacy Malinowski](https://www.worldcubeassociation.org/persons/2021MALI02) |
 | 6 | [Paweł Malinowski](https://www.worldcubeassociation.org/persons/2021MALI03) |
 | 6 | [Martyna Jarosz](https://www.worldcubeassociation.org/persons/2022JARO01) |
@@ -234,7 +235,6 @@
 | 5 | [Jakub Lorens](https://www.worldcubeassociation.org/persons/2018LORE01) |
 | 5 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) |
 | 5 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) |
-| 5 | [Michał Kaczmarek](https://www.worldcubeassociation.org/persons/2021KACZ01) |
 | 5 | [Felix Lewicki](https://www.worldcubeassociation.org/persons/2021LEWI03) |
 | 5 | [Ada Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD01) |
 | 5 | [Nikodem Buda](https://www.worldcubeassociation.org/persons/2022BUDA01) |
@@ -285,6 +285,7 @@
 | 4 | [Radosław Michałek](https://www.worldcubeassociation.org/persons/2021MICH03) |
 | 4 | [Aleksandra Tatoń](https://www.worldcubeassociation.org/persons/2021TATO01) |
 | 4 | [Krystian Węgrzyn](https://www.worldcubeassociation.org/persons/2021WEGR01) |
+| 4 | [Filip Chudy](https://www.worldcubeassociation.org/persons/2022CHUD02) |
 | 4 | [Sebastian Fornal](https://www.worldcubeassociation.org/persons/2022FORN02) |
 | 4 | [Adam Janiszewski](https://www.worldcubeassociation.org/persons/2022JANI01) |
 | 4 | [Jakub Jasiuk](https://www.worldcubeassociation.org/persons/2022JASI03) |
@@ -385,7 +386,6 @@
 | 3 | [Kuba Adamczyk](https://www.worldcubeassociation.org/persons/2021ADAM03) |
 | 3 | [Krzysztof Grabowski](https://www.worldcubeassociation.org/persons/2021GRAB01) |
 | 3 | [Tomasz Odelga](https://www.worldcubeassociation.org/persons/2021ODEL01) |
-| 3 | [Filip Chudy](https://www.worldcubeassociation.org/persons/2022CHUD02) |
 | 3 | [Janusz Łebkowski](https://www.worldcubeassociation.org/persons/2022LEBK01) |
 | 3 | [Maja Łozowicka](https://www.worldcubeassociation.org/persons/2022LOZO01) |
 | 3 | [Igor Marczak](https://www.worldcubeassociation.org/persons/2022MARC07) |

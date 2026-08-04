@@ -1,7 +1,7 @@
 ## Most % of rounds competed in at one competition
 
 *Note: Shows the highest percentage of a competition's rounds that a Polish competitor participated in. Only competitions with more than 1 event and more than 10 rounds are included.*
-*Updated on  1 August 2026*
+*Updated on  4 August 2026*
 
 | % | Person | Competition | Rounds competed | Total rounds |
 | ---: | :--- | :--- | ---: | ---: |
@@ -30,14 +30,14 @@
 | 100.0% | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | [Cube4fun BioCube Bydgoszcz 2024](https://www.worldcubeassociation.org/competitions/Cube4funBioCubeBydgoszcz2024) | 25 | 25 |
 | 100.0% | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | [Cube4fun in Bełchatów 2024](https://www.worldcubeassociation.org/competitions/Cube4funinBelchatow2024) | 25 | 25 |
 | 100.0% | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | [Cube4fun BioCube Bydgoszcz 2024](https://www.worldcubeassociation.org/competitions/Cube4funBioCubeBydgoszcz2024) | 25 | 25 |
+| 100.0% | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | [Mielec Cubing Days 2026](https://www.worldcubeassociation.org/competitions/MielecCubingDays2026) | 24 | 24 |
 | 100.0% | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | [Ružomberok Open 2026](https://www.worldcubeassociation.org/competitions/RuzomberokOpen2026) | 24 | 24 |
 | 100.0% | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | [Siedlce Open 2024](https://www.worldcubeassociation.org/competitions/SiedlceOpen2024) | 24 | 24 |
-| 100.0% | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | [Mielec Cubing Days 2026](https://www.worldcubeassociation.org/competitions/MielecCubingDays2026) | 24 | 24 |
 | 100.0% | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | [Pilzno in the Mirror 2024](https://www.worldcubeassociation.org/competitions/PilznointheMirror2024) | 24 | 24 |
 | 100.0% | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | [Kostelec Summer 2022](https://www.worldcubeassociation.org/competitions/KostelecSummer2022) | 24 | 24 |
-| 100.0% | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [Dragon Cubing 2021](https://www.worldcubeassociation.org/competitions/DragonCubing2021) | 24 | 24 |
 | 100.0% | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [Mielec Cubing Days 2026](https://www.worldcubeassociation.org/competitions/MielecCubingDays2026) | 24 | 24 |
 | 100.0% | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [Pilzno in the Mirror 2024](https://www.worldcubeassociation.org/competitions/PilznointheMirror2024) | 24 | 24 |
+| 100.0% | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [Dragon Cubing 2021](https://www.worldcubeassociation.org/competitions/DragonCubing2021) | 24 | 24 |
 | 100.0% | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | [Brno Open 2019](https://www.worldcubeassociation.org/competitions/BrnoOpen2019) | 24 | 24 |
 | 100.0% | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | [Masterpress Summer 2014](https://www.worldcubeassociation.org/competitions/MasterpressSummer2014) | 24 | 24 |
 | 100.0% | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | [Masterpress Summer 2014](https://www.worldcubeassociation.org/competitions/MasterpressSummer2014) | 24 | 24 |
@@ -45,13 +45,13 @@
 | 100.0% | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | [Ehte Cube Days 2023](https://www.worldcubeassociation.org/competitions/EhteCubeDays2023) | 24 | 24 |
 | 100.0% | [Grzegorz Szumigaj](https://www.worldcubeassociation.org/persons/2013SZUM01) | [Świdnik Open 2015](https://www.worldcubeassociation.org/competitions/SwidnikOpen2015) | 23 | 23 |
 | 100.0% | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | [Żory Open 2024](https://www.worldcubeassociation.org/competitions/ZoryOpen2024) | 23 | 23 |
-| 100.0% | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [Cube4fun Tylmanowa Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaWinter2026) | 23 | 23 |
-| 100.0% | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [Cube4fun Tylmanowa Autumn 2025](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaAutumn2025) | 23 | 23 |
-| 100.0% | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [Warm Up Niepołomice 2026](https://www.worldcubeassociation.org/competitions/WarmUpNiepolomice2026) | 23 | 23 |
-| 100.0% | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [Energy Cube Tomaszów 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2024) | 23 | 23 |
-| 100.0% | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [Jasło Cubing Days 2026](https://www.worldcubeassociation.org/competitions/JasloCubingDays2026) | 23 | 23 |
 | 100.0% | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [LLS III Zamość 2021](https://www.worldcubeassociation.org/competitions/LLSIIIZamosc2021) | 23 | 23 |
+| 100.0% | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [Warm Up Niepołomice 2026](https://www.worldcubeassociation.org/competitions/WarmUpNiepolomice2026) | 23 | 23 |
+| 100.0% | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [Jasło Cubing Days 2026](https://www.worldcubeassociation.org/competitions/JasloCubingDays2026) | 23 | 23 |
+| 100.0% | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [Energy Cube Tomaszów 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2024) | 23 | 23 |
 | 100.0% | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [Cube4fun Cubers Eve 2023](https://www.worldcubeassociation.org/competitions/Cube4funCubersEve2023) | 23 | 23 |
+| 100.0% | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [Cube4fun Tylmanowa Autumn 2025](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaAutumn2025) | 23 | 23 |
+| 100.0% | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [Cube4fun Tylmanowa Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaWinter2026) | 23 | 23 |
 | 100.0% | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | [Szczecin Summer 2023](https://www.worldcubeassociation.org/competitions/SzczecinSummer2023) | 23 | 23 |
 | 100.0% | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | [Cube4fun in Tylmanowa 2025](https://www.worldcubeassociation.org/competitions/Cube4funinTylmanowa2025) | 23 | 23 |
 | 100.0% | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | [Cube4fun Cubers Eve 2023](https://www.worldcubeassociation.org/competitions/Cube4funCubersEve2023) | 23 | 23 |

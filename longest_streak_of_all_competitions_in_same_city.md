@@ -1,7 +1,7 @@
 ## Longest streak of all competitions in a city
 
 *Note: The streak ends whenever the person misses a competition in that city.*
-*Updated on  1 August 2026*
+*Updated on  4 August 2026*
 
 | Competitions | Person | City | Started at | Missed |
 | ---: | :--- | :--- | :--- | :--- |

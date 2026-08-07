@@ -1,7 +1,7 @@
 ## Longest streak of all competitions in a city
 
 *Note: The streak ends whenever the person misses a competition in that city.*
-*Updated on  4 August 2026*
+*Updated on  7 August 2026*
 
 | Competitions | Person | City | Started at | Missed |
 | ---: | :--- | :--- | :--- | :--- |
@@ -73,6 +73,7 @@
 | 11 | [Idan Bolesto](https://www.worldcubeassociation.org/persons/2022BOLE01) | Poznań | [BrizZon Sylwester Open 2024](https://www.worldcubeassociation.org/competitions/BrizZonSylwesterOpen2024) | [GSKR w Poznaniu 2026](https://www.worldcubeassociation.org/competitions/GSKRwPoznaniu2026) |
 | 11 | [Jakub Tkaczyk](https://www.worldcubeassociation.org/persons/2015TKAC02) | Lublin | [LLS II 2018](https://www.worldcubeassociation.org/competitions/LLSII2018) | [LLS V Final 2019](https://www.worldcubeassociation.org/competitions/LLSVFinal2019) |
 | 11 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | Kraków | [Polish Nationals 2017](https://www.worldcubeassociation.org/competitions/PolishNationals2017) | [Fun with FM in Kraków 2025](https://www.worldcubeassociation.org/competitions/FunwithFMinKrakow2025) |
+| 11 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | Opole | [Elektryk Cube Race 2016](https://www.worldcubeassociation.org/competitions/ElektrykCubeRace2016) |  |
 | 11 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | Rzeszów | [PST Rzeszów 2019](https://www.worldcubeassociation.org/competitions/PSTRzeszow2019) | [Rzeszów Open 2024](https://www.worldcubeassociation.org/competitions/RzeszowOpen2024) |
 | 10 | [Marek Pepke](https://www.worldcubeassociation.org/persons/2008PEPK01) | Gdańsk | [GLS Cup IV 2017](https://www.worldcubeassociation.org/competitions/GLSCupIV2017) | [GLS Winter Camp 2019](https://www.worldcubeassociation.org/competitions/GLSWinterCamp2019) |
 | 10 | [Marta Żywicka](https://www.worldcubeassociation.org/persons/2013YWIC01) | Gdańsk | [GLS Summer 2013](https://www.worldcubeassociation.org/competitions/GLSSummer2013) | [GLS Cup II 2016](https://www.worldcubeassociation.org/competitions/GLSCupII2016) |
@@ -93,7 +94,6 @@
 | 10 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | Lublin | [PST LLS Lublin 2019](https://www.worldcubeassociation.org/competitions/PSTLLSLublin2019) | [Cube4fun Lublin in Staszic 2023](https://www.worldcubeassociation.org/competitions/Cube4funLublininStaszic2023) |
 | 10 | [Bartosz Kosyna](https://www.worldcubeassociation.org/persons/2024KOSY01) | Lublin | [Cube4fun DW Lublin 2024](https://www.worldcubeassociation.org/competitions/Cube4funDWLublin2024) | [Cube4fun Lublin February 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinFebruary2026) |
 | 10 | [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) | Łódź | [ Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013) |  |
-| 10 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | Opole | [Elektryk Cube Race 2016](https://www.worldcubeassociation.org/competitions/ElektrykCubeRace2016) |  |
 | 9 | [Mateusz Burnicki](https://www.worldcubeassociation.org/persons/2006BURN01) | Gdańsk | [Gdansk Open 2008](https://www.worldcubeassociation.org/competitions/GdanskOpen2008) | [Polish Open 2014](https://www.worldcubeassociation.org/competitions/PolishOpen2014) |
 | 9 | [Krzysztof Dąbrowski](https://www.worldcubeassociation.org/persons/2008ZYGO02) | Gdańsk | [Gdansk Open 2008](https://www.worldcubeassociation.org/competitions/GdanskOpen2008) | [Polish Open 2014](https://www.worldcubeassociation.org/competitions/PolishOpen2014) |
 | 9 | [Oskar Kaczmarek](https://www.worldcubeassociation.org/persons/2013KACZ01) | Gdańsk | [Manhattan Gdańsk Open 2015](https://www.worldcubeassociation.org/competitions/ManhattanGdanskOpen2015) | [GLS Cup Final 2016](https://www.worldcubeassociation.org/competitions/GLSCupFinal2016) |

@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  4 August 2026*
+*Updated on  7 August 2026*
 
 
 ### 3x3x3 Cube
@@ -112,13 +112,13 @@
 | 21.05 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 20, 21, 22, 22, 22, 23, 18, 21, 23, 28, 21, 21, 20, 20, 20, 20, 23, 21, 19, 24, 22, 19, 20, 18, 22 |
 | 21.71 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 22, 19, 22, 22, 19, 20, 23, 20, 23, 23, 22, 22, 24, 23, 18, 23, 24, 26, 24, 20, 22, 21, 21, 20, 20 |
 | 22.05 | [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) | 20, 20, 22, 22, 23, 22, 25, 23, 22, 24, 21, 24, 21, 25, 23, 21, 19, 23, 22, 23, 21, 21, 22, 20, 23 |
-| 23.05 | [Marcin Chmielewski](https://www.worldcubeassociation.org/persons/2023CHMI01) | 21, 22, 21, 26, 25, 23, 22, 29, 25, 20, 26, 24, DNF, 20, 20, 23, 22, 24, 22, 24, DNF, 23, 22, 20, 19 |
+| 22.33 | [Marcin Chmielewski](https://www.worldcubeassociation.org/persons/2023CHMI01) | 25, 20, 26, 24, DNF, 20, 20, 23, 22, 24, 22, 24, DNF, 23, 22, 20, 19, 21, 24, 21, 20, 20, 20, 24, 24 |
 | 24.00 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 23, 25, 28, 23, 23, 22, DNF, 26, 23, 24, 23, 25, 25, 25, 25, 21, 19, 24, 25, 23, 23, 23, 23, 26, 25 |
 | 24.29 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) | 27, 23, 23, 23, 21, 24, 22, 23, 25, 22, 29, 28, 22, 24, 26, DNF, 25, 24, 21, 26, 22, 25, 28, 26, 22 |
 | 24.67 | [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) | 32, 24, 23, 26, 24, 25, 20, 23, 26, 24, 22, 22, 22, 27, DNF, 24, 26, 24, 26, 24, 23, 27, 25, 31, 21 |
 | 25.10 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 19, 22, 27, 26, 25, 25, 25, 27, 24, 30, 23, 24, 24, 28, 26, 24, 32, 29, 25, 25, 23, 22, 25, 28, 22 |
 | 26.24 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 33, 28, 23, 27, 23, 26, 26, 27, 24, 26, 28, 27, 22, 28, 27, 27, 29, 29, 23, 25, 26, 26, 26, 30, 23 |
-| 28.57 | [Michał Nikiel](https://www.worldcubeassociation.org/persons/2011NIKI01) | 30, 34, 27, DNF, 23, 30, 30, 31, 29, 29, 26, 29, 29, 24, 31, 24, 26, 28, 32, 32, 21, 29, DNF, 27, 21 |
+| 28.29 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 28, 21, 35, 27, 31, 26, 26, DNF, 32, 28, 33, 32, 24, 26, 25, 27, 33, 25, 29, 30, 21, 27, 30, 29, 26 |
 
 ### 3x3x3 One-Handed
 
@@ -143,7 +143,7 @@
 | 32.45 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 29.93, 33.72, 31.08, 37.87, 31.01, 31.02, 30.69, 30.19, 39.00, 30.97, 33.97, 33.61, 32.65, 32.08, 28.09, 31.61, 37.49, 32.59, 32.24, 36.93, 33.07, 30.32, 31.93, 33.77, 30.55 |
 | 33.07 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 33.04, 30.97, 31.61, 33.91, 33.46, 30.11, 37.13, 31.38, 31.21, 32.12, 33.32, 34.29, 31.76, 36.00, 35.43, 36.76, 34.40, 31.54, 32.17, 30.11, 33.43, 37.40, 32.99, 32.88, 31.72 |
 | 33.10 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 32.03, 34.07, 28.19, 40.33, 31.87, 34.05, 33.58, 31.44, 37.18, 37.35, 30.34, 30.86, 31.76, 33.91, 39.54, 32.38, 30.92, 36.83, 28.40, 30.63, 31.27, 33.13, 39.23, 32.51, 29.80 |
-| 34.16 | [Wiktor Gugulski](https://www.worldcubeassociation.org/persons/2023GUGU01) | 34.42, 36.63, 30.90, 38.25, 31.69, 41.74, 34.89, 37.71, 28.80, 33.26, 33.90, 33.61, 35.31, 32.31, 30.83, 33.76, 32.73, 35.72, 33.86, 32.24, 34.99, 36.76, 34.57, 35.77, 32.40 |
+| 33.65 | [Wiktor Gugulski](https://www.worldcubeassociation.org/persons/2023GUGU01) | 35.52, 39.67, 31.69, 31.14, 36.30, 34.28, 33.54, 31.06, 32.16, 36.58, 34.21, 33.92, 29.34, 30.12, 41.18, 33.67, 38.20, 35.41, 30.14, 31.44, 35.06, 33.32, 35.50, 28.02, 33.36 |
 | 36.91 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 33.21, 35.62, 38.43, 39.24, 38.44, 35.64, 34.77, 36.69, 39.63, 39.67, 38.64, 40.04, 42.81, 37.88, 39.62, 36.25, 37.35, 35.99, 35.87, 34.77, 35.49, 34.36, 33.99, 35.54, 35.24 |
 | 37.56 | [Ernest Seroczyński](https://www.worldcubeassociation.org/persons/2015SERO02) | 37.69, 34.34, 41.31, 32.90, 41.48, 34.68, 41.93, 36.69, 36.44, 37.01, 42.43, 38.16, 38.12, 33.80, 35.21, 36.33, 32.93, 49.50, 41.43, 42.27, 33.56, 41.98, 38.16, 30.23, 35.17 |
 | 38.96 | [Przemysław Rudziak](https://www.worldcubeassociation.org/persons/2020RUDZ02) | 33.98, 36.64, 39.92, 40.17, 43.34, 35.88, 38.24, 40.92, 39.06, 45.65, 35.50, 36.32, 38.83, 36.20, 41.07, 36.49, 36.42, 40.61, 46.71, 39.97, 35.63, 40.29, 42.12, 41.27, 38.70 |

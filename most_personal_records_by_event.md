@@ -1,7 +1,7 @@
 ## Most personal records by event
 
 *Note: Counts how many personal records (single or average) a competitor achieved in each event.*
-*Updated on  4 August 2026*
+*Updated on  7 August 2026*
 
 
 ### 3x3x3 Cube
@@ -120,9 +120,9 @@
 | 15 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 14 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
 | 14 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 14 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 14 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) |
 | 13 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) |
-| 13 | [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) |
 
 ### 3x3x3 One-Handed
 
@@ -147,7 +147,7 @@
 | 56 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
 | 56 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 53 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
-| 52 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) |
+| 53 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) |
 | 49 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) |
 | 46 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) |
 | 44 | [Idan Bolesto](https://www.worldcubeassociation.org/persons/2022BOLE01) |

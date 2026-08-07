@@ -1,7 +1,7 @@
 ## Longest streak of podiums
 
 *Note: All competitions that did not hold the given event are ignored. Results without any completed attempt are not eligible for podium. Only finals are taken into account.*
-*Updated on  4 August 2026*
+*Updated on  7 August 2026*
 
 | Count | Person | Event | Started at | Ended at |
 | ---: | :--- | :--- | :--- | :--- |
@@ -43,8 +43,8 @@
 | 26 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | Square-1 | [Energy Cube Tomaszów 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2024) |  |
 | 26 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) | 5x5x5 Blindfolded | [Full Steps in Brest 2016](https://www.worldcubeassociation.org/competitions/FullStepsinBrest2016) |  |
 | 26 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | Pyraminx | [Project Zamość 2018](https://www.worldcubeassociation.org/competitions/ProjectZamosc2018) | [SST Kielce 2021](https://www.worldcubeassociation.org/competitions/SSTKielce2021) |
-| 25 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | 3x3x3 Cube | [Dolné Orešany Open 2025](https://www.worldcubeassociation.org/competitions/DolneOresanyOpen2025) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026) |
 | 25 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | 3x3x3 One-Handed | [Cube4fun in Tylmanowa 2025](https://www.worldcubeassociation.org/competitions/Cube4funinTylmanowa2025) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026) |
+| 25 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | 3x3x3 Cube | [Dolné Orešany Open 2025](https://www.worldcubeassociation.org/competitions/DolneOresanyOpen2025) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026) |
 | 24 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 7x7x7 Cube | [Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/PolishNationals2009) | [World Championship 2013](https://www.worldcubeassociation.org/competitions/WC2013) |
 | 24 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 4x4x4 Cube | [Warszawa Open 2012](https://www.worldcubeassociation.org/competitions/WarszawaOpen2012) | [Euro 2014](https://www.worldcubeassociation.org/competitions/Euro2014) |
 | 24 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | Megaminx | [Dębica Cubing Summer 2024](https://www.worldcubeassociation.org/competitions/DebicaCubingSummer2024) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026) |

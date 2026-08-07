@@ -1,7 +1,7 @@
 ## Most attended competitions in a city
 
 *Note: Only Polish persons and Polish competitions with posted results are included.*
-*Updated on  4 August 2026*
+*Updated on  7 August 2026*
 
 
 ### Gdańsk
@@ -292,6 +292,42 @@ _Total competitions: 12_
 | [Zuzanna Bogusz](https://www.worldcubeassociation.org/persons/2022BOGU01) | 4 |
 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 4 |
 
+### Opole
+_Total competitions: 11_
+
+| Person | Competitions |
+| :--- | ---: |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 11 |
+| [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 8 |
+| [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | 7 |
+| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 7 |
+| [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | 6 |
+| [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 6 |
+| [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 6 |
+| [Dominik Unijewski](https://www.worldcubeassociation.org/persons/2017UNIJ01) | 6 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 5 |
+| [Szymon Ruksza](https://www.worldcubeassociation.org/persons/2013RUKS01) | 5 |
+| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 5 |
+| [Marcin Chmielewski](https://www.worldcubeassociation.org/persons/2023CHMI01) | 5 |
+| [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 5 |
+| [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 5 |
+| [Gabriel Radosz](https://www.worldcubeassociation.org/persons/2022RADO03) | 5 |
+| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 4 |
+| [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) | 4 |
+| [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 4 |
+| [Maksymilian Jedynak](https://www.worldcubeassociation.org/persons/2019JEDY01) | 4 |
+| [Dominik Kobinski](https://www.worldcubeassociation.org/persons/2019KOBI01) | 4 |
+| [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | 4 |
+| [Tobiasz Rychlik](https://www.worldcubeassociation.org/persons/2016RYCH01) | 4 |
+| [Tomasz Cepil](https://www.worldcubeassociation.org/persons/2018CEPI01) | 4 |
+| [Szymon Jaworski](https://www.worldcubeassociation.org/persons/2021JAWO01) | 4 |
+| [Jakub Tyl](https://www.worldcubeassociation.org/persons/2023TYLJ01) | 4 |
+| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 4 |
+| [Artur Rapiński](https://www.worldcubeassociation.org/persons/2016RAPI01) | 4 |
+| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 3 |
+| [Szymon Myśliński](https://www.worldcubeassociation.org/persons/2019MYSL01) | 3 |
+| [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) | 3 |
+
 ### Łódź
 _Total competitions: 11_
 
@@ -327,42 +363,6 @@ _Total competitions: 11_
 | [Krzysztof Kuncki](https://www.worldcubeassociation.org/persons/2010KUNC01) | 4 |
 | [Jakub Wojtaszewski](https://www.worldcubeassociation.org/persons/2013WOJT02) | 4 |
 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 3 |
-
-### Opole
-_Total competitions: 10_
-
-| Person | Competitions |
-| :--- | ---: |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 10 |
-| [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 7 |
-| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 7 |
-| [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | 6 |
-| [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 6 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 5 |
-| [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | 5 |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 5 |
-| [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 5 |
-| [Dominik Unijewski](https://www.worldcubeassociation.org/persons/2017UNIJ01) | 5 |
-| [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 5 |
-| [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 5 |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 4 |
-| [Szymon Ruksza](https://www.worldcubeassociation.org/persons/2013RUKS01) | 4 |
-| [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) | 4 |
-| [Dominik Kobinski](https://www.worldcubeassociation.org/persons/2019KOBI01) | 4 |
-| [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | 4 |
-| [Marcin Chmielewski](https://www.worldcubeassociation.org/persons/2023CHMI01) | 4 |
-| [Tobiasz Rychlik](https://www.worldcubeassociation.org/persons/2016RYCH01) | 4 |
-| [Tomasz Cepil](https://www.worldcubeassociation.org/persons/2018CEPI01) | 4 |
-| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 4 |
-| [Artur Rapiński](https://www.worldcubeassociation.org/persons/2016RAPI01) | 4 |
-| [Gabriel Radosz](https://www.worldcubeassociation.org/persons/2022RADO03) | 4 |
-| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 3 |
-| [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 3 |
-| [Maksymilian Jedynak](https://www.worldcubeassociation.org/persons/2019JEDY01) | 3 |
-| [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) | 3 |
-| [Hubert Borek](https://www.worldcubeassociation.org/persons/2024BORE01) | 3 |
-| [Michał Nikiel](https://www.worldcubeassociation.org/persons/2011NIKI01) | 3 |
-| [Szymon Jaworski](https://www.worldcubeassociation.org/persons/2021JAWO01) | 3 |
 
 ### Olsztyn
 _Total competitions: 10_

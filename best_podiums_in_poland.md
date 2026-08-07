@@ -1,7 +1,7 @@
 ## Best podiums at Polish competitions
 
 *Note: Podium places with sum of best or average times depending on format.*
-*Updated on  4 August 2026*
+*Updated on  7 August 2026*
 
 
 ### 3x3x3 Cube
@@ -189,12 +189,12 @@
 | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) (1.79), [Henryk Gabor](https://www.worldcubeassociation.org/persons/2024GABO02) (1.92), [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) (1.98) | 5.69 |
 | [CFL Final Łódź 2025](https://www.worldcubeassociation.org/competitions/CFLFinalLodz2025) | [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) (1.87), [Henryk Gabor](https://www.worldcubeassociation.org/persons/2024GABO02) (1.95), [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) (1.99) | 5.81 |
 | [WLS Maj 2026](https://www.worldcubeassociation.org/competitions/WLSMaj2026) | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) (1.65), [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) (1.76), [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) (2.46) | 5.87 |
+| [Silesian Minx Fest 2026](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2026) | [Henryk Gabor](https://www.worldcubeassociation.org/persons/2024GABO02) (1.83), [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) (1.95), [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) (2.13) | 5.91 |
 | [Energy Cube Tomaszów 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2025) | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) (1.86), [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) (1.99), [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) (2.09) | 5.94 |
 | [Polish Open 2025](https://www.worldcubeassociation.org/competitions/PolishOpen2025) | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) (1.92), [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) (2.02), [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) (2.04) | 5.98 |
 | [Cube Factory League Jeżów 2026](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueJezow2026) | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) (1.83), [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) (1.96), [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) (2.27) | 6.06 |
 | [All Rounders Katowice I 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceI2026) | [Henryk Gabor](https://www.worldcubeassociation.org/persons/2024GABO02) (1.89), [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) (1.99), [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) (2.21) | 6.09 |
 | [Mielec Cubing Days 2025](https://www.worldcubeassociation.org/competitions/MielecCubingDays2025) | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) (1.84), [Henryk Gabor](https://www.worldcubeassociation.org/persons/2024GABO02) (1.91), [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) (2.36) | 6.11 |
-| [Gorzów Cubing Days 2026](https://www.worldcubeassociation.org/competitions/GorzowCubingDays2026) | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) (1.70), [Henryk Gabor](https://www.worldcubeassociation.org/persons/2024GABO02) (1.84), [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) (2.59) | 6.13 |
 
 ### Clock
 

@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on  4 August 2026*
+*Updated on  7 August 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -21,8 +21,8 @@
 | 20 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
 | 19 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) |
 | 19 | [Wiktor Zegadło](https://www.worldcubeassociation.org/persons/2017ZEGA01) |
+| 19 | [Szymon Plesniak](https://www.worldcubeassociation.org/persons/2024PLES01) |
 | 18 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
-| 18 | [Szymon Plesniak](https://www.worldcubeassociation.org/persons/2024PLES01) |
 | 17 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 17 | [Magnus Miłosz Birecki](https://www.worldcubeassociation.org/persons/2022BIRE01) |
 | 17 | [Naama Anbar](https://www.worldcubeassociation.org/persons/2023ANBA01) |

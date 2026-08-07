@@ -1,7 +1,7 @@
 ## Most N/N 3x3 MBLD successes
 
 *Note: Count of all 3x3 MBLD successes where all cubes were solved. Only people with at least 3 N/N successes are shown.*
-*Updated on  4 August 2026*
+*Updated on  7 August 2026*
 
 | Name | N/N successes | Breakdown |
 | :--- | ---: | :--- |
@@ -9,9 +9,9 @@
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 19 | 2/2 (7), 3/3, 4/4 (4), 5/5 (2), 6/6, 7/7, 8/8 (2), 9/9 |
 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) | 12 | 16/16, 19/19, 20/20, 24/24, 25/25 (3), 27/27 (2), 28/28, 29/29, 31/31 |
 | [Bartosz Bździel](https://www.worldcubeassociation.org/persons/2010BZDZ01) | 11 | 2/2, 4/4 (2), 5/5, 7/7 (2), 8/8 (2), 9/9 (2), 10/10 |
+| [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | 10 | 2/2, 3/3, 5/5, 6/6, 9/9 (2), 10/10, 15/15 (3) |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 10 | 2/2, 3/3, 4/4 (3), 6/6 (3), 8/8, 10/10 |
 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | 9 | 9/9, 11/11, 13/13, 16/16 (3), 18/18, 19/19 (2) |
-| [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | 9 | 2/2, 3/3, 5/5, 6/6, 9/9 (2), 15/15 (3) |
 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | 8 | 2/2 (3), 8/8, 24/24, 32/32, 35/35, 41/41 |
 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 8 | 2/2 (2), 3/3, 4/4 (3), 8/8, 9/9 |
 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | 6 | 5/5, 7/7 (3), 8/8, 15/15 |

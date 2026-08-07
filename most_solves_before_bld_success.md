@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on  4 August 2026*
+*Updated on  7 August 2026*
 
 
 ### 3x3x3 Blindfolded
@@ -59,6 +59,7 @@
 | ---: | :--- |
 | 18 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 10 | [Daniel Chudecki](https://www.worldcubeassociation.org/persons/2011CHUD01) |
+| 10 | [Szymon Ruksza](https://www.worldcubeassociation.org/persons/2013RUKS01) |
 | 9 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 8 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) |
 | 8 | [Piotr Janecki](https://www.worldcubeassociation.org/persons/2014JANE01) |
@@ -76,7 +77,6 @@
 | 3 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) |
 | 3 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 2 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) |
-| 2 | [Łukasz Gondek](https://www.worldcubeassociation.org/persons/2017GOND01) |
 
 ### 3x3x3 Multi-Blind
 

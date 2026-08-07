@@ -1,7 +1,7 @@
 ## Longest streak of all competitions in a voivodeship
 
 *Note: The streak ends whenever the person misses a competition in that voivodeship. Voivodeships are inferred from competition coordinates (approximate bounding box).*
-*Updated on  4 August 2026*
+*Updated on  7 August 2026*
 
 | Competitions | Person | Voivodeship | Started at | Missed |
 | ---: | :--- | :--- | :--- | :--- |
@@ -35,11 +35,11 @@
 | 21 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | Łódzkie | [Radomsko Cube Theory 2015](https://www.worldcubeassociation.org/competitions/Radomsko2015) | [Cube4fun in Bełchatów 2024](https://www.worldcubeassociation.org/competitions/Cube4funinBelchatow2024) |
 | 20 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | Mazowieckie | [WLS Wiosna 2016](https://www.worldcubeassociation.org/competitions/WLSWiosna2016) | [Cube4fun Warsaw 2022](https://www.worldcubeassociation.org/competitions/Cube4funWarsaw2022) |
 | 20 | [Wiktoria Waryszak](https://www.worldcubeassociation.org/persons/2018WARY01) | Lubelskie | [LLS III v2 2020](https://www.worldcubeassociation.org/competitions/LLSIIIv22020) | [Cube4fun in Lublin 2024](https://www.worldcubeassociation.org/competitions/Cube4funinLublin2024) |
+| 20 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | Opolskie | [Elektryk Cube Race 2016](https://www.worldcubeassociation.org/competitions/ElektrykCubeRace2016) |  |
 | 19 | [Dominik Kasprzak](https://www.worldcubeassociation.org/persons/2008KASP01) | Pomorskie | [GLS Cup III 2017](https://www.worldcubeassociation.org/competitions/GLSCupIII2017) | [Gdańsk Open 2020](https://www.worldcubeassociation.org/competitions/GdanskOpen2020) |
 | 19 | [Przemysław Kanarski](https://www.worldcubeassociation.org/persons/2019KANA04) | Pomorskie | [Gdańsk Open 2022](https://www.worldcubeassociation.org/competitions/GdanskOpen2022) | [Cichy Piątek w Gdańsku 2025](https://www.worldcubeassociation.org/competitions/CichyPiatekwGdansku2025) |
 | 19 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | Śląskie | [Silesia Open 2009](https://www.worldcubeassociation.org/competitions/SilesiaOpen2009) | [ŚLS Zawiercie 2015](https://www.worldcubeassociation.org/competitions/SLSZawiercie2015) |
 | 19 | [Adrian Reinert](https://www.worldcubeassociation.org/persons/2013REIN01) | Śląskie | [Polish Nationals 2013](https://www.worldcubeassociation.org/competitions/PolishNationals2013) | [Tuwim Cube Race 2016](https://www.worldcubeassociation.org/competitions/TuwimCubeRace2016) |
-| 19 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | Opolskie | [Elektryk Cube Race 2016](https://www.worldcubeassociation.org/competitions/ElektrykCubeRace2016) |  |
 | 18 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | Pomorskie | [GLS I 2023](https://www.worldcubeassociation.org/competitions/GLSI2023) | [Cichy Piątek w Gdańsku 2025](https://www.worldcubeassociation.org/competitions/CichyPiatekwGdansku2025) |
 | 18 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | Lubelskie | [Lublin Open 2009](https://www.worldcubeassociation.org/competitions/LublinOpen2009) | [Project Łuków 2018](https://www.worldcubeassociation.org/competitions/ProjectLukow2018) |
 | 18 | [Sonia Reinert](https://www.worldcubeassociation.org/persons/2013REIN02) | Śląskie | [SLS Jastrzebie 2013](https://www.worldcubeassociation.org/competitions/SLSJastrzebie2013) | [Tuwim Cube Race 2016](https://www.worldcubeassociation.org/competitions/TuwimCubeRace2016) |

@@ -1,7 +1,7 @@
 ## Competed in most voivodeships in Poland
 
 *Note: Voivodeships are inferred from competition coordinates. Approximate bounding box classification.*
-*Updated on  4 August 2026*
+*Updated on  7 August 2026*
 
 | Person | Completed | Missed | Missed Voivodeships | Completed At |
 | :--- | ---: | ---: | :--- | :--- |
@@ -22,6 +22,7 @@
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 15 | 1 | podlaskie |  |
 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) | 14 | 2 | podlaskie, warmińsko-mazurskie |  |
 | [Adam Łyskawa](https://www.worldcubeassociation.org/persons/2017LYSK01) | 14 | 2 | podkarpackie, świętokrzyskie |  |
+| [Antoni Szcześniak](https://www.worldcubeassociation.org/persons/2023SZCZ04) | 14 | 2 | dolnośląskie, lubuskie |  |
 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 14 | 2 | kujawsko-pomorskie, podlaskie |  |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 14 | 2 | lubuskie, zachodniopomorskie |  |
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 14 | 2 | kujawsko-pomorskie, podlaskie |  |
@@ -29,6 +30,7 @@
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 14 | 2 | podkarpackie, podlaskie |  |
 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 14 | 2 | małopolskie, podkarpackie |  |
 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | 14 | 2 | lubuskie, świętokrzyskie |  |
+| [Marta Szcześniak](https://www.worldcubeassociation.org/persons/2023SZCZ07) | 14 | 2 | dolnośląskie, lubuskie |  |
 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 14 | 2 | lubuskie, podlaskie |  |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 14 | 2 | lubuskie, warmińsko-mazurskie |  |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 14 | 2 | lubuskie, podlaskie |  |
@@ -39,7 +41,6 @@
 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) | 14 | 2 | lubuskie, zachodniopomorskie |  |
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 14 | 2 | lubuskie, warmińsko-mazurskie |  |
 | [Anonymous](https://www.worldcubeassociation.org/persons/2020ANON03) | 13 | 3 | kujawsko-pomorskie, podlaskie, świętokrzyskie |  |
-| [Antoni Szcześniak](https://www.worldcubeassociation.org/persons/2023SZCZ04) | 13 | 3 | dolnośląskie, lubuskie, opolskie |  |
 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 13 | 3 | lubuskie, podlaskie, zachodniopomorskie |  |
 | [Hubert Darłak](https://www.worldcubeassociation.org/persons/2023DARL03) | 13 | 3 | kujawsko-pomorskie, wielkopolskie, świętokrzyskie |  |
 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 13 | 3 | dolnośląskie, lubuskie, podlaskie |  |
@@ -50,7 +51,6 @@
 | [Kalina Jakubowska](https://www.worldcubeassociation.org/persons/2009BRZE01) | 13 | 3 | lubuskie, opolskie, świętokrzyskie |  |
 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | 13 | 3 | lubuskie, opolskie, świętokrzyskie |  |
 | [Marek Dąbrowski](https://www.worldcubeassociation.org/persons/2016DABR02) | 13 | 3 | lubuskie, podkarpackie, zachodniopomorskie |  |
-| [Marta Szcześniak](https://www.worldcubeassociation.org/persons/2023SZCZ07) | 13 | 3 | dolnośląskie, lubuskie, opolskie |  |
 | [Mateusz Cichoracki](https://www.worldcubeassociation.org/persons/2011CICH01) | 13 | 3 | lubuskie, warmińsko-mazurskie, zachodniopomorskie |  |
 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | 13 | 3 | lubuskie, podkarpackie, świętokrzyskie |  |
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 13 | 3 | lubuskie, opolskie, podkarpackie |  |

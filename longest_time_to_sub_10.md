@@ -75,8 +75,8 @@
 | [Adam Pietrzak](https://www.worldcubeassociation.org/persons/2018PIET03) | 4.52 |
 | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) | 4.49 |
 | [Maciej Wróblewski](https://www.worldcubeassociation.org/persons/2015WROB01) | 4.45 |
-| [Bartłomiej Maślanka](https://www.worldcubeassociation.org/persons/2019MASL02) | 4.42 |
 | [Maciej Hebel](https://www.worldcubeassociation.org/persons/2019HEBE01) | 4.42 |
+| [Bartłomiej Maślanka](https://www.worldcubeassociation.org/persons/2019MASL02) | 4.42 |
 | [Felix Lewicki](https://www.worldcubeassociation.org/persons/2021LEWI03) | 4.39 |
 | [Krzysztof Grabowski](https://www.worldcubeassociation.org/persons/2021GRAB01) | 4.36 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 4.35 |

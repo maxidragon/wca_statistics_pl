@@ -1,7 +1,7 @@
 ## Best podiums at Polish competitions
 
 *Note: Podium places with sum of best or average times depending on format.*
-*Updated on  7 August 2026*
+*Updated on 10 August 2026*
 
 
 ### 3x3x3 Cube
@@ -193,8 +193,8 @@
 | [Energy Cube Tomaszów 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2025) | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) (1.86), [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) (1.99), [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) (2.09) | 5.94 |
 | [Polish Open 2025](https://www.worldcubeassociation.org/competitions/PolishOpen2025) | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) (1.92), [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) (2.02), [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) (2.04) | 5.98 |
 | [Cube Factory League Jeżów 2026](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueJezow2026) | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) (1.83), [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) (1.96), [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) (2.27) | 6.06 |
+| [CFL Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFLBrzeziny2026) | [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) (1.74), [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) (2.14), [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) (2.19) | 6.07 |
 | [All Rounders Katowice I 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceI2026) | [Henryk Gabor](https://www.worldcubeassociation.org/persons/2024GABO02) (1.89), [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) (1.99), [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) (2.21) | 6.09 |
-| [Mielec Cubing Days 2025](https://www.worldcubeassociation.org/competitions/MielecCubingDays2025) | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) (1.84), [Henryk Gabor](https://www.worldcubeassociation.org/persons/2024GABO02) (1.91), [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) (2.36) | 6.11 |
 
 ### Clock
 

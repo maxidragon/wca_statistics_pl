@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on  7 August 2026*
+*Updated on 10 August 2026*
 
 
 ### 3x3x3 Cube
@@ -56,13 +56,13 @@
 | 1:09.55 | [Michał Majchrzak](https://www.worldcubeassociation.org/persons/2022MAJC01) |
 | 1:15.80 | [Szymon Musiał](https://www.worldcubeassociation.org/persons/2018MUSI03) |
 | 1:20.76 | [Wiktor Rudowicz](https://www.worldcubeassociation.org/persons/2026RUDO01) |
+| 1:21.53 | [Piotr Sadowy](https://www.worldcubeassociation.org/persons/2026SADO03) |
 | 1:21.55 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) |
 | 1:22.55 | [Dominik Smagowski](https://www.worldcubeassociation.org/persons/2023SMAG02) |
 | 1:22.56 | [Dominik Stryczek](https://www.worldcubeassociation.org/persons/2023STRY01) |
 | 1:23.11 | [Maksymilian Sordyl](https://www.worldcubeassociation.org/persons/2022SORD01) |
 | 1:23.36 | [Ignacy Chodarcewicz](https://www.worldcubeassociation.org/persons/2023CHOD04) |
 | 1:24.51 | [Krzysztof Chlebowski](https://www.worldcubeassociation.org/persons/2021CHLE01) |
-| 1:24.60 | [Maciej Chodakowski](https://www.worldcubeassociation.org/persons/2019CHOD01) |
 
 ### 6x6x6 Cube
 

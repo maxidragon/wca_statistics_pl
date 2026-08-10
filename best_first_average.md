@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on  7 August 2026*
+*Updated on 10 August 2026*
 
 
 ### 3x3x3 Cube
@@ -31,8 +31,8 @@
 | 3.54 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
 | 3.60 | [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) |
 | 3.65 | [Miłosz Jaśkiewicz](https://www.worldcubeassociation.org/persons/2022JASK01) |
-| 3.68 | [Matviy Berestovskyy](https://www.worldcubeassociation.org/persons/2022BERE02) |
 | 3.68 | [Ksawier Kozak](https://www.worldcubeassociation.org/persons/2023KOZA02) |
+| 3.68 | [Matviy Berestovskyy](https://www.worldcubeassociation.org/persons/2022BERE02) |
 
 ### 4x4x4 Cube
 
@@ -41,13 +41,13 @@
 | 35.02 | [Cyprian Czuba](https://www.worldcubeassociation.org/persons/2019CZUB01) |
 | 36.33 | [Szymon Kasprzycki](https://www.worldcubeassociation.org/persons/2025KASP02) |
 | 38.37 | [Maksymilian Sordyl](https://www.worldcubeassociation.org/persons/2022SORD01) |
+| 41.89 | [Piotr Sadowy](https://www.worldcubeassociation.org/persons/2026SADO03) |
 | 42.79 | [Michal J. Sekulski](https://www.worldcubeassociation.org/persons/2023SEKU01) |
 | 43.77 | [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) |
 | 44.10 | [Bruno Fromm](https://www.worldcubeassociation.org/persons/2023FROM01) |
 | 44.13 | [Dominik Smagowski](https://www.worldcubeassociation.org/persons/2023SMAG02) |
 | 44.48 | [Kacper Dłubała](https://www.worldcubeassociation.org/persons/2018DLUB01) |
 | 45.36 | [Borys Hładyn](https://www.worldcubeassociation.org/persons/2026HLAD01) |
-| 45.54 | [Maciej Chodakowski](https://www.worldcubeassociation.org/persons/2019CHOD01) |
 
 ### 5x5x5 Cube
 

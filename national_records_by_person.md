@@ -1,6 +1,6 @@
 ## National records count by person
 
-*Updated on  7 August 2026*
+*Updated on 10 August 2026*
 
 | WRs | Person |
 | ---: | :--- |
@@ -61,7 +61,9 @@
 | 3 | [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) |
 | 3 | [Michał Robaczyk](https://www.worldcubeassociation.org/persons/2006ROBA01) |
 | 3 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) |
+| 2 | [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) |
 | 2 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) |
+| 2 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) |
 | 2 | [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) |
 | 2 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) |
 | 2 | [Korneliusz Tombarkiewicz](https://www.worldcubeassociation.org/persons/2009TOMB01) |
@@ -71,7 +73,6 @@
 | 2 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) |
 | 2 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) |
 | 2 | [Tomasz Seweryn](https://www.worldcubeassociation.org/persons/2006SEWE01) |
-| 1 | [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) |
 | 1 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) |
 | 1 | [Cezary Mach](https://www.worldcubeassociation.org/persons/2018MACH04) |
 | 1 | [Cezary Rokita](https://www.worldcubeassociation.org/persons/2011ROKI01) |

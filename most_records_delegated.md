@@ -1,19 +1,19 @@
 ## Most records delegated
 
 *Note: Counts records achieved in competitions where the Polish Delegate was listed.*
-*Updated on  7 August 2026*
+*Updated on 10 August 2026*
 
 | Records | WR | CR | NR | Delegate |
 | ---: | ---: | ---: | ---: | :--- |
-| 436 | 6 | 55 | 375 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
-| 242 | 6 | 29 | 207 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
+| 437 | 6 | 55 | 376 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 244 | 6 | 29 | 209 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 237 | 17 | 22 | 198 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
 | 182 | 10 | 23 | 149 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
 | 164 | 16 | 19 | 129 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) |
 | 159 | 11 | 8 | 140 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) |
 | 131 | 2 | 14 | 115 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) |
+| 131 | 4 | 23 | 104 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 130 | 5 | 10 | 115 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) |
-| 130 | 4 | 23 | 103 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 107 | 4 | 2 | 101 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) |
 | 99 | 10 | 13 | 76 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) |
 | 94 | 12 | 15 | 67 | [Adam Joks](https://www.worldcubeassociation.org/persons/2005JOKS01) |
@@ -22,9 +22,9 @@
 | 58 | 4 | 3 | 51 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) |
 | 52 | 5 | 8 | 39 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
 | 41 | 7 | 4 | 30 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) |
-| 20 | 2 | 8 | 10 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
+| 21 | 2 | 8 | 11 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
 | 19 | 4 | 7 | 8 | [Stefan Łapicki](https://www.worldcubeassociation.org/persons/2006LAPI01) |
-| 17 | 2 | 6 | 9 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
+| 18 | 2 | 6 | 10 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
 | 15 | 2 | 6 | 7 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
 | 3 | 0 | 0 | 3 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 

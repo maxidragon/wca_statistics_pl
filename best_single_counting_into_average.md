@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  7 August 2026*
+*Updated on 10 August 2026*
 
 
 ### 3x3x3 Cube
@@ -69,14 +69,14 @@
 | ---: | :--- | :--- |
 | 6.17 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [Gift Packs Niepołomice 2025](https://www.worldcubeassociation.org/competitions/GiftPacksNiepolomice2025/results/by_person#2022MARC05) |
 | 6.28 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [Cube4fun Jarosław 2024](https://www.worldcubeassociation.org/competitions/Cube4funLowLimitsJaroslaw2024/results/by_person#2022MARC05) |
+| 6.32 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [Pilzno Cubing Holiday 2026](https://www.worldcubeassociation.org/competitions/PilznoCubingHoliday2026/results/by_person#2022MARC05) |
 | 6.70 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | [Silesian Minx Fest 2026](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2026/results/by_person#2022MATY02) |
 | 6.74 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2022MARC05) |
 | 6.77 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [Warm Up Niepołomice 2026](https://www.worldcubeassociation.org/competitions/WarmUpNiepolomice2026/results/by_person#2022MARC05) |
 | 6.77 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2022MARC05) |
+| 6.87 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [Pilzno Cubing Holiday 2026](https://www.worldcubeassociation.org/competitions/PilznoCubingHoliday2026/results/by_person#2022MARC05) |
 | 7.03 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | [Gift Packs Niepołomice 2025](https://www.worldcubeassociation.org/competitions/GiftPacksNiepolomice2025/results/by_person#2022GLAD01) |
 | 7.15 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | [C4F Nowa Sarzyna Summer 2026](https://www.worldcubeassociation.org/competitions/Cube4funNowaSarzynaSummer2026/results/by_person#2019KARP03) |
-| 7.33 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [Mielec Cubing Days 2026](https://www.worldcubeassociation.org/competitions/MielecCubingDays2026/results/by_person#2022MARC05) |
-| 7.34 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [Dębica Cubing Winter 2026](https://www.worldcubeassociation.org/competitions/DebicaCubingWinter2026/results/by_person#2022MARC05) |
 
 ### Megaminx
 
@@ -97,16 +97,16 @@
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
+| 0.86 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | [Pilzno Cubing Holiday 2026](https://www.worldcubeassociation.org/competitions/PilznoCubingHoliday2026/results/by_person#2020DOZA01) |
 | 0.89 | [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) | [Cube Factory League Jeżów 2026](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueJezow2026/results/by_person#2023ROMA10) |
 | 0.92 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | [Cube4fun in Gorlice 2023](https://www.worldcubeassociation.org/competitions/Cube4funinGorlice2023/results/by_person#2018HIBS01) |
 | 0.96 | [Marek Dojtrowski](https://www.worldcubeassociation.org/persons/2023DOJT01) | [Cube Factory League Jeżów 2026](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueJezow2026/results/by_person#2023DOJT01) |
 | 0.97 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | [Santa Claus Cube Race 2019](https://www.worldcubeassociation.org/competitions/SantaClausCubeRace2019/results/by_person#2013WARY01) |
 | 0.97 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | [Cube4fun in Gorlice 2023](https://www.worldcubeassociation.org/competitions/Cube4funinGorlice2023/results/by_person#2015GORN01) |
+| 0.99 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | [Pilzno Cubing Holiday 2026](https://www.worldcubeassociation.org/competitions/PilznoCubingHoliday2026/results/by_person#2021KULA02) |
 | 1.02 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | [Warm-Up Warsaw 2025](https://www.worldcubeassociation.org/competitions/WarmUpWarsaw2025/results/by_person#2020DOZA01) |
 | 1.04 | [Adam Jagła](https://www.worldcubeassociation.org/persons/2017JAGL01) | [Santa Claus Cube Race 2019](https://www.worldcubeassociation.org/competitions/SantaClausCubeRace2019/results/by_person#2017JAGL01) |
 | 1.05 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | [Cube Factory League Rogów 2026](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueRogow2026/results/by_person#2022URBA02) |
-| 1.08 | [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) | [Cube4fun Lublin Summer 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinSummer2026/results/by_person#2023ROMA10) |
-| 1.09 | [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) | [Cube Factory League Kalisz 2026](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueKalisz2026/results/by_person#2021MAJC01) |
 
 ### Clock
 

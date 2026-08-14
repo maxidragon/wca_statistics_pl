@@ -35,12 +35,11 @@ class BestPodiumsInPoland < GroupedStatistic
         results.pos,
         results.best,
         results.average,
-        COALESCE(fm_format.sort_by, pref_format.sort_by) AS sort_by,
-        COALESCE(frf.actual_format_id, preferred_format.format_id) AS actual_format_id
+        COALESCE(fm_format.sort_by, result_format.sort_by) AS sort_by,
+        COALESCE(frf.actual_format_id, results.format_id) AS actual_format_id
       FROM results
       JOIN competitions competition ON competition.id = results.competition_id AND competition.country_id = 'Poland'
-      JOIN preferred_formats preferred_format ON preferred_format.event_id = results.event_id AND preferred_format.ranking = 1
-      JOIN formats pref_format ON pref_format.id = preferred_format.format_id
+      JOIN formats result_format ON result_format.id = results.format_id
       LEFT JOIN fm_round_formats frf ON frf.competition_id = results.competition_id
         AND frf.round_type_id = results.round_type_id
         AND results.event_id = '333fm'
@@ -54,7 +53,7 @@ class BestPodiumsInPoland < GroupedStatistic
             AND r2.round_type_id = 'f'
         ))
         AND results.best > 0
-        AND (COALESCE(fm_format.sort_by, pref_format.sort_by) = 'single' OR results.average > 0)
+        AND (COALESCE(fm_format.sort_by, result_format.sort_by) = 'single' OR results.average > 0)
       ORDER BY results.event_id, results.best
     SQL
   end
@@ -109,7 +108,9 @@ class BestPodiumsInPoland < GroupedStatistic
   def build_podium_row(event_id, podium_data)
     rows = podium_data[:rows]
     use_average = rows.first["sort_by"] == "average"
-    sorted_rows = rows.sort_by { |r| [r["pos"], use_average ? r["average"].to_i : r["best"].to_i] }
+    sorted_rows = rows
+      .uniq { |r| r["person_id"] }
+      .sort_by { |r| [r["pos"], use_average ? r["average"].to_i : r["best"].to_i] }
     return nil if sorted_rows.size < 3
 
     comp_link = "[#{podium_data[:name]}](https://www.worldcubeassociation.org/competitions/#{rows.first["competition_id"]})"

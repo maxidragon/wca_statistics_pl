@@ -76,6 +76,7 @@ All statistics are computed only for competitors from Poland/Polish competitions
 - [Most consecutive weeks with a delegated competition](delegated_in_most_consecutive_weeks)
 - [Most consecutive weeks with competitions](competed_in_most_consecutive_weeks)
 - [Most days potentially spent at competitions](most_days_potentially_spent_at_competitions)
+- [Most delegated and organized competitions in the current year](most_delegated_and_organized_competitions_in_the_current_year)
 - [Most delegated competitions](most_delegated_competitions)
 - [Most delegated competitions in the current year](most_delegated_competitions_in_the_current_year)
 - [Most delegated competitions with another delegate](most_delegated_with_another_delegate)

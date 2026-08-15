@@ -120,7 +120,15 @@ Dir.mktmpdir do |tmp_directory|
           end
           table_sql += table_specific_indices.join("\n") + "\n" unless table_specific_indices.empty?
 
-          mysql_io.write(table_sql)
+          # macOS' write(2) rejects buffers larger than INT_MAX with EINVAL, and the
+          # biggest tables (results, result_attempts) exceed 2GB of SQL. Linux happens
+          # to do a partial write instead, which is why this only bites locally.
+          chunk_size = 64 * 1024 * 1024
+          offset = 0
+          while offset < table_sql.bytesize
+            mysql_io.write(table_sql.byteslice(offset, chunk_size))
+            offset += chunk_size
+          end
         end
       end
     end

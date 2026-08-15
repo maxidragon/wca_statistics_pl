@@ -2,3 +2,7 @@
 build/
 database.yml
 !bin/templates/database.yml
+
+# Local bundler install
+.bundle/
+vendor/

@@ -13,6 +13,7 @@ All statistics are computed only for competitors from Poland/Polish competitions
 - [Average registration fee per year](average_fee_per_year)
 - [Average results submission time by Polish delegates](avg_results_submission_time)
 - [Average results submission time in the current year by Polish delegates](avg_results_submission_time_in_the_current_year)
+- [Best all-Polish podiums](best_all_polish_podiums)
 - [Best first average](best_first_average)
 - [Best first single](best_first_single)
 - [Best medal collection from abroad by person](best_medal_collection_from_abroad_by_person)
@@ -112,6 +113,9 @@ All statistics are computed only for competitors from Poland/Polish competitions
 - [World Championship podiums by person](world_championship_podiums_by_person)
 - [World records count by person](world_records_by_person)
 - [Worst result providing a podium](worst_result_on_podium)
+- [Worst result providing a podium by year at Polish competitions](yearly_worst_result_on_podium)
+- [Worst result providing a win](worst_winning_result)
+- [Worst result providing a win by year at Polish competitions](yearly_worst_winning_result)
 - [Yearly rankings](yearly_rankings)
 
 

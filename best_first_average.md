@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 13 August 2026*
+*Updated on 16 August 2026*
 
 
 ### 3x3x3 Cube
@@ -31,8 +31,8 @@
 | 3.54 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
 | 3.60 | [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) |
 | 3.65 | [Miłosz Jaśkiewicz](https://www.worldcubeassociation.org/persons/2022JASK01) |
-| 3.68 | [Ksawier Kozak](https://www.worldcubeassociation.org/persons/2023KOZA02) |
 | 3.68 | [Matviy Berestovskyy](https://www.worldcubeassociation.org/persons/2022BERE02) |
+| 3.68 | [Ksawier Kozak](https://www.worldcubeassociation.org/persons/2023KOZA02) |
 
 ### 4x4x4 Cube
 
@@ -117,8 +117,8 @@
 | 34.33 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) |
 | 34.33 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) |
 | 35.00 | [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) |
-| 35.33 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) |
 | 35.33 | [Robert Siniawski](https://www.worldcubeassociation.org/persons/2016SINI01) |
+| 35.33 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) |
 | 36.00 | [Dawid Kmak](https://www.worldcubeassociation.org/persons/2014KMAK01) |
 
 ### 3x3x3 One-Handed
@@ -160,8 +160,8 @@
 | 5.26 | [Mateusz Tobiasz](https://www.worldcubeassociation.org/persons/2016TOBI02) |
 | 5.34 | [Andrzej Jędrzejak](https://www.worldcubeassociation.org/persons/2021JEDR01) |
 | 5.60 | [Adam Bors](https://www.worldcubeassociation.org/persons/2023BORS03) |
-| 5.66 | [Dawid Jasiński](https://www.worldcubeassociation.org/persons/2014JASI01) |
 | 5.66 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2022WOJC02) |
+| 5.66 | [Dawid Jasiński](https://www.worldcubeassociation.org/persons/2014JASI01) |
 | 5.78 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) |
 | 5.79 | [Kajetan Stefanek](https://www.worldcubeassociation.org/persons/2025STEF01) |
 | 5.87 | [Dominik Podolak](https://www.worldcubeassociation.org/persons/2023PODO02) |
@@ -240,8 +240,8 @@
 | 1.08 | [Kacper Szumigaj](https://www.worldcubeassociation.org/persons/2012SZUM01) |
 | 1.40 | [Korneliusz Tombarkiewicz](https://www.worldcubeassociation.org/persons/2009TOMB01) |
 | 1.43 | [Marcin Radziszewski](https://www.worldcubeassociation.org/persons/2011RADZ01) |
-| 1.49 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) |
 | 1.49 | [Patryk Kotlarz](https://www.worldcubeassociation.org/persons/2011KOTL01) |
+| 1.49 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) |
 | 1.50 | [Wojciech Inglot](https://www.worldcubeassociation.org/persons/2008INGL01) |
 | 1.54 | [Błażej Cichy](https://www.worldcubeassociation.org/persons/2012CICH01) |
 | 1.59 | [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) |

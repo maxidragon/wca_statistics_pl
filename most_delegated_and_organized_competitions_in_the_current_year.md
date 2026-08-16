@@ -1,7 +1,7 @@
 ## Most delegated and organized competitions in the current year
 
 *Note: This statistic shows how many of the competitions delegated by each Polish delegate in the current year were also organized by them.*
-*Updated on 13 August 2026*
+*Updated on 16 August 2026*
 
 | Delegated & organized | Delegated | Share | Person | List on WCA |
 | ---: | ---: | ---: | :--- | :--: |

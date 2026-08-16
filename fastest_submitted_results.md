@@ -1,7 +1,7 @@
 ## Fastest submitted results
 
 *Note: Only Polish competitions are included.*
-*Updated on 13 August 2026*
+*Updated on 16 August 2026*
 
 | Competition | Time to submit | Delegates |
 | :--- | ---: | :--- |

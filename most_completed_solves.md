@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 13 August 2026*
+*Updated on 16 August 2026*
 
 
 ### Competition
@@ -37,7 +37,7 @@
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **16249** | 16678 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **13411** | 14444 |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **13315** | 13793 |
-| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **12694** | 13356 |
+| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **12709** | 13371 |
 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **11991** | 12647 |
 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | **11428** | 11794 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | **10264** | 10451 |
@@ -60,7 +60,7 @@
 | 2025 | **236931** | 249879 |
 | 2024 | **224448** | 235988 |
 | 2023 | **188218** | 198622 |
-| 2026 | **155352** | 164702 |
+| 2026 | **155367** | 164717 |
 | 2022 | **116402** | 123618 |
 | 2019 | **91337** | 95933 |
 | 2014 | **76324** | 80953 |
@@ -82,7 +82,7 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **379816** | 387350 |
+| 3x3x3 Cube | **379831** | 387365 |
 | 2x2x2 Cube | **247279** | 254051 |
 | Pyraminx | **191127** | 196177 |
 | Skewb | **135327** | 138819 |

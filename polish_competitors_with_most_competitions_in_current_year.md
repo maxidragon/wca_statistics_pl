@@ -1,10 +1,10 @@
 ## Polish competitors with most competitions in the current year
 
-*Updated on 13 August 2026*
+*Updated on 16 August 2026*
 
 | Competitions | Person |
 | ---: | :--- |
-| 52 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 53 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 38 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 29 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 27 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |

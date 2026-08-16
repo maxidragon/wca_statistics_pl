@@ -1,7 +1,7 @@
 ## Fewest % of competitions attended in the same city as the first competition of the competitor
 
 *Note: Counts how many competitions a Polish person attended in the same city where they had their very first competition. The ratio is computed against all competitions attended, including those abroad. Requires at least 10 total competitions.*
-*Updated on 13 August 2026*
+*Updated on 16 August 2026*
 
 | Person | First Competition | City | Comps in City | Total Comps | Ratio |
 | :--- | :--- | :--- | ---: | ---: | ---: |
@@ -12,7 +12,7 @@
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | [SLS Chorzow 2014](https://www.worldcubeassociation.org/competitions/SLSChorzow2014) | Chorzów | 1 | 147 | 0.7% |
 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | [Polish Championship 2016](https://www.worldcubeassociation.org/competitions/PolishChampionship2016) | Warsaw | 1 | 145 | 0.7% |
 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | [Cube4fun League II Kluczbork 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueIIKluczbork2022) | Kluczbork | 1 | 127 | 0.8% |
-| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | [Lubelska Liga Speedcubingu III v2 2020](https://www.worldcubeassociation.org/competitions/LLSIIIv22020) | Bełżyce | 3 | 379 | 0.8% |
+| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | [Lubelska Liga Speedcubingu III v2 2020](https://www.worldcubeassociation.org/competitions/LLSIIIv22020) | Bełżyce | 3 | 380 | 0.8% |
 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | [GLS Gdynia 2020](https://www.worldcubeassociation.org/competitions/GLSGdynia2020) | Gdynia | 1 | 119 | 0.8% |
 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | [Cubing Spring Grudziadz 2012](https://www.worldcubeassociation.org/competitions/CubingSpringGrudziadz2012) | Grudziądz | 1 | 117 | 0.9% |
 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | [Lubelska Liga Speedcubingu I Bełżyce 2021](https://www.worldcubeassociation.org/competitions/LLSIBelzyce2021) | Bełżyce | 1 | 116 | 0.9% |

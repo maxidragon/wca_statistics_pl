@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on 13 August 2026*
+*Updated on 16 August 2026*
 
 
 ### 3x3x3 Cube
@@ -99,17 +99,17 @@
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | **8:09.55** | DNF | [Kociewie Open 2010](https://www.worldcubeassociation.org/competitions/KociewieOpen2010/results/podiums#e333bf) | 3 |
-| [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | **8:09.55** | DNF | [Kociewie Open 2010](https://www.worldcubeassociation.org/competitions/KociewieOpen2010/results/podiums#e333bf) | 3 |
-| [Klaudia Grabowska](https://www.worldcubeassociation.org/persons/2007GRAB01) | **5:52.84** | DNF | [Kociewie Open 2010](https://www.worldcubeassociation.org/competitions/KociewieOpen2010/results/podiums#e333bf) | 2 |
 | [Klaudia Grabowska](https://www.worldcubeassociation.org/persons/2007GRAB01) | **5:52.84** | DNF | [Kociewie Open 2010](https://www.worldcubeassociation.org/competitions/KociewieOpen2010/results/podiums#e333bf) | 2 |
 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | **5:41.50** | DNF | [Grudziadz Open 2011](https://www.worldcubeassociation.org/competitions/GrudziadzOpen2011/results/podiums#e333bf) | 3 |
-| [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | **5:41.50** | DNF | [Grudziadz Open 2011](https://www.worldcubeassociation.org/competitions/GrudziadzOpen2011/results/podiums#e333bf) | 3 |
-| [Mateusz Burnicki](https://www.worldcubeassociation.org/persons/2006BURN01) | **5:26.80** | DNF | [Grudziadz Open 2011](https://www.worldcubeassociation.org/competitions/GrudziadzOpen2011/results/podiums#e333bf) | 2 |
 | [Mateusz Burnicki](https://www.worldcubeassociation.org/persons/2006BURN01) | **5:26.80** | DNF | [Grudziadz Open 2011](https://www.worldcubeassociation.org/competitions/GrudziadzOpen2011/results/podiums#e333bf) | 2 |
 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | **4:46.53** | DNF | [Swierklany Open 2011](https://www.worldcubeassociation.org/competitions/SwierklanyOpen2011/results/podiums#e333bf) | 3 |
-| [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | **4:46.53** | DNF | [Swierklany Open 2011](https://www.worldcubeassociation.org/competitions/SwierklanyOpen2011/results/podiums#e333bf) | 3 |
+| [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | **4:40.24** | DNF | [PLS Autumn Reda 2014](https://www.worldcubeassociation.org/competitions/PLSAutumnReda2014/results/podiums#e333bf) | 3 |
+| [Mateusz Burnicki](https://www.worldcubeassociation.org/persons/2006BURN01) | **4:35.43** | DNF | [Lublin Open 2009](https://www.worldcubeassociation.org/competitions/LublinOpen2009/results/podiums#e333bf) | 3 |
+| [Rafał Guzewicz](https://www.worldcubeassociation.org/persons/2006GUZE01) | **4:35.27** |  | [Polish Open 2006](https://www.worldcubeassociation.org/competitions/PolishOpen2006/results/podiums#e333bf) | 3 |
+| [Mateusz Fydrych](https://www.worldcubeassociation.org/persons/2011FYDR01) | **4:33.55** | DNF | [Cubing Spring Grudziadz 2012](https://www.worldcubeassociation.org/competitions/CubingSpringGrudziadz2012/results/podiums#e333bf) | 3 |
+| [Krzysztof Kuncki](https://www.worldcubeassociation.org/persons/2010KUNC01) | **4:13.17** | DNF | [Mielec Cube Day 2014](https://www.worldcubeassociation.org/competitions/MielecOpen2014/results/podiums#e333bf) | 3 |
 
-### 3x3x3 Fewest Moves
+### 3x3x3 Fewest Moves (Mean of 3)
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
@@ -123,6 +123,36 @@
 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 31 | **36.67** | [PLS Marina 2014](https://www.worldcubeassociation.org/competitions/PLSMarina2014/results/podiums#e333fm) | 3 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 33 | **36.00** | [CFL Luty 2018](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueLuty2018/results/podiums#e333fm) | 3 |
 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 34 | **35.67** | [Cube N' Meme 2016](https://www.worldcubeassociation.org/competitions/CubeNMeme2016/results/podiums#e333fm) | 2 |
+
+### 3x3x3 Fewest Moves (Best of 2)
+
+| Person | Single | Average | Competition | Place |
+| :--- | ---: | ---: | :--- | :--: |
+| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **39** |  | [Chojnice Open 2013](https://www.worldcubeassociation.org/competitions/ChojniceOpen2013/results/podiums#e333fm) | 3 |
+| [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | **38** |  | [ Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013/results/podiums#e333fm) | 2 |
+| [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) | **38** |  | [ Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013/results/podiums#e333fm) | 2 |
+| [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) | **36** |  | [Chojnice Open 2013](https://www.worldcubeassociation.org/competitions/ChojniceOpen2013/results/podiums#e333fm) | 1 |
+| [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) | **36** |  | [Chojnice Open 2013](https://www.worldcubeassociation.org/competitions/ChojniceOpen2013/results/podiums#e333fm) | 1 |
+| [Jarosław Krzyżanowski](https://www.worldcubeassociation.org/persons/2007KRZY01) | **36** |  | [Polish Open 2007](https://www.worldcubeassociation.org/competitions/PolishOpen2007/results/podiums#e333fm) | 3 |
+| [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | **35** |  | [Polish Nationals 2010](https://www.worldcubeassociation.org/competitions/PolishNationals2010/results/podiums#e333fm) | 2 |
+| [Mateusz Kurek](https://www.worldcubeassociation.org/persons/2008KURE01) | **35** |  | [Polish Nationals 2010](https://www.worldcubeassociation.org/competitions/PolishNationals2010/results/podiums#e333fm) | 2 |
+| [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | **35** |  | [Polish Nationals 2010](https://www.worldcubeassociation.org/competitions/PolishNationals2010/results/podiums#e333fm) | 2 |
+| [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | **34** |  | [SLS Zaglebie 2013](https://www.worldcubeassociation.org/competitions/SLSZaglebie2013/results/podiums#e333fm) | 3 |
+
+### 3x3x3 Fewest Moves (Best of 1)
+
+| Person | Single | Average | Competition | Place |
+| :--- | ---: | ---: | :--- | :--: |
+| [Sebastian Kaźmierski](https://www.worldcubeassociation.org/persons/2005KAZM01) | **56** |  | [Polish Open 2005](https://www.worldcubeassociation.org/competitions/PolishOpen2005/results/podiums#e333fm) | 3 |
+| [Michał Korbacz](https://www.worldcubeassociation.org/persons/2008KORB01) | **52** |  | [Poznan Open 2009](https://www.worldcubeassociation.org/competitions/PoznanOpen2009/results/podiums#e333fm) | 2 |
+| [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) | **51** |  | [GLS Winter Camp 2019](https://www.worldcubeassociation.org/competitions/GLSWinterCamp2019/results/podiums#e333fm) | 3 |
+| [Remigiusz Durka](https://www.worldcubeassociation.org/persons/2005DURK01) | **49** |  | [Wroclaw Open 2007](https://www.worldcubeassociation.org/competitions/WroclawOpen2007/results/podiums#e333fm) | 3 |
+| [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | **49** |  | [Polish Open 2005](https://www.worldcubeassociation.org/competitions/PolishOpen2005/results/podiums#e333fm) | 2 |
+| [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | **47** |  | [Tuscany Open 2017](https://www.worldcubeassociation.org/competitions/TuscanyOpen2017/results/podiums#e333fm) | 2 |
+| [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | **46** |  | [Polish Open 2006](https://www.worldcubeassociation.org/competitions/PolishOpen2006/results/podiums#e333fm) | 2 |
+| [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | **46** |  | [Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/PolishNationals2009/results/podiums#e333fm) | 3 |
+| [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | **45** |  | [Estonian Open 2017](https://www.worldcubeassociation.org/competitions/EstonianOpen2017/results/podiums#e333fm) | 1 |
+| [Alan Żeromski](https://www.worldcubeassociation.org/persons/2018ZERO01) | **44** |  | [Marijampolė Tyliai 2026](https://www.worldcubeassociation.org/competitions/MarijampoleTyliai2026/results/podiums#e333fm) | 3 |
 
 ### 3x3x3 One-Handed
 

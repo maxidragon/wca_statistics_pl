@@ -1,6 +1,6 @@
 ## Shortest time to achieve solves milestone
 
-*Updated on 13 August 2026*
+*Updated on 16 August 2026*
 
 
 ### 20000 Solves
@@ -71,10 +71,10 @@
 | 477 | [Henryk Gabor](https://www.worldcubeassociation.org/persons/2024GABO02) |
 | 498 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) |
 | 504 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) |
-| 505 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
 | 505 | [Ignacy Malinowski](https://www.worldcubeassociation.org/persons/2021MALI02) |
-| 512 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
+| 505 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
 | 512 | [Mateusz Otto](https://www.worldcubeassociation.org/persons/2022OTTO01) |
+| 512 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
 | 519 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) |
 | 525 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 526 | [Maksymilian Sysak](https://www.worldcubeassociation.org/persons/2024SYSA01) |

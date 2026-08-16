@@ -2,13 +2,13 @@
 
 *Note: Only delegates with at least 3 competitions are taken into account.
              Delegate period is calculated as the difference between first and last delegated competition.*
-*Updated on 13 August 2026*
+*Updated on 16 August 2026*
 
 | Delegated per year | Delegated | Years | Person | List on WCA |
 | ---: | ---: | ---: | :--- | :--: |
-| 34.50 | 51 | 1.48 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=259132) |
+| 33.44 | 52 | 1.56 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=259132) |
 | 30.57 | 136 | 4.45 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=81510) |
-| 30.23 | 131 | 4.33 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=15338) |
+| 30.32 | 132 | 4.35 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=15338) |
 | 27.43 | 203 | 7.40 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=1686) |
 | 24.74 | 38 | 1.54 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=14759) |
 | 22.70 | 34 | 1.50 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=228972) |

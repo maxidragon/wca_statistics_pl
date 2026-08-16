@@ -16,6 +16,7 @@ All statistics are computed only for competitors from Poland/Polish competitions
 - [Best all-Polish podiums](best_all_polish_podiums)
 - [Best first average](best_first_average)
 - [Best first single](best_first_single)
+- [Best medal collection by event](best_medal_collection_by_event)
 - [Best medal collection from abroad by person](best_medal_collection_from_abroad_by_person)
 - [Best podiums at Polish competitions](best_podiums_in_poland)
 - [Best potential FMC mean](best_potential_fmc_mean)

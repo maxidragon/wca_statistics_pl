@@ -1,6 +1,6 @@
 ## Biggest rounds in Poland
 
-*Updated on 16 August 2026*
+*Updated on 19 August 2026*
 
 
 ### 3x3x3 Cube
@@ -223,10 +223,10 @@
 | 19 | [Euro 2012](https://www.worldcubeassociation.org/competitions/Euro2012) |
 | 19 | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) |
 | 19 | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021) |
+| 18 | [All Rounders Katowice II 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceII2026) |
 | 18 | [GLS Side Challenge Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSSideChallengeGdansk2026) |
 | 17 | [Cube Factory League Zgierz 2026](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueZgierz2026) |
 | 17 | [Gniezno Big Blind Cubing 2022](https://www.worldcubeassociation.org/competitions/GnieznoBigBlindCubing2022) |
-| 17 | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) |
 
 ### 5x5x5 Blindfolded
 
@@ -240,8 +240,8 @@
 | 13 | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) |
 | 12 | [Big 'n Blind Szczecinek 2023](https://www.worldcubeassociation.org/competitions/BignBlindSzczecinek2023) |
 | 12 | [Poznań Mental Breakdown 2022](https://www.worldcubeassociation.org/competitions/PoznanMentalBreakdown2022) |
+| 11 | [All Rounders Katowice II 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceII2026) |
 | 11 | [CFL Luty 2018](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueLuty2018) |
-| 11 | [Cube Factory League Zgierz 2026](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueZgierz2026) |
 
 ### 3x3x3 Multi-Blind
 

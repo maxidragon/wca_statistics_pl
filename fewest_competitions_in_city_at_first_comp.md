@@ -1,19 +1,19 @@
 ## Fewest % of competitions attended in the same city as the first competition of the competitor
 
 *Note: Counts how many competitions a Polish person attended in the same city where they had their very first competition. The ratio is computed against all competitions attended, including those abroad. Requires at least 10 total competitions.*
-*Updated on 16 August 2026*
+*Updated on 19 August 2026*
 
 | Person | First Competition | City | Comps in City | Total Comps | Ratio |
 | :--- | :--- | :--- | ---: | ---: | ---: |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | [Radom Open 2013](https://www.worldcubeassociation.org/competitions/RadomOpen2013) | Radom | 2 | 404 | 0.5% |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | [Radom Open 2013](https://www.worldcubeassociation.org/competitions/RadomOpen2013) | Radom | 2 | 405 | 0.5% |
 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | [Cubing Spring Grudziadz 2012](https://www.worldcubeassociation.org/competitions/CubingSpringGrudziadz2012) | Grudziądz | 1 | 160 | 0.6% |
 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | [Wroclaw Open 2007](https://www.worldcubeassociation.org/competitions/WroclawOpen2007) | Bielany Wrocławskie | 1 | 152 | 0.7% |
 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | [PLS Sopot 2014](https://www.worldcubeassociation.org/competitions/PLSSopot2014) | Sopot | 1 | 148 | 0.7% |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | [SLS Chorzow 2014](https://www.worldcubeassociation.org/competitions/SLSChorzow2014) | Chorzów | 1 | 147 | 0.7% |
 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | [Polish Championship 2016](https://www.worldcubeassociation.org/competitions/PolishChampionship2016) | Warsaw | 1 | 145 | 0.7% |
-| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | [Cube4fun League II Kluczbork 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueIIKluczbork2022) | Kluczbork | 1 | 127 | 0.8% |
-| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | [Lubelska Liga Speedcubingu III v2 2020](https://www.worldcubeassociation.org/competitions/LLSIIIv22020) | Bełżyce | 3 | 380 | 0.8% |
-| [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | [GLS Gdynia 2020](https://www.worldcubeassociation.org/competitions/GLSGdynia2020) | Gdynia | 1 | 119 | 0.8% |
+| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | [Cube4fun League II Kluczbork 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueIIKluczbork2022) | Kluczbork | 1 | 128 | 0.8% |
+| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | [Lubelska Liga Speedcubingu III v2 2020](https://www.worldcubeassociation.org/competitions/LLSIIIv22020) | Bełżyce | 3 | 382 | 0.8% |
+| [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | [GLS Gdynia 2020](https://www.worldcubeassociation.org/competitions/GLSGdynia2020) | Gdynia | 1 | 120 | 0.8% |
 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | [Cubing Spring Grudziadz 2012](https://www.worldcubeassociation.org/competitions/CubingSpringGrudziadz2012) | Grudziądz | 1 | 117 | 0.9% |
 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | [Lubelska Liga Speedcubingu I Bełżyce 2021](https://www.worldcubeassociation.org/competitions/LLSIBelzyce2021) | Bełżyce | 1 | 116 | 0.9% |
 | [Karolina Wiącek](https://www.worldcubeassociation.org/persons/2008WIAC01) | [Polish Open 2008](https://www.worldcubeassociation.org/competitions/PolishOpen2008) | Wadowice | 1 | 101 | 1.0% |
@@ -21,7 +21,7 @@
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [Polish Open 2017](https://www.worldcubeassociation.org/competitions/PolishOpen2017) | Opole | 1 | 95 | 1.1% |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | [Polish Open 2006](https://www.worldcubeassociation.org/competitions/PolishOpen2006) | Wadowice | 2 | 181 | 1.1% |
 | [Tomasz Stawowy](https://www.worldcubeassociation.org/persons/2021STAW01) | [Project Pawłowice 2021](https://www.worldcubeassociation.org/competitions/ProjectPawlowice2021) | Pawłowice | 1 | 90 | 1.1% |
-| [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | [Cube4fun League Koło 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueKolo2022) | Koło | 1 | 88 | 1.1% |
+| [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | [Cube4fun League Koło 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueKolo2022) | Koło | 1 | 89 | 1.1% |
 | [Bartosz Łebkowski](https://www.worldcubeassociation.org/persons/2021LEBK01) | [Lubelska Liga Speedcubingu II Biała Podlaska 2021](https://www.worldcubeassociation.org/competitions/LLSIIBialaPodlaska2021) | Biała Podlaska | 1 | 87 | 1.1% |
 | [Tomasz Szubert](https://www.worldcubeassociation.org/persons/2022SZUB02) | [Cube4fun League Final Skierniewice 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueSkierniewice2022) | Skierniewice | 1 | 86 | 1.2% |
 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | [Cubing Day Żuromin 2022](https://www.worldcubeassociation.org/competitions/CubingDayZuromin2022) | Żuromin | 1 | 85 | 1.2% |
@@ -37,7 +37,7 @@
 | [Szymon Brągiel](https://www.worldcubeassociation.org/persons/2022BRAG03) | [Cube4fun League IV Dąbrowa Górnicza 2022](https://www.worldcubeassociation.org/competitions/Cube4funDabrowaGornicza2022) | Dąbrowa Górnicza | 1 | 71 | 1.4% |
 | [Stanisław Ożyński](https://www.worldcubeassociation.org/persons/2022OZYN01) | [UPP Poznań Cubing 2022](https://www.worldcubeassociation.org/competitions/UPPPoznanCubing2022) | Poznań | 1 | 70 | 1.4% |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [Radom Open 2013](https://www.worldcubeassociation.org/competitions/RadomOpen2013) | Radom | 2 | 140 | 1.4% |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | [SLS Gliwice 2014](https://www.worldcubeassociation.org/competitions/SLSGliwice2014) | Gliwice | 4 | 276 | 1.4% |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | [SLS Gliwice 2014](https://www.worldcubeassociation.org/competitions/SLSGliwice2014) | Gliwice | 4 | 277 | 1.4% |
 | [Michał Mlostek](https://www.worldcubeassociation.org/persons/2015MLOS01) | [Polish Open 2015](https://www.worldcubeassociation.org/competitions/PolishOpen2015) | Bielsko-Biała | 1 | 68 | 1.5% |
 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | [Project Kedzierzyn-Kozle 2021](https://www.worldcubeassociation.org/competitions/ProjectKedzierzynKozle2021) | Kędzierzyn-Koźle | 1 | 68 | 1.5% |
 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) | [Polish Open 2008](https://www.worldcubeassociation.org/competitions/PolishOpen2008) | Wadowice | 1 | 68 | 1.5% |
@@ -53,7 +53,7 @@
 | [Stanisław Dąbrowski](https://www.worldcubeassociation.org/persons/2016DABR03) | [Polish Championship 2016](https://www.worldcubeassociation.org/competitions/PolishChampionship2016) | Warsaw | 1 | 57 | 1.8% |
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | [Ekonomik Elektryk Cube Race 2018](https://www.worldcubeassociation.org/competitions/EkonomikElektrykCubeRace2018) | Opole | 2 | 114 | 1.8% |
 | [Witold Wesołowski](https://www.worldcubeassociation.org/persons/2022WESO01) | [Cube4fun League III Lubartów 2022](https://www.worldcubeassociation.org/competitions/C4funLeagueIIILubartow2022) | Lubartów | 1 | 56 | 1.8% |
-| [Dominik Żabiński](https://www.worldcubeassociation.org/persons/2022ZABI01) | [Cube4fun League IV Dąbrowa Górnicza 2022](https://www.worldcubeassociation.org/competitions/Cube4funDabrowaGornicza2022) | Dąbrowa Górnicza | 1 | 54 | 1.9% |
+| [Dominik Żabiński](https://www.worldcubeassociation.org/persons/2022ZABI01) | [Cube4fun League IV Dąbrowa Górnicza 2022](https://www.worldcubeassociation.org/competitions/Cube4funDabrowaGornicza2022) | Dąbrowa Górnicza | 1 | 55 | 1.8% |
 | [Kacper Wiłkojć](https://www.worldcubeassociation.org/persons/2013WIKO01) | [Manufaktura Open 2013](https://www.worldcubeassociation.org/competitions/ManufakturaOpen2013) | Elbląg | 1 | 54 | 1.9% |
 | [Marta Szcześniak](https://www.worldcubeassociation.org/persons/2023SZCZ07) | [Mikołajki Open 2023](https://www.worldcubeassociation.org/competitions/MikolajkiOpen2023) | Mikołajki | 1 | 54 | 1.9% |
 | [Kalina Jakubowska](https://www.worldcubeassociation.org/persons/2009BRZE01) | [Silesia Open 2009](https://www.worldcubeassociation.org/competitions/SilesiaOpen2009) | Chorzów | 2 | 105 | 1.9% |
@@ -74,21 +74,21 @@
 | [Tonia Kowalczyk](https://www.worldcubeassociation.org/persons/2008KWAS01) | [Wroclaw Open 2008](https://www.worldcubeassociation.org/competitions/WroclawOpen2008) | Wrocław | 1 | 48 | 2.1% |
 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | [Cubing Rising Stars Olesno 2022](https://www.worldcubeassociation.org/competitions/CubingRisingStarsOlesno2022) | Olesno | 1 | 47 | 2.1% |
 | [Sebastian Kowalewski](https://www.worldcubeassociation.org/persons/2013KOWA01) | [Manufaktura Open 2013](https://www.worldcubeassociation.org/competitions/ManufakturaOpen2013) | Elbląg | 1 | 47 | 2.1% |
+| [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) | [Lubelska Liga Speedcubingu I Bełżyce 2021](https://www.worldcubeassociation.org/competitions/LLSIBelzyce2021) | Bełżyce | 2 | 93 | 2.2% |
 | [Hubert Kwasigroch](https://www.worldcubeassociation.org/persons/2014KWAS01) | [PLS Sopot 2014](https://www.worldcubeassociation.org/competitions/PLSSopot2014) | Sopot | 1 | 46 | 2.2% |
-| [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) | [Lubelska Liga Speedcubingu I Bełżyce 2021](https://www.worldcubeassociation.org/competitions/LLSIBelzyce2021) | Bełżyce | 2 | 92 | 2.2% |
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | [Lubelska Liga Speedcubingu I Bełżyce 2021](https://www.worldcubeassociation.org/competitions/LLSIBelzyce2021) | Bełżyce | 3 | 138 | 2.2% |
 | [Daniel Samoszyn](https://www.worldcubeassociation.org/persons/2015SAMO01) | [ŚLS Sosnowiec 2015](https://www.worldcubeassociation.org/competitions/SLSSosnowiec2015) | Sosnowiec | 1 | 45 | 2.2% |
 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | [Bydgoszcz Summer 2014](https://www.worldcubeassociation.org/competitions/BydgoszczSummer2014) | Bydgoszcz | 2 | 90 | 2.2% |
+| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | [SLS Jastrzebie 2013](https://www.worldcubeassociation.org/competitions/SLSJastrzebie2013) | Jastrzębie-Zdrój | 5 | 221 | 2.3% |
 | [Igor Kowalczyk](https://www.worldcubeassociation.org/persons/2013KOWA04) | [Radom Open 2013](https://www.worldcubeassociation.org/competitions/RadomOpen2013) | Radom | 1 | 44 | 2.3% |
 | [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) | [German Mini Open B 2021](https://www.worldcubeassociation.org/competitions/GermanMiniOpenB2021) | Gütersloh | 1 | 44 | 2.3% |
-| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | [SLS Jastrzebie 2013](https://www.worldcubeassociation.org/competitions/SLSJastrzebie2013) | Jastrzębie-Zdrój | 5 | 220 | 2.3% |
 | [Jakub Lorens](https://www.worldcubeassociation.org/persons/2018LORE01) | [Speed Days Kraśnik 2018](https://www.worldcubeassociation.org/competitions/SpeedDaysKrasnik2018) | Kraśnik | 1 | 43 | 2.3% |
+| [Szymon Ruksza](https://www.worldcubeassociation.org/persons/2013RUKS01) | [SLS Jastrzebie 2013](https://www.worldcubeassociation.org/competitions/SLSJastrzebie2013) | Jastrzębie-Zdrój | 1 | 43 | 2.3% |
 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | [Olsztyn Open 2017](https://www.worldcubeassociation.org/competitions/OlsztynOpen2017) | Olsztyn | 1 | 42 | 2.4% |
-| [Szymon Ruksza](https://www.worldcubeassociation.org/persons/2013RUKS01) | [SLS Jastrzebie 2013](https://www.worldcubeassociation.org/competitions/SLSJastrzebie2013) | Jastrzębie-Zdrój | 1 | 42 | 2.4% |
 | [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) | [Mielec Cube Day 2014](https://www.worldcubeassociation.org/competitions/MielecOpen2014) | Mielec | 3 | 125 | 2.4% |
 | [Patrycja Michalska](https://www.worldcubeassociation.org/persons/2013MICH02) | [Polish Nationals 2013](https://www.worldcubeassociation.org/competitions/PolishNationals2013) | Zawiercie | 2 | 83 | 2.4% |
+| [Dominik Kobinski](https://www.worldcubeassociation.org/persons/2019KOBI01) | [Byczy Cube Race 2019](https://www.worldcubeassociation.org/competitions/ByczyCubeRace2019) | Byczyna | 1 | 41 | 2.4% |
 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) | [Silesia Open 2012](https://www.worldcubeassociation.org/competitions/SilesiaOpen2012) | Świerklany | 2 | 81 | 2.5% |
-| [Dominik Kobinski](https://www.worldcubeassociation.org/persons/2019KOBI01) | [Byczy Cube Race 2019](https://www.worldcubeassociation.org/competitions/ByczyCubeRace2019) | Byczyna | 1 | 40 | 2.5% |
 | [Krzysztof Żerucha](https://www.worldcubeassociation.org/persons/2008ZERU01) | [Polish Open 2008](https://www.worldcubeassociation.org/competitions/PolishOpen2008) | Wadowice | 1 | 40 | 2.5% |
 | [Anonymous](https://www.worldcubeassociation.org/persons/2022ANON03) | [Cube4fun League IV Dąbrowa Górnicza 2022](https://www.worldcubeassociation.org/competitions/Cube4funDabrowaGornicza2022) | Dąbrowa Górnicza | 1 | 39 | 2.6% |
 | [Grzegorz Szumigaj](https://www.worldcubeassociation.org/persons/2013SZUM01) | [Radom Open 2013](https://www.worldcubeassociation.org/competitions/RadomOpen2013) | Radom | 1 | 39 | 2.6% |

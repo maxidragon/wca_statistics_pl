@@ -1,7 +1,7 @@
 ## Competitions with the least number of no-shows in Poland
 
 *Note: This statistic shows the competitions in Poland with the least number of no-shows.*
-*Updated on 16 August 2026*
+*Updated on 19 August 2026*
 
 | Competition | Total registered | Total competed | No-shows |
 | :--- | ---: | ---: | ---: |
@@ -11,9 +11,9 @@
 | [CFL Justynów 2025](https://www.worldcubeassociation.org/competitions/CFLJustynow2025) | 95 | 95 | 0 |
 | [Winter Vibe Wrocław 2024](https://www.worldcubeassociation.org/competitions/WinterVibeWroclaw2024) | 80 | 80 | 0 |
 | [CFL Rogów Summer 2025](https://www.worldcubeassociation.org/competitions/CFLRogowSummer2025) | 68 | 68 | 0 |
+| [Mysłowice Big Cube Open 2022](https://www.worldcubeassociation.org/competitions/MyslowiceBigCubeOpen2022) | 60 | 60 | 0 |
 | [Cube Factory Rogów 2024](https://www.worldcubeassociation.org/competitions/CubeFactoryRogow2024) | 60 | 60 | 0 |
 | [Chorzów Cubing Days 2025](https://www.worldcubeassociation.org/competitions/ChorzowCubingDays2025) | 60 | 60 | 0 |
-| [Mysłowice Big Cube Open 2022](https://www.worldcubeassociation.org/competitions/MyslowiceBigCubeOpen2022) | 60 | 60 | 0 |
 | [Santa Claus Mysłowice 2024](https://www.worldcubeassociation.org/competitions/SantaClausCubeRaceMyslowice2024) | 60 | 60 | 0 |
 | [Cubing Mine Rybnik 2024](https://www.worldcubeassociation.org/competitions/CubingMineRybnik2024) | 52 | 52 | 0 |
 | [Pilzno Cubing Holiday 2026](https://www.worldcubeassociation.org/competitions/PilznoCubingHoliday2026) | 51 | 51 | 0 |

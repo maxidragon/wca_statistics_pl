@@ -1,14 +1,14 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 16 August 2026*
+*Updated on 19 August 2026*
 
 
 ### 3x3x3 Cube
 
 | Person | Winned weeks |
 | :--- | ---: |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 40 |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 41 |
 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 17 |
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 11 |
 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 5 |
@@ -71,7 +71,7 @@
 
 | Person | Winned weeks |
 | :--- | ---: |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 58 |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 59 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 35 |
 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 4 |
 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 2 |
@@ -179,14 +179,14 @@
 | [Kamil Zieliński](https://www.worldcubeassociation.org/persons/2008ZIEL01) | 5 |
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 5 |
 | [Krzysztof Natusiewicz](https://www.worldcubeassociation.org/persons/2011NATU01) | 5 |
+| [Wiktor Gugulski](https://www.worldcubeassociation.org/persons/2023GUGU01) | 2 |
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 2 |
 | [Ernest Seroczyński](https://www.worldcubeassociation.org/persons/2015SERO02) | 2 |
-| [Wiktor Gugulski](https://www.worldcubeassociation.org/persons/2023GUGU01) | 1 |
-| [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) | 1 |
-| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 1 |
 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | 1 |
+| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 1 |
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 1 |
 | [Michał Matczak](https://www.worldcubeassociation.org/persons/2009MATC01) | 1 |
+| [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) | 1 |
 | [Kalina Jakubowska](https://www.worldcubeassociation.org/persons/2009BRZE01) | 1 |
 | [Stefan Łapicki](https://www.worldcubeassociation.org/persons/2006LAPI01) | 1 |
 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 1 |
@@ -277,6 +277,7 @@
 | [Grzegorz Szumigaj](https://www.worldcubeassociation.org/persons/2013SZUM01) | 1 |
 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | 1 |
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 1 |
+| [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 1 |
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 1 |
 | [Oliver Sherlock](https://www.worldcubeassociation.org/persons/2019SHER13) | 1 |
 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | 1 |

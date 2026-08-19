@@ -1,7 +1,7 @@
 ## Most N/N 3x3 MBLD successes
 
 *Note: Count of all 3x3 MBLD successes where all cubes were solved. Only people with at least 3 N/N successes are shown.*
-*Updated on 16 August 2026*
+*Updated on 19 August 2026*
 
 | Name | N/N successes | Breakdown |
 | :--- | ---: | :--- |
@@ -15,9 +15,9 @@
 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | 8 | 2/2 (3), 8/8, 24/24, 32/32, 35/35, 41/41 |
 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 8 | 2/2 (2), 3/3, 4/4 (3), 8/8, 9/9 |
 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | 6 | 5/5, 7/7 (3), 8/8, 15/15 |
+| [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 6 | 2/2, 3/3 (2), 4/4, 5/5, 6/6 |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 6 | 2/2 (4), 3/3 (2) |
 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 5 | 2/2, 25/25, 37/37, 41/41, 46/46 |
-| [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 5 | 2/2, 3/3 (2), 5/5, 6/6 |
 | [Mariusz Wiśniewski](https://www.worldcubeassociation.org/persons/2011WISN03) | 5 | 2/2, 4/4 (2), 5/5 (2) |
 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | 5 | 2/2 (2), 3/3 (3) |
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 5 | 2/2 (3), 3/3 (2) |
@@ -27,15 +27,16 @@
 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | 4 | 2/2, 4/4, 5/5, 8/8 |
 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) | 4 | 3/3 (2), 5/5, 6/6 |
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 4 | 2/2, 3/3, 4/4, 5/5 |
+| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 4 | 2/2 (2), 3/3 (2) |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 4 | 3/3 (4) |
 | [Mateusz Fydrych](https://www.worldcubeassociation.org/persons/2011FYDR01) | 4 | 2/2 (4) |
 | [Tomasz Cepil](https://www.worldcubeassociation.org/persons/2018CEPI01) | 3 | 3/3, 25/25, 27/27 |
 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | 3 | 6/6, 20/20, 26/26 |
 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | 3 | 7/7, 12/12, 20/20 |
+| [Szymon Ruksza](https://www.worldcubeassociation.org/persons/2013RUKS01) | 3 | 4/4, 13/13, 14/14 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 3 | 3/3, 4/4, 9/9 |
 | [Joanna Hołdakowska](https://www.worldcubeassociation.org/persons/2016HOLD04) | 3 | 2/2, 3/3, 4/4 |
 | [Jakub Lorens](https://www.worldcubeassociation.org/persons/2018LORE01) | 3 | 2/2 (2), 3/3 |
-| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 3 | 2/2, 3/3 (2) |
 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 3 | 3/3 (3) |
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 3 | 2/2 (3) |
 

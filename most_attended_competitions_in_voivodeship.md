@@ -1,7 +1,7 @@
 ## Competitions per voivodeship
 
 *Note: Voivodeships are inferred from competition coordinates (approximate bounding box). *
-*Updated on 16 August 2026*
+*Updated on 19 August 2026*
 
 
 ### Pomorskie
@@ -41,40 +41,40 @@ _Total competitions: 99_
 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 32 |
 
 ### Śląskie
-_Total competitions: 78_
+_Total competitions: 79_
 
 | Person | Competitions |
 | :--- | ---: |
-| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 58 |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 58 |
-| [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 58 |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 59 |
+| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 59 |
+| [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 59 |
 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) | 48 |
 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | 43 |
+| [Szymon Moroń](https://www.worldcubeassociation.org/persons/2013MORO01) | 39 |
 | [Marcel Nycz](https://www.worldcubeassociation.org/persons/2016NYCZ01) | 38 |
-| [Szymon Moroń](https://www.worldcubeassociation.org/persons/2013MORO01) | 38 |
+| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 34 |
 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) | 34 |
 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 34 |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 33 |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 33 |
 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) | 32 |
-| [Wojciech Barciaga](https://www.worldcubeassociation.org/persons/2013BARC03) | 31 |
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 31 |
-| [Kacper Stacha](https://www.worldcubeassociation.org/persons/2013STAC01) | 30 |
-| [Paweł Włoszek](https://www.worldcubeassociation.org/persons/2006WLOS01) | 30 |
+| [Wojciech Barciaga](https://www.worldcubeassociation.org/persons/2013BARC03) | 31 |
 | [Witold Sołtysik](https://www.worldcubeassociation.org/persons/2015SOLT03) | 30 |
 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) | 30 |
+| [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | 30 |
+| [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | 30 |
 | [Mateusz Fydrych](https://www.worldcubeassociation.org/persons/2011FYDR01) | 30 |
+| [Paweł Włoszek](https://www.worldcubeassociation.org/persons/2006WLOS01) | 30 |
+| [Kacper Stacha](https://www.worldcubeassociation.org/persons/2013STAC01) | 30 |
 | [Kamil Mieńko](https://www.worldcubeassociation.org/persons/2011MIEN01) | 29 |
 | [Mateusz Śliż](https://www.worldcubeassociation.org/persons/2012SLIZ01) | 29 |
-| [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | 29 |
-| [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | 29 |
 | [Dominik Wojciechowski](https://www.worldcubeassociation.org/persons/2013WOJC01) | 29 |
 | [Michał Machnik](https://www.worldcubeassociation.org/persons/2022MACH14) | 28 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 28 |
 | [Daniel Samoszyn](https://www.worldcubeassociation.org/persons/2015SAMO01) | 27 |
-| [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) | 26 |
-| [Mateusz Cichoracki](https://www.worldcubeassociation.org/persons/2011CICH01) | 26 |
-| [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | 26 |
+| [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) | 27 |
+| [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | 27 |
+| [Dominik Żabiński](https://www.worldcubeassociation.org/persons/2022ZABI01) | 26 |
 
 ### Mazowieckie
 _Total competitions: 75_

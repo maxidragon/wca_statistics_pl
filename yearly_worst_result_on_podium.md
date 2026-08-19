@@ -1,7 +1,7 @@
 ## Worst result providing a podium by year at Polish competitions
 
 *Note: Only finals at competitions held in Poland are taken into account, regardless of the podium members' countries. Results where the main statistic is DNF are ignored. Each year is considered separately.*
-*Updated on 16 August 2026*
+*Updated on 19 August 2026*
 
 
 ### 2026
@@ -139,6 +139,7 @@
 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **30** |  | [Cicha Sobota w Łodzi 2026](https://www.worldcubeassociation.org/competitions/CichaSobotawLodzi2026/results/podiums#e333fm) | 1 |
 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **29** |  | [Nagawczyna Side Open 2026](https://www.worldcubeassociation.org/competitions/NagawczynaSideOpen2026/results/podiums#e333fm) | 1 |
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | **29** |  | [Nagawczyna Side Open 2026](https://www.worldcubeassociation.org/competitions/NagawczynaSideOpen2026/results/podiums#e333fm) | 1 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **27** |  | [All Rounders Katowice II 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceII2026/results/podiums#e333fm) | 3 |
 
 #### 3x3x3 One-Handed
 
@@ -225,10 +226,10 @@
 | [Marek Dojtrowski](https://www.worldcubeassociation.org/persons/2023DOJT01) | 12.08 | **13.13** | [CF Goes Sideways Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesSidewaysBrzeziny2026/results/podiums#esq1) | 3 |
 | [Henryk Gabor](https://www.worldcubeassociation.org/persons/2024GABO02) | 9.51 | **13.13** | [Silesian Minx Fest 2026](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2026/results/podiums#esq1) | 3 |
 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) | 11.84 | **12.81** | [CF Goes Sideways Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesSidewaysBrzeziny2026/results/podiums#esq1) | 2 |
+| [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | 6.96 | **12.34** | [All Rounders Katowice II 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceII2026/results/podiums#esq1) | 3 |
 | [Hannes Müller](https://www.worldcubeassociation.org/persons/2018MULL07) | 6.71 | **12.18** | [Summer Cubing Szczecin 2026](https://www.worldcubeassociation.org/competitions/SummerCubingSzczecin2026/results/podiums#esq1) | 3 |
 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) | 8.22 | **12.12** | [BrizZon Side Open 2026](https://www.worldcubeassociation.org/competitions/BrizZonSideOpen2026/results/podiums#esq1) | 2 |
 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 10.13 | **12.08** | [Brizzon Side Open III 2026](https://www.worldcubeassociation.org/competitions/BrizzonSideOpenIII2026/results/podiums#esq1) | 3 |
-| [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 10.90 | **12.05** | [BrizZon Side Open II 2026](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenII2026/results/podiums#esq1) | 3 |
 
 #### 4x4x4 Blindfolded
 
@@ -270,10 +271,10 @@
 | [Oleh Toporovych](https://www.worldcubeassociation.org/persons/2018TOPO01) | **15/18 57:18** |  | [CFL Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFLBrzeziny2026/results/podiums#e333mbf) | 3 |
 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **15/17 59:39** |  | [CFL Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFLBrzeziny2026/results/podiums#e333mbf) | 2 |
 | [Oleh Toporovych](https://www.worldcubeassociation.org/persons/2018TOPO01) | **13/13 48:25** |  | [CF Goes Sideways Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesSidewaysBrzeziny2026/results/podiums#e333mbf) | 3 |
+| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **16/17 59:36** |  | [All Rounders Katowice II 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceII2026/results/podiums#e333mbf) | 3 |
+| [Tomasz Cepil](https://www.worldcubeassociation.org/persons/2018CEPI01) | **23/31 54:57** |  | [All Rounders Katowice II 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceII2026/results/podiums#e333mbf) | 2 |
 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | **32/44 1:00:00** |  | [CF Goes Sideways Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesSidewaysBrzeziny2026/results/podiums#e333mbf) | 2 |
 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | **40/56 1:00:00** |  | [BrizZon Side Open 2026](https://www.worldcubeassociation.org/competitions/BrizZonSideOpen2026/results/podiums#e333mbf) | 3 |
-| [Stanisław Szyszka](https://www.worldcubeassociation.org/persons/2016SZYS02) | **31/38 57:26** |  | [GLS Side Challenge Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSSideChallengeGdansk2026/results/podiums#e333mbf) | 3 |
-| [Stanisław Szyszka](https://www.worldcubeassociation.org/persons/2016SZYS02) | **31/37 59:15** |  | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026/results/podiums#e333mbf) | 3 |
 
 ### 2025
 

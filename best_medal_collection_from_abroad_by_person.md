@@ -1,11 +1,11 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 16 August 2026*
+*Updated on 19 August 2026*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **256** | 31 | 14 | 301 |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **259** | 31 | 14 | 304 |
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | **84** | 35 | 27 | 146 |
 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **33** | 51 | 36 | 120 |
 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | **30** | 17 | 12 | 59 |
@@ -20,12 +20,12 @@
 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | **12** | 5 | 9 | 26 |
 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **12** | 5 | 5 | 22 |
 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | **12** | 4 | 4 | 20 |
+| [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) | **11** | 4 | 5 | 20 |
 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | **11** | 4 | 4 | 19 |
 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | **11** | 3 | 2 | 16 |
 | [Rafał Guzewicz](https://www.worldcubeassociation.org/persons/2006GUZE01) | **11** | 3 | 0 | 14 |
 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | **11** | 2 | 2 | 15 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **10** | 11 | 12 | 33 |
-| [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) | **10** | 3 | 5 | 18 |
 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | **9** | 12 | 3 | 24 |
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | **9** | 4 | 3 | 16 |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | **9** | 3 | 2 | 14 |
@@ -38,7 +38,7 @@
 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | **7** | 7 | 2 | 16 |
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | **7** | 7 | 2 | 16 |
 | [Jakub Cabaj](https://www.worldcubeassociation.org/persons/2008CABA03) | **7** | 6 | 5 | 18 |
-| [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) | **7** | 4 | 10 | 21 |
+| [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) | **7** | 4 | 11 | 22 |
 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | **7** | 4 | 3 | 14 |
 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | **7** | 3 | 5 | 15 |
 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | **7** | 2 | 0 | 9 |
@@ -49,8 +49,8 @@
 | [Igor Wojciech Wawrzynski](https://www.worldcubeassociation.org/persons/2019WAWR01) | **4** | 12 | 2 | 18 |
 | [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) | **4** | 9 | 13 | 26 |
 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | **4** | 8 | 4 | 16 |
+| [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) | **4** | 6 | 2 | 12 |
 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | **4** | 5 | 4 | 13 |
-| [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) | **4** | 5 | 2 | 11 |
 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) | **4** | 4 | 3 | 11 |
 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | **4** | 3 | 2 | 9 |
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | **4** | 1 | 7 | 12 |

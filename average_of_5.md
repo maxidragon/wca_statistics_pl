@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 16 August 2026*
+*Updated on 19 August 2026*
 
 
 ### 3x3x3 Cube
@@ -72,12 +72,12 @@
 | 1:24.17 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | 1:25.02, 1:26.17, 1:15.21, 1:32.17, 1:21.32 |
 | 1:26.33 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) | 1:21.22, 1:28.52, 1:29.24, 1:29.97, 1:19.96 |
 | 1:26.85 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 1:25.11, 1:30.87, 1:26.02, 1:28.35, 1:26.17 |
+| 1:27.41 | [Jan Woźniak](https://www.worldcubeassociation.org/persons/2021WOZN01) | 1:26.17, 1:25.91, 1:32.19, 1:23.09, 1:30.16 |
 | 1:27.99 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 1:24.30, 1:30.31, 1:23.16, 1:31.13, 1:29.35 |
-| 1:28.09 | [Jan Woźniak](https://www.worldcubeassociation.org/persons/2021WOZN01) | 1:36.44, 1:26.17, 1:25.91, 1:32.19, 1:23.09 |
 | 1:28.25 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 1:42.61, 1:31.64, 1:26.90, 1:26.22, 1:24.92 |
 | 1:28.48 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | 1:30.44, 1:26.02, 1:36.10, 1:26.64, 1:28.37 |
+| 1:28.96 | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) | 1:27.88, 1:38.60, 1:31.44, 1:19.05, 1:27.56 |
 | 1:30.29 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 1:28.26, 1:28.71, 1:36.35, 1:31.27, 1:30.90 |
-| 1:32.52 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) | 1:41.08, 1:31.70, 1:31.10, 1:34.75, 1:30.49 |
 
 ### 7x7x7 Cube
 
@@ -86,10 +86,10 @@
 | 1:41.35 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:51.35, 1:40.86, 1:34.32, 1:40.80, 1:42.38 |
 | 2:04.14 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | 2:13.02, 1:57.83, 2:05.35, 1:59.39, 2:07.69 |
 | 2:08.45 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 2:19.91, 2:11.06, 2:05.74, 2:08.56, 2:01.02 |
+| 2:10.42 | [Jan Woźniak](https://www.worldcubeassociation.org/persons/2021WOZN01) | 2:01.31, 2:13.17, 2:08.46, 2:12.93, 2:09.87 |
 | 2:11.56 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 2:15.11, 2:11.00, 2:12.81, 2:10.88, 2:08.39 |
 | 2:13.51 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 2:11.05, 2:29.48, 2:07.88, 2:05.46, 2:21.59 |
 | 2:13.73 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 2:11.32, 2:16.79, 2:13.08, 2:39.40, 2:07.11 |
-| 2:18.46 | [Jan Woźniak](https://www.worldcubeassociation.org/persons/2021WOZN01) | 2:43.97, 2:22.00, 2:20.20, 2:01.31, 2:13.17 |
 | 2:18.60 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | 2:15.06, 2:19.12, 2:35.08, 2:21.62, 2:12.97 |
 | 2:18.73 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) | 2:17.98, 2:18.46, 2:32.65, 2:13.15, 2:19.74 |
 | 2:19.76 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | 2:14.50, 2:13.58, 2:24.57, 2:34.70, 2:20.20 |
@@ -147,7 +147,7 @@
 | 30.09 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 27.35, 30.79, 33.45, 28.69, 30.80 |
 | 30.89 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 31.02, 30.69, 30.19, 39.00, 30.97 |
 | 31.04 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 30.64, 30.48, 32.01, 35.29, 26.23 |
-| 32.57 | [Wiktor Gugulski](https://www.worldcubeassociation.org/persons/2023GUGU01) | 33.92, 29.34, 30.12, 41.18, 33.67 |
+| 32.09 | [Wiktor Gugulski](https://www.worldcubeassociation.org/persons/2023GUGU01) | 28.02, 33.36, 32.35, 33.34, 30.57 |
 | 34.38 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 34.44, 34.50, 32.73, 39.70, 34.20 |
 | 34.72 | [Przemysław Rudziak](https://www.worldcubeassociation.org/persons/2020RUDZ02) | 31.69, 35.98, 36.48, 42.45, 31.41 |
 | 35.11 | [Ernest Seroczyński](https://www.worldcubeassociation.org/persons/2015SERO02) | 38.12, 33.80, 35.21, 36.33, 32.93 |

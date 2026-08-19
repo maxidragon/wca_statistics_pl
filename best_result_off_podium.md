@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals at Polish competitions are taken into account.*
-*Updated on 16 August 2026*
+*Updated on 19 August 2026*
 
 
 ### 3x3x3 Cube
@@ -235,14 +235,14 @@
 | :--- | ---: | ---: | :--- | :--: |
 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) | **8:58.97** | DNF | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022/results/all#e555bf_f) | 4 |
 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) | **10:36.00** | DNF | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e555bf_f) | 4 |
+| [Dominik Kobinski](https://www.worldcubeassociation.org/persons/2019KOBI01) | **10:57.00** | 12:59.00 | [All Rounders Katowice II 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceII2026/results/all#e555bf_f) | 4 |
+| [Serhii Mormul (Сергій Мормуль)](https://www.worldcubeassociation.org/persons/2012MORM01) | **12:32.00** | 15:04.00 | [All Rounders Katowice II 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceII2026/results/all#e555bf_f) | 5 |
 | [Daniel Chudecki](https://www.worldcubeassociation.org/persons/2011CHUD01) | **13:30.00** | DNF | [Polish Nationals 2017](https://www.worldcubeassociation.org/competitions/PolishNationals2017/results/all#e555bf_f) | 4 |
 | [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) | **13:31.00** | DNF | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e555bf_f) | 5 |
 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **15:14.00** | DNF | [Back To Białystok 2024](https://www.worldcubeassociation.org/competitions/BackToBialystok2024/results/all#e555bf_f) | 4 |
 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | **15:34.00** | DNF | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022/results/all#e555bf_f) | 5 |
 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | **15:44.00** | DNF | [Poznań Mental Breakdown 2022](https://www.worldcubeassociation.org/competitions/PoznanMentalBreakdown2022/results/all#e555bf_f) | 4 |
 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | **16:04.00** | DNF | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/all#e555bf_f) | 4 |
-| [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | **16:05.00** | DNF | [Szansa Cubing Open Warsaw 2022](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2022/results/all#e555bf_f) | 4 |
-| [Serhii Mormul (Сергій Мормуль)](https://www.worldcubeassociation.org/persons/2012MORM01) | **16:32.00** | DNF | [WIW at Opole 2026](https://www.worldcubeassociation.org/competitions/WIWatOpole2026/results/all#e555bf_f) | 4 |
 
 ### 3x3x3 Multi-Blind
 

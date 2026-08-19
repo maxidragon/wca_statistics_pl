@@ -1,6 +1,6 @@
 ## Most competitions organized
 
-*Updated on 16 August 2026*
+*Updated on 19 August 2026*
 
 | Organized | Person |
 | ---: | :--- |
@@ -22,7 +22,7 @@
 | 23 | [Radosław Ciuk](https://www.worldcubeassociation.org/persons/2013CIUK01) |
 | 22 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 22 | [Piotr Gabara](https://www.worldcubeassociation.org/persons/2024GABA02) |
-| 21 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 20 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 19 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) |
 | 18 | [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) |
 | 18 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) |

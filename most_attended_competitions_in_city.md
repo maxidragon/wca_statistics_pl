@@ -1,7 +1,7 @@
 ## Most attended competitions in a city
 
 *Note: Only Polish persons and Polish competitions with posted results are included.*
-*Updated on 19 August 2026*
+*Updated on 22 August 2026*
 
 
 ### Gdańsk

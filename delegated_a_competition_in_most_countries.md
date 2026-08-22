@@ -1,7 +1,7 @@
 ## Delegated a competition in most countries
 
 *Note: This statistic shows the Polish delegates who have delegated a competition in most countries. Multi-location FMC competitions are excluded.*
-*Updated on 19 August 2026*
+*Updated on 22 August 2026*
 
 | Name | Countries |
 | :--- | ---: |

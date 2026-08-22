@@ -1,7 +1,7 @@
 ## Best all-Polish podiums
 
 *Note: Podiums at any competition where all three podium places were taken by people representing Poland. Podium places with sum of best or average times depending on format.*
-*Updated on 19 August 2026*
+*Updated on 22 August 2026*
 
 
 ### 3x3x3 Cube

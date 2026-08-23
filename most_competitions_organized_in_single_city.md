@@ -6,7 +6,7 @@
 | Person | City | Competitions | Ended at |
 | :--- | :--- | ---: | :--- |
 | [Karolina Wiącek](https://www.worldcubeassociation.org/persons/2008WIAC01) | Gdańsk | 25 | [GLS Gdynia 2020](https://www.worldcubeassociation.org/competitions/GLSGdynia2020) |
-| [Klaudia Milewczyk](https://www.worldcubeassociation.org/persons/2022MILE05) | Gdańsk | 13 |  |
+| [Klaudia Milewczyk](https://www.worldcubeassociation.org/persons/2022MILE05) | Gdańsk | 13 | [Koszalin Open 2026](https://www.worldcubeassociation.org/competitions/KoszalinOpen2026) |
 | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) | Gdańsk | 9 | [Honey Cube Barcin 2024](https://www.worldcubeassociation.org/competitions/HoneyCubeBarcin2024) |
 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | Poznań | 9 | [Gniezno Big Blind Cubing 2022](https://www.worldcubeassociation.org/competitions/GnieznoBigBlindCubing2022) |
 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | Gdańsk | 8 | [Polish Nationals 2011](https://www.worldcubeassociation.org/competitions/PolishNationals2011) |

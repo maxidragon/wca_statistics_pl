@@ -95,6 +95,7 @@ All statistics are computed only for competitors from Poland/Polish competitions
 - [Most records per delegated competition](most_records_per_delegated_competition)
 - [Most rounds held at a competition](most_rounds_at_competition)
 - [Most solves before getting a successful BLD attempt](most_solves_before_bld_success)
+- [Most sub-X results by event](most_sub_x_results_by_event)
 - [Most visited continents](most_visited_continents)
 - [Most visited countries](most_visited_countries)
 - [Moving average](moving_average)

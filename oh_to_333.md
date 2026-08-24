@@ -7,8 +7,8 @@
 | :--- | ---: | ---: | ---: |
 | [Tomasz Seweryn](https://www.worldcubeassociation.org/persons/2006SEWE01) | 19.57 | 17.22 | 1.14 |
 | [Piotr Zambrzycki](https://www.worldcubeassociation.org/persons/2018ZAMB02) | 39.73 | 34.19 | 1.16 |
-| [Grzegorz Łucki](https://www.worldcubeassociation.org/persons/2013UCKI01) | 13.33 | 10.97 | 1.22 |
 | [Hubert Badocha](https://www.worldcubeassociation.org/persons/2013BADO01) | 11.99 | 9.87 | 1.22 |
+| [Grzegorz Łucki](https://www.worldcubeassociation.org/persons/2013UCKI01) | 13.33 | 10.97 | 1.22 |
 | [Karol Celmer](https://www.worldcubeassociation.org/persons/2011CELM01) | 26.32 | 21.10 | 1.25 |
 | [Igor Kowalczyk](https://www.worldcubeassociation.org/persons/2013KOWA04) | 12.41 | 9.86 | 1.26 |
 | [Adam Gajda](https://www.worldcubeassociation.org/persons/2014GAJD03) | 16.68 | 13.09 | 1.27 |

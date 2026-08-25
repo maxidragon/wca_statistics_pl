@@ -1,7 +1,7 @@
 ## Most % of successful solves in each event
 
 *Note: Counts individual attempt values. A successful attempt has value > 0 (not DNF). DNS attempts are excluded. Minimum 10 attempts required.*
-*Updated on 22 August 2026*
+*Updated on 25 August 2026*
 
 
 ### 3x3x3 Cube
@@ -10,7 +10,7 @@
 | ---: | ---: | ---: | :--- |
 | 100.00% | 400 | 400 | [Paweł Kowol](https://www.worldcubeassociation.org/persons/2011KOWO01) |
 | 100.00% | 320 | 320 | [Adam Janiszewski](https://www.worldcubeassociation.org/persons/2022JANI01) |
-| 100.00% | 300 | 300 | [Dominik Żabiński](https://www.worldcubeassociation.org/persons/2022ZABI01) |
+| 100.00% | 310 | 310 | [Dominik Żabiński](https://www.worldcubeassociation.org/persons/2022ZABI01) |
 | 100.00% | 270 | 270 | [Krzysztof Michałek](https://www.worldcubeassociation.org/persons/2022MICH01) |
 | 100.00% | 245 | 245 | [Aleksandra Bystrova](https://www.worldcubeassociation.org/persons/2021BYST01) |
 | 100.00% | 245 | 245 | [Arkadiusz Dubicki](https://www.worldcubeassociation.org/persons/2023DUBI01) |
@@ -23,8 +23,8 @@
 | 100.00% | 205 | 205 | [Nikodem Pieprzyk](https://www.worldcubeassociation.org/persons/2022PIEP02) |
 | 100.00% | 205 | 205 | [Antoni Polityło](https://www.worldcubeassociation.org/persons/2023POLI06) |
 | 100.00% | 200 | 200 | [Bartosz Miduch](https://www.worldcubeassociation.org/persons/2019MIDU01) |
+| 100.00% | 200 | 200 | [Oskar Sobusiak](https://www.worldcubeassociation.org/persons/2025SOBU01) |
 | 100.00% | 195 | 195 | [Kamil Olesz](https://www.worldcubeassociation.org/persons/2013OLES01) |
-| 100.00% | 190 | 190 | [Oskar Sobusiak](https://www.worldcubeassociation.org/persons/2025SOBU01) |
 | 100.00% | 185 | 185 | [Jakub Dolata](https://www.worldcubeassociation.org/persons/2020DOLA01) |
 | 100.00% | 183 | 183 | [Michał Mendocha](https://www.worldcubeassociation.org/persons/2008MEND02) |
 | 100.00% | 180 | 180 | [Sonia Reinert](https://www.worldcubeassociation.org/persons/2013REIN02) |
@@ -52,20 +52,20 @@
 | 100.00% | 142 | 142 | [Bartłomiej Lewandowski](https://www.worldcubeassociation.org/persons/2013LEWA01) |
 | 100.00% | 140 | 140 | [Adrian Walkowiak](https://www.worldcubeassociation.org/persons/2011WALK02) |
 | 100.00% | 139 | 139 | [Maksymilian Piskorowski](https://www.worldcubeassociation.org/persons/2017PISK01) |
-| 100.00% | 134 | 134 | [Adrian Reinert](https://www.worldcubeassociation.org/persons/2013REIN01) |
+| 100.00% | 135 | 135 | [Artur Giża](https://www.worldcubeassociation.org/persons/2023GIZA01) |
 
 ### 4x4x4 Cube
 
 | % | Successful | Total | Person |
 | ---: | ---: | ---: | :--- |
-| 100.00% | 832 | 832 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
+| 100.00% | 837 | 837 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
 | 100.00% | 230 | 230 | [Wojciech Piórczyński](https://www.worldcubeassociation.org/persons/2021PIOR01) |
 | 100.00% | 200 | 200 | [Daniel Samoszyn](https://www.worldcubeassociation.org/persons/2015SAMO01) |
 | 100.00% | 179 | 179 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 100.00% | 156 | 156 | [Mikołaj Molski](https://www.worldcubeassociation.org/persons/2015MOLS01) |
 | 100.00% | 151 | 151 | [Tomasz Kaczorowski](https://www.worldcubeassociation.org/persons/2008KACZ01) |
 | 100.00% | 149 | 149 | [Mateusz Adamczyk](https://www.worldcubeassociation.org/persons/2011ADAM03) |
-| 100.00% | 143 | 143 | [Konrad Wołowiec](https://www.worldcubeassociation.org/persons/2023WOLO01) |
+| 100.00% | 148 | 148 | [Konrad Wołowiec](https://www.worldcubeassociation.org/persons/2023WOLO01) |
 | 100.00% | 136 | 136 | [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) |
 | 100.00% | 127 | 127 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) |
 | 100.00% | 127 | 127 | [Radosław Smędzik](https://www.worldcubeassociation.org/persons/2022SMED01) |
@@ -85,8 +85,8 @@
 | ---: | ---: | ---: | :--- |
 | 100.00% | 320 | 320 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) |
 | 100.00% | 282 | 282 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) |
+| 100.00% | 215 | 215 | [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) |
 | 100.00% | 214 | 214 | [Michał Machnik](https://www.worldcubeassociation.org/persons/2022MACH14) |
-| 100.00% | 210 | 210 | [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) |
 | 100.00% | 196 | 196 | [Oskar Matysik](https://www.worldcubeassociation.org/persons/2019MATY01) |
 | 100.00% | 171 | 171 | [Paweł Kowol](https://www.worldcubeassociation.org/persons/2011KOWO01) |
 | 100.00% | 162 | 162 | [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) |
@@ -160,9 +160,9 @@
 | ---: | ---: | ---: | :--- |
 | 85.76% | 283 | 330 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) |
 | 81.25% | 13 | 16 | [Witold Kozak](https://www.worldcubeassociation.org/persons/2009KOZA01) |
-| 80.51% | 438 | 544 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) |
+| 80.32% | 445 | 554 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) |
 | 75.00% | 21 | 28 | [Kacper Jędrzejuk](https://www.worldcubeassociation.org/persons/2019JEDR01) |
-| 71.69% | 618 | 862 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 71.44% | 623 | 872 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 71.43% | 30 | 42 | [Dominik Jakubowski](https://www.worldcubeassociation.org/persons/2015JAKU01) |
 | 70.00% | 42 | 60 | [Rafał Guzewicz](https://www.worldcubeassociation.org/persons/2006GUZE01) |
 | 66.67% | 34 | 51 | [Marek Pepke](https://www.worldcubeassociation.org/persons/2008PEPK01) |
@@ -173,9 +173,9 @@
 | 63.95% | 94 | 147 | [Szymon Ruksza](https://www.worldcubeassociation.org/persons/2013RUKS01) |
 | 63.71% | 151 | 237 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) |
 | 61.54% | 8 | 13 | [Kamil Wroński](https://www.worldcubeassociation.org/persons/2019WRON01) |
-| 61.51% | 163 | 265 | [Dominik Kobinski](https://www.worldcubeassociation.org/persons/2019KOBI01) |
 | 61.29% | 171 | 279 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) |
 | 60.83% | 309 | 508 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
+| 60.71% | 170 | 280 | [Dominik Kobinski](https://www.worldcubeassociation.org/persons/2019KOBI01) |
 | 60.32% | 38 | 63 | [Mikołaj Salamon](https://www.worldcubeassociation.org/persons/2016SALA18) |
 | 60.00% | 9 | 15 | [Kamil Łukaszewski](https://www.worldcubeassociation.org/persons/2017LUKA02) |
 
@@ -210,7 +210,7 @@
 | ---: | ---: | ---: | :--- |
 | 100.00% | 341 | 341 | [Krzysztof Żerucha](https://www.worldcubeassociation.org/persons/2008ZERU01) |
 | 100.00% | 330 | 330 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) |
-| 100.00% | 255 | 255 | [Kinga Bednarska](https://www.worldcubeassociation.org/persons/2021BEDN01) |
+| 100.00% | 260 | 260 | [Kinga Bednarska](https://www.worldcubeassociation.org/persons/2021BEDN01) |
 | 100.00% | 227 | 227 | [Tomasz Cyrklaff](https://www.worldcubeassociation.org/persons/2009CYRK01) |
 | 100.00% | 216 | 216 | [Paweł Kowol](https://www.worldcubeassociation.org/persons/2011KOWO01) |
 | 100.00% | 216 | 216 | [Adrian Dudek](https://www.worldcubeassociation.org/persons/2014DUDE01) |
@@ -233,7 +233,7 @@
 
 | % | Successful | Total | Person |
 | ---: | ---: | ---: | :--- |
-| 100.00% | 356 | 356 | [Idan Bolesto](https://www.worldcubeassociation.org/persons/2022BOLE01) |
+| 100.00% | 366 | 366 | [Idan Bolesto](https://www.worldcubeassociation.org/persons/2022BOLE01) |
 | 100.00% | 337 | 337 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) |
 | 100.00% | 287 | 287 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) |
 | 100.00% | 250 | 250 | [Kalina Jakubowska](https://www.worldcubeassociation.org/persons/2009BRZE01) |
@@ -241,8 +241,8 @@
 | 100.00% | 221 | 221 | [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) |
 | 100.00% | 215 | 215 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) |
 | 100.00% | 212 | 212 | [Igor Ośmiałowski](https://www.worldcubeassociation.org/persons/2014OMIA01) |
-| 100.00% | 199 | 199 | [Henryk Gabor](https://www.worldcubeassociation.org/persons/2024GABO02) |
-| 100.00% | 184 | 184 | [Kajtek Kwiatkowski](https://www.worldcubeassociation.org/persons/2023KWIA01) |
+| 100.00% | 209 | 209 | [Henryk Gabor](https://www.worldcubeassociation.org/persons/2024GABO02) |
+| 100.00% | 194 | 194 | [Kajtek Kwiatkowski](https://www.worldcubeassociation.org/persons/2023KWIA01) |
 | 100.00% | 174 | 174 | [Mateusz Śliż](https://www.worldcubeassociation.org/persons/2012SLIZ01) |
 | 100.00% | 171 | 171 | [Adrian Walkowiak](https://www.worldcubeassociation.org/persons/2011WALK02) |
 | 100.00% | 150 | 150 | [Wojciech Piórczyński](https://www.worldcubeassociation.org/persons/2021PIOR01) |
@@ -250,9 +250,9 @@
 | 100.00% | 143 | 143 | [Aleksandra Tatoń](https://www.worldcubeassociation.org/persons/2021TATO01) |
 | 100.00% | 137 | 137 | [Maksymilian Jedynak](https://www.worldcubeassociation.org/persons/2019JEDY01) |
 | 100.00% | 120 | 120 | [Maksymilian Piskorowski](https://www.worldcubeassociation.org/persons/2017PISK01) |
+| 100.00% | 117 | 117 | [Paweł Murawski](https://www.worldcubeassociation.org/persons/2015MURA05) |
 | 100.00% | 116 | 116 | [Krzysztof Żerucha](https://www.worldcubeassociation.org/persons/2008ZERU01) |
 | 100.00% | 115 | 115 | [Krzysztof Boguszewski](https://www.worldcubeassociation.org/persons/2019BOGU01) |
-| 100.00% | 112 | 112 | [Daniel Jamrużka](https://www.worldcubeassociation.org/persons/2012JAMR01) |
 
 ### Pyraminx
 
@@ -263,8 +263,8 @@
 | 100.00% | 245 | 245 | [Artur Kubicki](https://www.worldcubeassociation.org/persons/2023KUBI02) |
 | 100.00% | 220 | 220 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) |
 | 100.00% | 209 | 209 | [Mateusz Adamczyk](https://www.worldcubeassociation.org/persons/2011ADAM03) |
+| 100.00% | 200 | 200 | [Krystian Kalicki](https://www.worldcubeassociation.org/persons/2023KALI10) |
 | 100.00% | 193 | 193 | [Piotr Kogut](https://www.worldcubeassociation.org/persons/2016KOGU01) |
-| 100.00% | 190 | 190 | [Krystian Kalicki](https://www.worldcubeassociation.org/persons/2023KALI10) |
 | 100.00% | 185 | 185 | [Michał Machnik](https://www.worldcubeassociation.org/persons/2022MACH14) |
 | 100.00% | 154 | 154 | [Mateusz Wich](https://www.worldcubeassociation.org/persons/2017WICH01) |
 | 100.00% | 150 | 150 | [Piotr Bzinkowski](https://www.worldcubeassociation.org/persons/2023BZIN01) |
@@ -283,11 +283,11 @@
 
 | % | Successful | Total | Person |
 | ---: | ---: | ---: | :--- |
-| 100.00% | 29 | 29 | [Malwina Likus](https://www.worldcubeassociation.org/persons/2026LIKU01) |
 | 100.00% | 22 | 22 | [Wojciech Ludwin](https://www.worldcubeassociation.org/persons/2024LUDW01) |
+| 100.00% | 20 | 20 | [Jan Bielenia](https://www.worldcubeassociation.org/persons/2017BIEL02) |
 | 100.00% | 20 | 20 | [Krzysztof Chlebowski](https://www.worldcubeassociation.org/persons/2021CHLE01) |
+| 100.00% | 18 | 18 | [Mateusz Cukier](https://www.worldcubeassociation.org/persons/2023CUKI01) |
 | 100.00% | 18 | 18 | [Aleksander Fil](https://www.worldcubeassociation.org/persons/2026FILA01) |
-| 100.00% | 16 | 16 | [Mateusz Cukier](https://www.worldcubeassociation.org/persons/2023CUKI01) |
 | 100.00% | 15 | 15 | [Nikodem Surdy](https://www.worldcubeassociation.org/persons/2022SURD01) |
 | 100.00% | 15 | 15 | [Ignacy Piwoński](https://www.worldcubeassociation.org/persons/2025PIWO01) |
 | 100.00% | 14 | 14 | [Cezary Gajzler](https://www.worldcubeassociation.org/persons/2022GAJZ01) |
@@ -298,7 +298,7 @@
 | 100.00% | 12 | 12 | [Mateusz Klamecki](https://www.worldcubeassociation.org/persons/2025KLAM02) |
 | 100.00% | 11 | 11 | [Zygmunt Baranowski](https://www.worldcubeassociation.org/persons/2018BARA06) |
 | 100.00% | 10 | 10 | [Bogdan Damski](https://www.worldcubeassociation.org/persons/2016DAMS03) |
-| 100.00% | 10 | 10 | [Jan Bielenia](https://www.worldcubeassociation.org/persons/2017BIEL02) |
+| 100.00% | 10 | 10 | [Natalia Ryczko](https://www.worldcubeassociation.org/persons/2020RYCZ01) |
 | 100.00% | 10 | 10 | [Szymon Babina](https://www.worldcubeassociation.org/persons/2022BABI06) |
 | 100.00% | 10 | 10 | [Jan Dróżdż](https://www.worldcubeassociation.org/persons/2023DROZ01) |
 | 100.00% | 10 | 10 | [Ignacy Majewski](https://www.worldcubeassociation.org/persons/2023MAJE02) |
@@ -323,8 +323,8 @@
 | 100.00% | 140 | 140 | [Leon Marszal](https://www.worldcubeassociation.org/persons/2024MARS09) |
 | 100.00% | 137 | 137 | [Krzysztof Michałek](https://www.worldcubeassociation.org/persons/2022MICH01) |
 | 100.00% | 130 | 130 | [Mikołaj Świątek](https://www.worldcubeassociation.org/persons/2023SWIA01) |
+| 100.00% | 130 | 130 | [Michał Herzyk](https://www.worldcubeassociation.org/persons/2024HERZ04) |
 | 100.00% | 125 | 125 | [Franciszek Kłos](https://www.worldcubeassociation.org/persons/2021KLOS02) |
-| 100.00% | 120 | 120 | [Michał Herzyk](https://www.worldcubeassociation.org/persons/2024HERZ04) |
 | 100.00% | 120 | 120 | [Michał Luchowski](https://www.worldcubeassociation.org/persons/2024LUCH01) |
 | 100.00% | 115 | 115 | [Krzysztof Boguszewski](https://www.worldcubeassociation.org/persons/2019BOGU01) |
 | 100.00% | 115 | 115 | [Damian Ninard](https://www.worldcubeassociation.org/persons/2024NINA01) |
@@ -342,15 +342,15 @@
 | 100.00% | 125 | 125 | [Szymon Kornatowski](https://www.worldcubeassociation.org/persons/2017KORN03) |
 | 100.00% | 115 | 115 | [Jakub Grzybowski](https://www.worldcubeassociation.org/persons/2017GRZY02) |
 | 100.00% | 90 | 90 | [Przemysław Rudziak](https://www.worldcubeassociation.org/persons/2020RUDZ02) |
-| 100.00% | 85 | 85 | [Dominik Kądziołka](https://www.worldcubeassociation.org/persons/2023KADZ01) |
+| 100.00% | 90 | 90 | [Dominik Kądziołka](https://www.worldcubeassociation.org/persons/2023KADZ01) |
 | 100.00% | 84 | 84 | [Łukasz Owczarek](https://www.worldcubeassociation.org/persons/2022OWCZ02) |
 | 100.00% | 80 | 80 | [Bruno Fromm](https://www.worldcubeassociation.org/persons/2023FROM01) |
 | 100.00% | 77 | 77 | [Tymon Martyński](https://www.worldcubeassociation.org/persons/2022MART79) |
 | 100.00% | 77 | 77 | [Mikołaj Świątek](https://www.worldcubeassociation.org/persons/2023SWIA01) |
 | 100.00% | 72 | 72 | [Kamil Kiełkowski](https://www.worldcubeassociation.org/persons/2023KIEL02) |
+| 100.00% | 70 | 70 | [Mateusz Bednarczyk](https://www.worldcubeassociation.org/persons/2018BEDN03) |
 | 100.00% | 67 | 67 | [Mikołaj Kuzia](https://www.worldcubeassociation.org/persons/2019KUZI02) |
 | 100.00% | 67 | 67 | [Mateusz Gołaś](https://www.worldcubeassociation.org/persons/2021GOLA01) |
-| 100.00% | 65 | 65 | [Mateusz Bednarczyk](https://www.worldcubeassociation.org/persons/2018BEDN03) |
 | 100.00% | 64 | 64 | [Bartosz Miduch](https://www.worldcubeassociation.org/persons/2019MIDU01) |
 | 100.00% | 56 | 56 | [Dominik Podolak](https://www.worldcubeassociation.org/persons/2023PODO02) |
 
@@ -422,11 +422,11 @@
 | 92.31% | 12 | 13 | [Mikołaj Salamon](https://www.worldcubeassociation.org/persons/2016SALA18) |
 | 91.89% | 34 | 37 | [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) |
 | 91.30% | 21 | 23 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) |
-| 90.37% | 169 | 187 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
+| 90.48% | 171 | 189 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 88.89% | 24 | 27 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) |
 | 88.64% | 39 | 44 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) |
-| 88.44% | 153 | 173 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 88.24% | 60 | 68 | [Stanisław Szyszka](https://www.worldcubeassociation.org/persons/2016SZYS02) |
+| 88.00% | 154 | 175 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 86.21% | 25 | 29 | [Michał Wroński](https://www.worldcubeassociation.org/persons/2015WRON01) |
 
 ### 3x3x3 With Feet

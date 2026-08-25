@@ -1,7 +1,7 @@
 ## Worst result providing a win by year at Polish competitions
 
 *Note: Only finals at competitions held in Poland are taken into account, regardless of the winners' countries. Results where the main statistic is DNF are ignored. Each year is considered separately.*
-*Updated on 22 August 2026*
+*Updated on 25 August 2026*
 
 
 ### 2026
@@ -193,9 +193,9 @@
 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) | 4.13 | **4.82** | [BrizZon Side Open 2026](https://www.worldcubeassociation.org/competitions/BrizZonSideOpen2026/results/podiums#eclock) |
 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) | 3.58 | **4.69** | [Brizzon Side Open III 2026](https://www.worldcubeassociation.org/competitions/BrizzonSideOpenIII2026/results/podiums#eclock) |
 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 4.19 | **4.67** | [WLS Styczeń 2026](https://www.worldcubeassociation.org/competitions/WLSStyczen2026/results/podiums#eclock) |
+| [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) | 4.12 | **4.54** | [BrizZon Side Open IV 2026](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenIV2026/results/podiums#eclock) |
 | [Vladyslav Venzyk](https://www.worldcubeassociation.org/persons/2025VENZ01) | 3.57 | **4.40** | [GSKR w Poznaniu 2026](https://www.worldcubeassociation.org/competitions/GSKRwPoznaniu2026/results/podiums#eclock) |
 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) | 3.38 | **4.32** | [Cube4fun Tylmanowa Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaWinter2026/results/podiums#eclock) |
-| [Julian Helowicz](https://www.worldcubeassociation.org/persons/2023HELO01) | 3.24 | **4.28** | [BrizZon Side Open II 2026](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenII2026/results/podiums#eclock) |
 
 #### Skewb
 
@@ -222,10 +222,10 @@
 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 7.06 | **8.32** | [BrizZon Side Open II 2026](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenII2026/results/podiums#esq1) |
 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 6.68 | **8.25** | [Brizzon Side Open III 2026](https://www.worldcubeassociation.org/competitions/BrizzonSideOpenIII2026/results/podiums#esq1) |
 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) | 5.93 | **8.15** | [Warm Up Niepołomice 2026](https://www.worldcubeassociation.org/competitions/WarmUpNiepolomice2026/results/podiums#esq1) |
+| [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 6.53 | **7.74** | [BrizZon Side Open IV 2026](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenIV2026/results/podiums#esq1) |
 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) | 5.84 | **7.68** | [Nagawczyna Side Open 2026](https://www.worldcubeassociation.org/competitions/NagawczynaSideOpen2026/results/podiums#esq1) |
 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 6.80 | **7.66** | [BrizZon Side Open 2026](https://www.worldcubeassociation.org/competitions/BrizZonSideOpen2026/results/podiums#esq1) |
 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) | 4.85 | **7.52** | [Mielec Cubing Days 2026](https://www.worldcubeassociation.org/competitions/MielecCubingDays2026/results/podiums#esq1) |
-| [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 6.28 | **7.48** | [CF Goes Sideways Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesSidewaysBrzeziny2026/results/podiums#esq1) |
 
 #### 4x4x4 Blindfolded
 

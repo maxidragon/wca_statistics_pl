@@ -1,7 +1,7 @@
 ## Worst result providing a podium by year at Polish competitions
 
 *Note: Only finals at competitions held in Poland are taken into account, regardless of the podium members' countries. Results where the main statistic is DNF are ignored. Each year is considered separately.*
-*Updated on 22 August 2026*
+*Updated on 25 August 2026*
 
 
 ### 2026
@@ -274,7 +274,7 @@
 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **16/17 59:36** |  | [All Rounders Katowice II 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceII2026/results/podiums#e333mbf) | 3 |
 | [Tomasz Cepil](https://www.worldcubeassociation.org/persons/2018CEPI01) | **23/31 54:57** |  | [All Rounders Katowice II 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceII2026/results/podiums#e333mbf) | 2 |
 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | **32/44 1:00:00** |  | [CF Goes Sideways Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesSidewaysBrzeziny2026/results/podiums#e333mbf) | 2 |
-| [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | **40/56 1:00:00** |  | [BrizZon Side Open 2026](https://www.worldcubeassociation.org/competitions/BrizZonSideOpen2026/results/podiums#e333mbf) | 3 |
+| [Dominik Kobinski](https://www.worldcubeassociation.org/persons/2019KOBI01) | **29/36 56:21** |  | [BrizZon Side Open IV 2026](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenIV2026/results/podiums#e333mbf) | 3 |
 
 ### 2025
 

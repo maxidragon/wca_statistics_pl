@@ -1,14 +1,14 @@
 ## Most competitions each year
 
 *Note: Only the 25 competitors with the most competitions are listed for each year.*
-*Updated on 25 August 2026*
+*Updated on 28 August 2026*
 
 
 ### 2026
 
 | Competitions | Person |
 | ---: | :--- |
-| 57 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 58 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 40 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 31 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 29 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
@@ -20,8 +20,8 @@
 | 23 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 23 | [Antoni Szcześniak](https://www.worldcubeassociation.org/persons/2023SZCZ04) |
 | 22 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
+| 22 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 22 | [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) |
-| 21 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 21 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) |
 | 20 | [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) |
 | 20 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) |

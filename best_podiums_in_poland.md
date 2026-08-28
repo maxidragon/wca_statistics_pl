@@ -1,7 +1,7 @@
 ## Best podiums at Polish competitions
 
 *Note: Podiums at competitions held in Poland, regardless of the podium members' countries. Podium places with sum of best or average times depending on format.*
-*Updated on 25 August 2026*
+*Updated on 28 August 2026*
 
 
 ### 3x3x3 Cube
@@ -17,7 +17,7 @@
 | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) (5.07), [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) (5.78), [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) (6.19) | 17.04 |
 | [GLS Gdańsk III 2026](https://www.worldcubeassociation.org/competitions/GLSGdanskIII2026) | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) (4.41), [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) (5.93), [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) (6.92) | 17.26 |
 | [Cube4fun in Bełchatów 2024](https://www.worldcubeassociation.org/competitions/Cube4funinBelchatow2024) | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) (4.74), [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) (5.54), [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) (7.09) | 17.37 |
-| [CFL Final Łódź 2025](https://www.worldcubeassociation.org/competitions/CFLFinalLodz2025) | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) (5.21), [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) (5.69), [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) (6.75) | 17.65 |
+| [CFL Koluszki 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueKoluszki2025) | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) (5.59), [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) (5.97), [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) (6.09) | 17.65 |
 
 ### 2x2x2 Cube
 
@@ -25,8 +25,8 @@
 | :--- | :--- | ---: |
 | [Gdańska LS Final 2025](https://www.worldcubeassociation.org/competitions/GLSFinal2025) | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) (1.08), [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) (1.26), [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) (1.42) | 3.76 |
 | [Energy Cube Białołęka 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2025) | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) (1.06), [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) (1.31), [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) (1.41) | 3.78 |
-| [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) (1.04), [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) (1.30), [Igor Łabędź](https://www.worldcubeassociation.org/persons/2021LABE01) (1.48) | 3.82 |
 | [Energy Cube Tomaszów 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2025) | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) (1.15), [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) (1.29), [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) (1.38) | 3.82 |
+| [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) (1.04), [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) (1.30), [Igor Łabędź](https://www.worldcubeassociation.org/persons/2021LABE01) (1.48) | 3.82 |
 | [Cube4fun in Bełchatów 2026](https://www.worldcubeassociation.org/competitions/Cube4funinBelchatow2026) | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) (1.17), [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) (1.25), [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) (1.45) | 3.87 |
 | [CFL Brzeziny Spring 2025](https://www.worldcubeassociation.org/competitions/CFLBrzezinySpring2025) | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) (1.11), [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) (1.38), [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) (1.55) | 4.04 |
 | [Cube4fun Żyrardów 2024](https://www.worldcubeassociation.org/competitions/Cube4funCEZyrardow2024) | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) (1.18), [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) (1.40), [Igor Łabędź](https://www.worldcubeassociation.org/persons/2021LABE01) (1.47) | 4.05 |

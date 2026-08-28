@@ -1,7 +1,7 @@
 ## Highest average percentage of available attempts used
 
 *Note: For every competition, the available attempts are the sum of the expected solve counts of all its rounds, no matter which events the competitor signed up for. The used attempts are the ones they actually started (DNFs count, DNSs and attempts lost to a cutoff do not). The percentage is the average of those per-competition ratios, while the attempt counts are totals. Competitions abroad are included. Only Polish competitors with at least 20 competitions are included.*
-*Updated on 25 August 2026*
+*Updated on 28 August 2026*
 
 | % | Person | Attempted | Available | Competitions |
 | ---: | :--- | ---: | ---: | ---: |
@@ -44,10 +44,10 @@
 | 70.91% | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | 6470 | 9217 | 90 |
 | 70.76% | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 13793 | 19517 | 231 |
 | 70.61% | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) | 7442 | 11142 | 116 |
+| 70.55% | [Jan Jędrzej Kasprzak](https://www.worldcubeassociation.org/persons/2022KASP03) | 2044 | 3059 | 32 |
 | 70.21% | [Kacper Jędrzejuk](https://www.worldcubeassociation.org/persons/2019JEDR01) | 939 | 1563 | 23 |
-| 69.78% | [Jan Jędrzej Kasprzak](https://www.worldcubeassociation.org/persons/2022KASP03) | 1959 | 2969 | 31 |
+| 70.13% | [Marcin Wawiórko](https://www.worldcubeassociation.org/persons/2023WAWI01) | 2046 | 3072 | 41 |
 | 69.54% | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | 3161 | 4735 | 48 |
-| 69.52% | [Marcin Wawiórko](https://www.worldcubeassociation.org/persons/2023WAWI01) | 1961 | 2982 | 40 |
 | 69.49% | [Ignacy Malinowski](https://www.worldcubeassociation.org/persons/2021MALI02) | 5804 | 8563 | 84 |
 | 69.42% | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) | 2930 | 4551 | 54 |
 | 69.06% | [Michał Mlostek](https://www.worldcubeassociation.org/persons/2015MLOS01) | 4743 | 7162 | 68 |

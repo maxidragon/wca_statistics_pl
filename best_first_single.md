@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 25 August 2026*
+*Updated on 28 August 2026*
 
 
 ### 3x3x3 Cube
@@ -115,14 +115,14 @@
 | ---: | :--- |
 | 23 | [Marcin Chmielewski](https://www.worldcubeassociation.org/persons/2023CHMI01) |
 | 26 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
-| 29 | [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) |
 | 29 | [Ignacy Malinowski](https://www.worldcubeassociation.org/persons/2021MALI02) |
+| 29 | [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) |
 | 30 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) |
-| 31 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) |
-| 31 | [Witold Kordos](https://www.worldcubeassociation.org/persons/2016KORD01) |
 | 31 | [Karol Micał](https://www.worldcubeassociation.org/persons/2022MICA03) |
 | 31 | [Krzysztof Boguszewski](https://www.worldcubeassociation.org/persons/2019BOGU01) |
 | 31 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) |
+| 31 | [Witold Kordos](https://www.worldcubeassociation.org/persons/2016KORD01) |
+| 31 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) |
 
 ### 3x3x3 One-Handed
 
@@ -180,8 +180,8 @@
 | 6.30 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
 | 6.30 | [Bartosz Miduch](https://www.worldcubeassociation.org/persons/2019MIDU01) |
 | 6.67 | [Łukasz Owczarek](https://www.worldcubeassociation.org/persons/2022OWCZ02) |
-| 6.75 | [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) |
 | 6.75 | [Łukasz Kamiński](https://www.worldcubeassociation.org/persons/2023KAMI07) |
+| 6.75 | [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) |
 | 7.00 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) |
 
 ### Skewb

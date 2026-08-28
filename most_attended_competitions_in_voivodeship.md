@@ -1,7 +1,7 @@
 ## Competitions per voivodeship
 
 *Note: Voivodeships are inferred from competition coordinates (approximate bounding box). *
-*Updated on 25 August 2026*
+*Updated on 28 August 2026*
 
 
 ### Pomorskie
@@ -437,40 +437,40 @@ _Total competitions: 14_
 | [Krzysztof Kuncki](https://www.worldcubeassociation.org/persons/2010KUNC01) | 4 |
 
 ### Zachodniopomorskie
-_Total competitions: 12_
+_Total competitions: 13_
 
 | Person | Competitions |
 | :--- | ---: |
 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 12 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 12 |
 | [Ernest Zakrzewski](https://www.worldcubeassociation.org/persons/2011ZAKR01) | 10 |
-| [Adam Janiszewski](https://www.worldcubeassociation.org/persons/2022JANI01) | 9 |
+| [Adam Janiszewski](https://www.worldcubeassociation.org/persons/2022JANI01) | 10 |
 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 9 |
-| [Szymon Myśliński](https://www.worldcubeassociation.org/persons/2019MYSL01) | 8 |
-| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 8 |
-| [Grzegorz Łucki](https://www.worldcubeassociation.org/persons/2013UCKI01) | 8 |
 | [Marta Radziwanowska](https://www.worldcubeassociation.org/persons/2022RADZ01) | 8 |
-| [Igor Marczak](https://www.worldcubeassociation.org/persons/2022MARC07) | 7 |
-| [Kajtek Kwiatkowski](https://www.worldcubeassociation.org/persons/2023KWIA01) | 7 |
+| [Igor Marczak](https://www.worldcubeassociation.org/persons/2022MARC07) | 8 |
+| [Grzegorz Łucki](https://www.worldcubeassociation.org/persons/2013UCKI01) | 8 |
+| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 8 |
+| [Szymon Myśliński](https://www.worldcubeassociation.org/persons/2019MYSL01) | 8 |
+| [Krzysztof Górka](https://www.worldcubeassociation.org/persons/2010GORK01) | 7 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 7 |
-| [Krzysztof Górka](https://www.worldcubeassociation.org/persons/2010GORK01) | 6 |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 6 |
-| [Jan Jędrzej Kasprzak](https://www.worldcubeassociation.org/persons/2022KASP03) | 6 |
+| [Jan Jędrzej Kasprzak](https://www.worldcubeassociation.org/persons/2022KASP03) | 7 |
+| [Kajtek Kwiatkowski](https://www.worldcubeassociation.org/persons/2023KWIA01) | 7 |
+| [Tymoteusz Orzechowski](https://www.worldcubeassociation.org/persons/2022ORZE01) | 6 |
 | [Abigail Milewska](https://www.worldcubeassociation.org/persons/2022MILE08) | 6 |
-| [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) | 6 |
-| [Adam Blicharski](https://www.worldcubeassociation.org/persons/2013BLIC01) | 6 |
-| [Oleksandr Pryimakov](https://www.worldcubeassociation.org/persons/2018PRYI01) | 6 |
+| [Łukasz Kurowski](https://www.worldcubeassociation.org/persons/2022KURO01) | 6 |
 | [Michał Kopeć](https://www.worldcubeassociation.org/persons/2020KOPE01) | 6 |
-| [Szymon Walczak](https://www.worldcubeassociation.org/persons/2022WALC02) | 5 |
+| [Oleksandr Pryimakov](https://www.worldcubeassociation.org/persons/2018PRYI01) | 6 |
+| [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) | 6 |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 6 |
+| [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 6 |
+| [Adam Blicharski](https://www.worldcubeassociation.org/persons/2013BLIC01) | 6 |
 | [Filip Brokos](https://www.worldcubeassociation.org/persons/2022BROK03) | 5 |
+| [Michał Majchrzak](https://www.worldcubeassociation.org/persons/2022MAJC01) | 5 |
+| [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | 5 |
 | [Aleksander Zakrzewski](https://www.worldcubeassociation.org/persons/2022ZAKR01) | 5 |
-| [Tomasz Stawowy](https://www.worldcubeassociation.org/persons/2021STAW01) | 5 |
+| [Szymon Walczak](https://www.worldcubeassociation.org/persons/2022WALC02) | 5 |
+| [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 5 |
 | [Kamil Lewandowski](https://www.worldcubeassociation.org/persons/2023LEWA03) | 5 |
-| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 5 |
-| [Alan Żeromski](https://www.worldcubeassociation.org/persons/2018ZERO01) | 5 |
-| [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 5 |
-| [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 5 |
-| [Łukasz Kurowski](https://www.worldcubeassociation.org/persons/2022KURO01) | 5 |
 
 ### Podlaskie
 _Total competitions: 9_

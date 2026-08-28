@@ -1,7 +1,7 @@
 ## Delegated competitions in most voivodeships in Poland
 
 *Note: Voivodeships are inferred from competition coordinates (approximate bounding box). Only Polish delegates and Polish competitions with posted results are included.*
-*Updated on 25 August 2026*
+*Updated on 28 August 2026*
 
 | Delegate | Delegated | Missed | Missed Voivodeships | Completed At |
 | :--- | ---: | ---: | :--- | :--- |
@@ -21,8 +21,8 @@
 | [Stefan Łapicki](https://www.worldcubeassociation.org/persons/2006LAPI01) | 8 | 8 | kujawsko-pomorskie, lubelskie, lubuskie, opolskie, podlaskie, wielkopolskie, zachodniopomorskie, świętokrzyskie |  |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 8 | 8 | dolnośląskie, lubuskie, małopolskie, podkarpackie, podlaskie, warmińsko-mazurskie, wielkopolskie, zachodniopomorskie |  |
 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 7 | 9 | dolnośląskie, lubelskie, lubuskie, małopolskie, opolskie, podkarpackie, podlaskie, pomorskie, warmińsko-mazurskie |  |
+| [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 7 | 9 | kujawsko-pomorskie, lubelskie, lubuskie, małopolskie, podkarpackie, podlaskie, wielkopolskie, śląskie, świętokrzyskie |  |
 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 6 | 10 | kujawsko-pomorskie, lubelskie, lubuskie, małopolskie, opolskie, podlaskie, pomorskie, zachodniopomorskie, śląskie, świętokrzyskie |  |
-| [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 6 | 10 | kujawsko-pomorskie, lubelskie, lubuskie, małopolskie, podkarpackie, podlaskie, wielkopolskie, zachodniopomorskie, śląskie, świętokrzyskie |  |
 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 6 | 10 | dolnośląskie, kujawsko-pomorskie, lubelskie, lubuskie, podkarpackie, podlaskie, warmińsko-mazurskie, wielkopolskie, zachodniopomorskie, świętokrzyskie |  |
 | [Adam Joks](https://www.worldcubeassociation.org/persons/2005JOKS01) | 5 | 11 | lubelskie, lubuskie, małopolskie, opolskie, podkarpackie, podlaskie, warmińsko-mazurskie, zachodniopomorskie, łódzkie, śląskie, świętokrzyskie |  |
 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) | 4 | 12 | dolnośląskie, lubuskie, mazowieckie, małopolskie, opolskie, podkarpackie, podlaskie, warmińsko-mazurskie, wielkopolskie, zachodniopomorskie, łódzkie, świętokrzyskie |  |

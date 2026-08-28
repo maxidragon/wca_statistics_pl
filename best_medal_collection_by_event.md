@@ -1,7 +1,7 @@
 ## Best medal collection by event
 
 *Note: All medals are taken into account, no matter where the competition was held.*
-*Updated on 25 August 2026*
+*Updated on 28 August 2026*
 
 
 ### 3x3x3 Cube
@@ -38,7 +38,7 @@
 
 | Total | Person | Gold | Silver | Bronze |
 | :--: | :--- | :--: | :--: | :--: |
-| **125** | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 111 | 11 | 3 |
+| **126** | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 112 | 11 | 3 |
 | **109** | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 43 | 37 | 29 |
 | **92** | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 30 | 33 | 29 |
 | **82** | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 18 | 33 | 31 |
@@ -54,7 +54,7 @@
 | Total | Person | Gold | Silver | Bronze |
 | :--: | :--- | :--: | :--: | :--: |
 | **129** | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 99 | 20 | 10 |
-| **91** | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 86 | 3 | 2 |
+| **92** | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 87 | 3 | 2 |
 | **81** | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 18 | 39 | 24 |
 | **67** | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 10 | 28 | 29 |
 | **51** | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 13 | 22 | 16 |
@@ -69,7 +69,7 @@
 | Total | Person | Gold | Silver | Bronze |
 | :--: | :--- | :--: | :--: | :--: |
 | **113** | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 93 | 18 | 2 |
-| **70** | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 61 | 6 | 3 |
+| **71** | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 62 | 6 | 3 |
 | **52** | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 5 | 24 | 23 |
 | **32** | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 6 | 18 | 8 |
 | **25** | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 15 | 7 | 3 |
@@ -84,7 +84,7 @@
 | Total | Person | Gold | Silver | Bronze |
 | :--: | :--- | :--: | :--: | :--: |
 | **114** | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 94 | 18 | 2 |
-| **69** | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 56 | 8 | 5 |
+| **70** | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 57 | 8 | 5 |
 | **41** | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 5 | 23 | 13 |
 | **34** | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 7 | 13 | 14 |
 | **30** | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) | 6 | 19 | 5 |
@@ -253,8 +253,8 @@
 | **40** | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | 36 | 4 | 0 |
 | **40** | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) | 28 | 11 | 1 |
 | **35** | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | 4 | 13 | 18 |
+| **25** | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 10 | 11 | 4 |
 | **24** | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 9 | 12 | 3 |
-| **24** | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 9 | 11 | 4 |
 | **21** | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | 0 | 15 | 6 |
 | **20** | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | 2 | 16 | 2 |
 | **15** | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 3 | 3 | 9 |

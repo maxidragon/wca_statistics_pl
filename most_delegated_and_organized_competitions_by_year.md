@@ -1,7 +1,7 @@
 ## Most delegated and organized competitions each year
 
 *Note: This statistic shows how many of the competitions delegated by each Polish delegate in a given year were also organized by them.*
-*Updated on 25 August 2026*
+*Updated on 28 August 2026*
 
 
 ### 2026
@@ -11,7 +11,7 @@
 | 19 | 22 | 86.4% | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 12 | 16 | 75.0% | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 9 | 12 | 75.0% | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
-| 7 | 10 | 70.0% | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
+| 8 | 11 | 72.7% | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
 | 10 | 32 | 31.3% | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 4 | 13 | 30.8% | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
 | 1 | 24 | 4.2% | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |

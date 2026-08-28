@@ -1,7 +1,7 @@
 ## Most % of successful solves in each event
 
 *Note: Counts individual attempt values. A successful attempt has value > 0 (not DNF). DNS attempts are excluded. Minimum 10 attempts required.*
-*Updated on 25 August 2026*
+*Updated on 28 August 2026*
 
 
 ### 3x3x3 Cube
@@ -9,7 +9,7 @@
 | % | Successful | Total | Person |
 | ---: | ---: | ---: | :--- |
 | 100.00% | 400 | 400 | [Paweł Kowol](https://www.worldcubeassociation.org/persons/2011KOWO01) |
-| 100.00% | 320 | 320 | [Adam Janiszewski](https://www.worldcubeassociation.org/persons/2022JANI01) |
+| 100.00% | 335 | 335 | [Adam Janiszewski](https://www.worldcubeassociation.org/persons/2022JANI01) |
 | 100.00% | 310 | 310 | [Dominik Żabiński](https://www.worldcubeassociation.org/persons/2022ZABI01) |
 | 100.00% | 270 | 270 | [Krzysztof Michałek](https://www.worldcubeassociation.org/persons/2022MICH01) |
 | 100.00% | 245 | 245 | [Aleksandra Bystrova](https://www.worldcubeassociation.org/persons/2021BYST01) |
@@ -174,7 +174,7 @@
 | 63.71% | 151 | 237 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) |
 | 61.54% | 8 | 13 | [Kamil Wroński](https://www.worldcubeassociation.org/persons/2019WRON01) |
 | 61.29% | 171 | 279 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) |
-| 60.83% | 309 | 508 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
+| 60.81% | 315 | 518 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
 | 60.71% | 170 | 280 | [Dominik Kobinski](https://www.worldcubeassociation.org/persons/2019KOBI01) |
 | 60.32% | 38 | 63 | [Mikołaj Salamon](https://www.worldcubeassociation.org/persons/2016SALA18) |
 | 60.00% | 9 | 15 | [Kamil Łukaszewski](https://www.worldcubeassociation.org/persons/2017LUKA02) |
@@ -226,8 +226,8 @@
 | 100.00% | 136 | 136 | [Jakub Tkaczyk](https://www.worldcubeassociation.org/persons/2015TKAC02) |
 | 100.00% | 127 | 127 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) |
 | 100.00% | 123 | 123 | [Tomasz Seweryn](https://www.worldcubeassociation.org/persons/2006SEWE01) |
+| 100.00% | 122 | 122 | [Adam Janiszewski](https://www.worldcubeassociation.org/persons/2022JANI01) |
 | 100.00% | 120 | 120 | [Cezary Rokita](https://www.worldcubeassociation.org/persons/2011ROKI01) |
-| 100.00% | 114 | 114 | [Tymon Sozański](https://www.worldcubeassociation.org/persons/2022SOZA01) |
 
 ### Megaminx
 
@@ -318,8 +318,8 @@
 | 100.00% | 172 | 172 | [Paweł Kowol](https://www.worldcubeassociation.org/persons/2011KOWO01) |
 | 100.00% | 160 | 160 | [Filip Chudy](https://www.worldcubeassociation.org/persons/2022CHUD02) |
 | 100.00% | 160 | 160 | [Kacper Wandoch](https://www.worldcubeassociation.org/persons/2024WAND01) |
+| 100.00% | 155 | 155 | [Remigiusz Wingert](https://www.worldcubeassociation.org/persons/2024WING03) |
 | 100.00% | 150 | 150 | [Maciej Sugier](https://www.worldcubeassociation.org/persons/2022SUGI01) |
-| 100.00% | 145 | 145 | [Remigiusz Wingert](https://www.worldcubeassociation.org/persons/2024WING03) |
 | 100.00% | 140 | 140 | [Leon Marszal](https://www.worldcubeassociation.org/persons/2024MARS09) |
 | 100.00% | 137 | 137 | [Krzysztof Michałek](https://www.worldcubeassociation.org/persons/2022MICH01) |
 | 100.00% | 130 | 130 | [Mikołaj Świątek](https://www.worldcubeassociation.org/persons/2023SWIA01) |
@@ -412,7 +412,7 @@
 | 100.00% | 11 | 11 | [Bartosz Krzysztoszek](https://www.worldcubeassociation.org/persons/2017KRZY01) |
 | 98.04% | 50 | 51 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) |
 | 97.73% | 43 | 44 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
-| 97.06% | 99 | 102 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 97.09% | 100 | 103 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 95.83% | 23 | 24 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
 | 95.24% | 20 | 21 | [Tomasz Tokarski](https://www.worldcubeassociation.org/persons/2012TOKA02) |
 | 95.24% | 20 | 21 | [Tomasz Cepil](https://www.worldcubeassociation.org/persons/2018CEPI01) |

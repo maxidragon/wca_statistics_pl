@@ -1,7 +1,7 @@
 ## Best all-Polish podiums
 
 *Note: Podiums at any competition where all three podium places were taken by people representing Poland. Podium places with sum of best or average times depending on format.*
-*Updated on 25 August 2026*
+*Updated on 28 August 2026*
 
 
 ### 3x3x3 Cube
@@ -120,9 +120,9 @@
 | [Fun with FM in Warsaw 2026](https://www.worldcubeassociation.org/competitions/FunwithFMinWarsaw2026) | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) (21.33), [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) (22.33), [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) (22.33) | 65.99 |
 | [CFL Goes Sideways Rogów 2025](https://www.worldcubeassociation.org/competitions/CFLGoesSidewaysRogow2025) | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) (21.33), [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) (22.00), [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) (23.33) | 66.66 |
 | [PST: FMC Poznań 2025](https://www.worldcubeassociation.org/competitions/PSTFMCPoznan2025) | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) (22.00), [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) (22.33), [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) (22.33) | 66.66 |
+| [Fun with FM in Warsaw II 2026](https://www.worldcubeassociation.org/competitions/FunWithFMinWarsawII2026) | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) (21.33), [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) (22.67), [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) (23.00) | 67.00 |
 | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) (22.00), [Marcin Chmielewski](https://www.worldcubeassociation.org/persons/2023CHMI01) (22.33), [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) (22.67) | 67.00 |
 | [Cool Down Szczecin 2025](https://www.worldcubeassociation.org/competitions/CoolDownSzczecin2025) | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) (22.00), [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) (22.00), [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) (23.00) | 67.00 |
-| [Fun with FM in Warsaw II 2026](https://www.worldcubeassociation.org/competitions/FunWithFMinWarsawII2026) | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) (21.33), [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) (22.67), [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) (23.00) | 67.00 |
 
 ### 3x3x3 Fewest Moves (Best of 2)
 
@@ -220,8 +220,8 @@
 | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) (1.81), [Szymon Brągiel](https://www.worldcubeassociation.org/persons/2022BRAG03) (1.99), [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) (2.15) | 5.95 |
 | [Warm Up Niepołomice 2026](https://www.worldcubeassociation.org/competitions/WarmUpNiepolomice2026) | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) (1.95), [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) (2.02), [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) (2.04) | 6.01 |
 | [Energy Cube Białołęka 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2025) | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) (1.86), [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) (2.03), [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) (2.33) | 6.22 |
-| [Megaminx Fiesta Augustów 2025](https://www.worldcubeassociation.org/competitions/MegaminxFiestaAugustow2025) | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) (1.52), [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) (2.06), [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) (2.78) | 6.36 |
 | [Energy Cube Tomaszów 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2024) | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) (1.98), [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) (2.13), [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) (2.25) | 6.36 |
+| [Megaminx Fiesta Augustów 2025](https://www.worldcubeassociation.org/competitions/MegaminxFiestaAugustow2025) | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) (1.52), [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) (2.06), [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) (2.78) | 6.36 |
 | [Gift Packs Niepołomice 2025](https://www.worldcubeassociation.org/competitions/GiftPacksNiepolomice2025) | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) (1.93), [Szymon Brągiel](https://www.worldcubeassociation.org/persons/2022BRAG03) (2.06), [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) (2.42) | 6.41 |
 | [Mysłowice Cubing Spring 2026](https://www.worldcubeassociation.org/competitions/MyslowiceCubingSpring2026) | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) (1.54), [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) (1.95), [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) (3.07) | 6.56 |
 

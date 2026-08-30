@@ -27,9 +27,9 @@
 | 18 | [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) |
 | 18 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) |
 | 18 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
-| 16 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
+| 17 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
+| 15 | [Klaudia Milewczyk](https://www.worldcubeassociation.org/persons/2022MILE05) |
 | 14 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
-| 14 | [Klaudia Milewczyk](https://www.worldcubeassociation.org/persons/2022MILE05) |
 | 13 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) |
 | 12 | [Szymon Jeziorski](https://www.worldcubeassociation.org/persons/2013JEZI01) |
 | 11 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
@@ -43,9 +43,9 @@
 | 9 | [Tomasz Szubert](https://www.worldcubeassociation.org/persons/2022SZUB02) |
 | 8 | [Klaudia Ciuk](https://www.worldcubeassociation.org/persons/2013CIUK02) |
 | 8 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |
+| 8 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
 | 8 | Stowarzyszenie LIGA NIEZWYKŁYCH |
 | 7 | [Przemysław Piątek](https://www.worldcubeassociation.org/persons/2013PITE01) |
-| 7 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
 | 7 | [Robert Cegiel](https://www.worldcubeassociation.org/persons/2017CEGI01) |
 | 7 | [Michał Wachowiak](https://www.worldcubeassociation.org/persons/2015WACH01) |
 | 7 | [Arleta Tokarska](https://www.worldcubeassociation.org/persons/2025TOKA01) |

@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals at Polish competitions are taken into account.*
-*Updated on 28 August 2026*
+*Updated on 31 August 2026*
 
 
 ### 3x3x3 Cube
@@ -24,6 +24,7 @@
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
 | [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) | 0.69 | **1.43** | [Energy Cube Białołęka 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2025/results/all#e222_f) | 4 |
+| [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 1.11 | **1.45** | [Puck Open 2026](https://www.worldcubeassociation.org/competitions/PuckOpen2026/results/all#e222_f) | 4 |
 | [Szymon Musiał](https://www.worldcubeassociation.org/persons/2018MUSI03) | 1.33 | **1.46** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e222_f) | 4 |
 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | 1.16 | **1.47** | [Szansa Cubing Open Warsaw 2025](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2025/results/all#e222_f) | 4 |
 | [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) | 0.90 | **1.53** | [Cube4fun in Bełchatów 2026](https://www.worldcubeassociation.org/competitions/Cube4funinBelchatow2026/results/all#e222_f) | 4 |
@@ -32,7 +33,6 @@
 | [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) | 0.95 | **1.55** | [Energy Cube Ciechanów 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeCiechanow2024/results/all#e222_f) | 4 |
 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | 1.14 | **1.56** | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/all#e222_f) | 5 |
 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | 0.98 | **1.57** | [Cube4fun Żyrardów 2024](https://www.worldcubeassociation.org/competitions/Cube4funCEZyrardow2024/results/all#e222_f) | 4 |
-| [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 1.31 | **1.57** | [CFL Koluszki 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueKoluszki2025/results/all#e222_f) | 5 |
 
 ### 4x4x4 Cube
 
@@ -203,6 +203,8 @@
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
+| [Maksym Wingert](https://www.worldcubeassociation.org/persons/2024WING02) | 6.07 | **7.23** | [Puck Open 2026](https://www.worldcubeassociation.org/competitions/PuckOpen2026/results/all#esq1_f) | 4 |
+| [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 6.63 | **7.32** | [Puck Open 2026](https://www.worldcubeassociation.org/competitions/PuckOpen2026/results/all#esq1_f) | 5 |
 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 6.53 | **7.85** | [SzczeciNxN 2026](https://www.worldcubeassociation.org/competitions/SzczeciNxN2026/results/all#esq1_f) | 4 |
 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 6.97 | **7.91** | [GLS Gdańsk III 2026](https://www.worldcubeassociation.org/competitions/GLSGdanskIII2026/results/all#esq1_f) | 4 |
 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 7.65 | **8.07** | [SzczeciNxN 2026](https://www.worldcubeassociation.org/competitions/SzczeciNxN2026/results/all#esq1_f) | 5 |
@@ -211,8 +213,6 @@
 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | 6.86 | **8.45** | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/all#esq1_f) | 5 |
 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 5.84 | **8.49** | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/all#esq1_f) | 6 |
 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 6.38 | **8.55** | [WLS Styczeń 2026](https://www.worldcubeassociation.org/competitions/WLSStyczen2026/results/all#esq1_c) | 4 |
-| [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 5.54 | **8.59** | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/all#esq1_f) | 7 |
-| [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 7.03 | **8.59** | [Żmigród Open 2026](https://www.worldcubeassociation.org/competitions/ZmigrodOpen2026/results/all#esq1_f) | 4 |
 
 ### 4x4x4 Blindfolded
 

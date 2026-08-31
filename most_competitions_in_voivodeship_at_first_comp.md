@@ -1,7 +1,7 @@
 ## Most % of competitions attended in the same voivodeship as the first competition of the competitor
 
 *Note: Counts how many Polish competitions a person attended in the same voivodeship where they had their first Polish competition. The ratio is computed against all competitions attended, including those abroad.*
-*Updated on 28 August 2026*
+*Updated on 31 August 2026*
 
 | Person | First Competition | Voivodeship | Comps in Voivodeship | Total Comps | Ratio |
 | :--- | :--- | :--- | ---: | ---: | ---: |
@@ -32,11 +32,12 @@
 | [Aniela Konopacka](https://www.worldcubeassociation.org/persons/2023KONO01) | [GLS II 2023](https://www.worldcubeassociation.org/competitions/GLSII2023) | Pomorskie | 11 | 11 | 100.0% |
 | [Grzegorz Łucki](https://www.worldcubeassociation.org/persons/2014UCKI01) | [Polish Open 2014](https://www.worldcubeassociation.org/competitions/PolishOpen2014) | Pomorskie | 11 | 11 | 100.0% |
 | [Jakub Pawlak](https://www.worldcubeassociation.org/persons/2017PAWL02) | [GLS Cup V 2017](https://www.worldcubeassociation.org/competitions/GLSCupV2017) | Pomorskie | 11 | 11 | 100.0% |
+| [Jan Urbański](https://www.worldcubeassociation.org/persons/2025URBA01) | [Gdańska Liga Speedcubingu I 2025](https://www.worldcubeassociation.org/competitions/GdanskaLigaSpeedcubinguI2025) | Pomorskie | 11 | 11 | 100.0% |
 | [Szymon Glura](https://www.worldcubeassociation.org/persons/2017GLUR01) | [GLS Cup I 2017](https://www.worldcubeassociation.org/competitions/GLSCupI2017) | Pomorskie | 11 | 11 | 100.0% |
 | [Antoni Kłos](https://www.worldcubeassociation.org/persons/2021KLOS01) | [September Speedcubing Tour Rzeszów 2021](https://www.worldcubeassociation.org/competitions/SSTRzeszow2021) | Podkarpackie | 10 | 10 | 100.0% |
 | [Jakub Kamiński](https://www.worldcubeassociation.org/persons/2025KAMI01) | [Cube Factory League Jeżów 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueJezow2025) | Łódzkie | 10 | 10 | 100.0% |
 | [Jan Guzek](https://www.worldcubeassociation.org/persons/2025GUZE01) | [Cube Factory League Rogów 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueRogow2025) | Łódzkie | 10 | 10 | 100.0% |
-| [Jan Urbański](https://www.worldcubeassociation.org/persons/2025URBA01) | [Gdańska Liga Speedcubingu I 2025](https://www.worldcubeassociation.org/competitions/GdanskaLigaSpeedcubinguI2025) | Pomorskie | 10 | 10 | 100.0% |
+| [Jonasz Chełmikowski](https://www.worldcubeassociation.org/persons/2025CHEL02) | [Gdańska Liga Speedcubingu III 2025](https://www.worldcubeassociation.org/competitions/GLSIII2025) | Pomorskie | 10 | 10 | 100.0% |
 | [Kacper Kłos](https://www.worldcubeassociation.org/persons/2016KLOS01) | [GLS Cup I 2016](https://www.worldcubeassociation.org/competitions/GLSCupI2016) | Pomorskie | 10 | 10 | 100.0% |
 | [Karol Szczeciński](https://www.worldcubeassociation.org/persons/2024SZCZ04) | [Cube Factory Rogów 2024](https://www.worldcubeassociation.org/competitions/CubeFactoryRogow2024) | Łódzkie | 10 | 10 | 100.0% |
 | [Konrad Warmusz](https://www.worldcubeassociation.org/persons/2013WARM01) | [Rybnik Open 2013](https://www.worldcubeassociation.org/competitions/RybnikOpen2013) | Śląskie | 10 | 10 | 100.0% |
@@ -49,7 +50,6 @@
 | [Fabian Dejna](https://www.worldcubeassociation.org/persons/2018DEJN01) | [GLS Cup II 2018](https://www.worldcubeassociation.org/competitions/GLSCupII2018) | Pomorskie | 9 | 9 | 100.0% |
 | [Ignacy Bukowski](https://www.worldcubeassociation.org/persons/2017BUKO01) | [GLS Cup I 2017](https://www.worldcubeassociation.org/competitions/GLSCupI2017) | Pomorskie | 9 | 9 | 100.0% |
 | [Jakub Naja](https://www.worldcubeassociation.org/persons/2018NAJA01) | [LLS II 2018](https://www.worldcubeassociation.org/competitions/LLSII2018) | Lubelskie | 9 | 9 | 100.0% |
-| [Jonasz Chełmikowski](https://www.worldcubeassociation.org/persons/2025CHEL02) | [Gdańska Liga Speedcubingu III 2025](https://www.worldcubeassociation.org/competitions/GLSIII2025) | Pomorskie | 9 | 9 | 100.0% |
 | [Julian Schier](https://www.worldcubeassociation.org/persons/2023SCHI21) | [Cube4fun Cubers Eve Tarnowskie Góry 2023](https://www.worldcubeassociation.org/competitions/Cube4funCubersEve2023) | Śląskie | 9 | 9 | 100.0% |
 | [Mateusz Madej](https://www.worldcubeassociation.org/persons/2025MADE02) | [Gdańska Liga Speedcubingu II 2025](https://www.worldcubeassociation.org/competitions/GLSII2025) | Pomorskie | 9 | 9 | 100.0% |
 | [Paweł Gołdyn](https://www.worldcubeassociation.org/persons/2024GOLD11) | [Żory Cubing Mansion 2024](https://www.worldcubeassociation.org/competitions/ZoryCubingMansion2024) | Śląskie | 9 | 9 | 100.0% |
@@ -72,6 +72,7 @@
 | [Laura Kowalska](https://www.worldcubeassociation.org/persons/2015KOWA03) | [Polish Championship 2015](https://www.worldcubeassociation.org/competitions/PolishChampionship2015) | Pomorskie | 8 | 8 | 100.0% |
 | [Leon Białkowski](https://www.worldcubeassociation.org/persons/2022BIAL02) | [Gdańsk Open 2022](https://www.worldcubeassociation.org/competitions/GdanskOpen2022) | Pomorskie | 8 | 8 | 100.0% |
 | [Maria Weremczuk](https://www.worldcubeassociation.org/persons/2025WERE01) | [Cube4fun Lublin Winter 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2025) | Lubelskie | 8 | 8 | 100.0% |
+| [Michał Korzeniowski](https://www.worldcubeassociation.org/persons/2023KORZ02) | [GLS V 2023](https://www.worldcubeassociation.org/competitions/GLSV2023) | Pomorskie | 8 | 8 | 100.0% |
 | [Mieszko Masłowski](https://www.worldcubeassociation.org/persons/2013MASO01) | [Rybnik Open 2013](https://www.worldcubeassociation.org/competitions/RybnikOpen2013) | Śląskie | 8 | 8 | 100.0% |
 | [Nikodem Frejtak](https://www.worldcubeassociation.org/persons/2014FREJ02) | [PLS Marina 2014](https://www.worldcubeassociation.org/competitions/PLSMarina2014) | Pomorskie | 8 | 8 | 100.0% |
 | [Paweł Psykała](https://www.worldcubeassociation.org/persons/2013PSYK01) | [Polish Nationals 2013](https://www.worldcubeassociation.org/competitions/PolishNationals2013) | Śląskie | 8 | 8 | 100.0% |
@@ -100,7 +101,6 @@
 | [Marcin Nowak](https://www.worldcubeassociation.org/persons/2013NOWA01) | [Rybnik Open 2013](https://www.worldcubeassociation.org/competitions/RybnikOpen2013) | Śląskie | 7 | 7 | 100.0% |
 | [Mateusz Zygo](https://www.worldcubeassociation.org/persons/2020ZYGO01) | [Polish Speedcubing Tour Biłgoraj 2020](https://www.worldcubeassociation.org/competitions/PSTBilgoraj2020) | Lubelskie | 7 | 7 | 100.0% |
 | [Michał Chudzik](https://www.worldcubeassociation.org/persons/2013CHUD01) | [Polish Nationals 2013](https://www.worldcubeassociation.org/competitions/PolishNationals2013) | Śląskie | 7 | 7 | 100.0% |
-| [Michał Korzeniowski](https://www.worldcubeassociation.org/persons/2023KORZ02) | [GLS V 2023](https://www.worldcubeassociation.org/competitions/GLSV2023) | Pomorskie | 7 | 7 | 100.0% |
 | [Oskar Iwaszkiewicz](https://www.worldcubeassociation.org/persons/2016IWAS02) | [GLS Cup IV 2016](https://www.worldcubeassociation.org/competitions/GLSCupIV2016) | Pomorskie | 7 | 7 | 100.0% |
 | [Paweł Filar](https://www.worldcubeassociation.org/persons/2019FILA01) | [GLS Winter Camp 2019](https://www.worldcubeassociation.org/competitions/GLSWinterCamp2019) | Pomorskie | 7 | 7 | 100.0% |
 | [Stanisław Kamiński](https://www.worldcubeassociation.org/persons/2025KAMI02) | [Cube Factory League Jeżów 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueJezow2025) | Łódzkie | 7 | 7 | 100.0% |

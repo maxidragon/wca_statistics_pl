@@ -1,38 +1,38 @@
 ## Most competitions each year
 
 *Note: Only the 25 competitors with the most competitions are listed for each year.*
-*Updated on 28 August 2026*
+*Updated on 31 August 2026*
 
 
 ### 2026
 
 | Competitions | Person |
 | ---: | :--- |
-| 58 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
-| 40 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 59 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 41 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 31 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 29 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
-| 25 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
-| 25 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
-| 25 | [Idan Bolesto](https://www.worldcubeassociation.org/persons/2022BOLE01) |
+| 26 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
+| 26 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
+| 26 | [Idan Bolesto](https://www.worldcubeassociation.org/persons/2022BOLE01) |
+| 25 | [Robert Ślesicki](https://www.worldcubeassociation.org/persons/2019SLES02) |
 | 24 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) |
-| 24 | [Robert Ślesicki](https://www.worldcubeassociation.org/persons/2019SLES02) |
-| 23 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
+| 24 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 23 | [Antoni Szcześniak](https://www.worldcubeassociation.org/persons/2023SZCZ04) |
 | 22 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 22 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
+| 22 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) |
 | 22 | [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) |
-| 21 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) |
+| 21 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) |
 | 20 | [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) |
-| 20 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) |
 | 20 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
-| 19 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) |
-| 18 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
+| 20 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) |
+| 19 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
+| 19 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
+| 19 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) |
+| 18 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) |
 | 18 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) |
-| 18 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
-| 18 | [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) |
-| 18 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
-| 18 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) |
+| 18 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) |
 
 ### 2025
 

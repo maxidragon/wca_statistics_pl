@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 28 August 2026*
+*Updated on 31 August 2026*
 
 
 ### 3x3x3 Cube
@@ -11,7 +11,7 @@
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 40 |
 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 17 |
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 11 |
-| [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 5 |
+| [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 6 |
 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | 4 |
 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | 3 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 2 |
@@ -35,9 +35,8 @@
 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) | 7 |
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 6 |
 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) | 5 |
-| [Michał Robaczyk](https://www.worldcubeassociation.org/persons/2006ROBA01) | 3 |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 3 |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 2 |
+| [Michał Robaczyk](https://www.worldcubeassociation.org/persons/2006ROBA01) | 3 |
 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | 2 |
 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 2 |
 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | 2 |
@@ -49,14 +48,15 @@
 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 1 |
 | [Szymon Brągiel](https://www.worldcubeassociation.org/persons/2022BRAG03) | 1 |
 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) | 1 |
-| [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) | 1 |
 | [Dawid Kowalczyk](https://www.worldcubeassociation.org/persons/2023KOWA07) | 1 |
+| [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) | 1 |
+| [Adam Jagła](https://www.worldcubeassociation.org/persons/2017JAGL01) | 1 |
 
 ### 4x4x4 Cube
 
 | Person | Winned weeks |
 | :--- | ---: |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 68 |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 67 |
 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 6 |
 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 5 |
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 5 |
@@ -211,10 +211,10 @@
 | [Adam Jagła](https://www.worldcubeassociation.org/persons/2017JAGL01) | 3 |
 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | 2 |
 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) | 2 |
+| [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | 2 |
 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) | 2 |
 | [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) | 1 |
 | [Mateusz Kotwica](https://www.worldcubeassociation.org/persons/2016KOTW01) | 1 |
-| [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | 1 |
 
 ### Clock
 
@@ -224,9 +224,9 @@
 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | 15 |
 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | 10 |
 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 10 |
+| [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 5 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 5 |
 | [Rafał Studnicki](https://www.worldcubeassociation.org/persons/2005STUD01) | 4 |
-| [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 4 |
 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) | 2 |
 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) | 2 |
 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) | 1 |

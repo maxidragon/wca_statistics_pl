@@ -1,7 +1,7 @@
 ## Medals to competitions ratio
 
 *Note: Only Polish competitors included*
-*Updated on 28 August 2026*
+*Updated on 31 August 2026*
 
 | Person | Medals | Competitions | Ratio |
 | :--- | ---: | ---: | ---: |
@@ -18,15 +18,15 @@
 | [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) | 135 | 49 | 2.76 |
 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | 245 | 90 | 2.72 |
 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | 194 | 74 | 2.62 |
-| [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 231 | 89 | 2.60 |
+| [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 235 | 90 | 2.61 |
 | [Kamil Zieliński](https://www.worldcubeassociation.org/persons/2008ZIEL01) | 87 | 34 | 2.56 |
 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | 164 | 71 | 2.31 |
-| [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 191 | 83 | 2.30 |
+| [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 194 | 84 | 2.31 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 319 | 140 | 2.28 |
 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 185 | 82 | 2.26 |
 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) | 135 | 62 | 2.18 |
 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 91 | 42 | 2.17 |
-| [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | 178 | 83 | 2.14 |
+| [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | 180 | 84 | 2.14 |
 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | 107 | 50 | 2.14 |
 
 

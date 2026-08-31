@@ -1,7 +1,7 @@
 ## Worst result providing a win by year at Polish competitions
 
 *Note: Only finals at competitions held in Poland are taken into account, regardless of the winners' countries. Results where the main statistic is DNF are ignored. Each year is considered separately.*
-*Updated on 28 August 2026*
+*Updated on 31 August 2026*
 
 
 ### 2026

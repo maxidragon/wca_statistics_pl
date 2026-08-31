@@ -1,44 +1,44 @@
 ## Competitions per voivodeship
 
 *Note: Voivodeships are inferred from competition coordinates (approximate bounding box). *
-*Updated on 28 August 2026*
+*Updated on 31 August 2026*
 
 
 ### Pomorskie
-_Total competitions: 99_
+_Total competitions: 100_
 
 | Person | Competitions |
 | :--- | ---: |
 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 89 |
 | [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) | 72 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 64 |
-| [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 63 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 65 |
+| [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 64 |
 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | 62 |
 | [Karolina Wiącek](https://www.worldcubeassociation.org/persons/2008WIAC01) | 62 |
 | [Kalina Jakubowska](https://www.worldcubeassociation.org/persons/2009BRZE01) | 56 |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 52 |
-| [Oskar Kaczmarek](https://www.worldcubeassociation.org/persons/2013KACZ01) | 50 |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 50 |
-| [Igor Ośmiałowski](https://www.worldcubeassociation.org/persons/2014OMIA01) | 49 |
+| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 51 |
+| [Oskar Kaczmarek](https://www.worldcubeassociation.org/persons/2013KACZ01) | 51 |
+| [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) | 49 |
 | [Patrycja Michalska](https://www.worldcubeassociation.org/persons/2013MICH02) | 49 |
-| [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) | 48 |
+| [Igor Ośmiałowski](https://www.worldcubeassociation.org/persons/2014OMIA01) | 49 |
 | [Marek Pepke](https://www.worldcubeassociation.org/persons/2008PEPK01) | 47 |
 | [Grzegorz Pacewicz](https://www.worldcubeassociation.org/persons/2014PACE01) | 46 |
 | [Kamil Pawlak](https://www.worldcubeassociation.org/persons/2006PAWL01) | 43 |
-| [Kacper Grzelakowski](https://www.worldcubeassociation.org/persons/2017GRZE01) | 42 |
-| [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 41 |
+| [Kacper Grzelakowski](https://www.worldcubeassociation.org/persons/2017GRZE01) | 43 |
+| [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 42 |
 | [Piotr Frankowski](https://www.worldcubeassociation.org/persons/2006FRAN01) | 40 |
 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | 38 |
+| [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 37 |
+| [Przemysław Kanarski](https://www.worldcubeassociation.org/persons/2019KANA04) | 37 |
 | [Cezary Mach](https://www.worldcubeassociation.org/persons/2018MACH04) | 36 |
-| [Przemysław Kanarski](https://www.worldcubeassociation.org/persons/2019KANA04) | 36 |
-| [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 36 |
 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) | 35 |
-| [Alan Żeromski](https://www.worldcubeassociation.org/persons/2018ZERO01) | 34 |
 | [Piotr Kuchta](https://www.worldcubeassociation.org/persons/2012KUCH01) | 34 |
-| [Marta Żywicka](https://www.worldcubeassociation.org/persons/2013YWIC01) | 33 |
+| [Alan Żeromski](https://www.worldcubeassociation.org/persons/2018ZERO01) | 34 |
 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) | 33 |
-| [Maciej Jabłoński](https://www.worldcubeassociation.org/persons/2017JABL01) | 32 |
+| [Marta Żywicka](https://www.worldcubeassociation.org/persons/2013YWIC01) | 33 |
 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 32 |
+| [Maciej Jabłoński](https://www.worldcubeassociation.org/persons/2017JABL01) | 32 |
 
 ### Śląskie
 _Total competitions: 79_

@@ -1,7 +1,7 @@
 ## Average number of competitions of listed delegates at Polish competitions by number of delegates
 
 *Note: Competitions are grouped by how many delegates they had. Each table shows the competitions with the highest average number of competitions that listed delegates had participated in up to and including the one they delegated.*
-*Updated on 28 August 2026*
+*Updated on 31 August 2026*
 
 
 ### 9 Delegates
@@ -61,6 +61,7 @@
 | [Gdańska LS Final 2025](https://www.worldcubeassociation.org/competitions/GLSFinal2025) | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 245.67 |
 | [Gdańska Liga Speedcubingu V 2025](https://www.worldcubeassociation.org/competitions/GdanskaLigaSpeedcubinguV2025) | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 240.33 |
 | [GLS IV 2025](https://www.worldcubeassociation.org/competitions/GLSIV2025) | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 233.67 |
+| [Puck Open 2026](https://www.worldcubeassociation.org/competitions/PuckOpen2026) | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01), [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 225.33 |
 | [Honey Cube Barcin 2025](https://www.worldcubeassociation.org/competitions/HoneyCubeBarcin2025) | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01), [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 224.33 |
 | [GLS III 2025](https://www.worldcubeassociation.org/competitions/GLSIII2025) | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 221.00 |
 | [GLS II 2025](https://www.worldcubeassociation.org/competitions/GLSII2025) | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 214.00 |
@@ -74,7 +75,6 @@
 | [Siedlce Open 2025](https://www.worldcubeassociation.org/competitions/SiedlceOpen2025) | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01), [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 179.00 |
 | [Warm-Up Warsaw 2025](https://www.worldcubeassociation.org/competitions/WarmUpWarsaw2025) | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01), [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 171.67 |
 | [Energy Cube Ciechanów 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeCiechanow2024) | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01), [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 171.33 |
-| [BrizZon Side Open IV 2025](https://www.worldcubeassociation.org/competitions/BrizzonSideOpenIV2025) | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01), [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 171.00 |
 
 ### 2 Delegates
 

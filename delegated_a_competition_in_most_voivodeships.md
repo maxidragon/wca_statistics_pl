@@ -1,7 +1,7 @@
 ## Delegated competitions in most voivodeships in Poland
 
 *Note: Voivodeships are inferred from competition coordinates (approximate bounding box). Only Polish delegates and Polish competitions with posted results are included.*
-*Updated on 28 August 2026*
+*Updated on 31 August 2026*
 
 | Delegate | Delegated | Missed | Missed Voivodeships | Completed At |
 | :--- | ---: | ---: | :--- | :--- |
@@ -17,10 +17,10 @@
 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) | 10 | 6 | lubuskie, mazowieckie, opolskie, warmińsko-mazurskie, zachodniopomorskie, świętokrzyskie |  |
 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) | 9 | 7 | dolnośląskie, lubuskie, podlaskie, warmińsko-mazurskie, wielkopolskie, zachodniopomorskie, świętokrzyskie |  |
 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 9 | 7 | dolnośląskie, kujawsko-pomorskie, lubuskie, opolskie, podkarpackie, warmińsko-mazurskie, zachodniopomorskie |  |
+| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 8 | 8 | dolnośląskie, lubelskie, lubuskie, małopolskie, opolskie, podkarpackie, podlaskie, warmińsko-mazurskie |  |
 | [Krzysztof Kuncki](https://www.worldcubeassociation.org/persons/2010KUNC01) | 8 | 8 | dolnośląskie, kujawsko-pomorskie, lubuskie, opolskie, podlaskie, warmińsko-mazurskie, wielkopolskie, zachodniopomorskie |  |
 | [Stefan Łapicki](https://www.worldcubeassociation.org/persons/2006LAPI01) | 8 | 8 | kujawsko-pomorskie, lubelskie, lubuskie, opolskie, podlaskie, wielkopolskie, zachodniopomorskie, świętokrzyskie |  |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 8 | 8 | dolnośląskie, lubuskie, małopolskie, podkarpackie, podlaskie, warmińsko-mazurskie, wielkopolskie, zachodniopomorskie |  |
-| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 7 | 9 | dolnośląskie, lubelskie, lubuskie, małopolskie, opolskie, podkarpackie, podlaskie, pomorskie, warmińsko-mazurskie |  |
 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 7 | 9 | kujawsko-pomorskie, lubelskie, lubuskie, małopolskie, podkarpackie, podlaskie, wielkopolskie, śląskie, świętokrzyskie |  |
 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 6 | 10 | kujawsko-pomorskie, lubelskie, lubuskie, małopolskie, opolskie, podlaskie, pomorskie, zachodniopomorskie, śląskie, świętokrzyskie |  |
 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 6 | 10 | dolnośląskie, kujawsko-pomorskie, lubelskie, lubuskie, podkarpackie, podlaskie, warmińsko-mazurskie, wielkopolskie, zachodniopomorskie, świętokrzyskie |  |

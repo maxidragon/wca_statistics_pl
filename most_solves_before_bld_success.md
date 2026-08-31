@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 28 August 2026*
+*Updated on 31 August 2026*
 
 
 ### 3x3x3 Blindfolded
@@ -16,17 +16,17 @@
 | 29 | [Aron Kasprowicz](https://www.worldcubeassociation.org/persons/2022KASP07) |
 | 26 | [Ignacy Buczek](https://www.worldcubeassociation.org/persons/2013BUCZ01) |
 | 24 | [Łukasz Owczarek](https://www.worldcubeassociation.org/persons/2022OWCZ02) |
-| 23 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) |
 | 23 | [Hubert Darłak](https://www.worldcubeassociation.org/persons/2023DARL03) |
+| 23 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) |
 | 22 | [Jakub Cabaj](https://www.worldcubeassociation.org/persons/2008CABA03) |
+| 20 | [Kamil Pawlak](https://www.worldcubeassociation.org/persons/2006PAWL01) |
 | 20 | [Maciej Kowalik](https://www.worldcubeassociation.org/persons/2024KOWA11) |
 | 20 | [Łukasz Gębicz](https://www.worldcubeassociation.org/persons/2013GBIC01) |
-| 20 | [Kamil Pawlak](https://www.worldcubeassociation.org/persons/2006PAWL01) |
-| 19 | [Sebastian Kowalewski](https://www.worldcubeassociation.org/persons/2013KOWA01) |
 | 19 | [Michał Tomański](https://www.worldcubeassociation.org/persons/2009TOMA01) |
 | 19 | [Adam Gottscholl](https://www.worldcubeassociation.org/persons/2013GOTT01) |
+| 19 | [Sebastian Kowalewski](https://www.worldcubeassociation.org/persons/2013KOWA01) |
 | 18 | [Mateusz Bednarczyk](https://www.worldcubeassociation.org/persons/2018BEDN03) |
-| 17 | [Joachim Rogal](https://www.worldcubeassociation.org/persons/2022ROGA02) |
+| 17 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) |
 
 ### 4x4x4 Blindfolded
 
@@ -38,20 +38,20 @@
 | 13 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 13 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 11 | [Kacper Wiłkojć](https://www.worldcubeassociation.org/persons/2013WIKO01) |
-| 9 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) |
 | 9 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
-| 8 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
+| 9 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) |
 | 8 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) |
+| 8 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
 | 8 | [Daniel Jamrużka](https://www.worldcubeassociation.org/persons/2012JAMR01) |
 | 7 | [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) |
-| 7 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
 | 7 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
+| 7 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
 | 7 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 6 | [Marcin Wawiórko](https://www.worldcubeassociation.org/persons/2023WAWI01) |
+| 6 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) |
 | 6 | [Dominik Pasztetnik](https://www.worldcubeassociation.org/persons/2013PASZ01) |
 | 6 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) |
 | 6 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
-| 6 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) |
-| 6 | [Marcin Wawiórko](https://www.worldcubeassociation.org/persons/2023WAWI01) |
 
 ### 5x5x5 Blindfolded
 

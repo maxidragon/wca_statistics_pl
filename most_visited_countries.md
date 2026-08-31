@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 28 August 2026*
+*Updated on 31 August 2026*
 
 | Countries | Person |
 | ---: | :--- |
@@ -43,9 +43,9 @@
 | 8 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) |
 | 8 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |
 | 8 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
+| 8 | [Mikołaj Molski](https://www.worldcubeassociation.org/persons/2015MOLS01) |
 | 7 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) |
 | 7 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
-| 7 | [Mikołaj Molski](https://www.worldcubeassociation.org/persons/2015MOLS01) |
 | 7 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) |
 | 7 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) |
 | 7 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |

@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 28 August 2026*
+*Updated on 31 August 2026*
 
 
 ### 3x3x3 Cube
@@ -114,11 +114,11 @@
 | 31.33 | [Krzysztof Boguszewski](https://www.worldcubeassociation.org/persons/2019BOGU01) |
 | 31.33 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) |
 | 33.00 | [Witold Kordos](https://www.worldcubeassociation.org/persons/2016KORD01) |
-| 34.33 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) |
 | 34.33 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) |
+| 34.33 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) |
 | 35.00 | [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) |
-| 35.33 | [Robert Siniawski](https://www.worldcubeassociation.org/persons/2016SINI01) |
 | 35.33 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) |
+| 35.33 | [Robert Siniawski](https://www.worldcubeassociation.org/persons/2016SINI01) |
 | 36.00 | [Dawid Kmak](https://www.worldcubeassociation.org/persons/2014KMAK01) |
 
 ### 3x3x3 One-Handed
@@ -160,8 +160,8 @@
 | 5.26 | [Mateusz Tobiasz](https://www.worldcubeassociation.org/persons/2016TOBI02) |
 | 5.34 | [Andrzej Jędrzejak](https://www.worldcubeassociation.org/persons/2021JEDR01) |
 | 5.60 | [Adam Bors](https://www.worldcubeassociation.org/persons/2023BORS03) |
-| 5.66 | [Dawid Jasiński](https://www.worldcubeassociation.org/persons/2014JASI01) |
 | 5.66 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2022WOJC02) |
+| 5.66 | [Dawid Jasiński](https://www.worldcubeassociation.org/persons/2014JASI01) |
 | 5.78 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) |
 | 5.79 | [Kajetan Stefanek](https://www.worldcubeassociation.org/persons/2025STEF01) |
 | 5.87 | [Dominik Podolak](https://www.worldcubeassociation.org/persons/2023PODO02) |
@@ -193,8 +193,8 @@
 | 4.82 | [Dawid Pendulak](https://www.worldcubeassociation.org/persons/2024PEND01) |
 | 5.17 | [Krzysztof Więcław](https://www.worldcubeassociation.org/persons/2025WIEC05) |
 | 5.19 | [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) |
-| 5.36 | [Tobiasz Urbanowicz](https://www.worldcubeassociation.org/persons/2019URBA01) |
 | 5.36 | [Jakub Trzop](https://www.worldcubeassociation.org/persons/2022TRZO02) |
+| 5.36 | [Tobiasz Urbanowicz](https://www.worldcubeassociation.org/persons/2019URBA01) |
 
 ### Square-1
 

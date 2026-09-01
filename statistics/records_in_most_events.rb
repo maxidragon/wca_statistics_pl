@@ -25,9 +25,10 @@ class RecordsInMostEvents < GroupedStatistic
 
   def transform(query_results)
     {
+      "Any record" => %w(NR AfR AsR NAR SAR ER OcR WR),
       "World" => %w(WR),
       "Continental" => %w(AfR AsR NAR SAR ER OcR WR),
-      "National" => %w(NR AfR AsR NAR SAR ER OcR WR)
+      "National" => %w(NR)
     }.map do |header, record_ids|
       events_with_people = query_results
         .group_by { |result| result["person_link"] }

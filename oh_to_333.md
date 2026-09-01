@@ -1,7 +1,7 @@
 ## 3x3 One-Handed results compared to 3x3 (Poland)
 
 *Note: This statistic compares the best 3x3 One-Handed average to the best 3x3 average for Polish competitors.*
-*Updated on 31 August 2026*
+*Updated on  1 September 2026*
 
 | Person | 3x3 OH | 3x3 | Ratio |
 | :--- | ---: | ---: | ---: |

@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 31 August 2026*
+*Updated on  1 September 2026*
 
 
 ### 3x3x3 Cube
@@ -59,9 +59,9 @@
 | 31.36 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Energy Cube Białołęka 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2025/results/by_person#2016KOLA02) |
 | 31.54 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2016KOLA02) |
 | 31.67 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2016KOLA02) |
+| 31.84 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [4x4 Off US-40 IL 2026](https://www.worldcubeassociation.org/competitions/4x4OffUS40IL2026/results/by_person#2016KOLA02) |
 | 32.34 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2016KOLA02) |
 | 32.46 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Melbourne Summer 2026](https://www.worldcubeassociation.org/competitions/MelbourneSummer2026/results/by_person#2016KOLA02) |
-| 32.48 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2016KOLA02) |
 
 ### 3x3x3 One-Handed
 

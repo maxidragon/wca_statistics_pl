@@ -1,7 +1,7 @@
 ## Megaminx results compared to 3x3 (Poland)
 
 *Note: This statistic compares the best Megaminx average to the best 3x3 average for Polish competitors.*
-*Updated on 31 August 2026*
+*Updated on  1 September 2026*
 
 | Person | Megaminx | 3x3 | Ratio |
 | :--- | ---: | ---: | ---: |
@@ -9,7 +9,7 @@
 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 59.38 | 17.84 | 3.33 |
 | [Maciej Lyer](https://www.worldcubeassociation.org/persons/2014LYER01) | 42.17 | 11.53 | 3.66 |
 | [Przemysław Rudziak](https://www.worldcubeassociation.org/persons/2020RUDZ02) | 37.25 | 10.16 | 3.67 |
-| [Klaudia Milewczyk](https://www.worldcubeassociation.org/persons/2022MILE05) | 1:50.57 | 30.16 | 3.67 |
+| [Klaudia Milewczyk](https://www.worldcubeassociation.org/persons/2022MILE05) | 1:50.57 | 30.01 | 3.68 |
 | [Kacper Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC06) | 1:01.59 | 16.22 | 3.80 |
 | [Szczepan Rozwadowski](https://www.worldcubeassociation.org/persons/2025ROZW02) | 53.15 | 13.86 | 3.84 |
 | [Maksymilian Piskorowski](https://www.worldcubeassociation.org/persons/2017PISK01) | 36.65 | 9.52 | 3.85 |

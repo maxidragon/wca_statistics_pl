@@ -1,6 +1,6 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Updated on 31 August 2026*
+*Updated on  1 September 2026*
 
 | Person | Years |
 | :--- | ---: |
@@ -29,8 +29,8 @@
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 7.03 |
 | [Grzegorz Chudzik](https://www.worldcubeassociation.org/persons/2018CHUD02) | 7.03 |
 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | 6.88 |
-| [Krystian Święch](https://www.worldcubeassociation.org/persons/2016SWIE02) | 6.65 |
 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | 6.65 |
+| [Krystian Święch](https://www.worldcubeassociation.org/persons/2016SWIE02) | 6.65 |
 | [Krzysztof Dybich](https://www.worldcubeassociation.org/persons/2019DYBI01) | 6.48 |
 | [Zygmunt Baranowski](https://www.worldcubeassociation.org/persons/2018BARA06) | 6.42 |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 6.32 |
@@ -40,8 +40,8 @@
 | [Tomasz Cyrklaff](https://www.worldcubeassociation.org/persons/2009CYRK01) | 6.13 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 5.96 |
 | [Mikołaj Tyra](https://www.worldcubeassociation.org/persons/2016TYRA02) | 5.90 |
-| [Tomasz Larysz](https://www.worldcubeassociation.org/persons/2020LARY01) | 5.85 |
 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) | 5.85 |
+| [Tomasz Larysz](https://www.worldcubeassociation.org/persons/2020LARY01) | 5.85 |
 | [Łukasz Gębicz](https://www.worldcubeassociation.org/persons/2013GBIC01) | 5.64 |
 | [Fryderyk Janiak](https://www.worldcubeassociation.org/persons/2016JANI03) | 5.50 |
 | [Maksymilian Piskorowski](https://www.worldcubeassociation.org/persons/2017PISK01) | 5.48 |
@@ -75,8 +75,8 @@
 | [Adam Pietrzak](https://www.worldcubeassociation.org/persons/2018PIET03) | 4.52 |
 | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) | 4.49 |
 | [Maciej Wróblewski](https://www.worldcubeassociation.org/persons/2015WROB01) | 4.45 |
-| [Maciej Hebel](https://www.worldcubeassociation.org/persons/2019HEBE01) | 4.42 |
 | [Bartłomiej Maślanka](https://www.worldcubeassociation.org/persons/2019MASL02) | 4.42 |
+| [Maciej Hebel](https://www.worldcubeassociation.org/persons/2019HEBE01) | 4.42 |
 | [Felix Lewicki](https://www.worldcubeassociation.org/persons/2021LEWI03) | 4.39 |
 | [Krzysztof Grabowski](https://www.worldcubeassociation.org/persons/2021GRAB01) | 4.36 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 4.35 |

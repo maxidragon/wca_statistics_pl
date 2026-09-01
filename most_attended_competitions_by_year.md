@@ -1,7 +1,7 @@
 ## Most competitions each year
 
 *Note: Only the 25 competitors with the most competitions are listed for each year.*
-*Updated on 31 August 2026*
+*Updated on  1 September 2026*
 
 
 ### 2026
@@ -18,9 +18,9 @@
 | 25 | [Robert Ślesicki](https://www.worldcubeassociation.org/persons/2019SLES02) |
 | 24 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) |
 | 24 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
+| 23 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 23 | [Antoni Szcześniak](https://www.worldcubeassociation.org/persons/2023SZCZ04) |
 | 22 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
-| 22 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 22 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) |
 | 22 | [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) |
 | 21 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) |

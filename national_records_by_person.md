@@ -1,11 +1,11 @@
 ## National records count by person
 
-*Updated on 31 August 2026*
+*Updated on  1 September 2026*
 
 | WRs | Person |
 | ---: | :--- |
 | 77 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
-| 50 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
+| 51 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 31 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) |
 | 25 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
 | 24 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) |

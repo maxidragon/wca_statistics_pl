@@ -1,7 +1,7 @@
 ## Highest percentage of competitions with at least one medal
 
 *Note: A medal means a top 3 place in a final of any event. Only Polish competitors with at least 10 competitions are included.*
-*Updated on 31 August 2026*
+*Updated on  1 September 2026*
 
 | Share | With a medal | Competitions | Person |
 | ---: | ---: | ---: | :--- |
@@ -14,7 +14,7 @@
 | 91.8% | 90 | 98 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) |
 | 90.7% | 39 | 43 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) |
 | 90.6% | 87 | 96 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
-| 90.4% | 179 | 198 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
+| 90.5% | 180 | 199 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 90.2% | 101 | 112 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 90.0% | 63 | 70 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) |
 | 89.3% | 75 | 84 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |

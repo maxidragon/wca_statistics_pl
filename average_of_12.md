@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 31 August 2026*
+*Updated on  1 September 2026*
 
 
 ### 3x3x3 Cube
@@ -68,7 +68,7 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 1:08.46 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:14.35, 1:04.67, 1:03.99, 1:10.90, 1:08.01, 1:02.36, 1:19.53, 1:02.94, 1:07.67, 1:13.30, 1:14.69, 1:04.06 |
+| 1:07.82 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:02.69, 1:09.37, 1:08.52, 1:10.08, 1:08.86, 1:04.71, 1:11.65, 1:06.90, 1:08.43, 1:13.81, 1:03.93, 1:05.72 |
 | 1:25.48 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | 1:24.27, 1:29.69, 1:28.95, 1:14.02, 1:27.66, 1:25.75, 1:30.80, 1:25.02, 1:26.17, 1:15.21, 1:32.17, 1:21.32 |
 | 1:29.38 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) | 1:35.64, 1:34.09, 1:27.59, 1:47.32, 1:21.22, 1:28.52, 1:29.24, 1:29.97, 1:19.96, 1:30.89, 1:30.15, 1:26.48 |
 | 1:29.78 | [Jan Woźniak](https://www.worldcubeassociation.org/persons/2021WOZN01) | 1:31.37, 1:30.62, 1:42.45, 1:30.10, 1:36.44, 1:26.17, 1:25.91, 1:32.19, 1:23.09, 1:30.16, 1:31.48, 1:23.32 |

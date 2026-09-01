@@ -38,7 +38,6 @@ All statistics are computed only for competitors from Poland/Polish competitions
 - [Fewest % of competitions attended in the same city as the first competition of the competitor](fewest_competitions_in_city_at_first_comp)
 - [Fewest % of competitions attended in the same voivodeship as the first competition of the competitor](fewest_competitions_in_voivodeship_at_first_comp)
 - [Fewest competitors contest](fewest_competitors_contest)
-- [Highest average number of new people met per competition](average_new_people_met_per_competition)
 - [Highest average percentage of available attempts used](average_attempts_used_percentage)
 - [Highest percentage of competitions with at least one medal](highest_percentage_of_competitions_with_medal)
 - [Highest registration fee at Polish competitions](highest_registration_fee)

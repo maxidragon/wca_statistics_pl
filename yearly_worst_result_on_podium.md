@@ -1,7 +1,7 @@
 ## Worst result providing a podium by year at Polish competitions
 
 *Note: Only finals at competitions held in Poland are taken into account, regardless of the podium members' countries. Results where the main statistic is DNF are ignored. Each year is considered separately.*
-*Updated on  1 September 2026*
+*Updated on  2 September 2026*
 
 
 ### 2026

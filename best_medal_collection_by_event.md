@@ -1,7 +1,7 @@
 ## Best medal collection by event
 
 *Note: All medals are taken into account, no matter where the competition was held.*
-*Updated on  1 September 2026*
+*Updated on  2 September 2026*
 
 
 ### 3x3x3 Cube

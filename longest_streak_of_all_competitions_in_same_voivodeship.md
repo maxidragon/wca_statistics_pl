@@ -1,7 +1,7 @@
 ## Longest streak of all competitions in a voivodeship
 
 *Note: The streak ends whenever the person misses a competition in that voivodeship. Voivodeships are inferred from competition coordinates (approximate bounding box).*
-*Updated on  1 September 2026*
+*Updated on  2 September 2026*
 
 | Competitions | Person | Voivodeship | Started at | Missed |
 | ---: | :--- | :--- | :--- | :--- |

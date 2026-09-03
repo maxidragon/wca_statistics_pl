@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on  1 September 2026*
+*Updated on  2 September 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -19,14 +19,14 @@
 | 23 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) |
 | 21 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) |
 | 20 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
+| 20 | [Szymon Plesniak](https://www.worldcubeassociation.org/persons/2024PLES01) |
 | 19 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) |
 | 19 | [Wiktor Zegadło](https://www.worldcubeassociation.org/persons/2017ZEGA01) |
-| 19 | [Szymon Plesniak](https://www.worldcubeassociation.org/persons/2024PLES01) |
 | 18 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
+| 18 | [Naama Anbar](https://www.worldcubeassociation.org/persons/2023ANBA01) |
 | 17 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 17 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) |
 | 17 | [Magnus Miłosz Birecki](https://www.worldcubeassociation.org/persons/2022BIRE01) |
-| 17 | [Naama Anbar](https://www.worldcubeassociation.org/persons/2023ANBA01) |
 | 16 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) |
 | 16 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) |
 | 16 | [Marcin Karczmarz](https://www.worldcubeassociation.org/persons/2023KARC01) |
@@ -98,6 +98,7 @@
 | 7 | [Filip Chudy](https://www.worldcubeassociation.org/persons/2022CHUD02) |
 | 7 | [Adam Steuer](https://www.worldcubeassociation.org/persons/2023STEU01) |
 | 7 | [Oskar Wojtyna](https://www.worldcubeassociation.org/persons/2024WOJT03) |
+| 7 | [Franek Spieczonek](https://www.worldcubeassociation.org/persons/2026SPIE01) |
 | 6 | [Łukasz Cichecki](https://www.worldcubeassociation.org/persons/2007CICH01) |
 | 6 | [Kamil Zieliński](https://www.worldcubeassociation.org/persons/2008ZIEL01) |
 | 6 | [Michał Orylski](https://www.worldcubeassociation.org/persons/2009ORYL01) |
@@ -128,7 +129,6 @@
 | 6 | [Wojciech Bauer](https://www.worldcubeassociation.org/persons/2023BAUE04) |
 | 6 | [Samuel Mikolajczyk](https://www.worldcubeassociation.org/persons/2024MIKO01) |
 | 6 | [Dominik Borski](https://www.worldcubeassociation.org/persons/2024BORS02) |
-| 6 | [Franek Spieczonek](https://www.worldcubeassociation.org/persons/2026SPIE01) |
 | 5 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) |
 | 5 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) |
 | 5 | [Rafał Guzewicz](https://www.worldcubeassociation.org/persons/2006GUZE01) |

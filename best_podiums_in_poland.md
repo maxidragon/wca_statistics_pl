@@ -1,7 +1,7 @@
 ## Best podiums at Polish competitions
 
 *Note: Podiums at competitions held in Poland, regardless of the podium members' countries. Podium places with sum of best or average times depending on format.*
-*Updated on  2 September 2026*
+*Updated on  4 September 2026*
 
 
 ### 3x3x3 Cube

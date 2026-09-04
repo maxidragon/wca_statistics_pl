@@ -1,7 +1,7 @@
 ## Most unique people met at competitions
 
 *Note: Treats two people as having met when both recorded at least one result at the same competition. Co-competitors of any nationality are included and each is counted once, regardless of how many competitions they shared.*
-*Updated on  2 September 2026*
+*Updated on  4 September 2026*
 
 | People met | Competitions | Person |
 | ---: | ---: | :--- |

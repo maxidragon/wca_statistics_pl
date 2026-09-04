@@ -1,7 +1,7 @@
 ## Most competitions each year
 
 *Note: Only the 25 competitors with the most competitions are listed for each year.*
-*Updated on  2 September 2026*
+*Updated on  4 September 2026*
 
 
 ### 2026

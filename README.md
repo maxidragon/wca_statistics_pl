@@ -103,6 +103,7 @@ All statistics are computed only for competitors from Poland/Polish competitions
 - [Most visited continents](most_visited_continents)
 - [Most visited countries](most_visited_countries)
 - [Moving average](moving_average)
+- [National record averages with every attempt better than the previous national record average](nr_averages_with_all_attempts_sub_previous_nr)
 - [National records count by person](national_records_by_person)
 - [Number of people to reach milestone in competitions count](number_of_people_to_reach_milestone_in_comps_count)
 - [Polish Championship podiums by person](polish_championship_podiums_by_person)

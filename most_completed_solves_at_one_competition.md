@@ -12,12 +12,12 @@
 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | [All Rounders Katowice I 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceI2026) | 167 | 175 |
 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) | [All Rounders Katowice I 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceI2026) | 166 | 178 |
 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | [All Rounders Katowice I 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceI2026) | 165 | 173 |
-| [Szymon Brągiel](https://www.worldcubeassociation.org/persons/2022BRAG03) | [All Rounders Katowice I 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceI2026) | 163 | 168 |
 | [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) | [Rhein-Neckar Breakdown 2025](https://www.worldcubeassociation.org/competitions/RheinNeckarBreakdown2025) | 163 | 163 |
-| [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | [All Rounders Katowice I 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceI2026) | 160 | 169 |
+| [Szymon Brągiel](https://www.worldcubeassociation.org/persons/2022BRAG03) | [All Rounders Katowice I 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceI2026) | 163 | 168 |
 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | [Kārķi Open 2025](https://www.worldcubeassociation.org/competitions/KarkiOpen2025) | 160 | 165 |
-| [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | [All Rounders Katowice I 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceI2026) | 160 | 172 |
 | [Tymon Martyński](https://www.worldcubeassociation.org/persons/2022MART79) | [All Rounders Katowice I 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceI2026) | 160 | 165 |
+| [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | [All Rounders Katowice I 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceI2026) | 160 | 169 |
+| [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | [All Rounders Katowice I 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceI2026) | 160 | 172 |
 | [Marcel Borkowski](https://www.worldcubeassociation.org/persons/2023BORK01) | [Farewell Strathclyde 2026](https://www.worldcubeassociation.org/competitions/FarewellStrathclyde2026) | 160 | 176 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | [All Rounders Katowice I 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceI2026) | 158 | 163 |
 | [Igor Łabędź](https://www.worldcubeassociation.org/persons/2021LABE01) | [All Rounders Katowice I 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceI2026) | 157 | 165 |

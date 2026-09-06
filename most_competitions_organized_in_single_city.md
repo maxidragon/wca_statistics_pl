@@ -10,12 +10,12 @@
 | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) | Gdańsk | 9 | [Honey Cube Barcin 2024](https://www.worldcubeassociation.org/competitions/HoneyCubeBarcin2024) |
 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | Poznań | 9 | [Gniezno Big Blind Cubing 2022](https://www.worldcubeassociation.org/competitions/GnieznoBigBlindCubing2022) |
 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | Gdańsk | 8 | [Polish Nationals 2011](https://www.worldcubeassociation.org/competitions/PolishNationals2011) |
+| [Martyna Jarosz](https://www.worldcubeassociation.org/persons/2022JARO01) | Dębica | 7 |  |
 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | Rzeszów | 7 | [All Rounders in Stobierna 2023](https://www.worldcubeassociation.org/competitions/AllRoundersinStobierna2023) |
 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | Gdańsk | 7 | [Winter Holiday Czarna Woda 2026](https://www.worldcubeassociation.org/competitions/WinterHolidayCzarnaWoda2026) |
 | [Arleta Tokarska](https://www.worldcubeassociation.org/persons/2025TOKA01) | Lublin | 7 |  |
 | [Michał Wachowiak](https://www.worldcubeassociation.org/persons/2015WACH01) | Gniezno | 7 |  |
 | [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) | Warszawa | 6 |  |
-| [Martyna Jarosz](https://www.worldcubeassociation.org/persons/2022JARO01) | Dębica | 6 |  |
 | Warszawska Liga Speedcuberów | Warszawa | 6 |  |
 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | Poznań | 6 | [Warsaw FMC Tour Thursday 2024](https://www.worldcubeassociation.org/competitions/WarsawFMCTourThursday2024) |
 | [Robert Cegiel](https://www.worldcubeassociation.org/persons/2017CEGI01) | Gniezno | 5 | [GSKR w Poznaniu 2026](https://www.worldcubeassociation.org/competitions/GSKRwPoznaniu2026) |
@@ -31,40 +31,40 @@
 | [Krystian Fiołek](https://www.worldcubeassociation.org/persons/2022FIOL01) | Pilzno | 4 |  |
 | [Maksymilian Januszewski](https://www.worldcubeassociation.org/persons/2022JANU01) | Warszawa | 4 |  |
 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | Starogard Gdański | 4 | [Polish Nationals 2012](https://www.worldcubeassociation.org/competitions/PolishNationals2012) |
+| [Witold Sołtysik](https://www.worldcubeassociation.org/persons/2015SOLT03) | Bielsko-Biała | 4 |  |
 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | Żory | 4 |  |
 | [Roksana Porucznik](https://www.worldcubeassociation.org/persons/2024PORU01) | Żmigród | 4 |  |
 | [Filip Rudnicki](https://www.worldcubeassociation.org/persons/2021RUDN01) | Siedlce | 4 |  |
-| [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) | Wrocław | 4 |  |
 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) | Wadowice | 4 |  |
-| [Witold Sołtysik](https://www.worldcubeassociation.org/persons/2015SOLT03) | Bielsko-Biała | 4 |  |
+| [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) | Wrocław | 4 |  |
 | [Daniel Śliwa](https://www.worldcubeassociation.org/persons/2024SLIW01) | Żory | 3 |  |
 | [Mateusz Staniszewski](https://www.worldcubeassociation.org/persons/2018STAN03) | Biała Podlaska | 3 |  |
-| [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | Poznań | 3 | [Gniezno Big Blind Cubing 2022](https://www.worldcubeassociation.org/competitions/GnieznoBigBlindCubing2022) |
 | [Ernest Zakrzewski](https://www.worldcubeassociation.org/persons/2011ZAKR01) | Szczecin | 3 |  |
 | [Piotr Brokos](https://www.worldcubeassociation.org/persons/2023BROK01) | Barcin | 3 |  |
-| [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | Płock | 3 |  |
 | [Nikodem Tomaszuk](https://www.worldcubeassociation.org/persons/2018TOMA03) | Biała Podlaska | 3 |  |
 | [Błażej Cichy](https://www.worldcubeassociation.org/persons/2012CICH01) | Rybnik | 3 |  |
 | [Szymon Kulpa](https://www.worldcubeassociation.org/persons/2023KULP02) | Nowa Sarzyna | 3 |  |
 | [Tomasz Stawowy](https://www.worldcubeassociation.org/persons/2021STAW01) | Wrocław | 3 | [Zielona Góra Fresh Cubing 2024](https://www.worldcubeassociation.org/competitions/ZielonaGoraFreshCubing2024) |
-| [Tomasz Kiełbasa](https://www.worldcubeassociation.org/persons/2009KIEL01) | Zawiercie | 3 |  |
-| [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) | Wrocław | 3 | [Zielona Góra Fresh Cubing 2024](https://www.worldcubeassociation.org/competitions/ZielonaGoraFreshCubing2024) |
 | [Kalina Jakubowska](https://www.worldcubeassociation.org/persons/2009BRZE01) | Starogard Gdański | 3 | [Kaliska Open 2014](https://www.worldcubeassociation.org/competitions/KaliskaOpen2014) |
-| [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) | Kraków | 3 |  |
-| [Weronika Marczyk](https://www.worldcubeassociation.org/persons/2012MARC03) | Zawiercie | 3 |  |
+| [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) | Wrocław | 3 | [Zielona Góra Fresh Cubing 2024](https://www.worldcubeassociation.org/competitions/ZielonaGoraFreshCubing2024) |
 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | Rybnik | 3 |  |
+| [Weronika Marczyk](https://www.worldcubeassociation.org/persons/2012MARC03) | Zawiercie | 3 |  |
 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) | Grudziądz | 3 | [Industrial Cube 2012](https://www.worldcubeassociation.org/competitions/IndustrialCube2012) |
+| [Tomasz Jarosz](https://www.worldcubeassociation.org/persons/2024JARO03) | Dębica | 3 |  |
 | [Mateusz Zieliński](https://www.worldcubeassociation.org/persons/2013ZIEL02) | Warszawa | 3 |  |
-| [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | Wrocław | 3 | [BrizZon Side Open 2024](https://www.worldcubeassociation.org/competitions/BrizZonSideOpen2024) |
+| [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) | Kraków | 3 |  |
+| [Tomasz Kiełbasa](https://www.worldcubeassociation.org/persons/2009KIEL01) | Zawiercie | 3 |  |
+| [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | Płock | 3 |  |
+| [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | Poznań | 3 | [Gniezno Big Blind Cubing 2022](https://www.worldcubeassociation.org/competitions/GnieznoBigBlindCubing2022) |
 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | Olsztyn | 3 | [Ostróda Open 2024](https://www.worldcubeassociation.org/competitions/OstrodaOpen2024) |
+| [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | Wrocław | 3 | [BrizZon Side Open 2024](https://www.worldcubeassociation.org/competitions/BrizZonSideOpen2024) |
 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) | Białystok | 3 |  |
 | [Adam Brzana](https://www.worldcubeassociation.org/persons/2022BRZA01) | Opole | 3 |  |
-| [Remigiusz Durka](https://www.worldcubeassociation.org/persons/2005DURK01) | Wrocław | 2 |  |
 | [Jan Wojcieszkiewicz](https://www.worldcubeassociation.org/persons/2023WOJC03) | Gdańsk | 2 |  |
 | [Mateusz Kurek](https://www.worldcubeassociation.org/persons/2008KURE01) | Poznań | 2 |  |
 | [Marcin Bloch](https://www.worldcubeassociation.org/persons/2013BLOC01) | Reda | 2 |  |
-| [Artur Miazga](https://www.worldcubeassociation.org/persons/2010MIAZ02) | Łódź | 2 |  |
 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | Rumia | 2 |  |
+| [Artur Miazga](https://www.worldcubeassociation.org/persons/2010MIAZ02) | Łódź | 2 |  |
 | [Mateusz Adamczyk](https://www.worldcubeassociation.org/persons/2011ADAM03) | Rybnik | 2 |  |
 | [Wojciech Wójcik](https://www.worldcubeassociation.org/persons/2013WOJC03) | Dąbrowa Górnicza | 2 |  |
 | [Weronika Krzakiewicz](https://www.worldcubeassociation.org/persons/2013KRZA01) | Dąbrowa Górnicza | 2 |  |
@@ -73,37 +73,37 @@
 | [Michał Pawlak](https://www.worldcubeassociation.org/persons/2008PAWL03) | Pabianice | 2 |  |
 | [Tomasz Larysz](https://www.worldcubeassociation.org/persons/2020LARY01) | Kędzierzyn-Koźle | 2 |  |
 | [Marcel Grüner](https://www.worldcubeassociation.org/persons/2017GRUN02) | Kędzierzyn-Koźle | 2 |  |
-| [Konrad Leśniak](https://www.worldcubeassociation.org/persons/2014LENI02) | Mielec | 2 |  |
-| [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | Jastrzębie-Zdrój | 2 |  |
-| Joanna Królas | Kraków | 2 |  |
-| Marcin Herzyk | Bielsko-Biała | 2 |  |
-| [Oliwia Jaworska](https://www.worldcubeassociation.org/persons/2017JAWO02) | Nowa Słupia | 2 | [September Speedcubing Tour Kielce 2021](https://www.worldcubeassociation.org/competitions/SSTKielce2021) |
-| [Michał Herzyk](https://www.worldcubeassociation.org/persons/2024HERZ04) | Bielsko-Biała | 2 |  |
-| [Adrian Permus](https://www.worldcubeassociation.org/persons/2017PERM04) | Kraków | 2 |  |
-| [Zofia Herzyk](https://www.worldcubeassociation.org/persons/2024HERZ05) | Bielsko-Biała | 2 |  |
-| [Paweł Zygmunt](https://www.worldcubeassociation.org/persons/2013ZYGM02) | Biłgoraj | 2 |  |
-| [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) | Warszawa | 2 |  |
-| [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) | Warszawa | 2 |  |
-| [Tomasz Jarosz](https://www.worldcubeassociation.org/persons/2024JARO03) | Dębica | 2 |  |
-| [Błażej Morgała](https://www.worldcubeassociation.org/persons/2006MORG01) | Świerklany | 2 | [SLS Jastrzebie 2013](https://www.worldcubeassociation.org/competitions/SLSJastrzebie2013) |
-| Amadeusz Mik | Rzeszów | 2 |  |
-| [Marcel Nycz](https://www.worldcubeassociation.org/persons/2016NYCZ01) | Pszczyna | 2 |  |
 | [Tobiasz Gładysz](https://www.worldcubeassociation.org/persons/2024GLAD02) | Rybnik | 2 |  |
+| [Marcel Nycz](https://www.worldcubeassociation.org/persons/2016NYCZ01) | Pszczyna | 2 |  |
+| Amadeusz Mik | Rzeszów | 2 |  |
+| [Błażej Morgała](https://www.worldcubeassociation.org/persons/2006MORG01) | Świerklany | 2 | [SLS Jastrzebie 2013](https://www.worldcubeassociation.org/competitions/SLSJastrzebie2013) |
+| [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) | Warszawa | 2 |  |
+| [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) | Warszawa | 2 |  |
+| [Paweł Zygmunt](https://www.worldcubeassociation.org/persons/2013ZYGM02) | Biłgoraj | 2 |  |
+| [Zofia Herzyk](https://www.worldcubeassociation.org/persons/2024HERZ05) | Bielsko-Biała | 2 |  |
+| [Adrian Permus](https://www.worldcubeassociation.org/persons/2017PERM04) | Kraków | 2 |  |
+| [Michał Herzyk](https://www.worldcubeassociation.org/persons/2024HERZ04) | Bielsko-Biała | 2 |  |
+| [Oliwia Jaworska](https://www.worldcubeassociation.org/persons/2017JAWO02) | Nowa Słupia | 2 | [September Speedcubing Tour Kielce 2021](https://www.worldcubeassociation.org/competitions/SSTKielce2021) |
+| Marcin Herzyk | Bielsko-Biała | 2 |  |
+| Joanna Królas | Kraków | 2 |  |
+| [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | Jastrzębie-Zdrój | 2 |  |
+| [Konrad Leśniak](https://www.worldcubeassociation.org/persons/2014LENI02) | Mielec | 2 |  |
+| [Remigiusz Durka](https://www.worldcubeassociation.org/persons/2005DURK01) | Wrocław | 2 |  |
+| [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | Mielec | 2 |  |
 | [Tadeusz Walat](https://www.worldcubeassociation.org/persons/2024WALA02) | Mielec | 2 |  |
 | Uniwersyteckie l Liceum Ogólnokształcące im. Juliusza Słowackiego | Chorzów | 2 |  |
 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) | Mikołajki | 2 |  |
-| [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | Mielec | 2 |  |
-| Grzegorz Górecki | Mikołajki | 2 |  |
-| [Marek Wójtowicz](https://www.worldcubeassociation.org/persons/2008WOJT01) | Lublin | 2 |  |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | Wrocław | 2 | [Lake Cubing Szczecinek 2022](https://www.worldcubeassociation.org/competitions/LakeCubingSzczecinek2022) |
-| [Michał Tomański](https://www.worldcubeassociation.org/persons/2009TOMA01) | Kraków | 2 |  |
+| [Marek Wójtowicz](https://www.worldcubeassociation.org/persons/2008WOJT01) | Lublin | 2 |  |
+| [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) | Brzeziny | 2 | [Cube Factory League Koluszki 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueKoluszki2025) |
+| Grzegorz Górecki | Mikołajki | 2 |  |
 | [Przemysław Janicki](https://www.worldcubeassociation.org/persons/2011JANI01) | Kaliska | 2 |  |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | Warszawa | 2 | [Olsztyn Open 2023](https://www.worldcubeassociation.org/competitions/OlsztynOpen2023) |
-| [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) | Brzeziny | 2 | [Cube Factory League Koluszki 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueKoluszki2025) |
-| [Michał Wojcieszek](https://www.worldcubeassociation.org/persons/2015WOJC02) | Domaniewice | 2 |  |
+| [Michał Tomański](https://www.worldcubeassociation.org/persons/2009TOMA01) | Kraków | 2 |  |
 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) | Dąbrowa Górnicza | 2 | [ŚLS Sosnowiec 2015](https://www.worldcubeassociation.org/competitions/SLSSosnowiec2015) |
-| [Szymon Gabara](https://www.worldcubeassociation.org/persons/2023GABA01) | Brzeziny | 2 |  |
-| [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) | Łódź | 2 | [Cube Factory Brzeziny 2023](https://www.worldcubeassociation.org/competitions/CubeFactoryBrzeziny2023) |
+| [Michał Wojcieszek](https://www.worldcubeassociation.org/persons/2015WOJC02) | Domaniewice | 2 |  |
+| [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | Dąbrowa Górnicza | 2 | [Pszczyna Open 2018](https://www.worldcubeassociation.org/competitions/PszczynaOpen2018) |
+| [Szymon Gabara](https://www.worldcubeassociation.org/persons/2023GABA01) | Brzeziny | 2 | [Cube Factory Aleksandrów 2026](https://www.worldcubeassociation.org/competitions/CubeFactoryAleksandrow2026) |
 | Piotr Rzewuski | Płock | 2 |  |
 
 

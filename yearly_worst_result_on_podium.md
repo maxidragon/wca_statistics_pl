@@ -1,7 +1,7 @@
 ## Worst result providing a podium by year at Polish competitions
 
 *Note: Only finals at competitions held in Poland are taken into account, regardless of the podium members' countries. Results where the main statistic is DNF are ignored. Each year is considered separately.*
-*Updated on  4 September 2026*
+*Updated on  7 September 2026*
 
 
 ### 2026
@@ -154,7 +154,7 @@
 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 14.91 | **16.71** | [Olsztyn Spring Open 2026](https://www.worldcubeassociation.org/competitions/OlsztynSpringOpen2026/results/podiums#e333oh) | 2 |
 | [David Nesiba](https://www.worldcubeassociation.org/persons/2023NESI01) | 14.08 | **15.97** | [Scrambled Cubes Legnica 2026](https://www.worldcubeassociation.org/competitions/ScrambledCubesLegnica2026/results/podiums#e333oh) | 3 |
 | [Jędrzej Topolski](https://www.worldcubeassociation.org/persons/2024TOPO01) | 15.26 | **15.95** | [Olsztyn Spring Open 2026](https://www.worldcubeassociation.org/competitions/OlsztynSpringOpen2026/results/podiums#e333oh) | 1 |
-| [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) | 10.24 | **15.45** | [Winter Holiday Czarna Woda 2026](https://www.worldcubeassociation.org/competitions/WinterHolidayCzarnaWoda2026/results/podiums#e333oh) | 3 |
+| [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | 12.22 | **15.68** | [Cube Factory Aleksandrów 2026](https://www.worldcubeassociation.org/competitions/CubeFactoryAleksandrow2026/results/podiums#e333oh) | 3 |
 
 #### Megaminx
 

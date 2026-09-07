@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on  4 September 2026*
+*Updated on  7 September 2026*
 
 
 ### 3x3x3 Cube
@@ -31,8 +31,8 @@
 | 3.54 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
 | 3.60 | [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) |
 | 3.65 | [Miłosz Jaśkiewicz](https://www.worldcubeassociation.org/persons/2022JASK01) |
-| 3.68 | [Ksawier Kozak](https://www.worldcubeassociation.org/persons/2023KOZA02) |
 | 3.68 | [Matviy Berestovskyy](https://www.worldcubeassociation.org/persons/2022BERE02) |
+| 3.68 | [Ksawier Kozak](https://www.worldcubeassociation.org/persons/2023KOZA02) |
 
 ### 4x4x4 Cube
 
@@ -41,13 +41,13 @@
 | 35.02 | [Cyprian Czuba](https://www.worldcubeassociation.org/persons/2019CZUB01) |
 | 36.33 | [Szymon Kasprzycki](https://www.worldcubeassociation.org/persons/2025KASP02) |
 | 38.37 | [Maksymilian Sordyl](https://www.worldcubeassociation.org/persons/2022SORD01) |
+| 38.44 | [Adam Nahajowski](https://www.worldcubeassociation.org/persons/2020NAHA01) |
 | 41.89 | [Piotr Sadowy](https://www.worldcubeassociation.org/persons/2026SADO03) |
 | 42.79 | [Michal J. Sekulski](https://www.worldcubeassociation.org/persons/2023SEKU01) |
 | 43.77 | [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) |
 | 44.10 | [Bruno Fromm](https://www.worldcubeassociation.org/persons/2023FROM01) |
 | 44.13 | [Dominik Smagowski](https://www.worldcubeassociation.org/persons/2023SMAG02) |
 | 44.48 | [Kacper Dłubała](https://www.worldcubeassociation.org/persons/2018DLUB01) |
-| 45.36 | [Borys Hładyn](https://www.worldcubeassociation.org/persons/2026HLAD01) |
 
 ### 5x5x5 Cube
 
@@ -70,6 +70,7 @@
 | ---: | :--- |
 | 2:13.62 | [Igor Kamiński](https://www.worldcubeassociation.org/persons/2023KAMI04) |
 | 2:14.79 | [Jerzy Chmiel](https://www.worldcubeassociation.org/persons/2019CHMI01) |
+| 2:21.37 | [Piotr Sadowy](https://www.worldcubeassociation.org/persons/2026SADO03) |
 | 2:23.08 | [Bartłomiej Gołda](https://www.worldcubeassociation.org/persons/2015GODA01) |
 | 2:24.73 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) |
 | 2:25.07 | [Marcel Borkowski](https://www.worldcubeassociation.org/persons/2023BORK01) |
@@ -77,7 +78,6 @@
 | 2:33.44 | [Dominik Kądziołka](https://www.worldcubeassociation.org/persons/2023KADZ01) |
 | 2:34.25 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) |
 | 2:36.64 | [Piotr Stachurski](https://www.worldcubeassociation.org/persons/2018STAC06) |
-| 2:37.93 | [Krzysztof Chlebowski](https://www.worldcubeassociation.org/persons/2021CHLE01) |
 
 ### 7x7x7 Cube
 
@@ -114,11 +114,11 @@
 | 31.33 | [Krzysztof Boguszewski](https://www.worldcubeassociation.org/persons/2019BOGU01) |
 | 31.33 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) |
 | 33.00 | [Witold Kordos](https://www.worldcubeassociation.org/persons/2016KORD01) |
-| 34.33 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) |
 | 34.33 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) |
+| 34.33 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) |
 | 35.00 | [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) |
-| 35.33 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) |
 | 35.33 | [Robert Siniawski](https://www.worldcubeassociation.org/persons/2016SINI01) |
+| 35.33 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) |
 | 36.00 | [Dawid Kmak](https://www.worldcubeassociation.org/persons/2014KMAK01) |
 
 ### 3x3x3 One-Handed
@@ -191,10 +191,10 @@
 | 4.65 | [Zuzanna Kozicka](https://www.worldcubeassociation.org/persons/2021KOZI01) |
 | 4.71 | [Krzysztof Dybich](https://www.worldcubeassociation.org/persons/2019DYBI01) |
 | 4.82 | [Dawid Pendulak](https://www.worldcubeassociation.org/persons/2024PEND01) |
+| 5.12 | [Krzysztof Stawiński](https://www.worldcubeassociation.org/persons/2026STAW02) |
 | 5.17 | [Krzysztof Więcław](https://www.worldcubeassociation.org/persons/2025WIEC05) |
 | 5.19 | [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) |
 | 5.36 | [Jakub Trzop](https://www.worldcubeassociation.org/persons/2022TRZO02) |
-| 5.36 | [Tobiasz Urbanowicz](https://www.worldcubeassociation.org/persons/2019URBA01) |
 
 ### Square-1
 

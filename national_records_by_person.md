@@ -1,6 +1,6 @@
 ## National records count by person
 
-*Updated on  4 September 2026*
+*Updated on  7 September 2026*
 
 | WRs | Person |
 | ---: | :--- |
@@ -58,6 +58,7 @@
 | 3 | [Jakub Zawiślak](https://www.worldcubeassociation.org/persons/2006ZAWI02) |
 | 3 | [Kacper Pawlaczyk](https://www.worldcubeassociation.org/persons/2005PAWL01) |
 | 3 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
+| 3 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 3 | [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) |
 | 3 | [Michał Robaczyk](https://www.worldcubeassociation.org/persons/2006ROBA01) |
 | 3 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) |
@@ -67,7 +68,6 @@
 | 2 | [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) |
 | 2 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) |
 | 2 | [Korneliusz Tombarkiewicz](https://www.worldcubeassociation.org/persons/2009TOMB01) |
-| 2 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 2 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) |
 | 2 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) |
 | 2 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) |

@@ -1,12 +1,12 @@
 ## Most records delegated
 
 *Note: Counts records achieved in competitions where the Polish Delegate was listed.*
-*Updated on  4 September 2026*
+*Updated on  7 September 2026*
 
 | Records | WR | CR | NR | Delegate |
 | ---: | ---: | ---: | ---: | :--- |
 | 437 | 6 | 55 | 376 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
-| 245 | 6 | 29 | 210 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
+| 246 | 6 | 29 | 211 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 237 | 17 | 22 | 198 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
 | 182 | 10 | 23 | 149 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
 | 164 | 16 | 19 | 129 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) |
@@ -20,7 +20,7 @@
 | 81 | 10 | 3 | 68 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 76 | 5 | 10 | 61 | [Krzysztof Kuncki](https://www.worldcubeassociation.org/persons/2010KUNC01) |
 | 58 | 4 | 3 | 51 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) |
-| 53 | 5 | 8 | 40 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
+| 54 | 5 | 8 | 41 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
 | 41 | 7 | 4 | 30 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) |
 | 21 | 2 | 8 | 11 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
 | 19 | 4 | 7 | 8 | [Stefan Łapicki](https://www.worldcubeassociation.org/persons/2006LAPI01) |

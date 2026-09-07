@@ -1,7 +1,7 @@
 ## National record averages with every attempt better than the previous national record average
 
 *Note: Continental and world records count as national records as well. The first national record in an event is skipped, as there is nothing to compare it with. Averages with an unsolved attempt are not taken into account.*
-*Updated on  4 September 2026*
+*Updated on  7 September 2026*
 
 
 ### 3x3x3 Cube
@@ -80,6 +80,7 @@
 
 | Average | Times | Previous NR | Person | Competition |
 | ---: | :--- | ---: | :--- | :--- |
+| **30.48** | 30.62, 30.70, 30.16, 30.67, 29.26 | 30.80 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | [Dębica Cubing Summer 2026](https://www.worldcubeassociation.org/competitions/DebicaCubingSummer2026/results/by_person#2021KULA02) |
 | **34.05** | 34.31, 33.09, 35.12, 34.75, 32.74 | 35.42 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | [Dragon Cubing 2021](https://www.worldcubeassociation.org/competitions/DragonCubing2021/results/by_person#2014ZYCH01) |
 | **55.42** | 56.43, 54.77, 55.49, 52.03, 56.00 | 1:00.16 | [Krzysztof Natusiewicz](https://www.worldcubeassociation.org/persons/2011NATU01) | [Polish Open 2014](https://www.worldcubeassociation.org/competitions/PolishOpen2014/results/by_person#2011NATU01) |
 | **1:06.06** | 1:07.86, 1:08.50, 1:01.83 | 1:09.28 | [Kamil Zieliński](https://www.worldcubeassociation.org/persons/2008ZIEL01) | [Silesia Open 2009](https://www.worldcubeassociation.org/competitions/SilesiaOpen2009/results/by_person#2008ZIEL01) |

@@ -1,7 +1,7 @@
 ## Competed in most voivodeships in Poland
 
 *Note: Voivodeships are inferred from competition coordinates. Approximate bounding box classification.*
-*Updated on  4 September 2026*
+*Updated on  7 September 2026*
 
 | Person | Completed | Missed | Missed Voivodeships | Completed At |
 | :--- | ---: | ---: | :--- | :--- |
@@ -17,6 +17,7 @@
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 16 | 0 |  | [Kielce Open 2026](https://www.worldcubeassociation.org/competitions/KielceOpen2026) |
 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | 16 | 0 |  | [Gorzów Cubing Days 2026](https://www.worldcubeassociation.org/competitions/GorzowCubingDays2026) |
 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 16 | 0 |  | [Cube4fun in Barcin 2026](https://www.worldcubeassociation.org/competitions/Cube4funinBarcin2026) |
+| [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 15 | 1 | małopolskie |  |
 | [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) | 15 | 1 | warmińsko-mazurskie |  |
 | [Tomasz Stawowy](https://www.worldcubeassociation.org/persons/2021STAW01) | 15 | 1 | lubelskie |  |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 15 | 1 | podlaskie |  |
@@ -28,7 +29,6 @@
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 14 | 2 | kujawsko-pomorskie, podlaskie |  |
 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 14 | 2 | opolskie, podlaskie |  |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 14 | 2 | podkarpackie, podlaskie |  |
-| [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 14 | 2 | małopolskie, podkarpackie |  |
 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | 14 | 2 | lubuskie, świętokrzyskie |  |
 | [Marta Szcześniak](https://www.worldcubeassociation.org/persons/2023SZCZ07) | 14 | 2 | dolnośląskie, lubuskie |  |
 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 14 | 2 | lubuskie, podlaskie |  |

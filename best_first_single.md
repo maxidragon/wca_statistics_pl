@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on  4 September 2026*
+*Updated on  7 September 2026*
 
 
 ### 3x3x3 Cube
@@ -41,13 +41,13 @@
 | 33.26 | [Cyprian Czuba](https://www.worldcubeassociation.org/persons/2019CZUB01) |
 | 37.83 | [Szymon Kasprzycki](https://www.worldcubeassociation.org/persons/2025KASP02) |
 | 41.43 | [Dominik Smagowski](https://www.worldcubeassociation.org/persons/2023SMAG02) |
+| 41.69 | [Adam Nahajowski](https://www.worldcubeassociation.org/persons/2020NAHA01) |
 | 41.82 | [Mikołaj Wróbel](https://www.worldcubeassociation.org/persons/2025WROB01) |
 | 42.37 | [Dominik Stryczek](https://www.worldcubeassociation.org/persons/2023STRY01) |
 | 42.87 | [Michal J. Sekulski](https://www.worldcubeassociation.org/persons/2023SEKU01) |
 | 42.99 | [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) |
 | 43.24 | [Ignacy Tomczak](https://www.worldcubeassociation.org/persons/2022TOMC01) |
 | 43.83 | [Jakub Grzybowski](https://www.worldcubeassociation.org/persons/2017GRZY02) |
-| 44.14 | [Jakub Łój](https://www.worldcubeassociation.org/persons/2023LOJJ01) |
 
 ### 5x5x5 Cube
 
@@ -68,6 +68,7 @@
 
 | First single | Person |
 | ---: | :--- |
+| 2:14.22 | [Piotr Sadowy](https://www.worldcubeassociation.org/persons/2026SADO03) |
 | 2:16.34 | [Jerzy Chmiel](https://www.worldcubeassociation.org/persons/2019CHMI01) |
 | 2:17.17 | [Marcel Borkowski](https://www.worldcubeassociation.org/persons/2023BORK01) |
 | 2:17.27 | [Bartłomiej Gołda](https://www.worldcubeassociation.org/persons/2015GODA01) |
@@ -77,7 +78,6 @@
 | 2:25.87 | [Maksymilian Sordyl](https://www.worldcubeassociation.org/persons/2022SORD01) |
 | 2:35.89 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) |
 | 2:36.55 | [Jan Zachwatowicz](https://www.worldcubeassociation.org/persons/2022ZACH01) |
-| 2:38.08 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 
 ### 7x7x7 Cube
 
@@ -118,11 +118,11 @@
 | 29 | [Ignacy Malinowski](https://www.worldcubeassociation.org/persons/2021MALI02) |
 | 29 | [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) |
 | 30 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) |
-| 31 | [Karol Micał](https://www.worldcubeassociation.org/persons/2022MICA03) |
-| 31 | [Krzysztof Boguszewski](https://www.worldcubeassociation.org/persons/2019BOGU01) |
-| 31 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) |
-| 31 | [Witold Kordos](https://www.worldcubeassociation.org/persons/2016KORD01) |
 | 31 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) |
+| 31 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) |
+| 31 | [Krzysztof Boguszewski](https://www.worldcubeassociation.org/persons/2019BOGU01) |
+| 31 | [Karol Micał](https://www.worldcubeassociation.org/persons/2022MICA03) |
+| 31 | [Witold Kordos](https://www.worldcubeassociation.org/persons/2016KORD01) |
 
 ### 3x3x3 One-Handed
 
@@ -180,8 +180,8 @@
 | 6.30 | [Bartosz Miduch](https://www.worldcubeassociation.org/persons/2019MIDU01) |
 | 6.30 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
 | 6.67 | [Łukasz Owczarek](https://www.worldcubeassociation.org/persons/2022OWCZ02) |
-| 6.75 | [Łukasz Kamiński](https://www.worldcubeassociation.org/persons/2023KAMI07) |
 | 6.75 | [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) |
+| 6.75 | [Łukasz Kamiński](https://www.worldcubeassociation.org/persons/2023KAMI07) |
 | 7.00 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) |
 
 ### Skewb

@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on  4 September 2026*
+*Updated on  7 September 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -75,6 +75,7 @@
 | 9 | [Arkadiusz Dubicki](https://www.worldcubeassociation.org/persons/2023DUBI01) |
 | 9 | [Hubert Darłak](https://www.worldcubeassociation.org/persons/2023DARL03) |
 | 9 | [Zbigniew Mróz](https://www.worldcubeassociation.org/persons/2023MROZ03) |
+| 9 | [Łukasz Siara](https://www.worldcubeassociation.org/persons/2024SIAR01) |
 | 8 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) |
 | 8 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) |
 | 8 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) |
@@ -83,7 +84,6 @@
 | 8 | [Kamil Michalak](https://www.worldcubeassociation.org/persons/2016MICH01) |
 | 8 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
 | 8 | [Mateusz Nowak](https://www.worldcubeassociation.org/persons/2022NOWA05) |
-| 8 | [Łukasz Siara](https://www.worldcubeassociation.org/persons/2024SIAR01) |
 | 8 | [Hugo Dziemiach](https://www.worldcubeassociation.org/persons/2024DZIE02) |
 | 7 | [Jakub Cabaj](https://www.worldcubeassociation.org/persons/2008CABA03) |
 | 7 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) |

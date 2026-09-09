@@ -1,7 +1,7 @@
 ## Most delegated and organized competitions each year
 
 *Note: This statistic shows how many of the competitions delegated by each Polish delegate in a given year were also organized by them.*
-*Updated on  7 September 2026*
+*Updated on  8 September 2026*
 
 
 ### 2026

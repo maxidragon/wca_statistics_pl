@@ -1,7 +1,7 @@
 ## Biggest competitions in Poland
 
 *Note: Every competitor with at least one result is counted, no matter their country.*
-*Updated on  8 September 2026*
+*Updated on 10 September 2026*
 
 | Competitors | Competition |
 | ---: | :--- |

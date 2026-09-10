@@ -1,7 +1,7 @@
 ## National record averages with every attempt better than the previous national record average
 
 *Note: Continental and world records count as national records as well. The first national record in an event is skipped, as there is nothing to compare it with. Averages with an unsolved attempt are not taken into account.*
-*Updated on  8 September 2026*
+*Updated on 10 September 2026*
 
 
 ### 3x3x3 Cube

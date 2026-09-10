@@ -1,7 +1,7 @@
 ## Delegated competitions in most voivodeships in Poland
 
 *Note: Voivodeships are inferred from competition coordinates (approximate bounding box). Only Polish delegates and Polish competitions with posted results are included.*
-*Updated on  8 September 2026*
+*Updated on 10 September 2026*
 
 | Delegate | Delegated | Missed | Missed Voivodeships | Completed At |
 | :--- | ---: | ---: | :--- | :--- |

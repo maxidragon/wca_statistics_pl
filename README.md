@@ -41,7 +41,6 @@ All statistics are computed only for competitors from Poland/Polish competitions
 - [Highest average number of new people met per competition](average_new_people_met_per_competition)
 - [Highest average percentage of available attempts used](average_attempts_used_percentage)
 - [Highest percentage of competitions with at least one medal](highest_percentage_of_competitions_with_medal)
-- [Highest possible number of solves at one competition](highest_possible_number_of_solves_at_one_competition)
 - [Highest registration fee at Polish competitions](highest_registration_fee)
 - [Longest competitions in Poland](longest_competitions)
 - [Longest competitions path](longest_competitions_path)

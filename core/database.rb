@@ -21,6 +21,7 @@ module Database
     result_attempts
     round_types
     users
+    user_roles
     schedule_activities
     venue_rooms
     competition_venues

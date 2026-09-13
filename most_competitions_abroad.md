@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 10 September 2026*
+*Updated on 13 September 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -32,8 +32,8 @@
 | 16 | [Marcin Karczmarz](https://www.worldcubeassociation.org/persons/2023KARC01) |
 | 16 | [Tymoteusz Zmudzki Piskorska](https://www.worldcubeassociation.org/persons/2024PISK02) |
 | 15 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
+| 15 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) |
 | 15 | [Michal J. Sekulski](https://www.worldcubeassociation.org/persons/2023SEKU01) |
-| 14 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) |
 | 14 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) |
 | 14 | [Alex Myrus](https://www.worldcubeassociation.org/persons/2022MYRU01) |
 | 14 | [Liam Stuart Ferreira](https://www.worldcubeassociation.org/persons/2022FERR14) |

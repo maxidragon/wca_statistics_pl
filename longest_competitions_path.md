@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 10 September 2026*
+*Updated on 13 September 2026*
 
 | Person | Distance |
 | :--- | ---: |
@@ -49,7 +49,7 @@
 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 46 830 km |
 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 46 730 km |
 | [Jarosław Chodyniecki](https://www.worldcubeassociation.org/persons/2018CHOD01) | 46 669 km |
-| [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) | 45 922 km |
+| [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) | 46 653 km |
 | [Ignacy Malinowski](https://www.worldcubeassociation.org/persons/2021MALI02) | 45 122 km |
 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) | 44 778 km |
 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 44 111 km |

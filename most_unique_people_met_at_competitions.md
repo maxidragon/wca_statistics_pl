@@ -1,7 +1,7 @@
 ## Most unique people met at competitions
 
 *Note: Treats two people as having met when both recorded at least one result at the same competition. Co-competitors of any nationality are included and each is counted once, regardless of how many competitions they shared.*
-*Updated on 10 September 2026*
+*Updated on 13 September 2026*
 
 | People met | Competitions | Person |
 | ---: | ---: | :--- |
@@ -21,7 +21,7 @@
 | 6435 | 231 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 6323 | 116 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) |
 | 6173 | 58 | [Joanna Dubicka](https://www.worldcubeassociation.org/persons/2018DUBI04) |
-| 6091 | 52 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) |
+| 6120 | 53 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) |
 | 5966 | 54 | [Arkadiusz Dubicki](https://www.worldcubeassociation.org/persons/2023DUBI01) |
 | 5923 | 82 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) |
 | 5884 | 202 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |

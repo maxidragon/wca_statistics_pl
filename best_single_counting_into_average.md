@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 10 September 2026*
+*Updated on 13 September 2026*
 
 
 ### 3x3x3 Cube
@@ -102,8 +102,8 @@
 | 0.92 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | [Cube4fun in Gorlice 2023](https://www.worldcubeassociation.org/competitions/Cube4funinGorlice2023/results/by_person#2018HIBS01) |
 | 0.96 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | [Puck Open 2026](https://www.worldcubeassociation.org/competitions/PuckOpen2026/results/by_person#2022URBA02) |
 | 0.96 | [Marek Dojtrowski](https://www.worldcubeassociation.org/persons/2023DOJT01) | [Cube Factory League Jeżów 2026](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueJezow2026/results/by_person#2023DOJT01) |
-| 0.97 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | [Santa Claus Cube Race 2019](https://www.worldcubeassociation.org/competitions/SantaClausCubeRace2019/results/by_person#2013WARY01) |
 | 0.97 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | [Cube4fun in Gorlice 2023](https://www.worldcubeassociation.org/competitions/Cube4funinGorlice2023/results/by_person#2015GORN01) |
+| 0.97 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | [Santa Claus Cube Race 2019](https://www.worldcubeassociation.org/competitions/SantaClausCubeRace2019/results/by_person#2013WARY01) |
 | 0.99 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | [Pilzno Cubing Holiday 2026](https://www.worldcubeassociation.org/competitions/PilznoCubingHoliday2026/results/by_person#2021KULA02) |
 | 1.02 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | [Warm-Up Warsaw 2025](https://www.worldcubeassociation.org/competitions/WarmUpWarsaw2025/results/by_person#2020DOZA01) |
 | 1.04 | [Adam Jagła](https://www.worldcubeassociation.org/persons/2017JAGL01) | [Santa Claus Cube Race 2019](https://www.worldcubeassociation.org/competitions/SantaClausCubeRace2019/results/by_person#2017JAGL01) |

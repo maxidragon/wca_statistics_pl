@@ -1,12 +1,12 @@
 ## Most competitions organized
 
-*Updated on 10 September 2026*
+*Updated on 13 September 2026*
 
 | Organized | Person |
 | ---: | :--- |
 | 143 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
 | 84 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
-| 81 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
+| 82 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 79 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 55 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 42 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
@@ -35,9 +35,9 @@
 | 11 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
 | 10 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) |
 | 10 | [Krzysztof Kasprzak](https://www.worldcubeassociation.org/persons/2015KASP01) |
+| 10 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |
 | 10 | [Przemysław Malinowski](https://www.worldcubeassociation.org/persons/2022MALI01) |
 | 9 | [Kalina Jakubowska](https://www.worldcubeassociation.org/persons/2009BRZE01) |
-| 9 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |
 | 9 | [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) |
 | 9 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
 | 9 | [Janusz Łebkowski](https://www.worldcubeassociation.org/persons/2022LEBK01) |
@@ -82,6 +82,7 @@
 | 4 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) |
 | 4 | [Krystian Fiołek](https://www.worldcubeassociation.org/persons/2022FIOL01) |
 | 4 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) |
+| 4 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) |
 | 4 | [Maksymilian Januszewski](https://www.worldcubeassociation.org/persons/2022JANU01) |
 | 4 | [Kajtek Kwiatkowski](https://www.worldcubeassociation.org/persons/2023KWIA01) |
 | 4 | [Mateusz Ziemba](https://www.worldcubeassociation.org/persons/2022ZIEM01) |
@@ -106,11 +107,11 @@
 | 3 | [Kamil Pieczka](https://www.worldcubeassociation.org/persons/2013PIEC02) |
 | 3 | [Michał Milówka](https://www.worldcubeassociation.org/persons/2013MILO02) |
 | 3 | [Adam Brzana](https://www.worldcubeassociation.org/persons/2022BRZA01) |
-| 3 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) |
 | 3 | [Piotr Brokos](https://www.worldcubeassociation.org/persons/2023BROK01) |
 | 3 | [Szymon Kulpa](https://www.worldcubeassociation.org/persons/2023KULP02) |
 | 3 | [Szymon Gabara](https://www.worldcubeassociation.org/persons/2023GABA01) |
 | 3 | [Daniel Śliwa](https://www.worldcubeassociation.org/persons/2024SLIW01) |
+| 3 | [Tobiasz Gładysz](https://www.worldcubeassociation.org/persons/2024GLAD02) |
 | 3 | [Tomasz Jarosz](https://www.worldcubeassociation.org/persons/2024JARO03) |
 
 

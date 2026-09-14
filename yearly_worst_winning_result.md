@@ -1,7 +1,7 @@
 ## Worst result providing a win by year at Polish competitions
 
 *Note: Only finals at competitions held in Poland are taken into account, regardless of the winners' countries. Results where the main statistic is DNF are ignored. Each year is considered separately.*
-*Updated on 13 September 2026*
+*Updated on 14 September 2026*
 
 
 ### 2026
@@ -48,8 +48,8 @@
 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | 25.34 | **31.11** | [Lipnica Wielka Open 2026](https://www.worldcubeassociation.org/competitions/LipnicaWielkaOpen2026/results/podiums#e444) |
 | [Ihor Sukhovatenko (Ігор Суховатенко)](https://www.worldcubeassociation.org/persons/2017SUKH02) | 24.08 | **29.91** | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026/results/podiums#e444) |
 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 26.05 | **29.44** | [CFGS VI Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGSVIBrzeziny2026/results/podiums#e444) |
+| [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 26.46 | **29.23** | [Cubing Summer Rybnik 2026](https://www.worldcubeassociation.org/competitions/CubingSummerRybnik2026/results/podiums#e444) |
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 26.48 | **28.87** | [Warm Up Niepołomice 2026](https://www.worldcubeassociation.org/competitions/WarmUpNiepolomice2026/results/podiums#e444) |
-| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 26.19 | **28.75** | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026/results/podiums#e444) |
 
 #### 5x5x5 Cube
 
@@ -64,7 +64,7 @@
 | [Ihor Sukhovatenko (Ігор Суховатенко)](https://www.worldcubeassociation.org/persons/2017SUKH02) | 47.31 | **52.62** | [All Rounders Katowice II 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceII2026/results/podiums#e555) |
 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 46.40 | **52.55** | [Silesian Minx Fest 2026](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2026/results/podiums#e555) |
 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 42.75 | **52.08** | [Jasło Cubing Days 2026](https://www.worldcubeassociation.org/competitions/JasloCubingDays2026/results/podiums#e555) |
-| [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 45.85 | **50.85** | [CF Goes Sideways Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesSidewaysBrzeziny2026/results/podiums#e555) |
+| [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 49.73 | **51.14** | [Cubing Summer Rybnik 2026](https://www.worldcubeassociation.org/competitions/CubingSummerRybnik2026/results/podiums#e555) |
 
 #### 6x6x6 Cube
 

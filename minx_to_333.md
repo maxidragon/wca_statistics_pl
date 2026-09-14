@@ -1,7 +1,7 @@
 ## Megaminx results compared to 3x3 (Poland)
 
 *Note: This statistic compares the best Megaminx average to the best 3x3 average for Polish competitors.*
-*Updated on 13 September 2026*
+*Updated on 14 September 2026*
 
 | Person | Megaminx | 3x3 | Ratio |
 | :--- | ---: | ---: | ---: |
@@ -17,11 +17,11 @@
 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | 49.83 | 12.53 | 3.98 |
 | [Marcel Borkowski](https://www.worldcubeassociation.org/persons/2023BORK01) | 39.85 | 9.77 | 4.08 |
 | [Zuzanna Bogusz](https://www.worldcubeassociation.org/persons/2022BOGU01) | 2:32.71 | 37.29 | 4.10 |
+| [Wiktor Gugulski](https://www.worldcubeassociation.org/persons/2023GUGU01) | 29.84 | 7.18 | 4.16 |
 | [Dominik Unijewski](https://www.worldcubeassociation.org/persons/2017UNIJ01) | 56.06 | 13.47 | 4.16 |
 | [Mikołaj Dorosiński](https://www.worldcubeassociation.org/persons/2016DORO01) | 53.95 | 12.91 | 4.18 |
 | [Jędrzej Topolski](https://www.worldcubeassociation.org/persons/2024TOPO01) | 41.74 | 9.88 | 4.23 |
 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 37.27 | 8.75 | 4.26 |
-| [Wiktor Gugulski](https://www.worldcubeassociation.org/persons/2023GUGU01) | 31.09 | 7.18 | 4.33 |
 | [Idan Bolesto](https://www.worldcubeassociation.org/persons/2022BOLE01) | 43.72 | 10.05 | 4.35 |
 | [Bartosz Brudnicki](https://www.worldcubeassociation.org/persons/2023BRUD01) | 54.29 | 12.32 | 4.41 |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 30.90 | 6.97 | 4.43 |

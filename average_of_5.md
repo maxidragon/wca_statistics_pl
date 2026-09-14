@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 13 September 2026*
+*Updated on 14 September 2026*
 
 
 ### 3x3x3 Cube
@@ -143,11 +143,11 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
+| 29.84 | [Wiktor Gugulski](https://www.worldcubeassociation.org/persons/2023GUGU01) | 30.47, 34.31, 29.40, 29.08, 29.65 |
 | 30.05 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 28.89, 30.90, 39.01, 30.36, 27.93 |
 | 30.09 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 27.35, 30.79, 33.45, 28.69, 30.80 |
 | 30.48 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 30.62, 30.70, 30.16, 30.67, 29.26 |
 | 30.89 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 31.02, 30.69, 30.19, 39.00, 30.97 |
-| 31.09 | [Wiktor Gugulski](https://www.worldcubeassociation.org/persons/2023GUGU01) | 30.36, 36.55, 31.73, 31.18, 28.90 |
 | 34.38 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 34.44, 34.50, 32.73, 39.70, 34.20 |
 | 34.72 | [Przemysław Rudziak](https://www.worldcubeassociation.org/persons/2020RUDZ02) | 31.69, 35.98, 36.48, 42.45, 31.41 |
 | 35.11 | [Ernest Seroczyński](https://www.worldcubeassociation.org/persons/2015SERO02) | 38.12, 33.80, 35.21, 36.33, 32.93 |
@@ -182,7 +182,7 @@
 | 3.05 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | DNF, 3.04, 3.13, 2.91, 2.98 |
 | 3.19 | [Marcel Politowicz](https://www.worldcubeassociation.org/persons/2021POLI02) | 2.79, 4.02, 2.66, 3.10, 3.67 |
 | 3.25 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | 2.96, 3.32, 3.46, 5.04, 2.91 |
-| 3.28 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) | 3.51, 3.17, 3.44, 2.84, 3.24 |
+| 3.27 | [Tobiasz Gładysz](https://www.worldcubeassociation.org/persons/2024GLAD02) | 5.01, 2.99, 3.51, 2.87, 3.32 |
 
 ### Skewb
 

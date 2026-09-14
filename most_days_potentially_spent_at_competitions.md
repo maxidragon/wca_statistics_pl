@@ -1,11 +1,11 @@
 ## Most days potentially spent at competitions
 
-*Updated on 13 September 2026*
+*Updated on 14 September 2026*
 
 | Days | Person | Competitions |
 | ---: | :--- | ---: |
 | 754 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 408 |
-| 671 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 388 |
+| 673 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 389 |
 | 532 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 270 |
 | 530 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 279 |
 | 444 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 226 |
@@ -22,8 +22,8 @@
 | 300 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 146 |
 | 292 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 150 |
 | 284 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 139 |
+| 271 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 141 |
 | 270 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 152 |
-| 269 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 140 |
 | 266 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 120 |
 | 259 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 141 |
 | 256 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 117 |
@@ -45,8 +45,8 @@
 | 214 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | 124 |
 | 214 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 112 |
 | 213 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 114 |
+| 212 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | 112 |
 | 212 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 108 |
-| 210 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | 111 |
 | 207 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 119 |
 | 205 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 121 |
 | 203 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 97 |

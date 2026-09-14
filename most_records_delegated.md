@@ -1,12 +1,12 @@
 ## Most records delegated
 
 *Note: Counts records achieved in competitions where the Polish Delegate was listed.*
-*Updated on 13 September 2026*
+*Updated on 14 September 2026*
 
 | Records | WR | CR | NR | Delegate |
 | ---: | ---: | ---: | ---: | :--- |
 | 437 | 6 | 55 | 376 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
-| 246 | 6 | 29 | 211 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
+| 247 | 6 | 29 | 212 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 237 | 17 | 22 | 198 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
 | 182 | 10 | 23 | 149 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
 | 164 | 16 | 19 | 129 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) |

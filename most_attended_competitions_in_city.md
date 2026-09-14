@@ -1,7 +1,7 @@
 ## Most attended competitions in a city
 
 *Note: Only Polish persons and Polish competitions with posted results are included.*
-*Updated on 13 September 2026*
+*Updated on 14 September 2026*
 
 
 ### Gdańsk
@@ -436,6 +436,42 @@ _Total competitions: 10_
 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) | 4 |
 | [Sebastian Kowalewski](https://www.worldcubeassociation.org/persons/2013KOWA01) | 3 |
 
+### Rybnik
+_Total competitions: 9_
+
+| Person | Competitions |
+| :--- | ---: |
+| [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | 6 |
+| [Rafał Gawełczyk](https://www.worldcubeassociation.org/persons/2023GAWE01) | 6 |
+| [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) | 6 |
+| [Daniel Śliwa](https://www.worldcubeassociation.org/persons/2024SLIW01) | 6 |
+| [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 5 |
+| [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | 5 |
+| [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | 5 |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 5 |
+| [Tobiasz Gładysz](https://www.worldcubeassociation.org/persons/2024GLAD02) | 5 |
+| [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 4 |
+| [Henryk Gabor](https://www.worldcubeassociation.org/persons/2024GABO02) | 4 |
+| [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | 4 |
+| [Wiktor Gugulski](https://www.worldcubeassociation.org/persons/2023GUGU01) | 4 |
+| [Adrian Słowik](https://www.worldcubeassociation.org/persons/2024SLOW01) | 4 |
+| [Michał Machnik](https://www.worldcubeassociation.org/persons/2022MACH14) | 4 |
+| [Jakub Pieliński](https://www.worldcubeassociation.org/persons/2024PIEL01) | 4 |
+| [Michał Drzęźla](https://www.worldcubeassociation.org/persons/2024DRZE01) | 4 |
+| [Mateusz Fydrych](https://www.worldcubeassociation.org/persons/2011FYDR01) | 4 |
+| [Błażej Cichy](https://www.worldcubeassociation.org/persons/2012CICH01) | 4 |
+| [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) | 4 |
+| [Tomasz Cepil](https://www.worldcubeassociation.org/persons/2018CEPI01) | 4 |
+| [Szymon Moroń](https://www.worldcubeassociation.org/persons/2013MORO01) | 3 |
+| [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) | 3 |
+| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 3 |
+| [Marcin Wójcik](https://www.worldcubeassociation.org/persons/2025WOJC02) | 3 |
+| [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 3 |
+| [Adam Gottscholl](https://www.worldcubeassociation.org/persons/2013GOTT01) | 3 |
+| [Grzegorz Chudzik](https://www.worldcubeassociation.org/persons/2018CHUD02) | 3 |
+| [Szymon Jaworski](https://www.worldcubeassociation.org/persons/2021JAWO01) | 3 |
+| [Piotr Pojda](https://www.worldcubeassociation.org/persons/2012POJD01) | 3 |
+
 ### Bielsko-Biała
 _Total competitions: 9_
 
@@ -507,42 +543,6 @@ _Total competitions: 8_
 | [Marcin Wawiórko](https://www.worldcubeassociation.org/persons/2023WAWI01) | 3 |
 | [Dominik Szajek](https://www.worldcubeassociation.org/persons/2023SZAJ01) | 3 |
 | [Maks Noska](https://www.worldcubeassociation.org/persons/2023NOSK01) | 3 |
-
-### Rybnik
-_Total competitions: 8_
-
-| Person | Competitions |
-| :--- | ---: |
-| [Daniel Śliwa](https://www.worldcubeassociation.org/persons/2024SLIW01) | 5 |
-| [Rafał Gawełczyk](https://www.worldcubeassociation.org/persons/2023GAWE01) | 5 |
-| [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | 5 |
-| [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) | 5 |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 5 |
-| [Mateusz Fydrych](https://www.worldcubeassociation.org/persons/2011FYDR01) | 4 |
-| [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | 4 |
-| [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | 4 |
-| [Błażej Cichy](https://www.worldcubeassociation.org/persons/2012CICH01) | 4 |
-| [Tobiasz Gładysz](https://www.worldcubeassociation.org/persons/2024GLAD02) | 4 |
-| [Michał Machnik](https://www.worldcubeassociation.org/persons/2022MACH14) | 4 |
-| [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) | 4 |
-| [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 4 |
-| [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | 4 |
-| [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 3 |
-| [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) | 3 |
-| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 3 |
-| [Sebastian Kieś](https://www.worldcubeassociation.org/persons/2013KIES01) | 3 |
-| [Grzegorz Chudzik](https://www.worldcubeassociation.org/persons/2018CHUD02) | 3 |
-| [Mateusz Adamczyk](https://www.worldcubeassociation.org/persons/2011ADAM03) | 3 |
-| [Radosław Smędzik](https://www.worldcubeassociation.org/persons/2022SMED01) | 3 |
-| [Wiktor Smędzik](https://www.worldcubeassociation.org/persons/2022SMED02) | 3 |
-| [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | 3 |
-| [Henryk Gabor](https://www.worldcubeassociation.org/persons/2024GABO02) | 3 |
-| [Paweł Kowol](https://www.worldcubeassociation.org/persons/2011KOWO01) | 3 |
-| [Kamil Mieńko](https://www.worldcubeassociation.org/persons/2011MIEN01) | 3 |
-| [Karol Szczypek](https://www.worldcubeassociation.org/persons/2024SZCZ01) | 3 |
-| [Jan Szerzyna](https://www.worldcubeassociation.org/persons/2024SZER01) | 3 |
-| [Adam Gottscholl](https://www.worldcubeassociation.org/persons/2013GOTT01) | 3 |
-| [Michał Drzęźla](https://www.worldcubeassociation.org/persons/2024DRZE01) | 3 |
 
 ### Gniezno
 _Total competitions: 8_

@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 13 September 2026*
+*Updated on 14 September 2026*
 
 
 ### 3x3x3 Cube
@@ -133,11 +133,11 @@
 | 0.39 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | 38.92 | 39.31 | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/by_person#2022SLIW01) |
 | 0.41 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | 40.12 | 40.53 | [Pilzno Cubing Holiday 2025](https://www.worldcubeassociation.org/competitions/PilznoCubingHoliday2025/results/by_person#2022SLIW01) |
 | 0.41 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 1:25.11 | 1:25.52 | [BrizZon Side Open II 2024](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenII2024/results/by_person#2019ROGO04) |
+| 0.42 | [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) | 42.92 | 43.34 | [Erlangen Open IV 2026](https://www.worldcubeassociation.org/competitions/ErlangenOpenIV2026/results/by_person#2021SUSL01) |
 | 0.42 | [Jędrzej Topolski](https://www.worldcubeassociation.org/persons/2024TOPO01) | 48.93 | 49.35 | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/by_person#2024TOPO01) |
 | 0.44 | [Krzysztof Boguszewski](https://www.worldcubeassociation.org/persons/2019BOGU01) | 42.19 | 42.63 | [Dragon Cubing 2023](https://www.worldcubeassociation.org/competitions/DragonCubing2023/results/by_person#2019BOGU01) |
 | 0.49 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | 1:01.48 | 1:01.97 | [Speed Days Kraśnik 2015](https://www.worldcubeassociation.org/competitions/SpeedDaysKrasnik2015/results/by_person#2011MAJC01) |
 | 0.49 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | 1:02.83 | 1:03.32 | [Rzeszów Open 2025](https://www.worldcubeassociation.org/competitions/RzeszowOpen2025/results/by_person#2016DURA09) |
-| 0.50 | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) | 42.23 | 42.73 | [Silesian Minx Fest 2025](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2025/results/by_person#2017TKAC04) |
 
 ### Pyraminx
 

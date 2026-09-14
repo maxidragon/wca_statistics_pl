@@ -1,7 +1,7 @@
 ## Best all-Polish podiums
 
 *Note: Podiums at any competition where all three podium places were taken by people representing Poland. Podium places with sum of best or average times depending on format.*
-*Updated on 13 September 2026*
+*Updated on 14 September 2026*
 
 
 ### 3x3x3 Cube
@@ -25,8 +25,8 @@
 | :--- | :--- | ---: |
 | [Gdańska LS Final 2025](https://www.worldcubeassociation.org/competitions/GLSFinal2025) | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) (1.08), [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) (1.26), [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) (1.42) | 3.76 |
 | [Energy Cube Białołęka 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2025) | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) (1.06), [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) (1.31), [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) (1.41) | 3.78 |
-| [Energy Cube Tomaszów 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2025) | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) (1.15), [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) (1.29), [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) (1.38) | 3.82 |
 | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) (1.04), [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) (1.30), [Igor Łabędź](https://www.worldcubeassociation.org/persons/2021LABE01) (1.48) | 3.82 |
+| [Energy Cube Tomaszów 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2025) | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) (1.15), [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) (1.29), [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) (1.38) | 3.82 |
 | [Puck Open 2026](https://www.worldcubeassociation.org/competitions/PuckOpen2026) | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) (1.20), [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) (1.21), [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) (1.42) | 3.83 |
 | [Cube4fun in Bełchatów 2026](https://www.worldcubeassociation.org/competitions/Cube4funinBelchatow2026) | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) (1.17), [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) (1.25), [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) (1.45) | 3.87 |
 | [Oslo Open 2026](https://www.worldcubeassociation.org/competitions/OsloOpen2026) | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) (0.96), [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) (1.49), [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) (1.51) | 3.96 |
@@ -162,8 +162,8 @@
 | [Gift Packs Niepołomice 2025](https://www.worldcubeassociation.org/competitions/GiftPacksNiepolomice2025) | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) (8.53), [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) (9.26), [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) (12.59) | 30.38 |
 | [Cube4fun Tylmanowa Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaWinter2026) | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) (8.60), [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) (9.82), [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) (12.01) | 30.43 |
 | [Cubing Mine Rybnik IV 2026](https://www.worldcubeassociation.org/competitions/CubingMineRybnikIV2026) | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) (8.90), [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) (9.83), [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) (12.00) | 30.73 |
-| [Mielec Cubing Days 2026](https://www.worldcubeassociation.org/competitions/MielecCubingDays2026) | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) (9.19), [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) (10.39), [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) (11.22) | 30.80 |
 | [Dragon Cubing XI 2025](https://www.worldcubeassociation.org/competitions/DragonCubingXI2025) | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) (9.25), [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) (9.89), [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) (11.66) | 30.80 |
+| [Mielec Cubing Days 2026](https://www.worldcubeassociation.org/competitions/MielecCubingDays2026) | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) (9.19), [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) (10.39), [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) (11.22) | 30.80 |
 
 ### Megaminx
 

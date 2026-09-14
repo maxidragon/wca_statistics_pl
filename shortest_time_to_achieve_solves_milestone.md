@@ -1,6 +1,6 @@
 ## Shortest time to achieve solves milestone
 
-*Updated on 13 September 2026*
+*Updated on 14 September 2026*
 
 
 ### 20000 Solves
@@ -46,17 +46,17 @@
 | 1478 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) |
 | 1490 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) |
 | 1527 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) |
-| 1541 | [Ignacy Malinowski](https://www.worldcubeassociation.org/persons/2021MALI02) |
 | 1541 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
+| 1541 | [Ignacy Malinowski](https://www.worldcubeassociation.org/persons/2021MALI02) |
 | 1618 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 1674 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) |
 | 1695 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |
 | 1730 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
 | 1772 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) |
+| 1814 | [Szymon Jaworski](https://www.worldcubeassociation.org/persons/2021JAWO01) |
 | 1828 | [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) |
 | 1961 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
 | 1990 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
-| 2010 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
 
 ### 1000 Solves
 

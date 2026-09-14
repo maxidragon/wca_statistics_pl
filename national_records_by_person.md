@@ -1,6 +1,6 @@
 ## National records count by person
 
-*Updated on 13 September 2026*
+*Updated on 14 September 2026*
 
 | WRs | Person |
 | ---: | :--- |
@@ -95,6 +95,7 @@
 | 1 | [Piotr Kuchta](https://www.worldcubeassociation.org/persons/2012KUCH01) |
 | 1 | [Piotr Pojda](https://www.worldcubeassociation.org/persons/2012POJD01) |
 | 1 | [Piotr Serbeński](https://www.worldcubeassociation.org/persons/1982SEBE01) |
+| 1 | [Wiktor Gugulski](https://www.worldcubeassociation.org/persons/2023GUGU01) |
 | 1 | [Wojciech Gonet](https://www.worldcubeassociation.org/persons/2014GONE01) |
 | 1 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 

@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 13 September 2026*
+*Updated on 14 September 2026*
 
 
 ### 3x3x3 Cube
@@ -31,8 +31,8 @@
 | 3.54 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
 | 3.60 | [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) |
 | 3.65 | [Miłosz Jaśkiewicz](https://www.worldcubeassociation.org/persons/2022JASK01) |
-| 3.68 | [Matviy Berestovskyy](https://www.worldcubeassociation.org/persons/2022BERE02) |
 | 3.68 | [Ksawier Kozak](https://www.worldcubeassociation.org/persons/2023KOZA02) |
+| 3.68 | [Matviy Berestovskyy](https://www.worldcubeassociation.org/persons/2022BERE02) |
 
 ### 4x4x4 Cube
 
@@ -194,7 +194,7 @@
 | 5.12 | [Krzysztof Stawiński](https://www.worldcubeassociation.org/persons/2026STAW02) |
 | 5.17 | [Krzysztof Więcław](https://www.worldcubeassociation.org/persons/2025WIEC05) |
 | 5.19 | [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) |
-| 5.36 | [Tobiasz Urbanowicz](https://www.worldcubeassociation.org/persons/2019URBA01) |
+| 5.36 | [Jakub Trzop](https://www.worldcubeassociation.org/persons/2022TRZO02) |
 
 ### Square-1
 

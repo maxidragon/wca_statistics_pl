@@ -1,13 +1,13 @@
 ## Most competitions abroad
 
-*Updated on 13 September 2026*
+*Updated on 14 September 2026*
 
 | Competitions | Person |
 | ---: | :--- |
 | 123 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 81 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 54 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
-| 41 | [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) |
+| 42 | [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) |
 | 36 | [Igor Wojciech Wawrzynski](https://www.worldcubeassociation.org/persons/2019WAWR01) |
 | 35 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 35 | [Leon Jakub Wyrobek](https://www.worldcubeassociation.org/persons/2016WYRO01) |
@@ -85,6 +85,7 @@
 | 8 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
 | 8 | [Mateusz Nowak](https://www.worldcubeassociation.org/persons/2022NOWA05) |
 | 8 | [Hugo Dziemiach](https://www.worldcubeassociation.org/persons/2024DZIE02) |
+| 8 | [Franek Spieczonek](https://www.worldcubeassociation.org/persons/2026SPIE01) |
 | 7 | [Jakub Cabaj](https://www.worldcubeassociation.org/persons/2008CABA03) |
 | 7 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) |
 | 7 | [Marek Pepke](https://www.worldcubeassociation.org/persons/2008PEPK01) |
@@ -98,7 +99,6 @@
 | 7 | [Filip Chudy](https://www.worldcubeassociation.org/persons/2022CHUD02) |
 | 7 | [Adam Steuer](https://www.worldcubeassociation.org/persons/2023STEU01) |
 | 7 | [Oskar Wojtyna](https://www.worldcubeassociation.org/persons/2024WOJT03) |
-| 7 | [Franek Spieczonek](https://www.worldcubeassociation.org/persons/2026SPIE01) |
 | 6 | [Łukasz Cichecki](https://www.worldcubeassociation.org/persons/2007CICH01) |
 | 6 | [Kamil Zieliński](https://www.worldcubeassociation.org/persons/2008ZIEL01) |
 | 6 | [Michał Orylski](https://www.worldcubeassociation.org/persons/2009ORYL01) |

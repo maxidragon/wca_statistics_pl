@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 13 September 2026*
+*Updated on 14 September 2026*
 
 
 ### 3x3x3 Blindfolded
@@ -10,8 +10,8 @@
 | 43 | [Szymon Gabara](https://www.worldcubeassociation.org/persons/2023GABA01) |
 | 36 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) |
 | 36 | [Joanna Kierznikiewicz](https://www.worldcubeassociation.org/persons/2022KIER01) |
-| 34 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |
 | 34 | [Robert Cegiel](https://www.worldcubeassociation.org/persons/2017CEGI01) |
+| 34 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |
 | 33 | [Mateusz Kotwica](https://www.worldcubeassociation.org/persons/2016KOTW01) |
 | 29 | [Aron Kasprowicz](https://www.worldcubeassociation.org/persons/2022KASP07) |
 | 26 | [Ignacy Buczek](https://www.worldcubeassociation.org/persons/2013BUCZ01) |
@@ -19,14 +19,14 @@
 | 23 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) |
 | 23 | [Hubert Darłak](https://www.worldcubeassociation.org/persons/2023DARL03) |
 | 22 | [Jakub Cabaj](https://www.worldcubeassociation.org/persons/2008CABA03) |
-| 20 | [Łukasz Gębicz](https://www.worldcubeassociation.org/persons/2013GBIC01) |
-| 20 | [Kamil Pawlak](https://www.worldcubeassociation.org/persons/2006PAWL01) |
 | 20 | [Maciej Kowalik](https://www.worldcubeassociation.org/persons/2024KOWA11) |
+| 20 | [Kamil Pawlak](https://www.worldcubeassociation.org/persons/2006PAWL01) |
+| 20 | [Łukasz Gębicz](https://www.worldcubeassociation.org/persons/2013GBIC01) |
+| 19 | [Michał Tomański](https://www.worldcubeassociation.org/persons/2009TOMA01) |
 | 19 | [Adam Gottscholl](https://www.worldcubeassociation.org/persons/2013GOTT01) |
 | 19 | [Sebastian Kowalewski](https://www.worldcubeassociation.org/persons/2013KOWA01) |
-| 19 | [Michał Tomański](https://www.worldcubeassociation.org/persons/2009TOMA01) |
 | 18 | [Mateusz Bednarczyk](https://www.worldcubeassociation.org/persons/2018BEDN03) |
-| 17 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) |
+| 17 | [Mikołaj Czubak](https://www.worldcubeassociation.org/persons/2025CZUB01) |
 
 ### 4x4x4 Blindfolded
 

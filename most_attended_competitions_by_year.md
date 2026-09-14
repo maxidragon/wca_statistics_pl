@@ -1,14 +1,14 @@
 ## Most competitions each year
 
 *Note: Only the 25 competitors with the most competitions are listed for each year.*
-*Updated on 13 September 2026*
+*Updated on 14 September 2026*
 
 
 ### 2026
 
 | Competitions | Person |
 | ---: | :--- |
-| 61 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 62 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 42 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 32 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 30 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
@@ -27,9 +27,9 @@
 | 21 | [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) |
 | 21 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) |
 | 20 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
+| 20 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) |
 | 20 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
 | 19 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) |
-| 19 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) |
 | 19 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) |
 | 19 | [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) |
 | 19 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |

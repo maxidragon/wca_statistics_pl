@@ -122,6 +122,7 @@ All statistics are computed only for competitors from Poland/Polish competitions
 - [Smallest difference between a single and an average](smallest_diff_between_single_and_average)
 - [Winned week count](winned_week_count)
 - [World Championship podiums by person](world_championship_podiums_by_person)
+- [World and European records set by Polish people](world_and_european_records)
 - [World records count by person](world_records_by_person)
 - [Worst result providing a podium](worst_result_on_podium)
 - [Worst result providing a podium by year at Polish competitions](yearly_worst_result_on_podium)

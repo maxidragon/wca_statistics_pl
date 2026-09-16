@@ -1,6 +1,6 @@
 ## Delegated to attended competition ratio each year (Poland)
 
-*Updated on 14 September 2026*
+*Updated on 16 September 2026*
 
 
 ### 2026
@@ -16,6 +16,7 @@
 | 2 | 3 | 0.67 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=337) |
 | 13 | 20 | 0.65 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=228972) |
 | 17 | 27 | 0.63 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=81510) |
+| 1 | 15 | 0.07 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=102430) |
 
 ### 2025
 

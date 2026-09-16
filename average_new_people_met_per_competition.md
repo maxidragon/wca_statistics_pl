@@ -1,7 +1,7 @@
 ## Highest average number of new people met per competition
 
 *Note: Divides all unique co-competitors met across a competitor's career by their number of competitions. A co-competitor is someone of any nationality who recorded a result at the same competition, and each person counts only once. Minimum 20 competitions required.*
-*Updated on 14 September 2026*
+*Updated on 16 September 2026*
 
 | Avg. new people | Unique people | Competitions | Person |
 | ---: | ---: | ---: | :--- |

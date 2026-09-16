@@ -1,6 +1,6 @@
 ## Most delegated competitions each year
 
-*Updated on 14 September 2026*
+*Updated on 16 September 2026*
 
 
 ### 2026
@@ -16,6 +16,7 @@
 | 12 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=17351) |
 | 10 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=382) |
 | 2 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=337) |
+| 1 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=102430) |
 
 ### 2025
 

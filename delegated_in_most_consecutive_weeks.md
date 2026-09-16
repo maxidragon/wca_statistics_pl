@@ -1,7 +1,7 @@
 ## Most consecutive weeks with a delegated competition
 
 *Note: Only includes delegates from Poland. Weeks are counted as ISO weeks (Monday-Sunday). Multiple competitions in the same week count as one.*
-*Updated on 14 September 2026*
+*Updated on 16 September 2026*
 
 | Count | Person | Start comp | End comp |
 | ---: | :--- | :--- | :--- |
@@ -26,6 +26,7 @@
 | 1 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) | [Wroclaw Open 2007](https://www.worldcubeassociation.org/competitions/WroclawOpen2007) | [Wroclaw Open 2007](https://www.worldcubeassociation.org/competitions/WroclawOpen2007) |
 | 1 | [Stefan Łapicki](https://www.worldcubeassociation.org/persons/2006LAPI01) | [Kociewie Open 2009](https://www.worldcubeassociation.org/competitions/KociewieOpen2009) | [Kociewie Open 2009](https://www.worldcubeassociation.org/competitions/KociewieOpen2009) |
 | 1 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) | [Cubing Spring Grudziadz 2012](https://www.worldcubeassociation.org/competitions/CubingSpringGrudziadz2012) | [Cubing Spring Grudziadz 2012](https://www.worldcubeassociation.org/competitions/CubingSpringGrudziadz2012) |
+| 1 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | [Cubing Summer Rybnik 2026](https://www.worldcubeassociation.org/competitions/CubingSummerRybnik2026) | [Cubing Summer Rybnik 2026](https://www.worldcubeassociation.org/competitions/CubingSummerRybnik2026) |
 | 1 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | [FMC Europe 2025](https://www.worldcubeassociation.org/competitions/FMCEurope2025) | [FMC Europe 2025](https://www.worldcubeassociation.org/competitions/FMCEurope2025) |
 
 

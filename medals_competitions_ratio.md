@@ -1,7 +1,7 @@
 ## Medals to competitions ratio
 
 *Note: Only Polish competitors included*
-*Updated on 14 September 2026*
+*Updated on 16 September 2026*
 
 | Person | Medals | Competitions | Ratio |
 | :--- | ---: | ---: | ---: |

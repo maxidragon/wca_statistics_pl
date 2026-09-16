@@ -1,7 +1,7 @@
 ## Most delegated competitions with another delegate
 
 *Note: Shows how many times each delegate has co-delegated with others. Only Polish delegates are included, and only competitions that have taken place in Poland and have results posted are considered.*
-*Updated on 14 September 2026*
+*Updated on 16 September 2026*
 
 
 ### [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01)
@@ -120,6 +120,7 @@ _Total delegated competitions: 135 (132 in Poland)_
 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 5 |
 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 2 |
 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 2 |
+| [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 1 |
 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 1 |
 
 ### [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01)
@@ -238,6 +239,13 @@ _Total delegated competitions: 29 (27 in Poland)_
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 2 |
 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 2 |
 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 1 |
+
+### [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01)
+_Total delegated competitions: 1 (1 in Poland)_
+
+| Co-delegate | Count |
+| :--- | ---: |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 1 |
 
 ### [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01)
 _Total delegated competitions: 19 (18 in Poland)_

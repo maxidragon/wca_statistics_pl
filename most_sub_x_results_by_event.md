@@ -1,7 +1,7 @@
 ## Most sub-X results by event
 
 *Note: Counts competition averages below the threshold for speed events, singles for BLD events. For Multi-BLD, counts results with strictly more than the given number of points.*
-*Updated on 14 September 2026*
+*Updated on 16 September 2026*
 
 
 ### 3x3x3 Cube

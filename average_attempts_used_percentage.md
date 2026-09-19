@@ -1,7 +1,7 @@
 ## Highest average percentage of available attempts used
 
 *Note: For every competition, the available attempts are the sum of the expected solve counts of all its rounds, no matter which events the competitor signed up for. The used attempts are the ones they actually started (DNFs count, DNSs and attempts lost to a cutoff do not). The percentage is the average of those per-competition ratios, while the attempt counts are totals. Competitions abroad are included. Only Polish competitors with at least 20 competitions are included.*
-*Updated on 16 September 2026*
+*Updated on 19 September 2026*
 
 | % | Person | Attempted | Available | Competitions |
 | ---: | :--- | ---: | ---: | ---: |
@@ -27,7 +27,7 @@
 | 75.20% | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 14534 | 20194 | 226 |
 | 74.90% | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 6077 | 8359 | 87 |
 | 74.61% | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) | 4262 | 6151 | 62 |
-| 74.49% | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 22259 | 32044 | 408 |
+| 74.55% | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 22309 | 32094 | 409 |
 | 73.97% | [Ryszard Kędziora](https://www.worldcubeassociation.org/persons/2022KEDZ01) | 2661 | 3621 | 43 |
 | 73.96% | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 8230 | 11643 | 112 |
 | 73.89% | [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) | 3936 | 5553 | 57 |

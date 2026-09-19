@@ -1,7 +1,7 @@
 ## Worst result providing a win by year at Polish competitions
 
 *Note: Only finals at competitions held in Poland are taken into account, regardless of the winners' countries. Results where the main statistic is DNF are ignored. Each year is considered separately.*
-*Updated on 16 September 2026*
+*Updated on 19 September 2026*
 
 
 ### 2026
@@ -3580,7 +3580,7 @@
 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | 8.50 | **10.06** | [Polish Nationals 2012](https://www.worldcubeassociation.org/competitions/PolishNationals2012/results/podiums#eclock) |
 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | 9.16 | **9.54** | [Polish Open 2012](https://www.worldcubeassociation.org/competitions/PolishOpen2012/results/podiums#eclock) |
 | [Rafał Studnicki](https://www.worldcubeassociation.org/persons/2005STUD01) | 8.78 | **9.33** | [Cubing Spring Grudziadz 2012](https://www.worldcubeassociation.org/competitions/CubingSpringGrudziadz2012/results/podiums#eclock) |
-| [Maarten Smit](https://www.worldcubeassociation.org/persons/2008SMIT04) | 6.68 | **7.24** | [Euro 2012](https://www.worldcubeassociation.org/competitions/Euro2012/results/podiums#eclock) |
+| [Emeline Smit](https://www.worldcubeassociation.org/persons/2008SMIT04) | 6.68 | **7.24** | [Euro 2012](https://www.worldcubeassociation.org/competitions/Euro2012/results/podiums#eclock) |
 
 #### Square-1
 

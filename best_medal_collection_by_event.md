@@ -1,7 +1,7 @@
 ## Best medal collection by event
 
 *Note: All medals are taken into account, no matter where the competition was held.*
-*Updated on 16 September 2026*
+*Updated on 19 September 2026*
 
 
 ### 3x3x3 Cube
@@ -100,7 +100,7 @@
 | :--: | :--- | :--: | :--: | :--: |
 | **168** | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 125 | 28 | 15 |
 | **79** | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 18 | 31 | 30 |
-| **68** | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 24 | 27 | 17 |
+| **70** | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 25 | 27 | 18 |
 | **64** | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) | 37 | 17 | 10 |
 | **46** | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | 32 | 12 | 2 |
 | **46** | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 5 | 15 | 26 |
@@ -173,7 +173,7 @@
 
 | Total | Person | Gold | Silver | Bronze |
 | :--: | :--- | :--: | :--: | :--: |
-| **134** | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 48 | 50 | 36 |
+| **135** | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 49 | 50 | 36 |
 | **54** | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 47 | 5 | 2 |
 | **52** | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 22 | 18 | 12 |
 | **51** | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 21 | 19 | 11 |

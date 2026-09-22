@@ -1,7 +1,7 @@
 ## Highest possible number of solves at one competition
 
 *Note: The maximum assumes that one competitor enters every event, passes every cutoff, advances to every round, and completes every attempt. It is calculated by summing the expected solve count for each round's format.*
-*Updated on 19 September 2026*
+*Updated on 22 September 2026*
 
 | Solves | Competition | Rounds |
 | ---: | :--- | ---: |

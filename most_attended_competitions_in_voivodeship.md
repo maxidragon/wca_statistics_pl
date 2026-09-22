@@ -1,7 +1,7 @@
 ## Competitions per voivodeship
 
 *Note: Voivodeships are inferred from competition coordinates (approximate bounding box). *
-*Updated on 19 September 2026*
+*Updated on 22 September 2026*
 
 
 ### Pomorskie
@@ -41,40 +41,40 @@ _Total competitions: 100_
 | [Maciej Jabłoński](https://www.worldcubeassociation.org/persons/2017JABL01) | 32 |
 
 ### Śląskie
-_Total competitions: 80_
+_Total competitions: 81_
 
 | Person | Competitions |
 | :--- | ---: |
-| [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 60 |
-| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 59 |
+| [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 61 |
+| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 60 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 59 |
-| [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) | 48 |
+| [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) | 49 |
 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | 43 |
 | [Szymon Moroń](https://www.worldcubeassociation.org/persons/2013MORO01) | 39 |
 | [Marcel Nycz](https://www.worldcubeassociation.org/persons/2016NYCZ01) | 38 |
-| [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 35 |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 34 |
+| [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 36 |
 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) | 34 |
-| [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 33 |
+| [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 34 |
+| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 34 |
 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) | 32 |
 | [Wojciech Barciaga](https://www.worldcubeassociation.org/persons/2013BARC03) | 31 |
 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | 31 |
-| [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | 31 |
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 31 |
+| [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | 31 |
 | [Witold Sołtysik](https://www.worldcubeassociation.org/persons/2015SOLT03) | 30 |
-| [Paweł Włoszek](https://www.worldcubeassociation.org/persons/2006WLOS01) | 30 |
-| [Mateusz Fydrych](https://www.worldcubeassociation.org/persons/2011FYDR01) | 30 |
 | [Kacper Stacha](https://www.worldcubeassociation.org/persons/2013STAC01) | 30 |
 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) | 30 |
-| [Dominik Wojciechowski](https://www.worldcubeassociation.org/persons/2013WOJC01) | 29 |
-| [Mateusz Śliż](https://www.worldcubeassociation.org/persons/2012SLIZ01) | 29 |
+| [Mateusz Fydrych](https://www.worldcubeassociation.org/persons/2011FYDR01) | 30 |
+| [Paweł Włoszek](https://www.worldcubeassociation.org/persons/2006WLOS01) | 30 |
 | [Kamil Mieńko](https://www.worldcubeassociation.org/persons/2011MIEN01) | 29 |
-| [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | 28 |
-| [Michał Machnik](https://www.worldcubeassociation.org/persons/2022MACH14) | 28 |
-| [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) | 28 |
+| [Mateusz Śliż](https://www.worldcubeassociation.org/persons/2012SLIZ01) | 29 |
+| [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | 29 |
+| [Michał Machnik](https://www.worldcubeassociation.org/persons/2022MACH14) | 29 |
+| [Dominik Wojciechowski](https://www.worldcubeassociation.org/persons/2013WOJC01) | 29 |
+| [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) | 29 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 28 |
 | [Daniel Samoszyn](https://www.worldcubeassociation.org/persons/2015SAMO01) | 27 |
-| [Mateusz Cichoracki](https://www.worldcubeassociation.org/persons/2011CICH01) | 26 |
+| [Tomasz Cepil](https://www.worldcubeassociation.org/persons/2018CEPI01) | 27 |
 
 ### Mazowieckie
 _Total competitions: 75_

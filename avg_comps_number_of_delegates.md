@@ -1,7 +1,7 @@
 ## Average number of competitions of listed delegates at Polish competitions by number of delegates
 
 *Note: Competitions are grouped by how many delegates they had. Each table shows the competitions with the highest average number of competitions that listed delegates had participated in up to and including the one they delegated.*
-*Updated on 19 September 2026*
+*Updated on 22 September 2026*
 
 
 ### 9 Delegates
@@ -55,6 +55,7 @@
 
 | Competition | Delegates | Average number of competitions of listed delegates |
 | :--- | :--- | ---: |
+| [Silesia Cubing Days 2026](https://www.worldcubeassociation.org/competitions/SilesiaCubingDays2026) | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01), [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 273.33 |
 | [Energy Cube Białołęka 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2025) | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01), [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 269.67 |
 | [Cube Factory Aleksandrów 2026](https://www.worldcubeassociation.org/competitions/CubeFactoryAleksandrow2026) | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01), [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 266.00 |
 | [GLS Gdańsk II 2026](https://www.worldcubeassociation.org/competitions/GLSGdanskII2026) | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 258.00 |
@@ -74,7 +75,6 @@
 | [Piła Open 2025](https://www.worldcubeassociation.org/competitions/PilaOpen2025) | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01), [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 193.00 |
 | [Szansa Cubing Open Warsaw 2024](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2024) | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01), [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 182.33 |
 | [Siedlce Open 2025](https://www.worldcubeassociation.org/competitions/SiedlceOpen2025) | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01), [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 179.00 |
-| [Warm-Up Warsaw 2025](https://www.worldcubeassociation.org/competitions/WarmUpWarsaw2025) | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01), [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 171.67 |
 
 ### 2 Delegates
 

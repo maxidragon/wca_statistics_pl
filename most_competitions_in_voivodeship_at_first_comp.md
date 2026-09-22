@@ -1,7 +1,7 @@
 ## Most % of competitions attended in the same voivodeship as the first competition of the competitor
 
 *Note: Counts how many Polish competitions a person attended in the same voivodeship where they had their first Polish competition. The ratio is computed against all competitions attended, including those abroad.*
-*Updated on 19 September 2026*
+*Updated on 22 September 2026*
 
 | Person | First Competition | Voivodeship | Comps in Voivodeship | Total Comps | Ratio |
 | :--- | :--- | :--- | ---: | ---: | ---: |
@@ -41,8 +41,10 @@
 | [Jonasz Chełmikowski](https://www.worldcubeassociation.org/persons/2025CHEL02) | [Gdańska Liga Speedcubingu III 2025](https://www.worldcubeassociation.org/competitions/GLSIII2025) | Pomorskie | 10 | 10 | 100.0% |
 | [Kacper Kłos](https://www.worldcubeassociation.org/persons/2016KLOS01) | [GLS Cup I 2016](https://www.worldcubeassociation.org/competitions/GLSCupI2016) | Pomorskie | 10 | 10 | 100.0% |
 | [Konrad Warmusz](https://www.worldcubeassociation.org/persons/2013WARM01) | [Rybnik Open 2013](https://www.worldcubeassociation.org/competitions/RybnikOpen2013) | Śląskie | 10 | 10 | 100.0% |
+| [Krzysztof Dybich](https://www.worldcubeassociation.org/persons/2019DYBI01) | [PST CFL Częstochowa 2019](https://www.worldcubeassociation.org/competitions/PSTCFLCzestochowa2019) | Śląskie | 10 | 10 | 100.0% |
 | [Maciej Mituła](https://www.worldcubeassociation.org/persons/2022MITU02) | [Gdańsk Open 2022](https://www.worldcubeassociation.org/competitions/GdanskOpen2022) | Pomorskie | 10 | 10 | 100.0% |
 | [Paweł Dembicki](https://www.worldcubeassociation.org/persons/2017DEMB01) | [GLS Cup V 2017](https://www.worldcubeassociation.org/competitions/GLSCupV2017) | Pomorskie | 10 | 10 | 100.0% |
+| [Paweł Gołdyn](https://www.worldcubeassociation.org/persons/2024GOLD11) | [Żory Cubing Mansion 2024](https://www.worldcubeassociation.org/competitions/ZoryCubingMansion2024) | Śląskie | 10 | 10 | 100.0% |
 | [Weronika Czuraj](https://www.worldcubeassociation.org/persons/2017CZUR02) | [GLS Cup I 2017](https://www.worldcubeassociation.org/competitions/GLSCupI2017) | Pomorskie | 10 | 10 | 100.0% |
 | [Antoni Osman](https://www.worldcubeassociation.org/persons/2024OSMA01) | [SLS Styczeń 2024](https://www.worldcubeassociation.org/competitions/SLSStyczen2024) | Małopolskie | 9 | 9 | 100.0% |
 | [Bartosz Szymański](https://www.worldcubeassociation.org/persons/2024SZYM01) | [Silesian Cubing Pawłowice 2024](https://www.worldcubeassociation.org/competitions/SilesianCubingPawlowice2024) | Śląskie | 9 | 9 | 100.0% |
@@ -52,9 +54,7 @@
 | [Ignacy Szczeciński](https://www.worldcubeassociation.org/persons/2024SZCZ03) | [Cube Factory Rogów 2024](https://www.worldcubeassociation.org/competitions/CubeFactoryRogow2024) | Łódzkie | 9 | 9 | 100.0% |
 | [Jakub Naja](https://www.worldcubeassociation.org/persons/2018NAJA01) | [LLS II 2018](https://www.worldcubeassociation.org/competitions/LLSII2018) | Lubelskie | 9 | 9 | 100.0% |
 | [Julian Schier](https://www.worldcubeassociation.org/persons/2023SCHI21) | [Cube4fun Cubers Eve Tarnowskie Góry 2023](https://www.worldcubeassociation.org/competitions/Cube4funCubersEve2023) | Śląskie | 9 | 9 | 100.0% |
-| [Krzysztof Dybich](https://www.worldcubeassociation.org/persons/2019DYBI01) | [PST CFL Częstochowa 2019](https://www.worldcubeassociation.org/competitions/PSTCFLCzestochowa2019) | Śląskie | 9 | 9 | 100.0% |
 | [Mateusz Madej](https://www.worldcubeassociation.org/persons/2025MADE02) | [Gdańska Liga Speedcubingu II 2025](https://www.worldcubeassociation.org/competitions/GLSII2025) | Pomorskie | 9 | 9 | 100.0% |
-| [Paweł Gołdyn](https://www.worldcubeassociation.org/persons/2024GOLD11) | [Żory Cubing Mansion 2024](https://www.worldcubeassociation.org/competitions/ZoryCubingMansion2024) | Śląskie | 9 | 9 | 100.0% |
 | [Samuel Czerwionka](https://www.worldcubeassociation.org/persons/2023CZER03) | [GLS III 2023](https://www.worldcubeassociation.org/competitions/GLSIII2023) | Pomorskie | 9 | 9 | 100.0% |
 | [Szymon Śliwiński](https://www.worldcubeassociation.org/persons/2013LIWI02) | [SLS Swierklany 2013](https://www.worldcubeassociation.org/competitions/SLSSwierklany2013) | Śląskie | 9 | 9 | 100.0% |
 | [Tomasz Borbely](https://www.worldcubeassociation.org/persons/2019BORB01) | [GLS Winter Camp 2019](https://www.worldcubeassociation.org/competitions/GLSWinterCamp2019) | Pomorskie | 9 | 9 | 100.0% |

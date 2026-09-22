@@ -1,15 +1,15 @@
 ## Most days potentially spent at competitions
 
-*Updated on 19 September 2026*
+*Updated on 22 September 2026*
 
 | Days | Person | Competitions |
 | ---: | :--- | ---: |
-| 755 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 409 |
+| 757 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 410 |
 | 675 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 391 |
 | 532 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 270 |
 | 530 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 279 |
 | 444 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 226 |
-| 439 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 223 |
+| 441 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 224 |
 | 412 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 196 |
 | 405 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 199 |
 | 397 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 231 |
@@ -18,24 +18,24 @@
 | 337 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 168 |
 | 328 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 181 |
 | 321 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | 160 |
-| 302 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 147 |
+| 304 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 148 |
 | 300 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 146 |
 | 292 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 150 |
-| 284 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 139 |
-| 271 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 141 |
+| 285 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 140 |
+| 273 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 142 |
 | 270 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 152 |
 | 266 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 120 |
 | 259 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 141 |
-| 256 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 117 |
+| 258 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 118 |
 | 256 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | 153 |
 | 253 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 119 |
 | 248 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) | 116 |
 | 246 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 117 |
 | 245 | [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) | 129 |
-| 240 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 130 |
-| 237 | [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) | 126 |
+| 242 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 131 |
+| 239 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 129 |
+| 238 | [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) | 127 |
 | 237 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) | 132 |
-| 237 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 128 |
 | 235 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | 121 |
 | 233 | [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) | 126 |
 | 227 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | 107 |

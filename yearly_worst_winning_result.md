@@ -1,7 +1,7 @@
 ## Worst result providing a win by year at Polish competitions
 
 *Note: Only finals at competitions held in Poland are taken into account, regardless of the winners' countries. Results where the main statistic is DNF are ignored. Each year is considered separately.*
-*Updated on 19 September 2026*
+*Updated on 22 September 2026*
 
 
 ### 2026
@@ -64,7 +64,7 @@
 | [Ihor Sukhovatenko (Ігор Суховатенко)](https://www.worldcubeassociation.org/persons/2017SUKH02) | 47.31 | **52.62** | [All Rounders Katowice II 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceII2026/results/podiums#e555) |
 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 46.40 | **52.55** | [Silesian Minx Fest 2026](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2026/results/podiums#e555) |
 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 42.75 | **52.08** | [Jasło Cubing Days 2026](https://www.worldcubeassociation.org/competitions/JasloCubingDays2026/results/podiums#e555) |
-| [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 49.73 | **51.14** | [Cubing Summer Rybnik 2026](https://www.worldcubeassociation.org/competitions/CubingSummerRybnik2026/results/podiums#e555) |
+| [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 47.49 | **51.81** | [Silesia Cubing Days 2026](https://www.worldcubeassociation.org/competitions/SilesiaCubingDays2026/results/podiums#e555) |
 
 #### 6x6x6 Cube
 

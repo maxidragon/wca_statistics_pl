@@ -1,7 +1,7 @@
 ## Best all-Polish podiums
 
 *Note: Podiums at any competition where all three podium places were taken by people representing Poland. Podium places with sum of best or average times depending on format.*
-*Updated on 19 September 2026*
+*Updated on 22 September 2026*
 
 
 ### 3x3x3 Cube
@@ -175,10 +175,10 @@
 | [Cube4fun Tylmanowa Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaWinter2026) | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) (30.88), [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) (32.27), [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) (34.72) | 1:37.87 |
 | [Warm Up Niepołomice 2026](https://www.worldcubeassociation.org/competitions/WarmUpNiepolomice2026) | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) (31.63), [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) (33.07), [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) (33.18) | 1:37.88 |
 | [Polish Open 2025](https://www.worldcubeassociation.org/competitions/PolishOpen2025) | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) (32.11), [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) (32.85), [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) (32.99) | 1:37.95 |
+| [Silesia Cubing Days 2026](https://www.worldcubeassociation.org/competitions/SilesiaCubingDays2026) | [Wiktor Gugulski](https://www.worldcubeassociation.org/persons/2023GUGU01) (31.10), [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) (32.55), [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) (34.38) | 1:38.03 |
 | [Mielec Cubing Days 2026](https://www.worldcubeassociation.org/competitions/MielecCubingDays2026) | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) (32.19), [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) (33.38), [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) (33.75) | 1:39.32 |
 | [Beskidy Side Days 2024](https://www.worldcubeassociation.org/competitions/BeskidySideDays2024) | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) (31.89), [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) (32.92), [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) (35.07) | 1:39.88 |
 | [Dragon Cubing X 2025](https://www.worldcubeassociation.org/competitions/DragonCubingX2025) | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) (32.25), [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) (33.08), [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) (34.74) | 1:40.07 |
-| [Dragon Cubing XI 2025](https://www.worldcubeassociation.org/competitions/DragonCubingXI2025) | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) (31.82), [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) (33.63), [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) (34.93) | 1:40.38 |
 
 ### Pyraminx
 
@@ -205,10 +205,10 @@
 | [Cube4fun in Bełchatów 2026](https://www.worldcubeassociation.org/competitions/Cube4funinBelchatow2026) | [Filip Brokos](https://www.worldcubeassociation.org/persons/2022BROK03) (2.88), [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) (3.03), [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) (4.17) | 10.08 |
 | [Dębica Cubing Winter 2026](https://www.worldcubeassociation.org/competitions/DebicaCubingWinter2026) | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) (3.20), [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) (3.46), [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) (3.56) | 10.22 |
 | [Polish Open 2025](https://www.worldcubeassociation.org/competitions/PolishOpen2025) | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) (2.99), [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) (3.61), [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) (3.66) | 10.26 |
+| [Silesia Cubing Days 2026](https://www.worldcubeassociation.org/competitions/SilesiaCubingDays2026) | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) (3.33), [Tobiasz Gładysz](https://www.worldcubeassociation.org/persons/2024GLAD02) (3.34), [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) (3.67) | 10.34 |
 | [Cube4fun DW Lublin 2024](https://www.worldcubeassociation.org/competitions/Cube4funDWLublin2024) | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) (2.95), [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) (3.65), [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) (3.75) | 10.35 |
 | [Cube Factory League Zgierz 2026](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueZgierz2026) | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) (2.71), [Mikołaj Świątek](https://www.worldcubeassociation.org/persons/2023SWIA01) (3.57), [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) (4.15) | 10.43 |
 | [Cube4fun Lublin Autumn 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinAutumn2025) | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) (2.79), [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) (3.05), [Sebastian Fornal](https://www.worldcubeassociation.org/persons/2022FORN02) (4.63) | 10.47 |
-| [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) (3.31), [Filip Brokos](https://www.worldcubeassociation.org/persons/2022BROK03) (3.53), [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) (3.68) | 10.52 |
 
 ### Skewb
 

@@ -1,7 +1,7 @@
 ## Fewest % of competitions attended in the same voivodeship as the first competition of the competitor
 
 *Note: Counts how many Polish competitions a person attended in the same voivodeship where they had their first competition. The ratio is computed against all competitions attended, including those abroad. Requires at least 10 total competitions.*
-*Updated on 19 September 2026*
+*Updated on 22 September 2026*
 
 | Person | First Competition | Voivodeship | Comps in Voivodeship | Total Comps | Ratio |
 | :--- | :--- | :--- | ---: | ---: | ---: |
@@ -15,23 +15,23 @@
 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | [Cubing Spring Grudziadz 2012](https://www.worldcubeassociation.org/competitions/CubingSpringGrudziadz2012) | Kujawsko-Pomorskie | 3 | 160 | 1.9% |
 | [Kacper Grzelakowski](https://www.worldcubeassociation.org/persons/2017GRZE01) | [Olsztyn Open 2017](https://www.worldcubeassociation.org/competitions/OlsztynOpen2017) | Warmińsko-Mazurskie | 1 | 52 | 1.9% |
 | [Karolina Wiącek](https://www.worldcubeassociation.org/persons/2008WIAC01) | [Polish Open 2008](https://www.worldcubeassociation.org/competitions/PolishOpen2008) | Małopolskie | 2 | 101 | 2.0% |
-| [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | [Cubing Rising Stars Olesno 2022](https://www.worldcubeassociation.org/competitions/CubingRisingStarsOlesno2022) | Opolskie | 1 | 49 | 2.0% |
+| [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | [Cubing Rising Stars Olesno 2022](https://www.worldcubeassociation.org/competitions/CubingRisingStarsOlesno2022) | Opolskie | 1 | 50 | 2.0% |
 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | [Polish Open 2012](https://www.worldcubeassociation.org/competitions/PolishOpen2012) | Podlaskie | 2 | 98 | 2.0% |
 | [Tonia Kowalczyk](https://www.worldcubeassociation.org/persons/2008KWAS01) | [Wroclaw Open 2008](https://www.worldcubeassociation.org/competitions/WroclawOpen2008) | Dolnośląskie | 1 | 48 | 2.1% |
-| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | [Cube4fun League II Kluczbork 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueIIKluczbork2022) | Opolskie | 3 | 130 | 2.3% |
+| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | [Cube4fun League II Kluczbork 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueIIKluczbork2022) | Opolskie | 3 | 131 | 2.3% |
 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | [Cubing Spring Grudziadz 2012](https://www.worldcubeassociation.org/competitions/CubingSpringGrudziadz2012) | Kujawsko-Pomorskie | 3 | 120 | 2.5% |
 | [Antoni Rumowski](https://www.worldcubeassociation.org/persons/2014RUMO01) | [Kielce Cube Attack 2014](https://www.worldcubeassociation.org/competitions/KielceCubeAttack2014) | Świętokrzyskie | 1 | 37 | 2.7% |
 | [Piotr Pojda](https://www.worldcubeassociation.org/persons/2012POJD01) | [European Rubik's Cube Championship 2012](https://www.worldcubeassociation.org/competitions/Euro2012) | Dolnośląskie | 1 | 37 | 2.7% |
+| [Tobiasz Gładysz](https://www.worldcubeassociation.org/persons/2024GLAD02) | [Żmigród Open 2024](https://www.worldcubeassociation.org/competitions/ZmigrodOpen2024) | Dolnośląskie | 1 | 37 | 2.7% |
 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) | [Kraków Open 2013](https://www.worldcubeassociation.org/competitions/KrakowOpen2013) | Małopolskie | 3 | 110 | 2.7% |
-| [Tobiasz Gładysz](https://www.worldcubeassociation.org/persons/2024GLAD02) | [Żmigród Open 2024](https://www.worldcubeassociation.org/competitions/ZmigrodOpen2024) | Dolnośląskie | 1 | 36 | 2.8% |
 | [Tomasz Waryszak](https://www.worldcubeassociation.org/persons/2017WARY01) | [Polish Nationals 2017](https://www.worldcubeassociation.org/competitions/PolishNationals2017) | Małopolskie | 1 | 34 | 2.9% |
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [Polish Open 2017](https://www.worldcubeassociation.org/competitions/PolishOpen2017) | Opolskie | 3 | 97 | 3.1% |
 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | [Polish Open 2007](https://www.worldcubeassociation.org/competitions/PolishOpen2007) | Małopolskie | 4 | 124 | 3.2% |
 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | [Wroclaw Open 2007](https://www.worldcubeassociation.org/competitions/WroclawOpen2007) | Dolnośląskie | 5 | 152 | 3.3% |
 | [Adam Janiszewski](https://www.worldcubeassociation.org/persons/2022JANI01) | [Cube4fun League Koło 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueKolo2022) | Wielkopolskie | 1 | 29 | 3.4% |
-| [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | [Lubelska Liga Speedcubingu II Biała Podlaska 2021](https://www.worldcubeassociation.org/competitions/LLSIIBialaPodlaska2021) | Lubelskie | 3 | 82 | 3.7% |
+| [Tomasz Odelga](https://www.worldcubeassociation.org/persons/2021ODEL01) | [Lubelska Liga Speedcubingu II Biała Podlaska 2021](https://www.worldcubeassociation.org/competitions/LLSIIBialaPodlaska2021) | Lubelskie | 1 | 28 | 3.6% |
+| [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | [Lubelska Liga Speedcubingu II Biała Podlaska 2021](https://www.worldcubeassociation.org/competitions/LLSIIBialaPodlaska2021) | Lubelskie | 3 | 83 | 3.6% |
 | [Mateusz Zieliński](https://www.worldcubeassociation.org/persons/2013ZIEL02) | [Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013) | Łódzkie | 1 | 27 | 3.7% |
-| [Tomasz Odelga](https://www.worldcubeassociation.org/persons/2021ODEL01) | [Lubelska Liga Speedcubingu II Biała Podlaska 2021](https://www.worldcubeassociation.org/competitions/LLSIIBialaPodlaska2021) | Lubelskie | 1 | 27 | 3.7% |
 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | [Cubers Eve Białystok 2018](https://www.worldcubeassociation.org/competitions/CubersEve2018) | Podlaskie | 4 | 107 | 3.7% |
 | [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) | [September Speedcubing Tour Kielce 2021](https://www.worldcubeassociation.org/competitions/SSTKielce2021) | Świętokrzyskie | 2 | 53 | 3.8% |
 | [Adrian Kowalczyk](https://www.worldcubeassociation.org/persons/2022KOWA01) | [Cube4fun League Koło 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueKolo2022) | Wielkopolskie | 1 | 26 | 3.8% |

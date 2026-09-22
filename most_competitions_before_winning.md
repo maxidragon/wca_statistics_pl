@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 19 September 2026*
+*Updated on 22 September 2026*
 
 
 ### 3x3x3 Cube
@@ -224,10 +224,10 @@
 | 7 | [Igor Wojciech Wawrzynski](https://www.worldcubeassociation.org/persons/2019WAWR01) | [Latvian Championship 2022](https://www.worldcubeassociation.org/competitions/LatvianChampionship2022) |
 | 6 | [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) | [Silesian Minx Fest 2025](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2025) |
 | 6 | [Alan Żeromski](https://www.worldcubeassociation.org/persons/2018ZERO01) | [Cool Down Szczecin 2025](https://www.worldcubeassociation.org/competitions/CoolDownSzczecin2025) |
-| 6 | [Piotr Janecki](https://www.worldcubeassociation.org/persons/2014JANE01) | [ŚLS Zawiercie 2017](https://www.worldcubeassociation.org/competitions/SLSZawiercie2017) |
 | 6 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) | [Bratislava Christmas Cubing 2022](https://www.worldcubeassociation.org/competitions/BratislavaChristmasCubing2022) |
+| 6 | [Piotr Janecki](https://www.worldcubeassociation.org/persons/2014JANE01) | [ŚLS Zawiercie 2017](https://www.worldcubeassociation.org/competitions/SLSZawiercie2017) |
 | 5 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | [Poznań Mental Breakdown 2022](https://www.worldcubeassociation.org/competitions/PoznanMentalBreakdown2022) |
-| 4 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | [BKP 2017](https://www.worldcubeassociation.org/competitions/BerlinKubusProjekt2017) |
+| 4 | [Mikołaj Salamon](https://www.worldcubeassociation.org/persons/2016SALA18) | [RYL Wrocław 2022](https://www.worldcubeassociation.org/competitions/ReachYourLimitsWroclaw2022) |
 
 ### 5x5x5 Blindfolded
 

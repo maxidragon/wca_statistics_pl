@@ -1,18 +1,18 @@
 ## Most unique people met at competitions
 
 *Note: Treats two people as having met when both recorded at least one result at the same competition. Co-competitors of any nationality are included and each is counted once, regardless of how many competitions they shared.*
-*Updated on 19 September 2026*
+*Updated on 22 September 2026*
 
 | People met | Competitions | Person |
 | ---: | ---: | :--- |
 | 14282 | 199 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
+| 11099 | 410 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 11091 | 391 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
-| 11073 | 409 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 9709 | 226 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 8473 | 196 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
 | 8394 | 270 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
-| 8239 | 147 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
-| 7850 | 223 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
+| 8272 | 148 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
+| 7869 | 224 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 7709 | 160 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) |
 | 7670 | 119 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) |
 | 7531 | 279 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
@@ -21,13 +21,13 @@
 | 6435 | 231 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 6323 | 116 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) |
 | 6173 | 58 | [Joanna Dubicka](https://www.worldcubeassociation.org/persons/2018DUBI04) |
-| 6132 | 54 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) |
+| 6168 | 55 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) |
 | 5966 | 54 | [Arkadiusz Dubicki](https://www.worldcubeassociation.org/persons/2023DUBI01) |
 | 5923 | 82 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) |
 | 5884 | 202 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
-| 5699 | 87 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) |
+| 5724 | 88 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) |
+| 5704 | 118 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |
 | 5690 | 91 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) |
-| 5674 | 117 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |
 | 5651 | 82 | [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) |
 | 5580 | 113 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
 | 5554 | 84 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
@@ -42,9 +42,9 @@
 | 5189 | 91 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) |
 | 5170 | 181 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 5111 | 93 | [Szymon Jaworski](https://www.worldcubeassociation.org/persons/2021JAWO01) |
-| 5033 | 141 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
+| 5053 | 142 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
 | 4976 | 141 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) |
-| 4917 | 128 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) |
+| 4953 | 129 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) |
 | 4908 | 150 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
 | 4840 | 71 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) |
 | 4838 | 119 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
@@ -52,11 +52,11 @@
 | 4644 | 54 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) |
 | 4633 | 117 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
 | 4528 | 77 | [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) |
-| 4493 | 130 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
+| 4516 | 131 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
 | 4459 | 50 | [Michał Kopeć](https://www.worldcubeassociation.org/persons/2020KOPE01) |
+| 4413 | 140 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 4403 | 58 | [Ada Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD01) |
 | 4400 | 88 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) |
-| 4395 | 139 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 4319 | 42 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) |
 | 4301 | 75 | [Aleksander Arefiew](https://www.worldcubeassociation.org/persons/2016AREF01) |
 | 4288 | 104 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) |
@@ -102,8 +102,8 @@
 | 3396 | 12 | [Dawid Pelko](https://www.worldcubeassociation.org/persons/2024PELK01) |
 | 3343 | 91 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) |
 | 3328 | 107 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) |
+| 3316 | 86 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) |
 | 3307 | 89 | [Stanisław Szyszka](https://www.worldcubeassociation.org/persons/2016SZYS02) |
-| 3271 | 85 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) |
 | 3239 | 59 | [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) |
 
 

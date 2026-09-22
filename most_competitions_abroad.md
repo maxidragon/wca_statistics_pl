@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 19 September 2026*
+*Updated on 22 September 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -27,9 +27,9 @@
 | 17 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 17 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) |
 | 17 | [Magnus Miłosz Birecki](https://www.worldcubeassociation.org/persons/2022BIRE01) |
+| 17 | [Marcin Karczmarz](https://www.worldcubeassociation.org/persons/2023KARC01) |
 | 16 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) |
 | 16 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) |
-| 16 | [Marcin Karczmarz](https://www.worldcubeassociation.org/persons/2023KARC01) |
 | 16 | [Tymoteusz Zmudzki Piskorska](https://www.worldcubeassociation.org/persons/2024PISK02) |
 | 15 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
 | 15 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) |
@@ -63,6 +63,7 @@
 | 10 | [Szymon Jaworski](https://www.worldcubeassociation.org/persons/2021JAWO01) |
 | 10 | [Oskar Obeid](https://www.worldcubeassociation.org/persons/2022OBEI01) |
 | 10 | [Krzysztof Wawrzyniak](https://www.worldcubeassociation.org/persons/2023WAWR01) |
+| 10 | [Zbigniew Mróz](https://www.worldcubeassociation.org/persons/2023MROZ03) |
 | 10 | [Antoni Baránski](https://www.worldcubeassociation.org/persons/2024BARA01) |
 | 9 | [Wojciech Barciaga](https://www.worldcubeassociation.org/persons/2013BARC03) |
 | 9 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
@@ -74,7 +75,6 @@
 | 9 | [Eryk Haoyan Klimek](https://www.worldcubeassociation.org/persons/2022KLIM01) |
 | 9 | [Arkadiusz Dubicki](https://www.worldcubeassociation.org/persons/2023DUBI01) |
 | 9 | [Hubert Darłak](https://www.worldcubeassociation.org/persons/2023DARL03) |
-| 9 | [Zbigniew Mróz](https://www.worldcubeassociation.org/persons/2023MROZ03) |
 | 9 | [Łukasz Siara](https://www.worldcubeassociation.org/persons/2024SIAR01) |
 | 8 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) |
 | 8 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) |
@@ -82,6 +82,7 @@
 | 8 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
 | 8 | [Mikołaj Molski](https://www.worldcubeassociation.org/persons/2015MOLS01) |
 | 8 | [Kamil Michalak](https://www.worldcubeassociation.org/persons/2016MICH01) |
+| 8 | [Piotr Zambrzycki](https://www.worldcubeassociation.org/persons/2018ZAMB02) |
 | 8 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
 | 8 | [Mateusz Nowak](https://www.worldcubeassociation.org/persons/2022NOWA05) |
 | 8 | [Hugo Dziemiach](https://www.worldcubeassociation.org/persons/2024DZIE02) |
@@ -92,7 +93,6 @@
 | 7 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) |
 | 7 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) |
 | 7 | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) |
-| 7 | [Piotr Zambrzycki](https://www.worldcubeassociation.org/persons/2018ZAMB02) |
 | 7 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) |
 | 7 | [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) |
 | 7 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) |
@@ -113,6 +113,7 @@
 | 6 | [Oskar Matysik](https://www.worldcubeassociation.org/persons/2019MATY01) |
 | 6 | [Przemysław Kanarski](https://www.worldcubeassociation.org/persons/2019KANA04) |
 | 6 | [Michał Soboń](https://www.worldcubeassociation.org/persons/2019SOBO03) |
+| 6 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 6 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
 | 6 | [Radosław Michałek](https://www.worldcubeassociation.org/persons/2021MICH03) |
 | 6 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
@@ -141,6 +142,7 @@
 | 5 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) |
 | 5 | [Igor Kowalczyk](https://www.worldcubeassociation.org/persons/2013KOWA04) |
 | 5 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
+| 5 | [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) |
 | 5 | [Joanna Hołdakowska](https://www.worldcubeassociation.org/persons/2016HOLD04) |
 | 5 | [Stanisław Dąbrowski](https://www.worldcubeassociation.org/persons/2016DABR03) |
 | 5 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) |
@@ -149,7 +151,6 @@
 | 5 | [Jarosław Chodyniecki](https://www.worldcubeassociation.org/persons/2018CHOD01) |
 | 5 | [Robert Ślesicki](https://www.worldcubeassociation.org/persons/2019SLES02) |
 | 5 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) |
-| 5 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 5 | [Marcin Chudy](https://www.worldcubeassociation.org/persons/2022CHUD03) |
 | 5 | [Witold Wesołowski](https://www.worldcubeassociation.org/persons/2022WESO01) |
 | 5 | [Stanislaw Szumielewicz](https://www.worldcubeassociation.org/persons/2022SZUM02) |

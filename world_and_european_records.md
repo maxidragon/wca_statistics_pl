@@ -1,7 +1,7 @@
 ## World and European records set by Polish people
 
 *Note: All historical records are taken into account (i.e. not only the current ones). Records that were world records at the time are listed only in the world records table.*
-*Updated on 19 September 2026*
+*Updated on 22 September 2026*
 
 
 ### World records

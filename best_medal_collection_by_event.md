@@ -1,7 +1,7 @@
 ## Best medal collection by event
 
 *Note: All medals are taken into account, no matter where the competition was held.*
-*Updated on 19 September 2026*
+*Updated on 22 September 2026*
 
 
 ### 3x3x3 Cube
@@ -9,7 +9,7 @@
 | Total | Person | Gold | Silver | Bronze |
 | :--: | :--- | :--: | :--: | :--: |
 | **150** | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 126 | 16 | 8 |
-| **111** | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 30 | 42 | 39 |
+| **112** | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 31 | 42 | 39 |
 | **81** | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 45 | 32 | 4 |
 | **81** | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 41 | 29 | 11 |
 | **77** | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 54 | 18 | 5 |
@@ -27,7 +27,7 @@
 | **70** | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 14 | 31 | 25 |
 | **67** | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 50 | 13 | 4 |
 | **61** | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 37 | 16 | 8 |
-| **57** | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 39 | 12 | 6 |
+| **58** | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 39 | 13 | 6 |
 | **56** | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 22 | 23 | 11 |
 | **49** | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 29 | 16 | 4 |
 | **46** | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) | 35 | 4 | 7 |
@@ -39,7 +39,7 @@
 | Total | Person | Gold | Silver | Bronze |
 | :--: | :--- | :--: | :--: | :--: |
 | **127** | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 113 | 11 | 3 |
-| **109** | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 43 | 37 | 29 |
+| **110** | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 43 | 38 | 29 |
 | **92** | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 30 | 33 | 29 |
 | **82** | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 18 | 33 | 31 |
 | **80** | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 47 | 22 | 11 |
@@ -47,7 +47,7 @@
 | **60** | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 23 | 23 | 14 |
 | **44** | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | 19 | 15 | 10 |
 | **39** | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | 15 | 14 | 10 |
-| **34** | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 18 | 7 | 9 |
+| **35** | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 19 | 7 | 9 |
 
 ### 5x5x5 Cube
 
@@ -56,9 +56,9 @@
 | **129** | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 99 | 20 | 10 |
 | **93** | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 88 | 3 | 2 |
 | **81** | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 18 | 39 | 24 |
-| **67** | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 10 | 28 | 29 |
+| **68** | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 10 | 29 | 29 |
 | **51** | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 13 | 22 | 16 |
-| **49** | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 31 | 11 | 7 |
+| **50** | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 32 | 11 | 7 |
 | **48** | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 7 | 21 | 20 |
 | **38** | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 14 | 17 | 7 |
 | **31** | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 8 | 15 | 8 |
@@ -129,9 +129,9 @@
 | Total | Person | Gold | Silver | Bronze |
 | :--: | :--- | :--: | :--: | :--: |
 | **159** | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 73 | 54 | 32 |
-| **89** | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 65 | 18 | 6 |
+| **90** | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 66 | 18 | 6 |
 | **87** | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 63 | 19 | 5 |
-| **80** | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 14 | 36 | 30 |
+| **81** | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 14 | 37 | 30 |
 | **68** | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 40 | 20 | 8 |
 | **39** | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | 22 | 14 | 3 |
 | **39** | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | 16 | 14 | 9 |
@@ -143,11 +143,11 @@
 
 | Total | Person | Gold | Silver | Bronze |
 | :--: | :--- | :--: | :--: | :--: |
-| **96** | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 69 | 20 | 7 |
+| **97** | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 69 | 20 | 8 |
 | **65** | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 33 | 29 | 3 |
 | **58** | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | 9 | 26 | 23 |
-| **56** | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 24 | 26 | 6 |
-| **51** | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 29 | 11 | 11 |
+| **57** | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 25 | 26 | 6 |
+| **52** | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 29 | 12 | 11 |
 | **46** | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) | 26 | 14 | 6 |
 | **33** | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 5 | 8 | 20 |
 | **32** | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 9 | 14 | 9 |
@@ -181,7 +181,7 @@
 | **43** | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | 26 | 8 | 9 |
 | **35** | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 22 | 7 | 6 |
 | **34** | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) | 12 | 13 | 9 |
-| **28** | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | 12 | 13 | 3 |
+| **29** | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | 13 | 13 | 3 |
 | **26** | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | 14 | 6 | 6 |
 
 ### Skewb
@@ -190,11 +190,11 @@
 | :--: | :--- | :--: | :--: | :--: |
 | **127** | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 56 | 47 | 24 |
 | **74** | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 38 | 23 | 13 |
+| **62** | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 36 | 17 | 9 |
 | **61** | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | 47 | 11 | 3 |
-| **61** | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 36 | 17 | 8 |
 | **58** | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) | 25 | 19 | 14 |
 | **51** | [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) | 23 | 19 | 9 |
-| **47** | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 17 | 18 | 12 |
+| **48** | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 17 | 19 | 12 |
 | **43** | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | 24 | 11 | 8 |
 | **42** | [Cezary Mach](https://www.worldcubeassociation.org/persons/2018MACH04) | 24 | 14 | 4 |
 | **38** | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 10 | 11 | 17 |
@@ -209,7 +209,7 @@
 | **67** | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | 19 | 24 | 24 |
 | **59** | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 23 | 21 | 15 |
 | **41** | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) | 32 | 6 | 3 |
-| **38** | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 10 | 14 | 14 |
+| **39** | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 10 | 14 | 15 |
 | **36** | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 8 | 18 | 10 |
 | **34** | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 2 | 16 | 16 |
 | **30** | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | 9 | 15 | 6 |

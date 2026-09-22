@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 19 September 2026*
+*Updated on 22 September 2026*
 
 
 ### 3x3x3 Cube
@@ -101,13 +101,13 @@
 | 18.18 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 18.14, DNF, 17.22, 17.16, 19.19 |
 | 18.24 | [Stanisław Szyszka](https://www.worldcubeassociation.org/persons/2016SZYS02) | 17.71, 18.51, 18.49, DNF, 17.28 |
 | 19.06 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 20.85, 17.80, 18.18, 19.90, 19.09 |
+| 19.54 | [Tomasz Cepil](https://www.worldcubeassociation.org/persons/2018CEPI01) | 18.76, 20.41, 22.72, 18.13, 19.45 |
 | 19.91 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 21.73, 18.41, 18.79, 20.21, 20.74 |
 | 20.00 | [Dominik Kobinski](https://www.worldcubeassociation.org/persons/2019KOBI01) | DNF, 20.94, 17.97, 17.72, 21.08 |
 | 20.37 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | 20.42, DNF, 20.38, 20.30, 17.56 |
 | 20.55 | [Marcin Chmielewski](https://www.worldcubeassociation.org/persons/2023CHMI01) | 21.42, 20.09, 20.13, DNF, 16.78 |
 | 21.30 | [Kacper Rafalski](https://www.worldcubeassociation.org/persons/2024RAFA06) | 19.28, 22.73, DNF, 21.90, 19.00 |
 | 21.71 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 19.97, 23.42, DNF, 21.05, 20.66 |
-| 22.24 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 23.31, DNF, 18.54, 24.08, 19.33 |
 
 ### 3x3x3 Fewest Moves
 
@@ -143,10 +143,10 @@
 
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
-| 29.84 | [Wiktor Gugulski](https://www.worldcubeassociation.org/persons/2023GUGU01) | 30.47, 34.31, 29.40, 29.08, 29.65 |
+| 28.94 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 30.16, 28.86, 27.56, 38.82, 27.81 |
+| 29.33 | [Wiktor Gugulski](https://www.worldcubeassociation.org/persons/2023GUGU01) | 29.40, 29.08, 29.65, 28.78, 29.52 |
 | 30.05 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 28.89, 30.90, 39.01, 30.36, 27.93 |
 | 30.09 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 27.35, 30.79, 33.45, 28.69, 30.80 |
-| 30.48 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 30.62, 30.70, 30.16, 30.67, 29.26 |
 | 30.89 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 31.02, 30.69, 30.19, 39.00, 30.97 |
 | 34.38 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 34.44, 34.50, 32.73, 39.70, 34.20 |
 | 34.72 | [Przemysław Rudziak](https://www.worldcubeassociation.org/persons/2020RUDZ02) | 31.69, 35.98, 36.48, 42.45, 31.41 |
@@ -181,8 +181,8 @@
 | 2.95 | [Kacper Bieńkowski](https://www.worldcubeassociation.org/persons/2022BIEN01) | 2.95, 3.05, 6.94, 2.85, 2.61 |
 | 3.05 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | DNF, 3.04, 3.13, 2.91, 2.98 |
 | 3.19 | [Marcel Politowicz](https://www.worldcubeassociation.org/persons/2021POLI02) | 2.79, 4.02, 2.66, 3.10, 3.67 |
+| 3.24 | [Tobiasz Gładysz](https://www.worldcubeassociation.org/persons/2024GLAD02) | 3.41, 3.24, 3.15, 3.32, 3.12 |
 | 3.25 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | 2.96, 3.32, 3.46, 5.04, 2.91 |
-| 3.27 | [Tobiasz Gładysz](https://www.worldcubeassociation.org/persons/2024GLAD02) | 5.01, 2.99, 3.51, 2.87, 3.32 |
 
 ### Skewb
 

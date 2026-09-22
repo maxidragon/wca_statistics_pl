@@ -1,16 +1,17 @@
 ## Highest average number of new people met per competition
 
 *Note: Divides all unique co-competitors met across a competitor's career by their number of competitions. A co-competitor is someone of any nationality who recorded a result at the same competition, and each person counts only once. Minimum 20 competitions required.*
-*Updated on 19 September 2026*
+*Updated on 22 September 2026*
 
 | Avg. new people | Unique people | Competitions | Person |
 | ---: | ---: | ---: | :--- |
 | 141.10 | 4233 | 30 | [Maja Turczyk](https://www.worldcubeassociation.org/persons/2022TURC05) |
-| 113.56 | 6132 | 54 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) |
+| 112.15 | 6168 | 55 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) |
 | 110.48 | 5966 | 54 | [Arkadiusz Dubicki](https://www.worldcubeassociation.org/persons/2023DUBI01) |
 | 106.43 | 6173 | 58 | [Joanna Dubicka](https://www.worldcubeassociation.org/persons/2018DUBI04) |
 | 102.83 | 4319 | 42 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) |
 | 101.10 | 3943 | 39 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) |
+| 101.00 | 2020 | 20 | [Antoni Orłowski](https://www.worldcubeassociation.org/persons/2024ORLO02) |
 | 96.35 | 2216 | 23 | [Karolina Put](https://www.worldcubeassociation.org/persons/2022PUTK01) |
 | 93.77 | 2063 | 22 | [Aleksy Stojek](https://www.worldcubeassociation.org/persons/2023STOJ04) |
 | 93.32 | 2053 | 22 | [Borys Pałczyński](https://www.worldcubeassociation.org/persons/2023PALC01) |
@@ -27,9 +28,9 @@
 | 84.80 | 4155 | 49 | [Maciej Jabłoński](https://www.worldcubeassociation.org/persons/2017JABL01) |
 | 84.53 | 2536 | 30 | [Piotr Rejdych](https://www.worldcubeassociation.org/persons/2022REJD01) |
 | 83.92 | 2098 | 25 | [Maks Noska](https://www.worldcubeassociation.org/persons/2023NOSK01) |
-| 82.93 | 2239 | 27 | [Tomasz Odelga](https://www.worldcubeassociation.org/persons/2021ODEL01) |
 | 82.17 | 1890 | 23 | [Antoni Firlej](https://www.worldcubeassociation.org/persons/2023FIRL01) |
 | 81.90 | 1720 | 21 | [Marcin Popławski](https://www.worldcubeassociation.org/persons/2014POPA01) |
+| 81.68 | 2287 | 28 | [Tomasz Odelga](https://www.worldcubeassociation.org/persons/2021ODEL01) |
 | 78.02 | 3823 | 49 | [Przemysław Malinowski](https://www.worldcubeassociation.org/persons/2022MALI01) |
 | 77.68 | 1709 | 22 | [Felix Rejent](https://www.worldcubeassociation.org/persons/2022REJE01) |
 | 77.68 | 1709 | 22 | [Gustaw Rejent](https://www.worldcubeassociation.org/persons/2022REJE02) |
@@ -59,7 +60,7 @@
 | 66.37 | 2854 | 43 | [Kajtek Kwiatkowski](https://www.worldcubeassociation.org/persons/2023KWIA01) |
 | 66.12 | 5554 | 84 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
 | 65.72 | 1643 | 25 | [Patryk Szewczyk](https://www.worldcubeassociation.org/persons/2012SZEW01) |
-| 65.51 | 5699 | 87 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) |
+| 65.05 | 5724 | 88 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) |
 | 64.69 | 4011 | 62 | [Cezary Mach](https://www.worldcubeassociation.org/persons/2018MACH04) |
 | 64.45 | 7670 | 119 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) |
 | 64.39 | 2318 | 36 | [Krystian Kalicki](https://www.worldcubeassociation.org/persons/2023KALI10) |
@@ -71,11 +72,11 @@
 | 61.84 | 2288 | 37 | [Adam Gottscholl](https://www.worldcubeassociation.org/persons/2013GOTT01) |
 | 61.78 | 1977 | 32 | [Paweł Dominiczak](https://www.worldcubeassociation.org/persons/2023DOMI21) |
 | 61.65 | 1603 | 26 | [Mikołaj Molski](https://www.worldcubeassociation.org/persons/2015MOLS01) |
-| 61.24 | 1531 | 25 | [Marcin Karczmarz](https://www.worldcubeassociation.org/persons/2023KARC01) |
-| 61.00 | 2196 | 36 | [Tobiasz Gładysz](https://www.worldcubeassociation.org/persons/2024GLAD02) |
 | 60.76 | 1276 | 21 | [Mikołaj Zubowicz](https://www.worldcubeassociation.org/persons/2015ZUBO01) |
 | 60.36 | 1328 | 22 | [Filip Zowczak](https://www.worldcubeassociation.org/persons/2012ZOWC01) |
+| 60.00 | 2220 | 37 | [Tobiasz Gładysz](https://www.worldcubeassociation.org/persons/2024GLAD02) |
 | 59.76 | 2271 | 38 | [Dominik Unijewski](https://www.worldcubeassociation.org/persons/2017UNIJ01) |
+| 59.69 | 1552 | 26 | [Marcin Karczmarz](https://www.worldcubeassociation.org/persons/2023KARC01) |
 | 59.26 | 2726 | 46 | [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) |
 | 59.19 | 3078 | 52 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) |
 | 59.16 | 2189 | 37 | [Aleksander Skrzypczak](https://www.worldcubeassociation.org/persons/2024SKRZ01) |
@@ -100,11 +101,10 @@
 | 56.43 | 1185 | 21 | [Maksymilian Piskorowski](https://www.worldcubeassociation.org/persons/2017PISK01) |
 | 56.37 | 3213 | 57 | [Stanisław Dąbrowski](https://www.worldcubeassociation.org/persons/2016DABR03) |
 | 56.14 | 1179 | 21 | [Jakub Bonarski](https://www.worldcubeassociation.org/persons/2013BONA02) |
-| 56.05 | 8239 | 147 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
+| 55.89 | 8272 | 148 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
 | 55.86 | 1173 | 21 | [Cezary Rokita](https://www.worldcubeassociation.org/persons/2011ROKI01) |
-| 55.39 | 3157 | 57 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) |
-| 55.37 | 2713 | 49 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) |
 | 55.30 | 2212 | 40 | [Tymon Sozański](https://www.worldcubeassociation.org/persons/2022SOZA01) |
+| 55.10 | 3196 | 58 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) |
 
 
 <a href="https://github.com/maxidragon/wca_statistics_pl" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

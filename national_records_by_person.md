@@ -1,6 +1,6 @@
 ## National records count by person
 
-*Updated on 19 September 2026*
+*Updated on 22 September 2026*
 
 | WRs | Person |
 | ---: | :--- |
@@ -49,6 +49,7 @@
 | 4 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) |
 | 4 | [Jarosław Nowicki](https://www.worldcubeassociation.org/persons/2004NOWI01) |
 | 4 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
+| 4 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 4 | [Marcel Politowicz](https://www.worldcubeassociation.org/persons/2021POLI02) |
 | 4 | [Michał Wizner](https://www.worldcubeassociation.org/persons/2005WIZN01) |
 | 4 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
@@ -58,7 +59,6 @@
 | 3 | [Jakub Zawiślak](https://www.worldcubeassociation.org/persons/2006ZAWI02) |
 | 3 | [Kacper Pawlaczyk](https://www.worldcubeassociation.org/persons/2005PAWL01) |
 | 3 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
-| 3 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 3 | [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) |
 | 3 | [Michał Robaczyk](https://www.worldcubeassociation.org/persons/2006ROBA01) |
 | 3 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) |

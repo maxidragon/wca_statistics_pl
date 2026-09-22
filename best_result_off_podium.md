@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals at Polish competitions are taken into account.*
-*Updated on 19 September 2026*
+*Updated on 22 September 2026*
 
 
 ### 3x3x3 Cube
@@ -180,9 +180,9 @@
 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | 3.15 | **3.78** | [CFL Final Łódź 2025](https://www.worldcubeassociation.org/competitions/CFLFinalLodz2025/results/all#eclock_f) | 4 |
 | [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) | 3.55 | **3.80** | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026/results/all#eclock_f) | 4 |
 | [Mikołaj Świątek](https://www.worldcubeassociation.org/persons/2023SWIA01) | 3.43 | **3.84** | [Energy Cube Konin 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeKonin2025/results/all#eclock_f) | 4 |
+| [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) | 2.90 | **3.85** | [Silesia Cubing Days 2026](https://www.worldcubeassociation.org/competitions/SilesiaCubingDays2026/results/all#eclock_f) | 4 |
 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | 3.39 | **3.86** | [Cube4fun DW Lublin 2024](https://www.worldcubeassociation.org/competitions/Cube4funDWLublin2024/results/all#eclock_f) | 4 |
 | [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) | 3.31 | **3.93** | [Beskidy Cubing Days 2026](https://www.worldcubeassociation.org/competitions/BeskidyCubingDays2026/results/all#eclock_f) | 4 |
-| [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) | 3.48 | **3.98** | [Polish Open 2025](https://www.worldcubeassociation.org/competitions/PolishOpen2025/results/all#eclock_f) | 5 |
 
 ### Skewb
 

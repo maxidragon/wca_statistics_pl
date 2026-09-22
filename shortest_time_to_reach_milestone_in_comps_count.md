@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 19 September 2026*
+*Updated on 22 September 2026*
 
 
 ### 400 Competitions
@@ -99,15 +99,15 @@
 | ---: | :--- |
 | 610 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 729 | [Tomasz Szubert](https://www.worldcubeassociation.org/persons/2022SZUB02) |
-| 757 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
 | 757 | [Antoni Szcześniak](https://www.worldcubeassociation.org/persons/2023SZCZ04) |
+| 757 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
 | 813 | [Tomasz Stawowy](https://www.worldcubeassociation.org/persons/2021STAW01) |
 | 814 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) |
 | 835 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) |
 | 855 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 882 | [Mateusz Zajder](https://www.worldcubeassociation.org/persons/2024ZAJD01) |
-| 890 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) |
 | 890 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
+| 890 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) |
 | 895 | [Henryk Gabor](https://www.worldcubeassociation.org/persons/2024GABO02) |
 | 897 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) |
 | 918 | [Hubert Darłak](https://www.worldcubeassociation.org/persons/2023DARL03) |
@@ -149,45 +149,45 @@
 | ---: | :--- |
 | 127 | [Krystian Kalicki](https://www.worldcubeassociation.org/persons/2023KALI10) |
 | 142 | [Aleksy Stojek](https://www.worldcubeassociation.org/persons/2023STOJ04) |
-| 155 | [Tomasz Szubert](https://www.worldcubeassociation.org/persons/2022SZUB02) |
 | 155 | [Mateusz Zajder](https://www.worldcubeassociation.org/persons/2024ZAJD01) |
-| 155 | [Radosław Ciuk](https://www.worldcubeassociation.org/persons/2013CIUK01) |
 | 155 | [Daniel Stempin](https://www.worldcubeassociation.org/persons/2023STEM03) |
+| 155 | [Radosław Ciuk](https://www.worldcubeassociation.org/persons/2013CIUK01) |
+| 155 | [Tomasz Szubert](https://www.worldcubeassociation.org/persons/2022SZUB02) |
 | 156 | [Tomasz Darłak](https://www.worldcubeassociation.org/persons/2024DARL01) |
 | 162 | [Tobiasz Gładysz](https://www.worldcubeassociation.org/persons/2024GLAD02) |
-| 176 | [Wiktoria Waryszak](https://www.worldcubeassociation.org/persons/2018WARY01) |
 | 176 | [Klaudia Ciuk](https://www.worldcubeassociation.org/persons/2013CIUK02) |
 | 176 | [Arkadiusz Dubicki](https://www.worldcubeassociation.org/persons/2023DUBI01) |
 | 176 | [Antoni Szcześniak](https://www.worldcubeassociation.org/persons/2023SZCZ04) |
+| 176 | [Wiktoria Waryszak](https://www.worldcubeassociation.org/persons/2018WARY01) |
 | 183 | [Zuzanna Bogusz](https://www.worldcubeassociation.org/persons/2022BOGU01) |
 | 183 | [Jakub Wojtaszewski](https://www.worldcubeassociation.org/persons/2013WOJT02) |
 | 184 | [Mateusz Otto](https://www.worldcubeassociation.org/persons/2022OTTO01) |
 | 210 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
+| 211 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) |
 | 211 | [Jakub Rezmer-Dywan](https://www.worldcubeassociation.org/persons/2022REZM01) |
 | 211 | [Michał Wójcicki](https://www.worldcubeassociation.org/persons/2024WOJC01) |
-| 211 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) |
 | 211 | [Filip Błaszkowicz](https://www.worldcubeassociation.org/persons/2022BLAS03) |
 
 ### 5 Competitions
 
 | Days | Person |
 | ---: | :--- |
-| 43 | [Tomasz Szubert](https://www.worldcubeassociation.org/persons/2022SZUB02) |
 | 43 | [Antoni Rumowski](https://www.worldcubeassociation.org/persons/2014RUMO01) |
+| 43 | [Tomasz Szubert](https://www.worldcubeassociation.org/persons/2022SZUB02) |
 | 55 | [Alexander Gacek](https://www.worldcubeassociation.org/persons/2024GACE01) |
+| 57 | [Hugo Orliński](https://www.worldcubeassociation.org/persons/2026ORLI01) |
 | 57 | [Krystian Kalicki](https://www.worldcubeassociation.org/persons/2023KALI10) |
 | 57 | [Jakub Rezmer-Dywan](https://www.worldcubeassociation.org/persons/2022REZM01) |
-| 57 | [Hugo Orliński](https://www.worldcubeassociation.org/persons/2026ORLI01) |
 | 58 | [Tomasz Darłak](https://www.worldcubeassociation.org/persons/2024DARL01) |
 | 63 | [Michał Sznicer](https://www.worldcubeassociation.org/persons/2026SZNI01) |
 | 65 | [Kamil Kowalewski](https://www.worldcubeassociation.org/persons/2025KOWA05) |
 | 70 | [Jakub Galimski](https://www.worldcubeassociation.org/persons/2021GALI01) |
-| 71 | [Juliusz Grzegorz](https://www.worldcubeassociation.org/persons/2021GRZE01) |
 | 71 | [Ignacy Machna](https://www.worldcubeassociation.org/persons/2026MACH06) |
 | 71 | [Maxim Otto](https://www.worldcubeassociation.org/persons/2022OTTO04) |
+| 71 | [Juliusz Grzegorz](https://www.worldcubeassociation.org/persons/2021GRZE01) |
 | 72 | [Franciszek Skóra](https://www.worldcubeassociation.org/persons/2024SKOR04) |
-| 77 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
 | 77 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) |
+| 77 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
 | 78 | [Tobiasz Gładysz](https://www.worldcubeassociation.org/persons/2024GLAD02) |
 | 78 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) |
 | 78 | [Miłosz Sznicer](https://www.worldcubeassociation.org/persons/2026SZNI02) |

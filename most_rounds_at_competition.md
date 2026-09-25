@@ -1,6 +1,6 @@
 ## Most rounds held at a competition
 
-*Updated on 23 September 2026*
+*Updated on 25 September 2026*
 
 | Rounds | Competition |
 | ---: | :--- |

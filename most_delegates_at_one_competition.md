@@ -1,7 +1,7 @@
 ## Most delegates at one competition
 
 *Note: Only Polish competitions with posted results are included. Listed delegates are taken from the competition's delegate list. An unlisted delegate is a competitor who was not listed and whose RolesMetadataDelegateRegions role was active during at least one day of the competition. Because some historical role dates were not backfilled, a role starting on 1 August 2004 is treated as starting at the delegate's earliest listed competition instead.*
-*Updated on 23 September 2026*
+*Updated on 25 September 2026*
 
 
 ### Listed delegates only

@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 23 September 2026*
+*Updated on 25 September 2026*
 
 
 ### Competition
@@ -37,7 +37,7 @@
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **16387** | 16817 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **13485** | 14534 |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **13315** | 13793 |
-| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **12963** | 13637 |
+| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **12983** | 13657 |
 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **12256** | 12942 |
 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | **11428** | 11794 |
 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | **10316** | 10983 |
@@ -60,7 +60,7 @@
 | 2025 | **236931** | 249879 |
 | 2024 | **224448** | 235988 |
 | 2023 | **188218** | 198622 |
-| 2026 | **186589** | 197977 |
+| 2026 | **186668** | 198057 |
 | 2022 | **116402** | 123618 |
 | 2019 | **91337** | 95933 |
 | 2014 | **76324** | 80953 |
@@ -82,15 +82,15 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **386527** | 394213 |
+| 3x3x3 Cube | **386557** | 394243 |
 | 2x2x2 Cube | **252302** | 259236 |
-| Pyraminx | **195082** | 200245 |
-| Skewb | **138670** | 142245 |
-| 4x4x4 Cube | **131636** | 136166 |
-| 3x3x3 One-Handed | **106619** | 110054 |
-| Clock | **83492** | 96557 |
+| Pyraminx | **195092** | 200255 |
+| Skewb | **138680** | 142255 |
+| 4x4x4 Cube | **131646** | 136176 |
+| 3x3x3 One-Handed | **106624** | 110059 |
+| Clock | **83501** | 96567 |
 | Megaminx | **66957** | 69653 |
-| 5x5x5 Cube | **64638** | 66949 |
+| 5x5x5 Cube | **64643** | 66954 |
 | Square-1 | **53963** | 56078 |
 | 6x6x6 Cube | **15569** | 16148 |
 | 3x3x3 Blindfolded | **14291** | 37341 |

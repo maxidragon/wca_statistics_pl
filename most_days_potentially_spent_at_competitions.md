@@ -1,11 +1,11 @@
 ## Most days potentially spent at competitions
 
-*Updated on 25 September 2026*
+*Updated on 26 September 2026*
 
 | Days | Person | Competitions |
 | ---: | :--- | ---: |
 | 757 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 410 |
-| 676 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 392 |
+| 677 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 393 |
 | 532 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 270 |
 | 530 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 279 |
 | 444 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 226 |

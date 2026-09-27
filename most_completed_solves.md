@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 25 September 2026*
+*Updated on 26 September 2026*
 
 
 ### Competition
@@ -37,7 +37,7 @@
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **16387** | 16817 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **13485** | 14534 |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **13315** | 13793 |
-| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **12983** | 13657 |
+| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **13028** | 13702 |
 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **12256** | 12942 |
 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | **11428** | 11794 |
 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | **10316** | 10983 |
@@ -60,7 +60,7 @@
 | 2025 | **236931** | 249879 |
 | 2024 | **224448** | 235988 |
 | 2023 | **188218** | 198622 |
-| 2026 | **186668** | 198057 |
+| 2026 | **186713** | 198102 |
 | 2022 | **116402** | 123618 |
 | 2019 | **91337** | 95933 |
 | 2014 | **76324** | 80953 |
@@ -82,16 +82,16 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **386557** | 394243 |
-| 2x2x2 Cube | **252302** | 259236 |
-| Pyraminx | **195092** | 200255 |
-| Skewb | **138680** | 142255 |
-| 4x4x4 Cube | **131646** | 136176 |
-| 3x3x3 One-Handed | **106624** | 110059 |
+| 3x3x3 Cube | **386562** | 394248 |
+| 2x2x2 Cube | **252307** | 259241 |
+| Pyraminx | **195097** | 200260 |
+| Skewb | **138685** | 142260 |
+| 4x4x4 Cube | **131651** | 136181 |
+| 3x3x3 One-Handed | **106629** | 110064 |
 | Clock | **83501** | 96567 |
-| Megaminx | **66957** | 69653 |
-| 5x5x5 Cube | **64643** | 66954 |
-| Square-1 | **53963** | 56078 |
+| Megaminx | **66962** | 69658 |
+| 5x5x5 Cube | **64648** | 66959 |
+| Square-1 | **53968** | 56083 |
 | 6x6x6 Cube | **15569** | 16148 |
 | 3x3x3 Blindfolded | **14291** | 37341 |
 | 7x7x7 Cube | **13176** | 13755 |

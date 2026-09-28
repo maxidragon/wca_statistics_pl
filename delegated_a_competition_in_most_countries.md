@@ -1,7 +1,7 @@
 ## Delegated a competition in most countries
 
 *Note: This statistic shows the Polish delegates who have delegated a competition in most countries. Multi-location FMC competitions are excluded.*
-*Updated on 26 September 2026*
+*Updated on 28 September 2026*
 
 | Name | Countries |
 | :--- | ---: |
@@ -17,6 +17,7 @@
 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) | 2 |
 | [Adam Joks](https://www.worldcubeassociation.org/persons/2005JOKS01) | 1 |
 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 1 |
+| [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) | 1 |
 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 1 |
 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 1 |
 | [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) | 1 |

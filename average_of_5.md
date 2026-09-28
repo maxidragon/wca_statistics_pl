@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 26 September 2026*
+*Updated on 28 September 2026*
 
 
 ### 3x3x3 Cube
@@ -209,8 +209,8 @@
 | 6.19 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 5.03, 6.77, 6.77, 7.40, 4.91 |
 | 6.24 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | 5.43, 5.85, 10.07, 6.13, 6.73 |
 | 6.34 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 5.36, 5.50, 5.94, 8.43, 7.58 |
+| 6.38 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 6.12, 5.70, 6.15, 7.32, 6.87 |
 | 6.51 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 11.19, 6.16, 6.69, 5.44, 6.69 |
-| 6.67 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 5.91, 6.45, 8.25, 6.95, 6.62 |
 | 6.74 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 6.62, 7.85, 8.41, 5.36, 5.76 |
 | 7.22 | [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) | 7.27, 14.95, 6.89, 6.99, 7.39 |
 

@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 26 September 2026*
+*Updated on 28 September 2026*
 
 
 ### 3x3x3 Cube
@@ -32,7 +32,7 @@
 | 2.38 | [Gabriel Kopciuch](https://www.worldcubeassociation.org/persons/2023KOPC01) |
 | 2.41 | [Wiktoria Kulesz](https://www.worldcubeassociation.org/persons/2022KULE02) |
 | 2.67 | [Mateusz Łaziński](https://www.worldcubeassociation.org/persons/2022LAZI02) |
-| 2.69 | [Jakub Żogała](https://www.worldcubeassociation.org/persons/2021ZOGA01) |
+| 2.69 | [Andrzej Moskal](https://www.worldcubeassociation.org/persons/2022MOSK01) |
 
 ### 4x4x4 Cube
 
@@ -118,11 +118,11 @@
 | 29 | [Ignacy Malinowski](https://www.worldcubeassociation.org/persons/2021MALI02) |
 | 29 | [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) |
 | 30 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) |
-| 31 | [Krzysztof Boguszewski](https://www.worldcubeassociation.org/persons/2019BOGU01) |
 | 31 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) |
-| 31 | [Witold Kordos](https://www.worldcubeassociation.org/persons/2016KORD01) |
-| 31 | [Karol Micał](https://www.worldcubeassociation.org/persons/2022MICA03) |
 | 31 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) |
+| 31 | [Karol Micał](https://www.worldcubeassociation.org/persons/2022MICA03) |
+| 31 | [Witold Kordos](https://www.worldcubeassociation.org/persons/2016KORD01) |
+| 31 | [Krzysztof Boguszewski](https://www.worldcubeassociation.org/persons/2019BOGU01) |
 
 ### 3x3x3 One-Handed
 
@@ -150,9 +150,9 @@
 | 1:01.03 | [Sebastian Fornal](https://www.worldcubeassociation.org/persons/2022FORN02) |
 | 1:05.53 | [Wojciech Piórczyński](https://www.worldcubeassociation.org/persons/2021PIOR01) |
 | 1:14.12 | [Dawid Kamiński](https://www.worldcubeassociation.org/persons/2026KAMI01) |
+| 1:15.89 | [Adam Joachimiak](https://www.worldcubeassociation.org/persons/2026JOAC01) |
 | 1:16.74 | [Szczepan Rozwadowski](https://www.worldcubeassociation.org/persons/2025ROZW02) |
 | 1:17.08 | [Rafał Rowiński](https://www.worldcubeassociation.org/persons/2024ROWI03) |
-| 1:17.18 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 
 ### Pyraminx
 
@@ -177,11 +177,11 @@
 | 5.73 | [Victor Kiziukiewicz](https://www.worldcubeassociation.org/persons/2023KIZI01) |
 | 5.81 | [Jakub Dolata](https://www.worldcubeassociation.org/persons/2020DOLA01) |
 | 6.24 | [Szymon Plesniak](https://www.worldcubeassociation.org/persons/2024PLES01) |
-| 6.30 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
 | 6.30 | [Bartosz Miduch](https://www.worldcubeassociation.org/persons/2019MIDU01) |
+| 6.30 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
 | 6.67 | [Łukasz Owczarek](https://www.worldcubeassociation.org/persons/2022OWCZ02) |
-| 6.75 | [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) |
 | 6.75 | [Łukasz Kamiński](https://www.worldcubeassociation.org/persons/2023KAMI07) |
+| 6.75 | [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) |
 | 7.00 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) |
 
 ### Skewb

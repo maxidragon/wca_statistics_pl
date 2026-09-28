@@ -1,12 +1,12 @@
 ## Most records delegated
 
 *Note: Counts records achieved in competitions where the Polish Delegate was listed.*
-*Updated on 26 September 2026*
+*Updated on 28 September 2026*
 
 | Records | WR | CR | NR | Delegate |
 | ---: | ---: | ---: | ---: | :--- |
-| 437 | 6 | 55 | 376 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
-| 247 | 6 | 29 | 212 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
+| 438 | 6 | 55 | 377 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 248 | 6 | 29 | 213 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 237 | 17 | 22 | 198 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
 | 182 | 10 | 23 | 149 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
 | 164 | 16 | 19 | 129 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) |
@@ -22,7 +22,7 @@
 | 58 | 4 | 3 | 51 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) |
 | 54 | 5 | 8 | 41 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
 | 41 | 7 | 4 | 30 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) |
-| 21 | 2 | 8 | 11 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
+| 22 | 2 | 8 | 12 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
 | 19 | 4 | 7 | 8 | [Stefan Łapicki](https://www.worldcubeassociation.org/persons/2006LAPI01) |
 | 18 | 2 | 6 | 10 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
 | 15 | 2 | 6 | 7 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |

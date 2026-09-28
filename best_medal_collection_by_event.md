@@ -1,7 +1,7 @@
 ## Best medal collection by event
 
 *Note: All medals are taken into account, no matter where the competition was held.*
-*Updated on 26 September 2026*
+*Updated on 28 September 2026*
 
 
 ### 3x3x3 Cube
@@ -98,14 +98,14 @@
 
 | Total | Person | Gold | Silver | Bronze |
 | :--: | :--- | :--: | :--: | :--: |
-| **168** | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 125 | 28 | 15 |
+| **169** | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 125 | 29 | 15 |
 | **79** | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 18 | 31 | 30 |
 | **70** | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 25 | 27 | 18 |
 | **64** | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) | 37 | 17 | 10 |
 | **46** | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | 32 | 12 | 2 |
 | **46** | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 5 | 15 | 26 |
+| **39** | [Stanisław Szyszka](https://www.worldcubeassociation.org/persons/2016SZYS02) | 12 | 18 | 9 |
 | **39** | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 10 | 15 | 14 |
-| **38** | [Stanisław Szyszka](https://www.worldcubeassociation.org/persons/2016SZYS02) | 11 | 18 | 9 |
 | **37** | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 14 | 17 | 6 |
 | **36** | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | 13 | 17 | 6 |
 
@@ -145,12 +145,12 @@
 | :--: | :--- | :--: | :--: | :--: |
 | **97** | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 69 | 20 | 8 |
 | **65** | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 33 | 29 | 3 |
+| **58** | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 26 | 26 | 6 |
 | **58** | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | 9 | 26 | 23 |
-| **57** | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 25 | 26 | 6 |
 | **52** | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 29 | 12 | 11 |
 | **46** | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) | 26 | 14 | 6 |
+| **33** | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 9 | 15 | 9 |
 | **33** | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 5 | 8 | 20 |
-| **32** | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 9 | 14 | 9 |
 | **27** | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) | 2 | 12 | 13 |
 | **22** | [Ernest Seroczyński](https://www.worldcubeassociation.org/persons/2015SERO02) | 11 | 8 | 3 |
 
@@ -197,7 +197,7 @@
 | **48** | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 17 | 19 | 12 |
 | **43** | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | 24 | 11 | 8 |
 | **42** | [Cezary Mach](https://www.worldcubeassociation.org/persons/2018MACH04) | 24 | 14 | 4 |
-| **38** | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 10 | 11 | 17 |
+| **39** | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 10 | 12 | 17 |
 
 ### Square-1
 
@@ -210,7 +210,7 @@
 | **59** | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 23 | 21 | 15 |
 | **41** | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) | 32 | 6 | 3 |
 | **39** | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 10 | 14 | 15 |
-| **36** | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 8 | 18 | 10 |
+| **37** | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 9 | 18 | 10 |
 | **34** | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 2 | 16 | 16 |
 | **30** | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | 9 | 15 | 6 |
 

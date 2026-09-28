@@ -1,7 +1,7 @@
 ## Most consecutive weeks with a delegated competition
 
 *Note: Only includes delegates from Poland. Weeks are counted as ISO weeks (Monday-Sunday). Multiple competitions in the same week count as one.*
-*Updated on 26 September 2026*
+*Updated on 28 September 2026*
 
 | Count | Person | Start comp | End comp |
 | ---: | :--- | :--- | :--- |
@@ -19,13 +19,14 @@
 | 3 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | [Cube4fun in Warsaw 2022](https://www.worldcubeassociation.org/competitions/Cube4funWarsaw2022) | [Speedcubing Slovakia 2022](https://www.worldcubeassociation.org/competitions/SpeedcubingSlovakia2022) |
 | 3 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | [BrizZon Side Open 2025](https://www.worldcubeassociation.org/competitions/BrizZonSideOpen2025) | [CF Goes Sideways Brzeziny 2025](https://www.worldcubeassociation.org/competitions/CFGoesSidewaysBrzeziny2025) |
 | 2 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | [Speed Day Lublin 2016](https://www.worldcubeassociation.org/competitions/SpeedDayLublin2016) | [WLS Wiosna 2016](https://www.worldcubeassociation.org/competitions/WLSWiosna2016) |
+| 2 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | [Opole Cubing Day 2026](https://www.worldcubeassociation.org/competitions/OpoleCubingDay2026) | [All Rounders Katowice III 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceIII2026) |
 | 2 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | [Opole Cubing Day 2026](https://www.worldcubeassociation.org/competitions/OpoleCubingDay2026) | [All Rounders Katowice III 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceIII2026) |
 | 2 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | [Polish Championship 2015](https://www.worldcubeassociation.org/competitions/PolishChampionship2015) | [ŚLS Wodzisław Śląski 2015](https://www.worldcubeassociation.org/competitions/SLSWodzislawSlaski2015) |
 | 2 | [Krzysztof Kuncki](https://www.worldcubeassociation.org/persons/2010KUNC01) | [Polish Open 2014](https://www.worldcubeassociation.org/competitions/PolishOpen2014) | [SLS Gliwice 2014](https://www.worldcubeassociation.org/competitions/SLSGliwice2014) |
 | 2 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | [Świdnik Open 2015](https://www.worldcubeassociation.org/competitions/SwidnikOpen2015) | [ŚLS Gliwice 2015](https://www.worldcubeassociation.org/competitions/SLSGliwice2015) |
 | 1 | [Adam Joks](https://www.worldcubeassociation.org/persons/2005JOKS01) | [Gdansk Open 2008](https://www.worldcubeassociation.org/competitions/GdanskOpen2008) | [Gdansk Open 2008](https://www.worldcubeassociation.org/competitions/GdanskOpen2008) |
 | 1 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) | [Wroclaw Open 2007](https://www.worldcubeassociation.org/competitions/WroclawOpen2007) | [Wroclaw Open 2007](https://www.worldcubeassociation.org/competitions/WroclawOpen2007) |
-| 1 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | [All Rounders Katowice III 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceIII2026) | [All Rounders Katowice III 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceIII2026) |
+| 1 | [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) | [Cube Factory League Koluszki 2026](https://www.worldcubeassociation.org/competitions/CFLKoluszki2026) | [Cube Factory League Koluszki 2026](https://www.worldcubeassociation.org/competitions/CFLKoluszki2026) |
 | 1 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | [FMC Europe 2025](https://www.worldcubeassociation.org/competitions/FMCEurope2025) | [FMC Europe 2025](https://www.worldcubeassociation.org/competitions/FMCEurope2025) |
 | 1 | [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) | [Cube4fun Szansa Cubing Warsaw 2026](https://www.worldcubeassociation.org/competitions/Cube4funSzansaCubing2026) | [Cube4fun Szansa Cubing Warsaw 2026](https://www.worldcubeassociation.org/competitions/Cube4funSzansaCubing2026) |
 | 1 | [Stefan Łapicki](https://www.worldcubeassociation.org/persons/2006LAPI01) | [Kociewie Open 2009](https://www.worldcubeassociation.org/competitions/KociewieOpen2009) | [Kociewie Open 2009](https://www.worldcubeassociation.org/competitions/KociewieOpen2009) |

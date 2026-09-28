@@ -1,7 +1,7 @@
 ## Best podiums at Polish competitions
 
 *Note: Podiums at competitions held in Poland, regardless of the podium members' countries. Podium places with sum of best or average times depending on format.*
-*Updated on 26 September 2026*
+*Updated on 28 September 2026*
 
 
 ### 3x3x3 Cube
@@ -17,7 +17,7 @@
 | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) (5.07), [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) (5.78), [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) (6.19) | 17.04 |
 | [GLS Gdańsk III 2026](https://www.worldcubeassociation.org/competitions/GLSGdanskIII2026) | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) (4.41), [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) (5.93), [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) (6.92) | 17.26 |
 | [Cube4fun in Bełchatów 2024](https://www.worldcubeassociation.org/competitions/Cube4funinBelchatow2024) | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) (4.74), [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) (5.54), [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) (7.09) | 17.37 |
-| [CFL Final Łódź 2025](https://www.worldcubeassociation.org/competitions/CFLFinalLodz2025) | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) (5.21), [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) (5.69), [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) (6.75) | 17.65 |
+| [CFL Koluszki 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueKoluszki2025) | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) (5.59), [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) (5.97), [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) (6.09) | 17.65 |
 
 ### 2x2x2 Cube
 
@@ -224,7 +224,7 @@
 | [Warm Up Niepołomice 2026](https://www.worldcubeassociation.org/competitions/WarmUpNiepolomice2026) | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) (1.95), [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) (2.02), [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) (2.04) | 6.01 |
 | [Energy Cube Białołęka 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2025) | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) (1.86), [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) (2.03), [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) (2.33) | 6.22 |
 | [Cube Factory Aleksandrów 2026](https://www.worldcubeassociation.org/competitions/CubeFactoryAleksandrow2026) | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) (1.67), [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) (2.13), [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) (2.53) | 6.33 |
-| [Energy Cube Tomaszów 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2024) | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) (1.98), [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) (2.13), [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) (2.25) | 6.36 |
+| [Megaminx Fiesta Augustów 2025](https://www.worldcubeassociation.org/competitions/MegaminxFiestaAugustow2025) | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) (1.52), [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) (2.06), [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) (2.78) | 6.36 |
 
 ### Square-1
 

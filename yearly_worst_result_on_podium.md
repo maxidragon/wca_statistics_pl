@@ -1,7 +1,7 @@
 ## Worst result providing a podium by year at Polish competitions
 
 *Note: Only finals at competitions held in Poland are taken into account, regardless of the podium members' countries. Results where the main statistic is DNF are ignored. Each year is considered separately.*
-*Updated on 26 September 2026*
+*Updated on 28 September 2026*
 
 
 ### 2026
@@ -14,12 +14,12 @@
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 8.91 | **9.59** | [Olsztyn Spring Open 2026](https://www.worldcubeassociation.org/competitions/OlsztynSpringOpen2026/results/podiums#e333) | 2 |
 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 7.98 | **9.53** | [Olsztyn Spring Open 2026](https://www.worldcubeassociation.org/competitions/OlsztynSpringOpen2026/results/podiums#e333) | 1 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 8.19 | **9.27** | [Podlaskie Tour Białystok 2026](https://www.worldcubeassociation.org/competitions/PodlaskieTourBialystok2026/results/podiums#e333) | 3 |
+| [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 7.30 | **9.12** | [Stork Cubing Przygodzice 2026](https://www.worldcubeassociation.org/competitions/StorkCubingPrzygodzice2026/results/podiums#e333) | 3 |
 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | 8.25 | **9.02** | [Scrambled Cubes Legnica 2026](https://www.worldcubeassociation.org/competitions/ScrambledCubesLegnica2026/results/podiums#e333) | 3 |
 | [Aleksander Arefiew](https://www.worldcubeassociation.org/persons/2016AREF01) | 8.29 | **8.98** | [Podlaskie Tour Białystok 2026](https://www.worldcubeassociation.org/competitions/PodlaskieTourBialystok2026/results/podiums#e333) | 2 |
 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | 7.42 | **8.93** | [Podlaskie Tour Suwałki 2026](https://www.worldcubeassociation.org/competitions/PodlaskieTourSuwalki2026/results/podiums#e333) | 3 |
 | [Łukasz Kurowski](https://www.worldcubeassociation.org/persons/2022KURO01) | 8.23 | **8.88** | [Koszalin Open 2026](https://www.worldcubeassociation.org/competitions/KoszalinOpen2026/results/podiums#e333) | 3 |
 | [Dominik Podolak](https://www.worldcubeassociation.org/persons/2023PODO02) | 6.91 | **8.72** | [Lipnica Wielka Open 2026](https://www.worldcubeassociation.org/competitions/LipnicaWielkaOpen2026/results/podiums#e333) | 3 |
-| [Jan Bulczak](https://www.worldcubeassociation.org/persons/2022BULC01) | 8.26 | **8.71** | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026/results/podiums#e333) | 3 |
 
 #### 2x2x2 Cube
 
@@ -146,15 +146,15 @@
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
 | [Jan Jędrzej Kasprzak](https://www.worldcubeassociation.org/persons/2022KASP03) | 14.63 | **17.82** | [Koszalin Open 2026](https://www.worldcubeassociation.org/competitions/KoszalinOpen2026/results/podiums#e333oh) | 3 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 15.50 | **17.63** | [Stork Cubing Przygodzice 2026](https://www.worldcubeassociation.org/competitions/StorkCubingPrzygodzice2026/results/podiums#e333oh) | 3 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 16.10 | **17.62** | [Olsztyn Spring Open 2026](https://www.worldcubeassociation.org/competitions/OlsztynSpringOpen2026/results/podiums#e333oh) | 3 |
 | [Adam Janiszewski](https://www.worldcubeassociation.org/persons/2022JANI01) | 15.24 | **17.43** | [Koszalin Open 2026](https://www.worldcubeassociation.org/competitions/KoszalinOpen2026/results/podiums#e333oh) | 2 |
 | [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) | 14.73 | **17.13** | [Lipnica Wielka Open 2026](https://www.worldcubeassociation.org/competitions/LipnicaWielkaOpen2026/results/podiums#e333oh) | 3 |
 | [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) | 15.83 | **17.12** | [Lipnica Wielka Open 2026](https://www.worldcubeassociation.org/competitions/LipnicaWielkaOpen2026/results/podiums#e333oh) | 2 |
+| [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | 16.27 | **17.06** | [Stork Cubing Przygodzice 2026](https://www.worldcubeassociation.org/competitions/StorkCubingPrzygodzice2026/results/podiums#e333oh) | 2 |
 | [Jędrzej Topolski](https://www.worldcubeassociation.org/persons/2024TOPO01) | 13.65 | **16.90** | [Koszalin Open 2026](https://www.worldcubeassociation.org/competitions/KoszalinOpen2026/results/podiums#e333oh) | 1 |
 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 14.91 | **16.71** | [Olsztyn Spring Open 2026](https://www.worldcubeassociation.org/competitions/OlsztynSpringOpen2026/results/podiums#e333oh) | 2 |
 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 13.54 | **15.99** | [Cubing Summer Rybnik 2026](https://www.worldcubeassociation.org/competitions/CubingSummerRybnik2026/results/podiums#e333oh) | 3 |
-| [David Nesiba](https://www.worldcubeassociation.org/persons/2023NESI01) | 14.08 | **15.97** | [Scrambled Cubes Legnica 2026](https://www.worldcubeassociation.org/competitions/ScrambledCubesLegnica2026/results/podiums#e333oh) | 3 |
-| [Jędrzej Topolski](https://www.worldcubeassociation.org/persons/2024TOPO01) | 15.26 | **15.95** | [Olsztyn Spring Open 2026](https://www.worldcubeassociation.org/competitions/OlsztynSpringOpen2026/results/podiums#e333oh) | 1 |
 
 #### Megaminx
 

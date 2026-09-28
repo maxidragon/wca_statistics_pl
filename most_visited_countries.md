@@ -1,10 +1,10 @@
 ## Most visited countries
 
-*Updated on 26 September 2026*
+*Updated on 28 September 2026*
 
 | Countries | Person |
 | ---: | :--- |
-| 41 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 42 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 22 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 22 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 19 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
@@ -36,8 +36,8 @@
 | 9 | [Arkadiusz Dubicki](https://www.worldcubeassociation.org/persons/2023DUBI01) |
 | 9 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 8 | [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) |
-| 8 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) |
 | 8 | [Rafał Studnicki](https://www.worldcubeassociation.org/persons/2005STUD01) |
+| 8 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) |
 | 8 | [Mikołaj Molski](https://www.worldcubeassociation.org/persons/2015MOLS01) |
 | 8 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 8 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |
@@ -49,11 +49,11 @@
 | 7 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) |
 | 7 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) |
 | 7 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) |
+| 7 | [Hubert Darłak](https://www.worldcubeassociation.org/persons/2023DARL03) |
 | 7 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
 | 6 | [Joanna Hołdakowska](https://www.worldcubeassociation.org/persons/2016HOLD04) |
 | 6 | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) |
 | 6 | [Ignacy Malinowski](https://www.worldcubeassociation.org/persons/2021MALI02) |
-| 6 | [Hubert Darłak](https://www.worldcubeassociation.org/persons/2023DARL03) |
 | 6 | [Michał Kaczmarek](https://www.worldcubeassociation.org/persons/2021KACZ01) |
 | 6 | [Robert Ślesicki](https://www.worldcubeassociation.org/persons/2019SLES02) |
 | 6 | [Przemysław Kanarski](https://www.worldcubeassociation.org/persons/2019KANA04) |

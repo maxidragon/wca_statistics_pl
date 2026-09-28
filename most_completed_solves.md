@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 26 September 2026*
+*Updated on 28 September 2026*
 
 
 ### Competition
@@ -32,24 +32,24 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **21486** | 22389 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **21576** | 22489 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **17159** | 17844 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **16387** | 16817 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **13485** | 14534 |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **13315** | 13793 |
-| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **13028** | 13702 |
+| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **13071** | 13745 |
 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **12256** | 12942 |
 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | **11428** | 11794 |
+| [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | **10342** | 10920 |
 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | **10316** | 10983 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | **10264** | 10451 |
-| [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | **10252** | 10826 |
+| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **9623** | 11138 |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | **9582** | 9795 |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **9559** | 11069 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **9455** | 9627 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **9332** | 9669 |
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | **9233** | 9433 |
+| [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | **7977** | 8702 |
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | **7956** | 8230 |
-| [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | **7908** | 8627 |
 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | **7513** | 7653 |
 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | **7506** | 7866 |
 
@@ -59,8 +59,8 @@
 | :--- | ---: | ---: |
 | 2025 | **236931** | 249879 |
 | 2024 | **224448** | 235988 |
+| 2026 | **188843** | 200371 |
 | 2023 | **188218** | 198622 |
-| 2026 | **186713** | 198102 |
 | 2022 | **116402** | 123618 |
 | 2019 | **91337** | 95933 |
 | 2014 | **76324** | 80953 |
@@ -82,20 +82,20 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **386562** | 394248 |
-| 2x2x2 Cube | **252307** | 259241 |
-| Pyraminx | **195097** | 200260 |
-| Skewb | **138685** | 142260 |
-| 4x4x4 Cube | **131651** | 136181 |
-| 3x3x3 One-Handed | **106629** | 110064 |
-| Clock | **83501** | 96567 |
-| Megaminx | **66962** | 69658 |
-| 5x5x5 Cube | **64648** | 66959 |
-| Square-1 | **53968** | 56083 |
-| 6x6x6 Cube | **15569** | 16148 |
-| 3x3x3 Blindfolded | **14291** | 37341 |
-| 7x7x7 Cube | **13176** | 13755 |
-| 3x3x3 Fewest Moves | **7056** | 9250 |
+| 3x3x3 Cube | **387057** | 394753 |
+| 2x2x2 Cube | **252596** | 259536 |
+| Pyraminx | **195303** | 200470 |
+| Skewb | **138941** | 142524 |
+| 4x4x4 Cube | **131875** | 136411 |
+| 3x3x3 One-Handed | **106882** | 110326 |
+| Clock | **83511** | 96579 |
+| Megaminx | **67161** | 69861 |
+| 5x5x5 Cube | **64669** | 66981 |
+| Square-1 | **54075** | 56196 |
+| 6x6x6 Cube | **15575** | 16154 |
+| 3x3x3 Blindfolded | **14338** | 37470 |
+| 7x7x7 Cube | **13188** | 13767 |
+| 3x3x3 Fewest Moves | **7061** | 9256 |
 | Magic | **4230** | 4674 |
 | 3x3x3 Multi-Blind | **2479** | 3682 |
 | 3x3x3 With Feet | **2450** | 2650 |

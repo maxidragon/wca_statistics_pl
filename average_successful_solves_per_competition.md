@@ -1,7 +1,7 @@
 ## Average number of successful solves per competition
 
 *Note: Counts successful individual attempts (value > 0). DNS and empty attempts are excluded. Minimum 20 competitions required.*
-*Updated on 26 September 2026*
+*Updated on 28 September 2026*
 
 | Person | Avg. successful | Total successful | Competitions |
 | :--- | ---: | ---: | ---: |
@@ -14,13 +14,13 @@
 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | 75.10 | 5332 | 71 |
 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 74.71 | 6799 | 91 |
 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | 73.81 | 3986 | 54 |
-| [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 73.23 | 10252 | 140 |
+| [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 73.35 | 10342 | 141 |
 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 72.65 | 10316 | 142 |
 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) | 71.33 | 5849 | 82 |
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 71.04 | 7956 | 112 |
 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | 70.23 | 5197 | 74 |
 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | 69.63 | 6336 | 91 |
-| [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) | 68.46 | 3149 | 46 |
+| [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) | 69.17 | 3251 | 47 |
 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | 68.41 | 4789 | 70 |
 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 67.67 | 5684 | 84 |
 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | 67.18 | 5643 | 84 |
@@ -47,10 +47,10 @@
 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 62.53 | 12256 | 196 |
 | [Jan Jędrzej Kasprzak](https://www.worldcubeassociation.org/persons/2022KASP03) | 61.72 | 1975 | 32 |
 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) | 61.47 | 7130 | 116 |
+| [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | 61.41 | 3132 | 51 |
 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | 61.35 | 2638 | 43 |
 | [Szymon Brągiel](https://www.worldcubeassociation.org/persons/2022BRAG03) | 61.34 | 4478 | 73 |
 | [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) | 61.30 | 5027 | 82 |
-| [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | 60.98 | 3049 | 50 |
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 60.82 | 6629 | 109 |
 | [Adam Janiszewski](https://www.worldcubeassociation.org/persons/2022JANI01) | 60.72 | 1761 | 29 |
 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) | 60.46 | 3023 | 50 |

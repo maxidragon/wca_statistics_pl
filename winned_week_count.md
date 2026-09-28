@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 26 September 2026*
+*Updated on 28 September 2026*
 
 
 ### 3x3x3 Cube
@@ -209,12 +209,12 @@
 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | 4 |
 | [Mateusz Cichoracki](https://www.worldcubeassociation.org/persons/2011CICH01) | 4 |
 | [Adam Jagła](https://www.worldcubeassociation.org/persons/2017JAGL01) | 3 |
-| [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) | 2 |
 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) | 2 |
+| [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | 2 |
+| [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) | 2 |
 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) | 2 |
 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | 2 |
-| [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) | 1 |
-| [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | 1 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 1 |
 
 ### Clock
 

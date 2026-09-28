@@ -1,7 +1,7 @@
 ## Competitions per voivodeship
 
 *Note: Voivodeships are inferred from competition coordinates (approximate bounding box). *
-*Updated on 26 September 2026*
+*Updated on 28 September 2026*
 
 
 ### Pomorskie
@@ -149,40 +149,40 @@ _Total competitions: 71_
 | [Wojciech Piórczyński](https://www.worldcubeassociation.org/persons/2021PIOR01) | 18 |
 
 ### Wielkopolskie
-_Total competitions: 69_
+_Total competitions: 70_
 
 | Person | Competitions |
 | :--- | ---: |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 54 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 54 |
+| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 55 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 55 |
 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 53 |
-| [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 46 |
-| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 39 |
+| [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 47 |
+| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 40 |
+| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 40 |
 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | 39 |
-| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 39 |
 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 38 |
-| [Stanisław Szyszka](https://www.worldcubeassociation.org/persons/2016SZYS02) | 34 |
+| [Stanisław Szyszka](https://www.worldcubeassociation.org/persons/2016SZYS02) | 35 |
 | [Robert Cegiel](https://www.worldcubeassociation.org/persons/2017CEGI01) | 31 |
 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | 29 |
+| [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 27 |
 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) | 27 |
 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 26 |
-| [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 26 |
+| [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 25 |
+| [Michał Wachowiak](https://www.worldcubeassociation.org/persons/2015WACH01) | 25 |
 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 25 |
 | [Tomasz Stawowy](https://www.worldcubeassociation.org/persons/2021STAW01) | 25 |
-| [Michał Wachowiak](https://www.worldcubeassociation.org/persons/2015WACH01) | 25 |
-| [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 24 |
-| [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) | 23 |
 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) | 23 |
+| [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) | 23 |
 | [Maksymilian Jedynak](https://www.worldcubeassociation.org/persons/2019JEDY01) | 22 |
 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | 21 |
 | [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) | 19 |
-| [Marcin Chmielewski](https://www.worldcubeassociation.org/persons/2023CHMI01) | 19 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 19 |
-| [Jakub Dłużak](https://www.worldcubeassociation.org/persons/2021DLUZ01) | 18 |
+| [Marcin Chmielewski](https://www.worldcubeassociation.org/persons/2023CHMI01) | 19 |
 | [Kazimierz Cywiński](https://www.worldcubeassociation.org/persons/2022CYWI01) | 18 |
+| [Robert Siniawski](https://www.worldcubeassociation.org/persons/2016SINI01) | 18 |
 | [Ernest Zakrzewski](https://www.worldcubeassociation.org/persons/2011ZAKR01) | 18 |
 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) | 18 |
-| [Robert Siniawski](https://www.worldcubeassociation.org/persons/2016SINI01) | 18 |
+| [Jakub Dłużak](https://www.worldcubeassociation.org/persons/2021DLUZ01) | 18 |
 
 ### Łódzkie
 _Total competitions: 58_

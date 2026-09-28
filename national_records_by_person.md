@@ -1,6 +1,6 @@
 ## National records count by person
 
-*Updated on 26 September 2026*
+*Updated on 28 September 2026*
 
 | WRs | Person |
 | ---: | :--- |
@@ -41,6 +41,7 @@
 | 6 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
 | 5 | [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) |
 | 5 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) |
+| 5 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 5 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |
 | 5 | [Stefan Łapicki](https://www.worldcubeassociation.org/persons/2006LAPI01) |
 | 4 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) |
@@ -49,7 +50,6 @@
 | 4 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) |
 | 4 | [Jarosław Nowicki](https://www.worldcubeassociation.org/persons/2004NOWI01) |
 | 4 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
-| 4 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 4 | [Marcel Politowicz](https://www.worldcubeassociation.org/persons/2021POLI02) |
 | 4 | [Michał Wizner](https://www.worldcubeassociation.org/persons/2005WIZN01) |
 | 4 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |

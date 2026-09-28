@@ -1,21 +1,21 @@
 ## Most competitions abroad
 
-*Updated on 26 September 2026*
+*Updated on 28 September 2026*
 
 | Competitions | Person |
 | ---: | :--- |
-| 127 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 128 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 81 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 54 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
-| 42 | [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) |
+| 43 | [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) |
 | 36 | [Igor Wojciech Wawrzynski](https://www.worldcubeassociation.org/persons/2019WAWR01) |
 | 35 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 35 | [Leon Jakub Wyrobek](https://www.worldcubeassociation.org/persons/2016WYRO01) |
 | 31 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 29 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 27 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
+| 26 | [Michał Kaczmarek](https://www.worldcubeassociation.org/persons/2021KACZ01) |
 | 25 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
-| 24 | [Michał Kaczmarek](https://www.worldcubeassociation.org/persons/2021KACZ01) |
 | 23 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) |
 | 21 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) |
 | 20 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) |
@@ -63,6 +63,7 @@
 | 10 | [Szymon Jaworski](https://www.worldcubeassociation.org/persons/2021JAWO01) |
 | 10 | [Oskar Obeid](https://www.worldcubeassociation.org/persons/2022OBEI01) |
 | 10 | [Krzysztof Wawrzyniak](https://www.worldcubeassociation.org/persons/2023WAWR01) |
+| 10 | [Hubert Darłak](https://www.worldcubeassociation.org/persons/2023DARL03) |
 | 10 | [Zbigniew Mróz](https://www.worldcubeassociation.org/persons/2023MROZ03) |
 | 10 | [Antoni Baránski](https://www.worldcubeassociation.org/persons/2024BARA01) |
 | 9 | [Wojciech Barciaga](https://www.worldcubeassociation.org/persons/2013BARC03) |
@@ -74,7 +75,6 @@
 | 9 | [Joanna Dubicka](https://www.worldcubeassociation.org/persons/2018DUBI04) |
 | 9 | [Eryk Haoyan Klimek](https://www.worldcubeassociation.org/persons/2022KLIM01) |
 | 9 | [Arkadiusz Dubicki](https://www.worldcubeassociation.org/persons/2023DUBI01) |
-| 9 | [Hubert Darłak](https://www.worldcubeassociation.org/persons/2023DARL03) |
 | 9 | [Łukasz Siara](https://www.worldcubeassociation.org/persons/2024SIAR01) |
 | 8 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) |
 | 8 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) |

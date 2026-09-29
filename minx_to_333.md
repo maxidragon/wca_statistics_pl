@@ -6,7 +6,7 @@
 | Person | Megaminx | 3x3 | Ratio |
 | :--- | ---: | ---: | ---: |
 | [Kajtek Kwiatkowski](https://www.worldcubeassociation.org/persons/2023KWIA01) | 46.85 | 14.51 | 3.23 |
-| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 59.38 | 17.84 | 3.33 |
+| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 58.87 | 17.84 | 3.30 |
 | [Maciej Lyer](https://www.worldcubeassociation.org/persons/2014LYER01) | 42.17 | 11.53 | 3.66 |
 | [Przemysław Rudziak](https://www.worldcubeassociation.org/persons/2020RUDZ02) | 37.25 | 10.16 | 3.67 |
 | [Klaudia Milewczyk](https://www.worldcubeassociation.org/persons/2022MILE05) | 1:50.57 | 30.01 | 3.68 |
@@ -21,7 +21,7 @@
 | [Dominik Unijewski](https://www.worldcubeassociation.org/persons/2017UNIJ01) | 56.06 | 13.47 | 4.16 |
 | [Mikołaj Dorosiński](https://www.worldcubeassociation.org/persons/2016DORO01) | 53.95 | 12.91 | 4.18 |
 | [Jędrzej Topolski](https://www.worldcubeassociation.org/persons/2024TOPO01) | 41.74 | 9.88 | 4.23 |
-| [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 37.27 | 8.75 | 4.26 |
+| [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 37.08 | 8.55 | 4.34 |
 | [Idan Bolesto](https://www.worldcubeassociation.org/persons/2022BOLE01) | 43.72 | 10.05 | 4.35 |
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 28.94 | 6.64 | 4.36 |
 | [Bartosz Brudnicki](https://www.worldcubeassociation.org/persons/2023BRUD01) | 54.29 | 12.32 | 4.41 |

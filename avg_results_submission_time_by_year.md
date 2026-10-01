@@ -1,6 +1,6 @@
 ## Average results submission time by Polish delegates each year
 
-*Updated on 30 September 2026*
+*Updated on  1 October 2026*
 
 
 ### 2026

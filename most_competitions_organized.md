@@ -1,6 +1,6 @@
 ## Most competitions organized
 
-*Updated on 30 September 2026*
+*Updated on  1 October 2026*
 
 | Organized | Person |
 | ---: | :--- |
@@ -28,7 +28,7 @@
 | 18 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
 | 18 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) |
 | 18 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
-| 16 | [Klaudia Milewczyk](https://www.worldcubeassociation.org/persons/2022MILE05) |
+| 15 | [Klaudia Milewczyk](https://www.worldcubeassociation.org/persons/2022MILE05) |
 | 14 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
 | 13 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) |
 | 12 | [Szymon Jeziorski](https://www.worldcubeassociation.org/persons/2013JEZI01) |

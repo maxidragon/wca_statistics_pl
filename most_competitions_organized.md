@@ -1,12 +1,12 @@
 ## Most competitions organized
 
-*Updated on  1 October 2026*
+*Updated on  4 October 2026*
 
 | Organized | Person |
 | ---: | :--- |
-| 143 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
+| 144 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
+| 85 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 84 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
-| 84 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 79 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 55 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 42 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
@@ -16,8 +16,8 @@
 | 29 | [Karolina Wiącek](https://www.worldcubeassociation.org/persons/2008WIAC01) |
 | 29 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) |
 | 26 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
+| 26 | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) |
 | 26 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
-| 25 | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) |
 | 24 | [Sylwester Jaroszewski](https://www.worldcubeassociation.org/persons/2014JARO01) |
 | 23 | [Radosław Ciuk](https://www.worldcubeassociation.org/persons/2013CIUK01) |
 | 23 | [Piotr Gabara](https://www.worldcubeassociation.org/persons/2024GABA02) |
@@ -85,6 +85,7 @@
 | 4 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) |
 | 4 | [Maksymilian Januszewski](https://www.worldcubeassociation.org/persons/2022JANU01) |
 | 4 | [Kajtek Kwiatkowski](https://www.worldcubeassociation.org/persons/2023KWIA01) |
+| 4 | [Piotr Brokos](https://www.worldcubeassociation.org/persons/2023BROK01) |
 | 4 | [Mateusz Ziemba](https://www.worldcubeassociation.org/persons/2022ZIEM01) |
 | 4 | [Roksana Porucznik](https://www.worldcubeassociation.org/persons/2024PORU01) |
 | 4 | [Antoni Osman](https://www.worldcubeassociation.org/persons/2024OSMA01) |
@@ -107,7 +108,6 @@
 | 3 | [Kamil Pieczka](https://www.worldcubeassociation.org/persons/2013PIEC02) |
 | 3 | [Michał Milówka](https://www.worldcubeassociation.org/persons/2013MILO02) |
 | 3 | [Adam Brzana](https://www.worldcubeassociation.org/persons/2022BRZA01) |
-| 3 | [Piotr Brokos](https://www.worldcubeassociation.org/persons/2023BROK01) |
 | 3 | [Szymon Kulpa](https://www.worldcubeassociation.org/persons/2023KULP02) |
 | 3 | [Szymon Gabara](https://www.worldcubeassociation.org/persons/2023GABA01) |
 | 3 | [Daniel Śliwa](https://www.worldcubeassociation.org/persons/2024SLIW01) |

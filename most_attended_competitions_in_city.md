@@ -1,27 +1,27 @@
 ## Most attended competitions in a city
 
 *Note: Only Polish persons and Polish competitions with posted results are included.*
-*Updated on  1 October 2026*
+*Updated on  4 October 2026*
 
 
 ### Gdańsk
-_Total competitions: 79_
+_Total competitions: 80_
 
 | Person | Competitions |
 | :--- | ---: |
 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 73 |
+| [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 58 |
 | [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) | 58 |
-| [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 57 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 56 |
 | [Karolina Wiącek](https://www.worldcubeassociation.org/persons/2008WIAC01) | 47 |
-| [Igor Ośmiałowski](https://www.worldcubeassociation.org/persons/2014OMIA01) | 46 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 46 |
-| [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) | 45 |
+| [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) | 46 |
+| [Igor Ośmiałowski](https://www.worldcubeassociation.org/persons/2014OMIA01) | 46 |
 | [Marek Pepke](https://www.worldcubeassociation.org/persons/2008PEPK01) | 45 |
-| [Oskar Kaczmarek](https://www.worldcubeassociation.org/persons/2013KACZ01) | 44 |
 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | 44 |
+| [Oskar Kaczmarek](https://www.worldcubeassociation.org/persons/2013KACZ01) | 44 |
 | [Grzegorz Pacewicz](https://www.worldcubeassociation.org/persons/2014PACE01) | 42 |
-| [Kacper Grzelakowski](https://www.worldcubeassociation.org/persons/2017GRZE01) | 41 |
+| [Kacper Grzelakowski](https://www.worldcubeassociation.org/persons/2017GRZE01) | 42 |
 | [Kalina Jakubowska](https://www.worldcubeassociation.org/persons/2009BRZE01) | 39 |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 38 |
 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 38 |
@@ -29,15 +29,15 @@ _Total competitions: 79_
 | [Patrycja Michalska](https://www.worldcubeassociation.org/persons/2013MICH02) | 37 |
 | [Cezary Mach](https://www.worldcubeassociation.org/persons/2018MACH04) | 35 |
 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 34 |
-| [Przemysław Kanarski](https://www.worldcubeassociation.org/persons/2019KANA04) | 33 |
-| [Alan Żeromski](https://www.worldcubeassociation.org/persons/2018ZERO01) | 32 |
-| [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | 31 |
+| [Przemysław Kanarski](https://www.worldcubeassociation.org/persons/2019KANA04) | 34 |
+| [Alan Żeromski](https://www.worldcubeassociation.org/persons/2018ZERO01) | 33 |
+| [Julian Helowicz](https://www.worldcubeassociation.org/persons/2023HELO01) | 31 |
 | [Piotr Frankowski](https://www.worldcubeassociation.org/persons/2006FRAN01) | 31 |
-| [Julian Helowicz](https://www.worldcubeassociation.org/persons/2023HELO01) | 30 |
-| [Maciej Jabłoński](https://www.worldcubeassociation.org/persons/2017JABL01) | 29 |
-| [Sebastian Kowalewski](https://www.worldcubeassociation.org/persons/2013KOWA01) | 29 |
+| [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | 31 |
+| [Maciej Jabłoński](https://www.worldcubeassociation.org/persons/2017JABL01) | 30 |
+| [Joanna Kierznikiewicz](https://www.worldcubeassociation.org/persons/2022KIER01) | 29 |
 | [Maciej Hebel](https://www.worldcubeassociation.org/persons/2019HEBE01) | 29 |
-| [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | 28 |
+| [Sebastian Kowalewski](https://www.worldcubeassociation.org/persons/2013KOWA01) | 29 |
 | [Anna Kogut](https://www.worldcubeassociation.org/persons/2019KOGU01) | 28 |
 
 ### Warszawa

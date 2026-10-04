@@ -1,7 +1,7 @@
 ## Most sub-X results by event
 
 *Note: Counts competition averages below the threshold for speed events, singles for BLD events. For Multi-BLD, counts results with strictly more than the given number of points.*
-*Updated on  1 October 2026*
+*Updated on  4 October 2026*
 
 
 ### 3x3x3 Cube
@@ -483,8 +483,8 @@
 
 | Count | Person |
 | ---: | :--- |
-| 190 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) |
-| 181 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
+| 192 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) |
+| 183 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 148 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 137 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) |
 | 129 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
@@ -521,7 +521,7 @@
 | 100 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) |
 | 88 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) |
 | 88 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) |
-| 79 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) |
+| 82 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) |
 | 62 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |
 | 62 | [Szymon Brągiel](https://www.worldcubeassociation.org/persons/2022BRAG03) |
 | 57 | [Cezary Mach](https://www.worldcubeassociation.org/persons/2018MACH04) |
@@ -533,7 +533,7 @@
 | 37 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) |
 | 36 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) |
 | 15 | [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) |
-| 7 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) |
+| 8 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) |
 | 7 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) |
 | 3 | [Szymon Brągiel](https://www.worldcubeassociation.org/persons/2022BRAG03) |
 | 1 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) |
@@ -548,7 +548,7 @@
 | ---: | :--- |
 | 113 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) |
 | 99 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) |
-| 89 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
+| 90 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 75 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) |
 | 70 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) |
 | 59 | [Filip Brokos](https://www.worldcubeassociation.org/persons/2022BROK03) |
@@ -569,7 +569,7 @@
 | 22 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) |
 | 18 | [Tobiasz Gładysz](https://www.worldcubeassociation.org/persons/2024GLAD02) |
 | 18 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) |
-| 17 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
+| 18 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 13 | [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) |
 
 #### Sub 3

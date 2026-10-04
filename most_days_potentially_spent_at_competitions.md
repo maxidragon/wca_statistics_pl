@@ -1,6 +1,6 @@
 ## Most days potentially spent at competitions
 
-*Updated on  1 October 2026*
+*Updated on  4 October 2026*
 
 | Days | Person | Competitions |
 | ---: | :--- | ---: |
@@ -8,7 +8,7 @@
 | 680 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 395 |
 | 534 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 271 |
 | 530 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 279 |
-| 444 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 226 |
+| 446 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 227 |
 | 441 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 224 |
 | 412 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 196 |
 | 405 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 199 |
@@ -20,7 +20,7 @@
 | 321 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | 160 |
 | 304 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 148 |
 | 300 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 146 |
-| 292 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 150 |
+| 293 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 151 |
 | 287 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 141 |
 | 273 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 142 |
 | 270 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 152 |

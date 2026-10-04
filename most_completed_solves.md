@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on  1 October 2026*
+*Updated on  4 October 2026*
 
 
 ### Competition
@@ -35,7 +35,7 @@
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **21576** | 22489 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **17159** | 17844 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **16387** | 16817 |
-| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **13485** | 14534 |
+| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **13560** | 14614 |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **13315** | 13793 |
 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **13071** | 13745 |
 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **12256** | 12942 |
@@ -59,7 +59,7 @@
 | :--- | ---: | ---: |
 | 2025 | **236931** | 249879 |
 | 2024 | **224448** | 235988 |
-| 2026 | **188843** | 200371 |
+| 2026 | **190489** | 202092 |
 | 2023 | **188218** | 198622 |
 | 2022 | **116402** | 123618 |
 | 2019 | **91337** | 95933 |
@@ -82,18 +82,18 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **387057** | 394753 |
-| 2x2x2 Cube | **252596** | 259536 |
-| Pyraminx | **195303** | 200470 |
-| Skewb | **138941** | 142524 |
-| 4x4x4 Cube | **131875** | 136411 |
-| 3x3x3 One-Handed | **106882** | 110326 |
-| Clock | **83511** | 96579 |
-| Megaminx | **67161** | 69861 |
-| 5x5x5 Cube | **64669** | 66981 |
-| Square-1 | **54075** | 56196 |
-| 6x6x6 Cube | **15575** | 16154 |
-| 3x3x3 Blindfolded | **14338** | 37470 |
+| 3x3x3 Cube | **387367** | 395068 |
+| 2x2x2 Cube | **252876** | 259826 |
+| Pyraminx | **195560** | 200735 |
+| Skewb | **139292** | 142879 |
+| 4x4x4 Cube | **132054** | 136593 |
+| 3x3x3 One-Handed | **106892** | 110336 |
+| Clock | **83636** | 96714 |
+| Megaminx | **67166** | 69866 |
+| 5x5x5 Cube | **64704** | 67016 |
+| Square-1 | **54144** | 56270 |
+| 6x6x6 Cube | **15587** | 16166 |
+| 3x3x3 Blindfolded | **14351** | 37513 |
 | 7x7x7 Cube | **13188** | 13767 |
 | 3x3x3 Fewest Moves | **7061** | 9256 |
 | Magic | **4230** | 4674 |

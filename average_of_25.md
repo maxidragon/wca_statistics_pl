@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  1 October 2026*
+*Updated on  4 October 2026*
 
 
 ### 3x3x3 Cube
@@ -177,8 +177,8 @@
 | 3.58 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | 2.35, 3.43, 2.75, 3.36, 3.29, 2.86, DNF, 4.79, 2.73, 3.45, 3.47, 4.61, 3.27, 2.45, 3.59, 2.59, 2.83, 6.30, 3.58, 5.59, 6.26, 3.00, 3.53, 3.71, 2.43 |
 | 3.60 | [Filip Brokos](https://www.worldcubeassociation.org/persons/2022BROK03) | 2.54, 2.83, 3.63, 3.02, 3.11, 3.87, 7.55, DNF, 3.50, 3.24, 3.56, 4.85, 2.69, 4.84, 3.10, 4.73, 4.24, 3.44, 4.33, 3.06, 2.41, 3.49, 3.92, 3.18, 2.88 |
 | 3.89 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) | 3.81, 3.70, 3.71, 3.81, 3.82, 3.40, 4.11, 4.23, 3.35, 3.85, 5.47, 4.32, 3.43, 3.78, 3.59, 3.64, 4.22, 3.58, 4.65, 4.42, 8.15, 3.88, 3.71, 3.84, 3.63 |
+| 3.89 | [Kacper Bieńkowski](https://www.worldcubeassociation.org/persons/2022BIEN01) | 2.97, 4.15, 2.96, 4.67, 4.81, DNF, 2.99, 5.10, 2.98, 4.23, 2.98, DNF, 3.92, 4.09, 4.06, 3.26, 3.28, 3.52, 3.29, 3.28, 3.93, 3.03, 5.94, 5.26, 2.74 |
 | 3.97 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | 4.18, 4.00, 2.83, 4.08, 5.00, DNF, 3.93, 2.84, 6.67, 5.22, 3.41, 3.73, 3.84, 3.94, 2.93, 5.13, 3.70, 4.18, 3.46, 3.53, 3.41, 4.17, 3.55, 3.80, 4.27 |
-| 3.98 | [Ignacy Malinowski](https://www.worldcubeassociation.org/persons/2021MALI02) | 3.47, 3.67, 3.71, 3.38, 9.20, 3.67, 5.97, 3.92, 3.78, 4.98, 4.23, 3.14, 4.03, 4.95, 4.25, 4.13, DNF, 3.53, 3.37, 2.87, 4.25, 3.75, 3.32, 3.20, 4.05 |
 
 ### Skewb
 

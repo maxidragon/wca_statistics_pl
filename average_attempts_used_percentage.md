@@ -1,7 +1,7 @@
 ## Highest average percentage of available attempts used
 
 *Note: For every competition, the available attempts are the sum of the expected solve counts of all its rounds, no matter which events the competitor signed up for. The used attempts are the ones they actually started (DNFs count, DNSs and attempts lost to a cutoff do not). The percentage is the average of those per-competition ratios, while the attempt counts are totals. Competitions abroad are included. Only Polish competitors with at least 20 competitions are included.*
-*Updated on  1 October 2026*
+*Updated on  4 October 2026*
 
 | % | Person | Attempted | Available | Competitions |
 | ---: | :--- | ---: | ---: | ---: |
@@ -24,7 +24,7 @@
 | 76.17% | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 7866 | 10552 | 114 |
 | 75.43% | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | 6202 | 8558 | 92 |
 | 75.36% | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 12942 | 17801 | 196 |
-| 75.20% | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 14534 | 20194 | 226 |
+| 75.28% | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 14614 | 20279 | 227 |
 | 74.90% | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 6077 | 8359 | 87 |
 | 74.61% | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 22489 | 32299 | 411 |
 | 74.61% | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) | 4262 | 6151 | 62 |
@@ -42,8 +42,8 @@
 | 71.45% | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) | 5646 | 8148 | 86 |
 | 71.18% | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | 6566 | 9318 | 91 |
 | 71.08% | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) | 4159 | 6132 | 64 |
+| 70.99% | [Marcin Wawiórko](https://www.worldcubeassociation.org/persons/2023WAWI01) | 2164 | 3205 | 43 |
 | 70.76% | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 13793 | 19517 | 231 |
-| 70.67% | [Marcin Wawiórko](https://www.worldcubeassociation.org/persons/2023WAWI01) | 2109 | 3140 | 42 |
 | 70.61% | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) | 7442 | 11142 | 116 |
 | 70.55% | [Jan Jędrzej Kasprzak](https://www.worldcubeassociation.org/persons/2022KASP03) | 2044 | 3059 | 32 |
 | 70.43% | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | 3389 | 5008 | 51 |

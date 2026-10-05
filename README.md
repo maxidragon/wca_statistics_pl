@@ -68,6 +68,7 @@ All statistics are computed only for competitors from Poland/Polish competitions
 - [Most 4th places](most_4th_places)
 - [Most N/N 3x3 MBLD successes](most_nxn_mbld_successes)
 - [Most attended competitions in a city](most_attended_competitions_in_city)
+- [Most attended competitions in a series](most_attended_competitions_in_series)
 - [Most attended competitions in a single month](most_attended_competitions_in_single_month)
 - [Most attended competitions in a single month (unique)](most_attended_competitions_in_single_month_unique)
 - [Most attended competitions in a single week](most_attended_competitions_in_single_week)

@@ -148,44 +148,6 @@ _Total competitions: 6_
 | 20 | [Witold Wesołowski](https://www.worldcubeassociation.org/persons/2022WESO01) | 3 |
 | 20 | [Wojciech Ludwin](https://www.worldcubeassociation.org/persons/2024LUDW01) | 3 |
 
-### Polish Championship
-_Total competitions: 16_
-
-| Position | Person | Competitions |
-| ---: | :--- | ---: |
-| 1 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 15 |
-| 2 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 14 |
-| 2 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 14 |
-| 4 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | 12 |
-| 4 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 12 |
-| 4 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 12 |
-| 7 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 11 |
-| 7 | [Kamil Pawlak](https://www.worldcubeassociation.org/persons/2006PAWL01) | 11 |
-| 7 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 11 |
-| 7 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 11 |
-| 7 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | 11 |
-| 7 | [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) | 11 |
-| 7 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 11 |
-| 14 | [Igor Ośmiałowski](https://www.worldcubeassociation.org/persons/2014OMIA01) | 10 |
-| 14 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 10 |
-| 14 | [Kalina Jakubowska](https://www.worldcubeassociation.org/persons/2009BRZE01) | 10 |
-| 14 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 10 |
-| 14 | [Karolina Wiącek](https://www.worldcubeassociation.org/persons/2008WIAC01) | 10 |
-| 14 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | 10 |
-| 20 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 9 |
-| 20 | [Hubert Kwasigroch](https://www.worldcubeassociation.org/persons/2014KWAS01) | 9 |
-| 20 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 9 |
-| 20 | [Marek Pepke](https://www.worldcubeassociation.org/persons/2008PEPK01) | 9 |
-| 20 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 9 |
-| 20 | [Oskar Kaczmarek](https://www.worldcubeassociation.org/persons/2013KACZ01) | 9 |
-| 20 | [Patrycja Michalska](https://www.worldcubeassociation.org/persons/2013MICH02) | 9 |
-| 20 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 9 |
-| 20 | [Paweł Włoszek](https://www.worldcubeassociation.org/persons/2006WLOS01) | 9 |
-| 20 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 9 |
-| 20 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | 9 |
-| 20 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 9 |
-| 20 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 9 |
-
 ### Warszawska Liga Speedcuberów
 _Total competitions: 9_
 
@@ -266,33 +228,6 @@ _Total competitions: 24_
 | 19 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 13 |
 | 19 | [Marek Dojtrowski](https://www.worldcubeassociation.org/persons/2023DOJT01) | 13 |
 | 19 | [Tomasz Szubert](https://www.worldcubeassociation.org/persons/2022SZUB02) | 13 |
-
-### Polish Open
-_Total competitions: 14_
-
-| Position | Person | Competitions |
-| ---: | :--- | ---: |
-| 1 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 11 |
-| 1 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 11 |
-| 3 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 10 |
-| 4 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 9 |
-| 5 | [Paweł Włoszek](https://www.worldcubeassociation.org/persons/2006WLOS01) | 8 |
-| 6 | [Adam Joks](https://www.worldcubeassociation.org/persons/2005JOKS01) | 7 |
-| 6 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | 7 |
-| 6 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | 7 |
-| 6 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) | 7 |
-| 10 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 6 |
-| 10 | [István Kocza](https://www.worldcubeassociation.org/persons/2005KOCZ01) | 6 |
-| 10 | [Kamil Pawlak](https://www.worldcubeassociation.org/persons/2006PAWL01) | 6 |
-| 10 | [Krzysztof Szwarc](https://www.worldcubeassociation.org/persons/2006SZWA01) | 6 |
-| 10 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) | 6 |
-| 10 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | 6 |
-| 10 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 6 |
-| 10 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) | 6 |
-| 10 | [Piotr Frankowski](https://www.worldcubeassociation.org/persons/2006FRAN01) | 6 |
-| 10 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) | 6 |
-| 10 | [Rafał Studnicki](https://www.worldcubeassociation.org/persons/2005STUD01) | 6 |
-| 10 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 6 |
 
 ### Szansa Cubing Open
 _Total competitions: 5_

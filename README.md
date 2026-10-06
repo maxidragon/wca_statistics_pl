@@ -73,6 +73,7 @@ All statistics are computed only for competitors from Poland/Polish competitions
 - [Most attended competitions in a single month (unique)](most_attended_competitions_in_single_month_unique)
 - [Most attended competitions in a single week](most_attended_competitions_in_single_week)
 - [Most bookmarks compared to competitor limit](most_bookmarks)
+- [Most championships attended](most_championships_attended)
 - [Most common delegate teams in Poland](most_common_delegates_team)
 - [Most competitions abroad](most_competitions_abroad)
 - [Most competitions before winning](most_competitions_before_winning)

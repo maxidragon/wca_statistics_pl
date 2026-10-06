@@ -10,7 +10,6 @@ class MostAttendedCompetitionsInSeries < GroupedStatistic
     "Dragon Cubing" => ["dragoncubing"],
     "Sądecka Liga Speedcubingu" => ["sls"],
     "Warszawska Liga Speedcuberów" => ["wls"],
-    "Krakowska Liga Speedcubingu" => ["kls"],
     "Cube Factory" => ["cubefactory", "cfgoes", "cfgs", "cfsideways", "cfclausrace"],
     "Cube Factory League" => ["cfl", "cubefactoryleague"],
     "Szansa Cubing Open" => ["szansa"],

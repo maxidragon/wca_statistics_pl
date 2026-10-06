@@ -12,8 +12,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          # We need the previous commit to determine which stats source changed
-          fetch-depth: 2
+          # We need the commits from the whole push to determine which stats source changed
+          fetch-depth: 0
       - name: Activate MySQL # as per https://github.com/actions/virtual-environments/blob/main/images/linux/Ubuntu2004-README.md#mysql
         run: sudo systemctl start mysql.service
       - name: Free disk space
@@ -27,6 +27,8 @@ jobs:
           bundler-cache: true
       - name: Build pages
         run: bin/ci.sh
+        env:
+          GITHUB_BEFORE_SHA: ${{ github.event.before }}
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:

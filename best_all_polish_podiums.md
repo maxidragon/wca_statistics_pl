@@ -1,7 +1,7 @@
 ## Best all-Polish podiums
 
 *Note: Podiums at any competition where all three podium places were taken by people representing Poland. Podium places with sum of best or average times depending on format.*
-*Updated on  4 October 2026*
+*Updated on  7 October 2026*
 
 
 ### 3x3x3 Cube
@@ -76,8 +76,8 @@
 | [Cube4fun in Bełchatów 2024](https://www.worldcubeassociation.org/competitions/Cube4funinBelchatow2024) | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) (1:18.06), [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) (1:34.70), [Adam Łyskawa](https://www.worldcubeassociation.org/persons/2017LYSK01) (1:36.01) | 4:28.77 |
 | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023) | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) (1:13.48), [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) (1:37.65), [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) (1:37.82) | 4:28.95 |
 | [Puck Open 2026](https://www.worldcubeassociation.org/competitions/PuckOpen2026) | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) (1:27.99), [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) (1:31.30), [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) (1:31.40) | 4:30.69 |
+| [Chorzów Cubing Days 2026](https://www.worldcubeassociation.org/competitions/ChorzowCubingDays2026) | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) (1:29.66), [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) (1:32.22), [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) (1:35.04) | 4:36.92 |
 | [Żmigród Open 2023](https://www.worldcubeassociation.org/competitions/ZmigrodOpen2023) | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) (1:22.31), [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) (1:32.55), [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) (1:43.66) | 4:38.52 |
-| [Polish Open 2025](https://www.worldcubeassociation.org/competitions/PolishOpen2025) | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) (1:31.69), [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) (1:31.78), [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) (1:35.27) | 4:38.74 |
 
 ### 7x7x7 Cube
 
@@ -162,13 +162,14 @@
 | [Gift Packs Niepołomice 2025](https://www.worldcubeassociation.org/competitions/GiftPacksNiepolomice2025) | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) (8.53), [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) (9.26), [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) (12.59) | 30.38 |
 | [Cube4fun Tylmanowa Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaWinter2026) | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) (8.60), [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) (9.82), [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) (12.01) | 30.43 |
 | [Cubing Mine Rybnik IV 2026](https://www.worldcubeassociation.org/competitions/CubingMineRybnikIV2026) | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) (8.90), [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) (9.83), [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) (12.00) | 30.73 |
-| [Dragon Cubing XI 2025](https://www.worldcubeassociation.org/competitions/DragonCubingXI2025) | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) (9.25), [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) (9.89), [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) (11.66) | 30.80 |
 | [Mielec Cubing Days 2026](https://www.worldcubeassociation.org/competitions/MielecCubingDays2026) | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) (9.19), [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) (10.39), [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) (11.22) | 30.80 |
+| [Dragon Cubing XI 2025](https://www.worldcubeassociation.org/competitions/DragonCubingXI2025) | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) (9.25), [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) (9.89), [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) (11.66) | 30.80 |
 
 ### Megaminx
 
 | Competition | Podium | Total |
 | :--- | :--- | ---: |
+| [Chorzów Cubing Days 2026](https://www.worldcubeassociation.org/competitions/ChorzowCubingDays2026) | [Wiktor Gugulski](https://www.worldcubeassociation.org/persons/2023GUGU01) (30.11), [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) (30.90), [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) (31.79) | 1:32.80 |
 | [Beskidy Cubing Days 2026](https://www.worldcubeassociation.org/competitions/BeskidyCubingDays2026) | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) (31.35), [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) (31.38), [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) (32.23) | 1:34.96 |
 | [Żory Open 2026](https://www.worldcubeassociation.org/competitions/ZoryOpen2026) | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) (32.21), [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) (32.38), [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) (32.63) | 1:37.22 |
 | [Mysłowice Cubing Spring 2026](https://www.worldcubeassociation.org/competitions/MyslowiceCubingSpring2026) | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) (31.43), [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) (32.71), [Wiktor Gugulski](https://www.worldcubeassociation.org/persons/2023GUGU01) (33.33) | 1:37.47 |
@@ -178,7 +179,6 @@
 | [Silesia Cubing Days 2026](https://www.worldcubeassociation.org/competitions/SilesiaCubingDays2026) | [Wiktor Gugulski](https://www.worldcubeassociation.org/persons/2023GUGU01) (31.10), [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) (32.55), [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) (34.38) | 1:38.03 |
 | [Mielec Cubing Days 2026](https://www.worldcubeassociation.org/competitions/MielecCubingDays2026) | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) (32.19), [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) (33.38), [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) (33.75) | 1:39.32 |
 | [Beskidy Side Days 2024](https://www.worldcubeassociation.org/competitions/BeskidySideDays2024) | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) (31.89), [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) (32.92), [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) (35.07) | 1:39.88 |
-| [Dragon Cubing X 2025](https://www.worldcubeassociation.org/competitions/DragonCubingX2025) | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) (32.25), [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) (33.08), [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) (34.74) | 1:40.07 |
 
 ### Pyraminx
 

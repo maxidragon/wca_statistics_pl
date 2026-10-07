@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on  4 October 2026*
+*Updated on  7 October 2026*
 
 
 ### 3x3x3 Blindfolded
@@ -10,21 +10,21 @@
 | 43 | [Szymon Gabara](https://www.worldcubeassociation.org/persons/2023GABA01) |
 | 36 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) |
 | 36 | [Joanna Kierznikiewicz](https://www.worldcubeassociation.org/persons/2022KIER01) |
-| 34 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |
 | 34 | [Robert Cegiel](https://www.worldcubeassociation.org/persons/2017CEGI01) |
+| 34 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |
 | 33 | [Mateusz Kotwica](https://www.worldcubeassociation.org/persons/2016KOTW01) |
 | 29 | [Aron Kasprowicz](https://www.worldcubeassociation.org/persons/2022KASP07) |
 | 26 | [Ignacy Buczek](https://www.worldcubeassociation.org/persons/2013BUCZ01) |
 | 24 | [Łukasz Owczarek](https://www.worldcubeassociation.org/persons/2022OWCZ02) |
-| 23 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) |
 | 23 | [Hubert Darłak](https://www.worldcubeassociation.org/persons/2023DARL03) |
+| 23 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) |
 | 22 | [Jakub Cabaj](https://www.worldcubeassociation.org/persons/2008CABA03) |
-| 20 | [Łukasz Gębicz](https://www.worldcubeassociation.org/persons/2013GBIC01) |
 | 20 | [Maciej Kowalik](https://www.worldcubeassociation.org/persons/2024KOWA11) |
+| 20 | [Łukasz Gębicz](https://www.worldcubeassociation.org/persons/2013GBIC01) |
 | 20 | [Kamil Pawlak](https://www.worldcubeassociation.org/persons/2006PAWL01) |
 | 19 | [Sebastian Kowalewski](https://www.worldcubeassociation.org/persons/2013KOWA01) |
-| 19 | [Adam Gottscholl](https://www.worldcubeassociation.org/persons/2013GOTT01) |
 | 19 | [Michał Tomański](https://www.worldcubeassociation.org/persons/2009TOMA01) |
+| 19 | [Adam Gottscholl](https://www.worldcubeassociation.org/persons/2013GOTT01) |
 | 18 | [Mateusz Bednarczyk](https://www.worldcubeassociation.org/persons/2018BEDN03) |
 | 17 | [Joachim Rogal](https://www.worldcubeassociation.org/persons/2022ROGA02) |
 
@@ -89,17 +89,17 @@
 | 8 | [Marta Radziwanowska](https://www.worldcubeassociation.org/persons/2022RADZ01) |
 | 7 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 6 | [Dominik Unijewski](https://www.worldcubeassociation.org/persons/2017UNIJ01) |
-| 6 | [Łukasz Stępień](https://www.worldcubeassociation.org/persons/2018STEP04) |
-| 6 | [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) |
 | 6 | [Piotr Gałczyk](https://www.worldcubeassociation.org/persons/2014GACZ03) |
+| 6 | [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) |
+| 6 | [Łukasz Stępień](https://www.worldcubeassociation.org/persons/2018STEP04) |
 | 5 | [Kacper Kuźniak](https://www.worldcubeassociation.org/persons/2018KUZN11) |
+| 5 | [Kamil Pomietło](https://www.worldcubeassociation.org/persons/2013POMI01) |
 | 5 | [Michał Mlostek](https://www.worldcubeassociation.org/persons/2015MLOS01) |
 | 5 | [Darek Antokolski](https://www.worldcubeassociation.org/persons/2010ANTO02) |
-| 5 | [Kamil Pomietło](https://www.worldcubeassociation.org/persons/2013POMI01) |
-| 4 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
 | 4 | [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) |
-| 4 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
+| 4 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
 | 4 | [Joanna Hołdakowska](https://www.worldcubeassociation.org/persons/2016HOLD04) |
+| 4 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 4 | [Tomasz Stawowy](https://www.worldcubeassociation.org/persons/2021STAW01) |
 | 4 | [Igor Wojciech Wawrzynski](https://www.worldcubeassociation.org/persons/2019WAWR01) |
 

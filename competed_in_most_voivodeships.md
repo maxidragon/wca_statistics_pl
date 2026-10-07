@@ -1,7 +1,7 @@
 ## Competed in most voivodeships in Poland
 
 *Note: Voivodeships are inferred from competition coordinates. Approximate bounding box classification.*
-*Updated on  4 October 2026*
+*Updated on  7 October 2026*
 
 | Person | Completed | Missed | Missed Voivodeships | Completed At |
 | :--- | ---: | ---: | :--- | :--- |
@@ -60,6 +60,7 @@
 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 13 | 3 | lubuskie, opolskie, warmińsko-mazurskie |  |
 | [Stanisław Dąbrowski](https://www.worldcubeassociation.org/persons/2016DABR03) | 13 | 3 | lubuskie, podkarpackie, zachodniopomorskie |  |
 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) | 13 | 3 | dolnośląskie, podkarpackie, podlaskie |  |
+| [Szymon Jaworski](https://www.worldcubeassociation.org/persons/2021JAWO01) | 13 | 3 | lubuskie, zachodniopomorskie, świętokrzyskie |  |
 | [Tomasz Szubert](https://www.worldcubeassociation.org/persons/2022SZUB02) | 13 | 3 | lubuskie, podlaskie, świętokrzyskie |  |
 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 13 | 3 | lubuskie, opolskie, warmińsko-mazurskie |  |
 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | 12 | 4 | lubuskie, opolskie, podlaskie, świętokrzyskie |  |
@@ -92,7 +93,6 @@
 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) | 12 | 4 | lubuskie, warmińsko-mazurskie, zachodniopomorskie, świętokrzyskie |  |
 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) | 12 | 4 | kujawsko-pomorskie, lubuskie, podlaskie, warmińsko-mazurskie |  |
 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | 12 | 4 | dolnośląskie, lubuskie, warmińsko-mazurskie, zachodniopomorskie |  |
-| [Szymon Jaworski](https://www.worldcubeassociation.org/persons/2021JAWO01) | 12 | 4 | kujawsko-pomorskie, lubuskie, zachodniopomorskie, świętokrzyskie |  |
 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) | 12 | 4 | lubuskie, podlaskie, warmińsko-mazurskie, zachodniopomorskie |  |
 | [Szymon Myśliński](https://www.worldcubeassociation.org/persons/2019MYSL01) | 12 | 4 | kujawsko-pomorskie, lubelskie, podlaskie, świętokrzyskie |  |
 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 12 | 4 | kujawsko-pomorskie, podlaskie, warmińsko-mazurskie, świętokrzyskie |  |

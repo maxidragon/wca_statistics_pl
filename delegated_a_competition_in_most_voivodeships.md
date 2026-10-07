@@ -1,7 +1,7 @@
 ## Delegated competitions in most voivodeships in Poland
 
 *Note: Voivodeships are inferred from competition coordinates (approximate bounding box). Only Polish delegates and Polish competitions with posted results are included.*
-*Updated on  4 October 2026*
+*Updated on  7 October 2026*
 
 | Delegate | Delegated | Missed | Missed Voivodeships | Completed At |
 | :--- | ---: | ---: | :--- | :--- |
@@ -26,6 +26,10 @@
 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 6 | 10 | dolnośląskie, kujawsko-pomorskie, lubelskie, lubuskie, podkarpackie, podlaskie, warmińsko-mazurskie, wielkopolskie, zachodniopomorskie, świętokrzyskie |  |
 | [Adam Joks](https://www.worldcubeassociation.org/persons/2005JOKS01) | 5 | 11 | lubelskie, lubuskie, małopolskie, opolskie, podkarpackie, podlaskie, warmińsko-mazurskie, zachodniopomorskie, łódzkie, śląskie, świętokrzyskie |  |
 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) | 4 | 12 | dolnośląskie, lubuskie, mazowieckie, małopolskie, opolskie, podkarpackie, podlaskie, warmińsko-mazurskie, wielkopolskie, zachodniopomorskie, łódzkie, świętokrzyskie |  |
+| [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 1 | 15 | dolnośląskie, kujawsko-pomorskie, lubelskie, lubuskie, mazowieckie, małopolskie, opolskie, podkarpackie, podlaskie, pomorskie, warmińsko-mazurskie, wielkopolskie, zachodniopomorskie, łódzkie, świętokrzyskie |  |
+| [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) | 1 | 15 | dolnośląskie, kujawsko-pomorskie, lubelskie, lubuskie, małopolskie, opolskie, podkarpackie, podlaskie, pomorskie, warmińsko-mazurskie, wielkopolskie, zachodniopomorskie, łódzkie, śląskie, świętokrzyskie |  |
+| [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) | 1 | 15 | dolnośląskie, lubelskie, lubuskie, mazowieckie, małopolskie, opolskie, podkarpackie, podlaskie, pomorskie, warmińsko-mazurskie, wielkopolskie, zachodniopomorskie, łódzkie, śląskie, świętokrzyskie |  |
+| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 1 | 15 | dolnośląskie, kujawsko-pomorskie, lubelskie, lubuskie, małopolskie, opolskie, podkarpackie, podlaskie, pomorskie, warmińsko-mazurskie, wielkopolskie, zachodniopomorskie, łódzkie, śląskie, świętokrzyskie |  |
 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 1 | 15 | dolnośląskie, kujawsko-pomorskie, lubelskie, lubuskie, mazowieckie, małopolskie, opolskie, podkarpackie, podlaskie, pomorskie, warmińsko-mazurskie, wielkopolskie, zachodniopomorskie, łódzkie, świętokrzyskie |  |
 
 

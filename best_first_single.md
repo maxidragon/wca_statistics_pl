@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on  4 October 2026*
+*Updated on  7 October 2026*
 
 
 ### 3x3x3 Cube
@@ -32,7 +32,7 @@
 | 2.38 | [Gabriel Kopciuch](https://www.worldcubeassociation.org/persons/2023KOPC01) |
 | 2.41 | [Wiktoria Kulesz](https://www.worldcubeassociation.org/persons/2022KULE02) |
 | 2.67 | [Mateusz Łaziński](https://www.worldcubeassociation.org/persons/2022LAZI02) |
-| 2.69 | [Andrzej Moskal](https://www.worldcubeassociation.org/persons/2022MOSK01) |
+| 2.69 | [Jakub Żogała](https://www.worldcubeassociation.org/persons/2021ZOGA01) |
 
 ### 4x4x4 Cube
 
@@ -177,8 +177,8 @@
 | 5.73 | [Victor Kiziukiewicz](https://www.worldcubeassociation.org/persons/2023KIZI01) |
 | 5.81 | [Jakub Dolata](https://www.worldcubeassociation.org/persons/2020DOLA01) |
 | 6.24 | [Szymon Plesniak](https://www.worldcubeassociation.org/persons/2024PLES01) |
-| 6.30 | [Bartosz Miduch](https://www.worldcubeassociation.org/persons/2019MIDU01) |
 | 6.30 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
+| 6.30 | [Bartosz Miduch](https://www.worldcubeassociation.org/persons/2019MIDU01) |
 | 6.67 | [Łukasz Owczarek](https://www.worldcubeassociation.org/persons/2022OWCZ02) |
 | 6.75 | [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) |
 | 6.75 | [Łukasz Kamiński](https://www.worldcubeassociation.org/persons/2023KAMI07) |

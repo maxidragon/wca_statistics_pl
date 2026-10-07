@@ -1,7 +1,7 @@
 ## Most championships attended
 
 *Note: Only results achieved while representing Poland are included. Eligible championships are those whose title the competitor could win: World, European and Polish Championships. A competition that is a championship of several types counts once in the total, but in every breakdown column it belongs to. Up to the top 20 positions are listed for each category, so ties may add more rows.*
-*Updated on  4 October 2026*
+*Updated on  7 October 2026*
 
 
 ### All championships

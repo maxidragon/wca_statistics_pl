@@ -1,7 +1,7 @@
 ## Worst result providing a win by year at Polish competitions
 
 *Note: Only finals at competitions held in Poland are taken into account, regardless of the winners' countries. Results where the main statistic is DNF are ignored. Each year is considered separately.*
-*Updated on  4 October 2026*
+*Updated on  7 October 2026*
 
 
 ### 2026
@@ -218,6 +218,7 @@
 | :--- | ---: | ---: | :--- |
 | [Antoni Polityło](https://www.worldcubeassociation.org/persons/2023POLI06) | 10.52 | **12.50** | [Baltic Skewb Fest Gdańsk 2026](https://www.worldcubeassociation.org/competitions/BalticSkewbFestGdansk2026/results/podiums#esq1) |
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 6.88 | **11.21** | [WIW at Opole 2026](https://www.worldcubeassociation.org/competitions/WIWatOpole2026/results/podiums#esq1) |
+| [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 6.78 | **8.66** | [Chorzów Cubing Days 2026](https://www.worldcubeassociation.org/competitions/ChorzowCubingDays2026/results/podiums#esq1) |
 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) | 5.79 | **8.65** | [Jasło Cubing Days 2026](https://www.worldcubeassociation.org/competitions/JasloCubingDays2026/results/podiums#esq1) |
 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 7.86 | **8.46** | [Silesian Minx Fest 2026](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2026/results/podiums#esq1) |
 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 7.06 | **8.32** | [BrizZon Side Open II 2026](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenII2026/results/podiums#esq1) |
@@ -225,7 +226,6 @@
 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) | 5.93 | **8.15** | [Warm Up Niepołomice 2026](https://www.worldcubeassociation.org/competitions/WarmUpNiepolomice2026/results/podiums#esq1) |
 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 6.53 | **7.74** | [BrizZon Side Open IV 2026](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenIV2026/results/podiums#esq1) |
 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) | 5.84 | **7.68** | [Nagawczyna Side Open 2026](https://www.worldcubeassociation.org/competitions/NagawczynaSideOpen2026/results/podiums#esq1) |
-| [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 6.80 | **7.66** | [BrizZon Side Open 2026](https://www.worldcubeassociation.org/competitions/BrizZonSideOpen2026/results/podiums#esq1) |
 
 #### 4x4x4 Blindfolded
 

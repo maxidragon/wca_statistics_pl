@@ -1,11 +1,11 @@
 ## Most competitions abroad
 
-*Updated on  4 October 2026*
+*Updated on  7 October 2026*
 
 | Competitions | Person |
 | ---: | :--- |
-| 128 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
-| 81 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
+| 129 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 83 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 54 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 43 | [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) |
 | 36 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |

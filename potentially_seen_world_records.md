@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on  4 October 2026*
+*Updated on  7 October 2026*
 
 | WRs | Person |
 | ---: | :--- |
@@ -16,11 +16,11 @@
 | 71 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) |
 | 70 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
 | 61 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) |
+| 60 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 59 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 57 | [Piotr Frankowski](https://www.worldcubeassociation.org/persons/2006FRAN01) |
 | 56 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) |
 | 56 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
-| 55 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 54 | [Michał Robaczyk](https://www.worldcubeassociation.org/persons/2006ROBA01) |
 | 52 | [Rafał Studnicki](https://www.worldcubeassociation.org/persons/2005STUD01) |
 | 52 | [Kamil Pawlak](https://www.worldcubeassociation.org/persons/2006PAWL01) |

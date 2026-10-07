@@ -1,6 +1,6 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Updated on  4 October 2026*
+*Updated on  7 October 2026*
 
 | Person | Years |
 | :--- | ---: |
@@ -47,8 +47,8 @@
 | [Fryderyk Janiak](https://www.worldcubeassociation.org/persons/2016JANI03) | 5.50 |
 | [Maksymilian Piskorowski](https://www.worldcubeassociation.org/persons/2017PISK01) | 5.48 |
 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 5.48 |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 5.42 |
 | [Piotr Kogut](https://www.worldcubeassociation.org/persons/2016KOGU01) | 5.42 |
+| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 5.42 |
 | [Mikołaj Zubowicz](https://www.worldcubeassociation.org/persons/2015ZUBO01) | 5.40 |
 | [Szymon Juroszek](https://www.worldcubeassociation.org/persons/2017JURO01) | 5.35 |
 | [Mateusz Gabzdyl](https://www.worldcubeassociation.org/persons/2018GABZ01) | 5.29 |
@@ -76,8 +76,8 @@
 | [Adam Pietrzak](https://www.worldcubeassociation.org/persons/2018PIET03) | 4.52 |
 | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) | 4.49 |
 | [Maciej Wróblewski](https://www.worldcubeassociation.org/persons/2015WROB01) | 4.45 |
-| [Maciej Hebel](https://www.worldcubeassociation.org/persons/2019HEBE01) | 4.42 |
 | [Bartłomiej Maślanka](https://www.worldcubeassociation.org/persons/2019MASL02) | 4.42 |
+| [Maciej Hebel](https://www.worldcubeassociation.org/persons/2019HEBE01) | 4.42 |
 | [Felix Lewicki](https://www.worldcubeassociation.org/persons/2021LEWI03) | 4.39 |
 | [Krzysztof Grabowski](https://www.worldcubeassociation.org/persons/2021GRAB01) | 4.36 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 4.35 |

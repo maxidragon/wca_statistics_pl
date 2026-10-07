@@ -1,6 +1,6 @@
 ## Average results submission time by Polish delegates each year
 
-*Updated on  4 October 2026*
+*Updated on  7 October 2026*
 
 
 ### 2026
@@ -8,14 +8,18 @@
 | Delegate | Average time | Total delegated |
 | ---: | :--- | ---: |
 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | -0.46h | 10 |
-| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | -0.24h | 26 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 1.33h | 35 |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 1.60h | 26 |
+| [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) | -0.30h | 1 |
+| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 0.30h | 27 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 1.28h | 36 |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 1.65h | 27 |
+| [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 2.85h | 1 |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 3.06h | 1 |
 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 7.42h | 1 |
-| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 11.90h | 15 |
+| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 11.14h | 16 |
+| [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) | 14.36h | 1 |
+| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 14.36h | 1 |
 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 19.06h | 13 |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 1d 3.52h | 17 |
+| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 1d 1.98h | 18 |
 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 2d 5.72h | 12 |
 
 ### 2025
@@ -75,8 +79,8 @@
 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 4d 13.11h | 2 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 4d 23.12h | 10 |
 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) | 6d 2.03h | 3 |
-| [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 6d 6.51h | 1 |
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 6d 6.51h | 1 |
+| [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 6d 6.51h | 1 |
 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) | 6d 8.74h | 6 |
 
 ### 2020
@@ -108,11 +112,35 @@
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 7d 11.09h | 14 |
 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) | 7d 12.95h | 13 |
 
+### 2017
+
+| Delegate | Average time | Total delegated |
+| ---: | :--- | ---: |
+| [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 3d 11.31h | 8 |
+| [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 6d 18.71h | 6 |
+
+### 2016
+
+| Delegate | Average time | Total delegated |
+| ---: | :--- | ---: |
+| [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 2d 10.04h | 4 |
+| [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 2d 10.31h | 12 |
+| [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 3d 5.64h | 6 |
+
+### 2015
+
+| Delegate | Average time | Total delegated |
+| ---: | :--- | ---: |
+| [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 18.22h | 4 |
+| [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 3d 17.37h | 7 |
+| [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 3d 17.37h | 5 |
+| [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 4d 14.42h | 8 |
+
 ### 2014
 
 | Delegate | Average time | Total delegated |
 | ---: | :--- | ---: |
-| [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 3d 21.10h | 14 |
+| [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 4d 1.49h | 14 |
 
 ### 2013
 

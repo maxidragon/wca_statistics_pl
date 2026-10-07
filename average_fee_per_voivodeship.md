@@ -1,29 +1,29 @@
 ## Average registration fee per voivodeship
 
 *Note: Voivodeship is inferred from competition coordinates (approximate bounding box). Only PLN competitions are included.*
-*Updated on  4 October 2026*
+*Updated on  7 October 2026*
 
 
 ### 2026
 
 | Voivodeship | Avg Fee | Competitions |
 | :--- | ---: | ---: |
-| Kujawsko-Pomorskie | 89.00 PLN | 1 |
 | Lubelskie | 89.00 PLN | 5 |
 | Lubuskie | 85.00 PLN | 1 |
+| Kujawsko-Pomorskie | 84.50 PLN | 2 |
 | Łódzkie | 81.73 PLN | 11 |
 | Świętokrzyskie | 80.00 PLN | 1 |
 | Pomorskie | 76.50 PLN | 10 |
 | Małopolskie | 72.25 PLN | 4 |
 | Zachodniopomorskie | 71.67 PLN | 3 |
-| Śląskie | 71.25 PLN | 8 |
+| Śląskie | 70.00 PLN | 9 |
 | Podlaskie | 70.00 PLN | 2 |
 | Warmińsko-Mazurskie | 67.50 PLN | 2 |
 | Dolnośląskie | 66.67 PLN | 3 |
 | Podkarpackie | 61.56 PLN | 9 |
 | Opolskie | 60.00 PLN | 2 |
 | Wielkopolskie | 59.44 PLN | 9 |
-| Mazowieckie | 40.27 PLN | 11 |
+| Mazowieckie | 44.83 PLN | 12 |
 
 ### 2025
 

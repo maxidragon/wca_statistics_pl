@@ -1,22 +1,28 @@
 ## Average results submission time by Polish delegates
 
-*Updated on  4 October 2026*
+*Updated on  7 October 2026*
 
 | Delegate | Average time | Total delegated |
 | ---: | :--- | ---: |
-| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 0.20h | 54 |
+| [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) | -0.30h | 1 |
+| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 0.46h | 55 |
+| [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 2.85h | 1 |
 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 7.42h | 1 |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 12.68h | 136 |
-| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 16.25h | 42 |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 12.61h | 137 |
+| [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) | 14.36h | 1 |
+| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 14.36h | 1 |
+| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 15.86h | 43 |
+| [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 18.22h | 17 |
 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 20.52h | 35 |
 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 23.73h | 64 |
 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) | 1d 13.27h | 6 |
 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 1d 15.63h | 28 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 1d 20.71h | 203 |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 1d 22.91h | 137 |
-| [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 2d 16.03h | 66 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 1d 20.49h | 204 |
+| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 1d 22.57h | 138 |
+| [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 2d 19.71h | 66 |
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 2d 19.84h | 72 |
-| [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 4d 16.16h | 76 |
+| [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 3d 1.70h | 18 |
+| [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 4d 0.39h | 76 |
 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) | 5d 19.53h | 28 |
 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) | 6d 14.13h | 29 |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 7d 11.09h | 20 |

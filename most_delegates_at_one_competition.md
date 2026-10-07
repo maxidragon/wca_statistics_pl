@@ -1,7 +1,7 @@
 ## Most delegates at one competition
 
 *Note: Only Polish competitions with posted results are included. Listed delegates are taken from the competition's delegate list. An unlisted delegate is a competitor who was not listed and whose RolesMetadataDelegateRegions role was active during at least one day of the competition. Because some historical role dates were not backfilled, a role starting on 1 August 2004 is treated as starting at the delegate's earliest listed competition instead.*
-*Updated on  4 October 2026*
+*Updated on  7 October 2026*
 
 
 ### Listed delegates only
@@ -45,6 +45,7 @@
 | 4 | [Cube Factory League Kalisz 2026](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueKalisz2026) | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01), [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01), [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 4 | [CFL Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFLBrzeziny2026) | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01), [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01), [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 4 | [BrizZon Side Open IV 2026](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenIV2026) | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01), [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01), [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 4 | [Honey Cube Barcin 2026](https://www.worldcubeassociation.org/competitions/HoneyCubeBarcin2026) | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01), [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 3 | [Warsaw Cube Masters 2015](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2015) | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01), [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01), [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) |
 | 3 | [Polish Nationals 2017](https://www.worldcubeassociation.org/competitions/PolishNationals2017) | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01), [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01), [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) |
 | 3 | [Cubers Eve Lubartów 2021](https://www.worldcubeassociation.org/competitions/CubersEveLubartow2021) | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01), [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01), [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) |
@@ -57,7 +58,6 @@
 | 3 | [Szczecin Open 2022](https://www.worldcubeassociation.org/competitions/SzczecinOpen2022) | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01), [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 3 | [Lake Cubing Szczecinek 2022](https://www.worldcubeassociation.org/competitions/LakeCubingSzczecinek2022) | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01), [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01), [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 3 | [Cubing Rising Stars Olesno 2022](https://www.worldcubeassociation.org/competitions/CubingRisingStarsOlesno2022) | [Emma Beranová](https://www.worldcubeassociation.org/persons/2019BERA01), [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01), [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
-| 3 | [Elektryk Cube Race 2022](https://www.worldcubeassociation.org/competitions/ElektrykCubeRace2022) | [Emma Beranová](https://www.worldcubeassociation.org/persons/2019BERA01), [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01), [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 
 ### Unlisted delegates only
 

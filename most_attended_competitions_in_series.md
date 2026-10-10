@@ -1,7 +1,7 @@
 ## Most attended competitions in a series
 
 *Note: Only Polish competitions with posted results are included. Up to the top 20 positions are listed for each series, so ties may add more rows.*
-*Updated on  7 October 2026*
+*Updated on 10 October 2026*
 
 
 ### BrizZon

@@ -12,7 +12,6 @@
 | [Karol Celmer](https://www.worldcubeassociation.org/persons/2011CELM01) | 26.32 | 21.10 | 1.25 |
 | [Igor Kowalczyk](https://www.worldcubeassociation.org/persons/2013KOWA04) | 12.41 | 9.86 | 1.26 |
 | [Adam Gajda](https://www.worldcubeassociation.org/persons/2014GAJD03) | 16.68 | 13.09 | 1.27 |
-| [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 8.95 | 7.00 | 1.28 |
 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | 8.57 | 6.67 | 1.29 |
 | [Paweł Demjankowski](https://www.worldcubeassociation.org/persons/2009DEMJ01) | 28.14 | 21.56 | 1.31 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 9.82 | 7.44 | 1.32 |
@@ -24,6 +23,7 @@
 | [Krzysztof Żerucha](https://www.worldcubeassociation.org/persons/2008ZERU01) | 15.17 | 11.08 | 1.37 |
 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) | 18.33 | 13.26 | 1.38 |
 | [Monika Gondorowicz](https://www.worldcubeassociation.org/persons/2014GOND02) | 21.91 | 15.82 | 1.39 |
+| [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 8.95 | 6.40 | 1.40 |
 | [Maciej Jagiełło](https://www.worldcubeassociation.org/persons/2009JAGI01) | 20.66 | 14.73 | 1.40 |
 
 

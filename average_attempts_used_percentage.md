@@ -1,36 +1,36 @@
 ## Highest average percentage of available attempts used
 
 *Note: For every competition, the available attempts are the sum of the expected solve counts of all its rounds, no matter which events the competitor signed up for. The used attempts are the ones they actually started (DNFs count, DNSs and attempts lost to a cutoff do not). The percentage is the average of those per-competition ratios, while the attempt counts are totals. Competitions abroad are included. Only Polish competitors with at least 20 competitions are included.*
-*Updated on 10 October 2026*
+*Updated on 13 October 2026*
 
 | % | Person | Attempted | Available | Competitions |
 | ---: | :--- | ---: | ---: | ---: |
 | 92.62% | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 9524 | 10459 | 98 |
 | 91.81% | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 7601 | 8375 | 84 |
-| 89.17% | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 7038 | 8101 | 92 |
+| 89.28% | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 7113 | 8176 | 93 |
 | 86.99% | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | 4457 | 5170 | 51 |
 | 84.04% | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | 5898 | 7273 | 84 |
 | 83.62% | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 10920 | 13396 | 141 |
 | 83.28% | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | 4419 | 5510 | 54 |
 | 82.98% | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) | 6088 | 7454 | 82 |
-| 82.21% | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 17924 | 22456 | 225 |
+| 82.26% | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 17994 | 22531 | 226 |
 | 81.55% | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | 5601 | 6825 | 71 |
 | 80.06% | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 11049 | 13977 | 143 |
 | 79.62% | [Wojciech Piórczyński](https://www.worldcubeassociation.org/persons/2021PIOR01) | 2798 | 3821 | 52 |
-| 78.99% | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 7291 | 9481 | 89 |
+| 79.22% | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 7366 | 9556 | 90 |
 | 77.87% | [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) | 3400 | 4477 | 47 |
 | 77.82% | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 9669 | 13021 | 141 |
 | 76.88% | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | 4219 | 5577 | 55 |
 | 76.17% | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 7866 | 10552 | 114 |
+| 75.46% | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 14734 | 20404 | 229 |
 | 75.36% | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 12942 | 17801 | 196 |
-| 75.35% | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 14659 | 20329 | 228 |
 | 75.22% | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | 6253 | 8649 | 93 |
 | 75.06% | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 6158 | 8450 | 88 |
 | 74.62% | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 22564 | 32394 | 412 |
 | 74.61% | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) | 4262 | 6151 | 62 |
+| 74.56% | [Ryszard Kędziora](https://www.worldcubeassociation.org/persons/2022KEDZ01) | 2736 | 3696 | 44 |
 | 74.22% | [Antoni Polityło](https://www.worldcubeassociation.org/persons/2023POLI06) | 1245 | 1680 | 20 |
 | 74.16% | [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) | 4021 | 5648 | 58 |
-| 73.97% | [Ryszard Kędziora](https://www.worldcubeassociation.org/persons/2022KEDZ01) | 2661 | 3621 | 43 |
 | 73.96% | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 8230 | 11643 | 112 |
 | 73.46% | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 5857 | 8555 | 103 |
 | 73.14% | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | 4898 | 6895 | 70 |
@@ -39,20 +39,20 @@
 | 72.17% | [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) | 3141 | 4444 | 47 |
 | 71.93% | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 5451 | 7883 | 89 |
 | 71.93% | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 5832 | 8332 | 85 |
-| 71.83% | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 7866 | 11501 | 119 |
+| 71.64% | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 7891 | 11552 | 120 |
 | 71.45% | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) | 5646 | 8148 | 86 |
 | 71.43% | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | 6652 | 9409 | 92 |
 | 71.08% | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) | 4159 | 6132 | 64 |
 | 70.99% | [Marcin Wawiórko](https://www.worldcubeassociation.org/persons/2023WAWI01) | 2164 | 3205 | 43 |
-| 70.76% | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 13793 | 19517 | 231 |
 | 70.71% | [Jan Jędrzej Kasprzak](https://www.worldcubeassociation.org/persons/2022KASP03) | 2116 | 3154 | 33 |
 | 70.69% | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | 3469 | 5103 | 52 |
 | 70.61% | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) | 7442 | 11142 | 116 |
+| 70.59% | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 13794 | 19520 | 232 |
 | 70.20% | [Kacper Jędrzejuk](https://www.worldcubeassociation.org/persons/2019JEDR01) | 974 | 1613 | 24 |
 | 69.49% | [Ignacy Malinowski](https://www.worldcubeassociation.org/persons/2021MALI02) | 5804 | 8563 | 84 |
 | 69.42% | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) | 2930 | 4551 | 54 |
 | 69.06% | [Michał Mlostek](https://www.worldcubeassociation.org/persons/2015MLOS01) | 4743 | 7162 | 68 |
-| 68.43% | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 16870 | 25749 | 280 |
+| 68.45% | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 16925 | 25824 | 281 |
 | 68.23% | [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) | 2025 | 3129 | 35 |
 | 67.96% | [Szymon Myśliński](https://www.worldcubeassociation.org/persons/2019MYSL01) | 3387 | 5215 | 59 |
 

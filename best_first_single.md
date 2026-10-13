@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 10 October 2026*
+*Updated on 13 October 2026*
 
 
 ### 3x3x3 Cube
@@ -118,8 +118,8 @@
 | 29 | [Ignacy Malinowski](https://www.worldcubeassociation.org/persons/2021MALI02) |
 | 29 | [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) |
 | 30 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) |
-| 31 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) |
 | 31 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) |
+| 31 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) |
 | 31 | [Karol Micał](https://www.worldcubeassociation.org/persons/2022MICA03) |
 | 31 | [Witold Kordos](https://www.worldcubeassociation.org/persons/2016KORD01) |
 | 31 | [Krzysztof Boguszewski](https://www.worldcubeassociation.org/persons/2019BOGU01) |

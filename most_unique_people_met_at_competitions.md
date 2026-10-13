@@ -1,32 +1,32 @@
 ## Most unique people met at competitions
 
 *Note: Treats two people as having met when both recorded at least one result at the same competition. Co-competitors of any nationality are included and each is counted once, regardless of how many competitions they shared.*
-*Updated on 10 October 2026*
+*Updated on 13 October 2026*
 
 | People met | Competitions | Person |
 | ---: | ---: | :--- |
 | 14973 | 201 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 11250 | 398 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 11116 | 412 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
-| 9817 | 228 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
+| 9830 | 229 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 8473 | 196 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
 | 8416 | 272 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 8272 | 148 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
-| 7869 | 225 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
+| 7882 | 226 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
+| 7722 | 120 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) |
 | 7709 | 160 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) |
-| 7670 | 119 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) |
-| 7531 | 280 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
+| 7543 | 281 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 6973 | 96 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) |
 | 6613 | 146 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
-| 6435 | 231 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
+| 6490 | 232 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 6323 | 116 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) |
 | 6173 | 58 | [Joanna Dubicka](https://www.worldcubeassociation.org/persons/2018DUBI04) |
 | 6168 | 55 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) |
 | 5966 | 54 | [Arkadiusz Dubicki](https://www.worldcubeassociation.org/persons/2023DUBI01) |
-| 5935 | 203 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
+| 5939 | 204 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
 | 5923 | 82 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) |
-| 5799 | 89 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) |
-| 5738 | 92 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) |
+| 5811 | 90 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) |
+| 5744 | 93 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) |
 | 5707 | 119 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |
 | 5667 | 83 | [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) |
 | 5580 | 113 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
@@ -41,10 +41,10 @@
 | 5215 | 109 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 5189 | 91 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) |
 | 5170 | 181 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
-| 5142 | 94 | [Szymon Jaworski](https://www.worldcubeassociation.org/persons/2021JAWO01) |
+| 5149 | 95 | [Szymon Jaworski](https://www.worldcubeassociation.org/persons/2021JAWO01) |
 | 5053 | 143 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
 | 4976 | 141 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) |
-| 4953 | 129 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) |
+| 4965 | 130 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) |
 | 4910 | 151 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
 | 4840 | 71 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) |
 | 4838 | 119 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |

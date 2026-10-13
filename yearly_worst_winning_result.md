@@ -1,7 +1,7 @@
 ## Worst result providing a win by year at Polish competitions
 
 *Note: Only finals at competitions held in Poland are taken into account, regardless of the winners' countries. Results where the main statistic is DNF are ignored. Each year is considered separately.*
-*Updated on 10 October 2026*
+*Updated on 13 October 2026*
 
 
 ### 2026
@@ -195,7 +195,7 @@
 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) | 3.58 | **4.69** | [Brizzon Side Open III 2026](https://www.worldcubeassociation.org/competitions/BrizzonSideOpenIII2026/results/podiums#eclock) |
 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 4.19 | **4.67** | [WLS Styczeń 2026](https://www.worldcubeassociation.org/competitions/WLSStyczen2026/results/podiums#eclock) |
 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) | 4.12 | **4.54** | [BrizZon Side Open IV 2026](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenIV2026/results/podiums#eclock) |
-| [Vladyslav Venzyk](https://www.worldcubeassociation.org/persons/2025VENZ01) | 3.57 | **4.40** | [GSKR w Poznaniu 2026](https://www.worldcubeassociation.org/competitions/GSKRwPoznaniu2026/results/podiums#eclock) |
+| [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 2.87 | **4.43** | [Cube4fun Lublin Autumn 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinAutumn2026/results/podiums#eclock) |
 
 #### Skewb
 

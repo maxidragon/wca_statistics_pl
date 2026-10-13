@@ -1,7 +1,7 @@
 ## Longest distance between competitions on consecutive days (unique)
 
 *Note: Calculated as the direct distance between two competitions with overlapping or adjacent dates. Excludes multi-location competitions. Each person appears at most once.*
-*Updated on 10 October 2026*
+*Updated on 13 October 2026*
 
 | Person | Distance | From | To |
 | :--- | ---: | :--- | :--- |
@@ -38,7 +38,7 @@
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 226 km | [Cube4fun Cubers Eve Żyrardów 2025](https://www.worldcubeassociation.org/competitions/Cube4funZyrardow2025) (Poland) | [Dragon Cubing XI 2025](https://www.worldcubeassociation.org/competitions/DragonCubingXI2025) (Poland) |
 | [Igor Kowalczyk](https://www.worldcubeassociation.org/persons/2013KOWA04) | 225 km | [ŚLS Jastrzębie Zdrój 2017](https://www.worldcubeassociation.org/competitions/SLSJastrzebieZdroj2017) (Poland) | [Slovakian Cube Day 2017](https://www.worldcubeassociation.org/competitions/SlovakianCubeDay2017) (Slovakia) |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 225 km | [Kaunas Odd or Even 2026](https://www.worldcubeassociation.org/competitions/KaunasOddorEven2026) (Lithuania) | [MegaGame Rīga Open 2026](https://www.worldcubeassociation.org/competitions/MegaGameRigaOpen2026) (Latvia) |
-| [Antoni Szcześniak](https://www.worldcubeassociation.org/persons/2023SZCZ04) | 220 km | [Siedlce Open 2025](https://www.worldcubeassociation.org/competitions/SiedlceOpen2025) (Poland) | [Cube4fun in Bełchatów 2025](https://www.worldcubeassociation.org/competitions/Cube4funinBelchatow2025) (Poland) |
+| [Antoni Szcześniak](https://www.worldcubeassociation.org/persons/2023SZCZ04) | 220 km | [Cube4fun in Bełchatów 2025](https://www.worldcubeassociation.org/competitions/Cube4funinBelchatow2025) (Poland) | [Siedlce Open 2025](https://www.worldcubeassociation.org/competitions/SiedlceOpen2025) (Poland) |
 | [Gabriel Marczak](https://www.worldcubeassociation.org/persons/2013MARC03) | 216 km | [Wrocław FMC Masters 2019](https://www.worldcubeassociation.org/competitions/WroclawFMCMasters2019) (Poland) | [Cube Factory League Domaniewice 2019](https://www.worldcubeassociation.org/competitions/CFLDomaniewice2019) (Poland) |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 216 km | [SLS Maj 2024](https://www.worldcubeassociation.org/competitions/SLSMaj2024) (Poland) | [Cube4fun in Bełchatów 2024](https://www.worldcubeassociation.org/competitions/Cube4funinBelchatow2024) (Poland) |
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 215 km | [Big Side & Blind Olsztyn 2025](https://www.worldcubeassociation.org/competitions/BigSideBlindOlsztyn2025) (Poland) | [Cube4fun Biała Rawska Spring 2025](https://www.worldcubeassociation.org/competitions/Cube4funBialaRawska2025) (Poland) |

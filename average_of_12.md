@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 10 October 2026*
+*Updated on 13 October 2026*
 
 
 ### 3x3x3 Cube
@@ -17,7 +17,7 @@
 | 6.32 | [Szymon Musiał](https://www.worldcubeassociation.org/persons/2018MUSI03) | 5.40, 7.27, 5.46, 4.79, 5.52, 6.31, 7.42, 7.23, 6.64, 7.10, 6.23, 6.05 |
 | 6.33 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | 5.92, 6.73, 6.84, 5.11, 6.86, 5.71, 7.43, 5.49, 6.54, 8.30, 5.60, 6.21 |
 | 6.38 | [Krzysztof Bloch](https://www.worldcubeassociation.org/persons/2019BLOC02) | 6.69, 6.03, 6.06, 5.89, 6.10, 7.38, 6.76, 5.83, 6.59, 7.61, 4.96, 6.46 |
-| 6.62 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 6.23, 7.76, 7.21, 8.85, 6.02, 6.74, 6.49, 5.73, 5.94, 5.59, 7.00, 7.12 |
+| 6.40 | [Ryszard Kędziora](https://www.worldcubeassociation.org/persons/2022KEDZ01) | 7.48, 5.80, 6.31, 8.40, 5.87, 5.86, 6.55, 6.58, 6.06, 7.69, 5.60, 5.83 |
 
 ### 2x2x2 Cube
 
@@ -25,9 +25,9 @@
 | ---: | :--- | :--- |
 | 0.99 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 1.05, 0.99, 1.09, 1.00, 1.10, 1.07, 1.85, 0.66, 0.82, 0.94, 0.98, 0.87 |
 | 1.13 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 0.92, 0.98, 1.20, 0.91, 1.39, 0.90, 0.94, 0.95, 2.84, 1.68, 1.19, 1.14 |
+| 1.21 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 1.30, 1.14, 1.41, 1.24, 0.97, 2.26, 1.03, 1.49, 1.15, 1.24, 0.83, 1.17 |
 | 1.25 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1.36, 2.32, 1.45, 1.08, 1.65, 1.03, 1.45, 1.21, 1.17, 1.22, 0.75, 0.84 |
 | 1.28 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 1.63, 0.83, 1.34, 1.17, 1.53, 1.32, 1.46, 1.52, 1.33, 0.78, 1.10, 1.22 |
-| 1.28 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 1.16, 1.38, 1.39, 1.02, 1.29, 1.07, 1.64, 1.24, DNF, 1.45, 0.95, 1.13 |
 | 1.30 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | 1.40, 1.28, 1.47, 1.40, 1.47, 0.67, 2.25, 1.45, 1.30, 1.25, 0.97, 1.00 |
 | 1.38 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) | 1.59, 0.70, 1.58, 1.65, 1.62, 3.01, 1.27, 1.09, 1.17, 1.43, 1.58, 0.82 |
 | 1.40 | [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) | 1.19, 0.97, 1.29, 1.21, 1.46, 2.12, 1.09, DNF, 1.37, 1.35, 1.36, 1.56 |

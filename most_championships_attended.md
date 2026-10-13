@@ -1,7 +1,7 @@
 ## Most championships attended
 
 *Note: Only results achieved while representing Poland are included. Eligible championships are those whose title the competitor could win: World, European and Polish Championships. A competition that is a championship of several types counts once in the total, but in every breakdown column it belongs to. Up to the top 20 positions are listed for each category, so ties may add more rows.*
-*Updated on 10 October 2026*
+*Updated on 13 October 2026*
 
 
 ### All championships
@@ -13,9 +13,9 @@
 | 3 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 25 | 2 | 3 | 20 |
 | 4 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 24 | 2 | 4 | 19 |
 | 5 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | 22 | 2 | 5 | 15 |
-| 6 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 21 | 2 | 2 | 18 |
-| 6 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 21 | 2 | 4 | 16 |
-| 6 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 21 | 1 | 4 | 16 |
+| 5 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 22 | 1 | 4 | 17 |
+| 7 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 21 | 2 | 2 | 18 |
+| 7 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 21 | 2 | 4 | 16 |
 | 9 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | 19 | 4 | 4 | 14 |
 | 9 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 19 | 3 | 5 | 12 |
 | 9 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 19 | 2 | 4 | 13 |
@@ -163,8 +163,8 @@ _Total championships: 20_
 | 3 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 19 |
 | 4 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 18 |
 | 4 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 18 |
-| 6 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 16 |
-| 6 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 16 |
+| 6 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 17 |
+| 7 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 16 |
 | 8 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | 15 |
 | 9 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | 14 |
 | 9 | [Kamil Pawlak](https://www.worldcubeassociation.org/persons/2006PAWL01) | 14 |

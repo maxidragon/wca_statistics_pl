@@ -1,12 +1,12 @@
 ## Most % of competitions attended in the same voivodeship as the first competition of the competitor
 
 *Note: Counts how many Polish competitions a person attended in the same voivodeship where they had their first Polish competition. The ratio is computed against all competitions attended, including those abroad.*
-*Updated on 10 October 2026*
+*Updated on 13 October 2026*
 
 | Person | First Competition | Voivodeship | Comps in Voivodeship | Total Comps | Ratio |
 | :--- | :--- | :--- | ---: | ---: | ---: |
 | [Oskar Lewandowski](https://www.worldcubeassociation.org/persons/2013LEWA02) | [GLS Summer 2013](https://www.worldcubeassociation.org/competitions/GLSSummer2013) | Pomorskie | 30 | 30 | 100.0% |
-| [Bartosz Miduch](https://www.worldcubeassociation.org/persons/2019MIDU01) | [LLS II 2019](https://www.worldcubeassociation.org/competitions/LLSII2019) | Lubelskie | 19 | 19 | 100.0% |
+| [Bartosz Miduch](https://www.worldcubeassociation.org/persons/2019MIDU01) | [LLS II 2019](https://www.worldcubeassociation.org/competitions/LLSII2019) | Lubelskie | 20 | 20 | 100.0% |
 | [Paweł Rybak](https://www.worldcubeassociation.org/persons/2017RYBA01) | [GLS Cup V 2017](https://www.worldcubeassociation.org/competitions/GLSCupV2017) | Pomorskie | 19 | 19 | 100.0% |
 | [Malwina Szopińska](https://www.worldcubeassociation.org/persons/2017SZOP01) | [GLS Cup I 2017](https://www.worldcubeassociation.org/competitions/GLSCupI2017) | Pomorskie | 18 | 18 | 100.0% |
 | [Marcin Kupis](https://www.worldcubeassociation.org/persons/2017KUPI01) | [GLS Cup II 2017](https://www.worldcubeassociation.org/competitions/GLSCupII2017) | Pomorskie | 18 | 18 | 100.0% |
@@ -15,11 +15,11 @@
 | [Mateusz Andrzejewski](https://www.worldcubeassociation.org/persons/2013ANDR04) | [GLS Summer 2013](https://www.worldcubeassociation.org/competitions/GLSSummer2013) | Pomorskie | 17 | 17 | 100.0% |
 | [Michał Śliwiński](https://www.worldcubeassociation.org/persons/2013LIWI01) | [Polish Nationals 2013](https://www.worldcubeassociation.org/competitions/PolishNationals2013) | Śląskie | 17 | 17 | 100.0% |
 | [Paweł Kamiński](https://www.worldcubeassociation.org/persons/2016KAMI02) | [GLS Cup II 2016](https://www.worldcubeassociation.org/competitions/GLSCupII2016) | Pomorskie | 16 | 16 | 100.0% |
+| [Bartosz Kosyna](https://www.worldcubeassociation.org/persons/2024KOSY01) | [Cube4fun Double Weekend Lublin 2024](https://www.worldcubeassociation.org/competitions/Cube4funDWLublin2024) | Lubelskie | 15 | 15 | 100.0% |
 | [Franciszek Kłos](https://www.worldcubeassociation.org/persons/2021KLOS02) | [September Speedcubing Tour Rzeszów 2021](https://www.worldcubeassociation.org/competitions/SSTRzeszow2021) | Podkarpackie | 15 | 15 | 100.0% |
 | [Sergiusz Jakubczak](https://www.worldcubeassociation.org/persons/2012JAKU01) | [Warszawa Open 2012](https://www.worldcubeassociation.org/competitions/WarszawaOpen2012) | Mazowieckie | 15 | 15 | 100.0% |
 | [Adam Wita](https://www.worldcubeassociation.org/persons/2013WITA01) | [Polish Nationals 2013](https://www.worldcubeassociation.org/competitions/PolishNationals2013) | Śląskie | 14 | 14 | 100.0% |
 | [Bartosz Adamowski](https://www.worldcubeassociation.org/persons/2023ADAM01) | [GLS I 2023](https://www.worldcubeassociation.org/competitions/GLSI2023) | Pomorskie | 14 | 14 | 100.0% |
-| [Bartosz Kosyna](https://www.worldcubeassociation.org/persons/2024KOSY01) | [Cube4fun Double Weekend Lublin 2024](https://www.worldcubeassociation.org/competitions/Cube4funDWLublin2024) | Lubelskie | 14 | 14 | 100.0% |
 | [Paweł Duchnowski](https://www.worldcubeassociation.org/persons/2018DUCH02) | [GLS Cup I 2018](https://www.worldcubeassociation.org/competitions/GLSCupI2018) | Pomorskie | 14 | 14 | 100.0% |
 | [Paweł Kamiński](https://www.worldcubeassociation.org/persons/2017KAMI03) | [GLS Cup II 2017](https://www.worldcubeassociation.org/competitions/GLSCupII2017) | Pomorskie | 14 | 14 | 100.0% |
 | [Piotr Koska](https://www.worldcubeassociation.org/persons/2014KOSK01) | [Polish Open 2014](https://www.worldcubeassociation.org/competitions/PolishOpen2014) | Pomorskie | 14 | 14 | 100.0% |

@@ -1,7 +1,7 @@
 ## Most attended competitions in a city
 
 *Note: Only Polish persons and Polish competitions with posted results are included.*
-*Updated on 10 October 2026*
+*Updated on 13 October 2026*
 
 
 ### Gdańsk
@@ -113,40 +113,40 @@ _Total competitions: 51_
 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) | 14 |
 
 ### Lublin
-_Total competitions: 39_
+_Total competitions: 40_
 
 | Person | Competitions |
 | :--- | ---: |
-| [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | 37 |
+| [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | 38 |
 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | 32 |
 | [Andrzej Kwiatkowski](https://www.worldcubeassociation.org/persons/2016KWIA01) | 30 |
 | [Mikołaj Tyra](https://www.worldcubeassociation.org/persons/2016TYRA02) | 25 |
+| [Kacper Szeląg](https://www.worldcubeassociation.org/persons/2015SZEL01) | 24 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 23 |
-| [Kacper Szeląg](https://www.worldcubeassociation.org/persons/2015SZEL01) | 23 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 22 |
-| [Ryszard Kędziora](https://www.worldcubeassociation.org/persons/2022KEDZ01) | 21 |
+| [Ryszard Kędziora](https://www.worldcubeassociation.org/persons/2022KEDZ01) | 22 |
 | [Jakub Tkaczyk](https://www.worldcubeassociation.org/persons/2015TKAC02) | 21 |
+| [Konrad Leśniak](https://www.worldcubeassociation.org/persons/2014LENI02) | 19 |
 | [Wiktoria Waryszak](https://www.worldcubeassociation.org/persons/2018WARY01) | 19 |
-| [Konrad Leśniak](https://www.worldcubeassociation.org/persons/2014LENI02) | 18 |
-| [Patryk Stachyra](https://www.worldcubeassociation.org/persons/2018STAC02) | 18 |
+| [Patryk Stachyra](https://www.worldcubeassociation.org/persons/2018STAC02) | 19 |
 | [Przemysław Kruczek](https://www.worldcubeassociation.org/persons/2013KRUC01) | 18 |
+| [Łukasz Pawłowski](https://www.worldcubeassociation.org/persons/2020PAWL01) | 18 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 18 |
-| [Łukasz Pawłowski](https://www.worldcubeassociation.org/persons/2020PAWL01) | 17 |
 | [Patryk Grosiak](https://www.worldcubeassociation.org/persons/2016GROS05) | 17 |
-| [Nikodem Tomaszuk](https://www.worldcubeassociation.org/persons/2018TOMA03) | 14 |
-| [Mateusz Staniszewski](https://www.worldcubeassociation.org/persons/2018STAN03) | 14 |
+| [Mateusz Staniszewski](https://www.worldcubeassociation.org/persons/2018STAN03) | 15 |
+| [Leon Bajer](https://www.worldcubeassociation.org/persons/2023BAJE02) | 14 |
 | [Mateusz Gil](https://www.worldcubeassociation.org/persons/2013GILM01) | 14 |
-| [Leon Bajer](https://www.worldcubeassociation.org/persons/2023BAJE02) | 13 |
-| [Bartosz Kosyna](https://www.worldcubeassociation.org/persons/2024KOSY01) | 13 |
-| [Maciej Kozar](https://www.worldcubeassociation.org/persons/2021KOZA01) | 13 |
+| [Bartosz Kosyna](https://www.worldcubeassociation.org/persons/2024KOSY01) | 14 |
+| [Maciej Kozar](https://www.worldcubeassociation.org/persons/2021KOZA01) | 14 |
+| [Nikodem Tomaszuk](https://www.worldcubeassociation.org/persons/2018TOMA03) | 14 |
 | [Kamil Wroński](https://www.worldcubeassociation.org/persons/2019WRON01) | 13 |
+| [Bartosz Miduch](https://www.worldcubeassociation.org/persons/2019MIDU01) | 13 |
 | [Wojciech Papliński](https://www.worldcubeassociation.org/persons/2018PAPL01) | 13 |
 | [Piotr Nieczypor](https://www.worldcubeassociation.org/persons/2024NIEC01) | 13 |
-| [Dawid Kowalczyk](https://www.worldcubeassociation.org/persons/2023KOWA07) | 12 |
-| [Krystian Załuski](https://www.worldcubeassociation.org/persons/2014ZAUS01) | 12 |
-| [Jakub Brzeziński](https://www.worldcubeassociation.org/persons/2018BRZE01) | 12 |
 | [Tomasz Waryszak](https://www.worldcubeassociation.org/persons/2017WARY01) | 12 |
-| [Bartosz Miduch](https://www.worldcubeassociation.org/persons/2019MIDU01) | 12 |
+| [Wojciech Weremczuk](https://www.worldcubeassociation.org/persons/2014WERE01) | 12 |
+| [Dawid Kowalczyk](https://www.worldcubeassociation.org/persons/2023KOWA07) | 12 |
+| [Dawid Mazurek](https://www.worldcubeassociation.org/persons/2018MAZU08) | 12 |
 
 ### Kraków
 _Total competitions: 17_

@@ -1,7 +1,7 @@
 ## Most consecutive weeks with a delegated competition
 
 *Note: Only includes delegates from Poland. Weeks are counted as ISO weeks (Monday-Sunday). Multiple competitions in the same week count as one.*
-*Updated on 10 October 2026*
+*Updated on 13 October 2026*
 
 | Count | Person | Start comp | End comp |
 | ---: | :--- | :--- | :--- |
@@ -29,6 +29,7 @@
 | 1 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) | [Wroclaw Open 2007](https://www.worldcubeassociation.org/competitions/WroclawOpen2007) | [Wroclaw Open 2007](https://www.worldcubeassociation.org/competitions/WroclawOpen2007) |
 | 1 | [Adam Joks](https://www.worldcubeassociation.org/persons/2005JOKS01) | [Gdansk Open 2008](https://www.worldcubeassociation.org/competitions/GdanskOpen2008) | [Gdansk Open 2008](https://www.worldcubeassociation.org/competitions/GdanskOpen2008) |
 | 1 | [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) | [Cube Factory League Koluszki 2026](https://www.worldcubeassociation.org/competitions/CFLKoluszki2026) | [Cube Factory League Koluszki 2026](https://www.worldcubeassociation.org/competitions/CFLKoluszki2026) |
+| 1 | [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) | [Cube4fun in Sieradz 2026](https://www.worldcubeassociation.org/competitions/Cube4funinSieradz2026) | [Cube4fun in Sieradz 2026](https://www.worldcubeassociation.org/competitions/Cube4funinSieradz2026) |
 | 1 | [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) | [Cube4fun Szansa Cubing Warsaw 2026](https://www.worldcubeassociation.org/competitions/Cube4funSzansaCubing2026) | [Cube4fun Szansa Cubing Warsaw 2026](https://www.worldcubeassociation.org/competitions/Cube4funSzansaCubing2026) |
 | 1 | [Stefan Łapicki](https://www.worldcubeassociation.org/persons/2006LAPI01) | [Kociewie Open 2009](https://www.worldcubeassociation.org/competitions/KociewieOpen2009) | [Kociewie Open 2009](https://www.worldcubeassociation.org/competitions/KociewieOpen2009) |
 | 1 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) | [Cubing Spring Grudziadz 2012](https://www.worldcubeassociation.org/competitions/CubingSpringGrudziadz2012) | [Cubing Spring Grudziadz 2012](https://www.worldcubeassociation.org/competitions/CubingSpringGrudziadz2012) |

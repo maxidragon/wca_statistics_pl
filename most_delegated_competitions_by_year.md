@@ -1,6 +1,6 @@
 ## Most delegated competitions each year
 
-*Updated on 13 October 2026*
+*Updated on 16 October 2026*
 
 
 ### 2026

@@ -1,6 +1,6 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Updated on 13 October 2026*
+*Updated on 16 October 2026*
 
 | Person | Years |
 | :--- | ---: |
@@ -48,7 +48,7 @@
 | [Maksymilian Piskorowski](https://www.worldcubeassociation.org/persons/2017PISK01) | 5.48 |
 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 5.48 |
 | [Piotr Kogut](https://www.worldcubeassociation.org/persons/2016KOGU01) | 5.42 |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 5.42 |
+| [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 5.42 |
 | [Mikołaj Zubowicz](https://www.worldcubeassociation.org/persons/2015ZUBO01) | 5.40 |
 | [Szymon Juroszek](https://www.worldcubeassociation.org/persons/2017JURO01) | 5.35 |
 | [Mateusz Gabzdyl](https://www.worldcubeassociation.org/persons/2018GABZ01) | 5.29 |

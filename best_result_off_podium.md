@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals at Polish competitions are taken into account.*
-*Updated on 13 October 2026*
+*Updated on 16 October 2026*
 
 
 ### 3x3x3 Cube
@@ -121,8 +121,8 @@
 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) | 23 | **23.67** | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/all#e333fm_f) | 4 |
 | [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) | 23 | **23.67** | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/all#e333fm_f) | 4 |
 | [Jan Riedl](https://www.worldcubeassociation.org/persons/2019RIED01) | 23 | **23.67** | [Fun with FM in Warsaw II 2026](https://www.worldcubeassociation.org/competitions/FunWithFMinWarsawII2026/results/all#e333fm_f) | 5 |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 21 | **24.33** | [Winter Side Wrocław 2025](https://www.worldcubeassociation.org/competitions/WinterSideWroclaw2025/results/all#e333fm_f) | 4 |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 21 | **24.33** | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/all#e333fm_f) | 6 |
+| [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 21 | **24.33** | [Winter Side Wrocław 2025](https://www.worldcubeassociation.org/competitions/WinterSideWroclaw2025/results/all#e333fm_f) | 4 |
+| [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 21 | **24.33** | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/all#e333fm_f) | 6 |
 
 ### 3x3x3 One-Handed
 

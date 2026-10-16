@@ -1,7 +1,7 @@
 ## Competitions per voivodeship
 
 *Note: Voivodeships are inferred from competition coordinates (approximate bounding box). *
-*Updated on 13 October 2026*
+*Updated on 16 October 2026*
 
 
 ### Pomorskie
@@ -53,7 +53,7 @@ _Total competitions: 82_
 | [Szymon Moroń](https://www.worldcubeassociation.org/persons/2013MORO01) | 40 |
 | [Marcel Nycz](https://www.worldcubeassociation.org/persons/2016NYCZ01) | 38 |
 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 37 |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 35 |
+| [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 35 |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 34 |
 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) | 34 |
 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | 32 |
@@ -324,7 +324,7 @@ _Total competitions: 20_
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 7 |
 | [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) | 7 |
 | [Dominik Kobinski](https://www.worldcubeassociation.org/persons/2019KOBI01) | 7 |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 7 |
+| [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 7 |
 | [Marcel Grüner](https://www.worldcubeassociation.org/persons/2017GRUN02) | 6 |
 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | 6 |
 
@@ -384,7 +384,7 @@ _Total competitions: 18_
 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 8 |
 | [Aleksander Arefiew](https://www.worldcubeassociation.org/persons/2016AREF01) | 8 |
 | [Paweł Murawski](https://www.worldcubeassociation.org/persons/2015MURA05) | 8 |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 8 |
+| [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 8 |
 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 8 |
 | [Mateusz Kozioł](https://www.worldcubeassociation.org/persons/2017KOZI01) | 7 |
 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) | 7 |

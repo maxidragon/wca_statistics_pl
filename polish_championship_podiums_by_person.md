@@ -1,6 +1,6 @@
 ## Polish Championship podiums by person
 
-*Updated on 13 October 2026*
+*Updated on 16 October 2026*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -115,8 +115,8 @@
 | [Paweł Kowol](https://www.worldcubeassociation.org/persons/2011KOWO01) | **0** | 1 | 1 | 2 |
 | [Piotr Kuchta](https://www.worldcubeassociation.org/persons/2012KUCH01) | **0** | 1 | 1 | 2 |
 | [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) | **0** | 1 | 0 | 1 |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | **0** | 1 | 0 | 1 |
 | [Dominik Kobinski](https://www.worldcubeassociation.org/persons/2019KOBI01) | **0** | 1 | 0 | 1 |
+| [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | **0** | 1 | 0 | 1 |
 | [Filip Brokos](https://www.worldcubeassociation.org/persons/2022BROK03) | **0** | 1 | 0 | 1 |
 | [Igor Kowalczyk](https://www.worldcubeassociation.org/persons/2013KOWA04) | **0** | 1 | 0 | 1 |
 | [Igor Ośmiałowski](https://www.worldcubeassociation.org/persons/2014OMIA01) | **0** | 1 | 0 | 1 |

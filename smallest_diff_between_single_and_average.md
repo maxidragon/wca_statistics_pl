@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 13 October 2026*
+*Updated on 16 October 2026*
 
 
 ### 3x3x3 Cube
@@ -180,7 +180,7 @@
 | 0.05 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 2.39 | 2.44 | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/by_person#2013BURL01) |
 | 0.05 | [Cezary Mach](https://www.worldcubeassociation.org/persons/2018MACH04) | 2.51 | 2.56 | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022/results/by_person#2018MACH04) |
 | 0.05 | [Wojciech Barciaga](https://www.worldcubeassociation.org/persons/2013BARC03) | 3.88 | 3.93 | [Staszic Open 2017](https://www.worldcubeassociation.org/competitions/StaszicOpen2017/results/by_person#2013BARC03) |
-| 0.05 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 5.21 | 5.26 | [Cube4fun Zawiercie 2022](https://www.worldcubeassociation.org/competitions/Cube4funZawiercie2022/results/by_person#2016WOJC04) |
+| 0.05 | [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 5.21 | 5.26 | [Cube4fun Zawiercie 2022](https://www.worldcubeassociation.org/competitions/Cube4funZawiercie2022/results/by_person#2016WOJC04) |
 | 0.06 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 1.67 | 1.73 | [Back To Białystok 2024](https://www.worldcubeassociation.org/competitions/BackToBialystok2024/results/by_person#2018HANU02) |
 | 0.06 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) | 2.23 | 2.29 | [Dublin Summer Solving 2025](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2025/results/by_person#2021GORE01) |
 

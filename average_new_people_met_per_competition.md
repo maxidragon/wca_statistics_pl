@@ -1,13 +1,13 @@
 ## Highest average number of new people met per competition
 
 *Note: Divides all unique co-competitors met across a competitor's career by their number of competitions. A co-competitor is someone of any nationality who recorded a result at the same competition, and each person counts only once. Minimum 20 competitions required.*
-*Updated on 13 October 2026*
+*Updated on 16 October 2026*
 
 | Avg. new people | Unique people | Competitions | Person |
 | ---: | ---: | ---: | :--- |
 | 188.55 | 3771 | 20 | [Ignacy Chodarcewicz](https://www.worldcubeassociation.org/persons/2023CHOD04) |
 | 141.10 | 4233 | 30 | [Maja Turczyk](https://www.worldcubeassociation.org/persons/2022TURC05) |
-| 112.15 | 6168 | 55 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) |
+| 110.57 | 6192 | 56 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) |
 | 110.48 | 5966 | 54 | [Arkadiusz Dubicki](https://www.worldcubeassociation.org/persons/2023DUBI01) |
 | 106.43 | 6173 | 58 | [Joanna Dubicka](https://www.worldcubeassociation.org/persons/2018DUBI04) |
 | 102.83 | 4319 | 42 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) |
@@ -38,7 +38,7 @@
 | 76.86 | 3766 | 49 | [Jarosław Chodyniecki](https://www.worldcubeassociation.org/persons/2018CHOD01) |
 | 75.12 | 2554 | 34 | [Marta Radziwanowska](https://www.worldcubeassociation.org/persons/2022RADZ01) |
 | 74.97 | 4423 | 59 | [Ada Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD01) |
-| 74.49 | 14973 | 201 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
+| 74.38 | 15024 | 202 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 74.32 | 1858 | 25 | [Zygmunt Małkiewicz](https://www.worldcubeassociation.org/persons/2024MALK02) |
 | 74.14 | 2595 | 35 | [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) |
 | 73.97 | 5474 | 74 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) |

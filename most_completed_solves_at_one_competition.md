@@ -1,11 +1,11 @@
 ## Most completed solves at one competition
 
-*Updated on 13 October 2026*
+*Updated on 16 October 2026*
 
 | Person | Competition | Solves | Attempts |
 | :--- | ---: | ---: | ---: |
 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | [All Rounders Katowice I 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceI2026) | 186 | 188 |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | [All Rounders Katowice I 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceI2026) | 184 | 188 |
+| [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | [All Rounders Katowice I 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceI2026) | 184 | 188 |
 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | [All Rounders Katowice I 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceI2026) | 180 | 188 |
 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | [All Rounders Katowice I 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceI2026) | 169 | 178 |
 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | [All Rounders Katowice I 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceI2026) | 169 | 188 |

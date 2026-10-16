@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 13 October 2026*
+*Updated on 16 October 2026*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -18,7 +18,7 @@
 | 74 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 73 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
 | 70 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) |
-| 69 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 70 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 63 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) |
 | 59 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) |
 | 58 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
@@ -41,7 +41,7 @@
 | 39 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) |
 | 39 | [Igor Ośmiałowski](https://www.worldcubeassociation.org/persons/2014OMIA01) |
 | 39 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) |
-| 38 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) |
+| 38 | [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) |
 | 38 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) |
 | 37 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) |
 | 37 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |

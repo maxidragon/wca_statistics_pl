@@ -1,7 +1,7 @@
 ## Most attended competitions in a city
 
 *Note: Only Polish persons and Polish competitions with posted results are included.*
-*Updated on 13 October 2026*
+*Updated on 16 October 2026*
 
 
 ### Gdańsk
@@ -279,7 +279,7 @@ _Total competitions: 12_
 | [Tomasz Stawowy](https://www.worldcubeassociation.org/persons/2021STAW01) | 5 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 5 |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 4 |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 4 |
+| [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 4 |
 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) | 4 |
 | [Michał Kopeć](https://www.worldcubeassociation.org/persons/2020KOPE01) | 4 |
 | [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) | 4 |
@@ -305,7 +305,7 @@ _Total competitions: 11_
 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 6 |
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 6 |
 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | 6 |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 5 |
+| [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 5 |
 | [Gabriel Radosz](https://www.worldcubeassociation.org/persons/2022RADO03) | 5 |
 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 5 |
 | [Szymon Ruksza](https://www.worldcubeassociation.org/persons/2013RUKS01) | 5 |
@@ -415,7 +415,7 @@ _Total competitions: 10_
 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 6 |
 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 6 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 6 |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 6 |
+| [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 6 |
 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 6 |
 | [Marta Sandra Duraj](https://www.worldcubeassociation.org/persons/2018CHOR02) | 5 |
 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | 5 |
@@ -809,7 +809,7 @@ _Total competitions: 6_
 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | 4 |
 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | 4 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 4 |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 4 |
+| [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 4 |
 | [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) | 4 |
 | [Michał Luchowski](https://www.worldcubeassociation.org/persons/2024LUCH01) | 3 |
 | [Eliza Mikrut](https://www.worldcubeassociation.org/persons/2024MIKR01) | 3 |
@@ -1069,7 +1069,7 @@ _Total competitions: 5_
 | [Kamil Mieńko](https://www.worldcubeassociation.org/persons/2011MIEN01) | 3 |
 | [Jakub Szpyra](https://www.worldcubeassociation.org/persons/2013SZPY01) | 3 |
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 3 |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 3 |
+| [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 3 |
 | [Tobiasz Rychlik](https://www.worldcubeassociation.org/persons/2016RYCH01) | 3 |
 | [Marcel Nycz](https://www.worldcubeassociation.org/persons/2016NYCZ01) | 3 |
 | [Kacper Stacha](https://www.worldcubeassociation.org/persons/2013STAC01) | 3 |
@@ -1284,7 +1284,7 @@ _Total competitions: 4_
 | [Radosław Michałek](https://www.worldcubeassociation.org/persons/2021MICH03) | 4 |
 | [Michał Mlostek](https://www.worldcubeassociation.org/persons/2015MLOS01) | 4 |
 | [Szymon Juroszek](https://www.worldcubeassociation.org/persons/2017JURO01) | 4 |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 3 |
+| [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 3 |
 | [Witold Sołtysik](https://www.worldcubeassociation.org/persons/2015SOLT03) | 3 |
 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | 3 |
 | [Szymon Brągiel](https://www.worldcubeassociation.org/persons/2022BRAG03) | 3 |
@@ -1317,7 +1317,7 @@ _Total competitions: 4_
 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) | 4 |
 | [Wojciech Kotulski](https://www.worldcubeassociation.org/persons/2015KOTU01) | 4 |
 | [Michał Mlostek](https://www.worldcubeassociation.org/persons/2015MLOS01) | 4 |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 4 |
+| [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 4 |
 | [Marcel Nycz](https://www.worldcubeassociation.org/persons/2016NYCZ01) | 4 |
 | [Adam Jagła](https://www.worldcubeassociation.org/persons/2017JAGL01) | 4 |
 | [Wojciech Barciaga](https://www.worldcubeassociation.org/persons/2013BARC03) | 3 |
@@ -1705,7 +1705,7 @@ _Total competitions: 3_
 | [Oskar Kaźmierowicz](https://www.worldcubeassociation.org/persons/2023KAZM02) | 3 |
 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | 3 |
 | [Michał Drzęźla](https://www.worldcubeassociation.org/persons/2024DRZE01) | 3 |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 3 |
+| [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 3 |
 | [Tobiasz Gładysz](https://www.worldcubeassociation.org/persons/2024GLAD02) | 3 |
 | [Michał Herzyk](https://www.worldcubeassociation.org/persons/2024HERZ04) | 3 |
 | [Zofia Herzyk](https://www.worldcubeassociation.org/persons/2024HERZ05) | 3 |
@@ -1747,7 +1747,7 @@ _Total competitions: 3_
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 2 |
 | [Kamil Michalak](https://www.worldcubeassociation.org/persons/2016MICH01) | 2 |
 | [Marcel Nycz](https://www.worldcubeassociation.org/persons/2016NYCZ01) | 2 |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 2 |
+| [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 2 |
 | [Adam Jagła](https://www.worldcubeassociation.org/persons/2017JAGL01) | 2 |
 | [Mateusz Jelonek](https://www.worldcubeassociation.org/persons/2017JELO01) | 2 |
 | [Bartosz Skuła](https://www.worldcubeassociation.org/persons/2017SKUL01) | 2 |
@@ -2257,7 +2257,7 @@ _Total competitions: 2_
 | [Marta Radziwanowska](https://www.worldcubeassociation.org/persons/2022RADZ01) | 2 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 2 |
 | [Mateusz Zajder](https://www.worldcubeassociation.org/persons/2024ZAJD01) | 1 |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 1 |
+| [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 1 |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 1 |
 | [Lena Duszyńska](https://www.worldcubeassociation.org/persons/2023DUSZ01) | 1 |
 | [Jakub Gałecki](https://www.worldcubeassociation.org/persons/2023GALE01) | 1 |
@@ -2503,7 +2503,7 @@ _Total competitions: 2_
 | [Kamil Tkacz](https://www.worldcubeassociation.org/persons/2017TKAC03) | 2 |
 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | 2 |
 | [Wojciech Barciaga](https://www.worldcubeassociation.org/persons/2013BARC03) | 2 |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 2 |
+| [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 2 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 2 |
 | [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) | 2 |
 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) | 2 |
@@ -3632,7 +3632,7 @@ _Total competitions: 1_
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 1 |
 | [Witold Sołtysik](https://www.worldcubeassociation.org/persons/2015SOLT03) | 1 |
 | [Tobiasz Rychlik](https://www.worldcubeassociation.org/persons/2016RYCH01) | 1 |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 1 |
+| [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 1 |
 | [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) | 1 |
 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | 1 |
 | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) | 1 |
@@ -4097,7 +4097,7 @@ _Total competitions: 1_
 | [Ernest Seroczyński](https://www.worldcubeassociation.org/persons/2015SERO02) | 1 |
 | [Mateusz Gąsiorkiewicz](https://www.worldcubeassociation.org/persons/2016GASI04) | 1 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1 |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 1 |
+| [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 1 |
 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 1 |
 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | 1 |
 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | 1 |
@@ -4248,7 +4248,7 @@ _Total competitions: 1_
 | [Marcel Nycz](https://www.worldcubeassociation.org/persons/2016NYCZ01) | 1 |
 | [Krystian Święch](https://www.worldcubeassociation.org/persons/2016SWIE02) | 1 |
 | [Stanisław Szyszka](https://www.worldcubeassociation.org/persons/2016SZYS02) | 1 |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 1 |
+| [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 1 |
 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 1 |
 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) | 1 |
 | [Marcel Grüner](https://www.worldcubeassociation.org/persons/2017GRUN02) | 1 |
@@ -4444,7 +4444,7 @@ _Total competitions: 1_
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 1 |
 | [Dominik Jakubowski](https://www.worldcubeassociation.org/persons/2015JAKU01) | 1 |
 | [Aleksander Arefiew](https://www.worldcubeassociation.org/persons/2016AREF01) | 1 |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 1 |
+| [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 1 |
 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 1 |
 | [Marta Sandra Duraj](https://www.worldcubeassociation.org/persons/2018CHOR02) | 1 |
 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 1 |

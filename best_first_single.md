@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 13 October 2026*
+*Updated on 16 October 2026*
 
 
 ### 3x3x3 Cube
@@ -119,7 +119,7 @@
 | 29 | [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) |
 | 30 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) |
 | 31 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) |
-| 31 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) |
+| 31 | [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) |
 | 31 | [Karol Micał](https://www.worldcubeassociation.org/persons/2022MICA03) |
 | 31 | [Witold Kordos](https://www.worldcubeassociation.org/persons/2016KORD01) |
 | 31 | [Krzysztof Boguszewski](https://www.worldcubeassociation.org/persons/2019BOGU01) |
@@ -263,7 +263,7 @@
 
 | First single | Person |
 | ---: | :--- |
-| 1:07.40 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) |
+| 1:07.40 | [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) |
 | 1:13.78 | [Hubert Firek](https://www.worldcubeassociation.org/persons/2015FIRE01) |
 | 1:21.77 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) |
 | 1:24.40 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |

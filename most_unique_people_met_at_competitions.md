@@ -1,12 +1,12 @@
 ## Most unique people met at competitions
 
 *Note: Treats two people as having met when both recorded at least one result at the same competition. Co-competitors of any nationality are included and each is counted once, regardless of how many competitions they shared.*
-*Updated on 13 October 2026*
+*Updated on 16 October 2026*
 
 | People met | Competitions | Person |
 | ---: | ---: | :--- |
-| 14973 | 201 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
-| 11250 | 398 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 15024 | 202 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
+| 11276 | 399 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 11116 | 412 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 9830 | 229 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 8473 | 196 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
@@ -18,10 +18,10 @@
 | 7543 | 281 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 6973 | 96 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) |
 | 6613 | 146 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
-| 6490 | 232 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
+| 6521 | 233 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 6323 | 116 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) |
+| 6192 | 56 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) |
 | 6173 | 58 | [Joanna Dubicka](https://www.worldcubeassociation.org/persons/2018DUBI04) |
-| 6168 | 55 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) |
 | 5966 | 54 | [Arkadiusz Dubicki](https://www.worldcubeassociation.org/persons/2023DUBI01) |
 | 5939 | 204 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
 | 5923 | 82 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) |
@@ -33,7 +33,7 @@
 | 5569 | 85 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
 | 5488 | 95 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) |
 | 5474 | 74 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) |
-| 5395 | 134 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) |
+| 5423 | 135 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) |
 | 5367 | 122 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
 | 5345 | 169 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) |
 | 5338 | 84 | [Ignacy Malinowski](https://www.worldcubeassociation.org/persons/2021MALI02) |
@@ -51,12 +51,12 @@
 | 4693 | 90 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |
 | 4644 | 54 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) |
 | 4642 | 118 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
-| 4575 | 132 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
+| 4604 | 133 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
 | 4574 | 78 | [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) |
 | 4459 | 50 | [Michał Kopeć](https://www.worldcubeassociation.org/persons/2020KOPE01) |
 | 4423 | 59 | [Ada Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD01) |
 | 4416 | 141 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
-| 4409 | 89 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) |
+| 4409 | 89 | [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) |
 | 4319 | 42 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) |
 | 4301 | 75 | [Aleksander Arefiew](https://www.worldcubeassociation.org/persons/2016AREF01) |
 | 4288 | 104 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) |

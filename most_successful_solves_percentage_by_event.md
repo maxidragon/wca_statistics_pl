@@ -1,7 +1,7 @@
 ## Most % of successful solves in each event
 
 *Note: Counts individual attempt values. A successful attempt has value > 0 (not DNF). DNS attempts are excluded. Minimum 10 attempts required.*
-*Updated on 13 October 2026*
+*Updated on 16 October 2026*
 
 
 ### 3x3x3 Cube
@@ -162,7 +162,7 @@
 | 81.25% | 13 | 16 | [Witold Kozak](https://www.worldcubeassociation.org/persons/2009KOZA01) |
 | 80.32% | 457 | 569 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) |
 | 75.00% | 21 | 28 | [Kacper Jędrzejuk](https://www.worldcubeassociation.org/persons/2019JEDR01) |
-| 72.13% | 647 | 897 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 72.28% | 652 | 902 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 71.43% | 30 | 42 | [Dominik Jakubowski](https://www.worldcubeassociation.org/persons/2015JAKU01) |
 | 70.00% | 42 | 60 | [Rafał Guzewicz](https://www.worldcubeassociation.org/persons/2006GUZE01) |
 | 66.67% | 34 | 51 | [Marek Pepke](https://www.worldcubeassociation.org/persons/2008PEPK01) |
@@ -195,7 +195,7 @@
 | 97.73% | 43 | 44 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
 | 95.35% | 41 | 43 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
 | 94.74% | 36 | 38 | [Jakub Lorens](https://www.worldcubeassociation.org/persons/2018LORE01) |
-| 94.37% | 67 | 71 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) |
+| 94.37% | 67 | 71 | [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) |
 | 94.12% | 16 | 17 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
 | 94.12% | 16 | 17 | [Marcin Wawiórko](https://www.worldcubeassociation.org/persons/2023WAWI01) |
 | 93.33% | 84 | 90 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) |
@@ -234,7 +234,7 @@
 | % | Successful | Total | Person |
 | ---: | ---: | ---: | :--- |
 | 100.00% | 366 | 366 | [Idan Bolesto](https://www.worldcubeassociation.org/persons/2022BOLE01) |
-| 100.00% | 342 | 342 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) |
+| 100.00% | 342 | 342 | [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) |
 | 100.00% | 287 | 287 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) |
 | 100.00% | 250 | 250 | [Kalina Jakubowska](https://www.worldcubeassociation.org/persons/2009BRZE01) |
 | 100.00% | 241 | 241 | [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) |
@@ -333,7 +333,7 @@
 
 | % | Successful | Total | Person |
 | ---: | ---: | ---: | :--- |
-| 100.00% | 482 | 482 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) |
+| 100.00% | 482 | 482 | [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) |
 | 100.00% | 260 | 260 | [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) |
 | 100.00% | 224 | 224 | [Konrad Leśniak](https://www.worldcubeassociation.org/persons/2014LENI02) |
 | 100.00% | 177 | 177 | [Michał Robaczyk](https://www.worldcubeassociation.org/persons/2006ROBA01) |

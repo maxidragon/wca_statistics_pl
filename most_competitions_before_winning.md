@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 13 October 2026*
+*Updated on 16 October 2026*
 
 
 ### 3x3x3 Cube
@@ -120,7 +120,7 @@
 | 22 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | [CFL Goes Sideways 2019](https://www.worldcubeassociation.org/competitions/CFLGoesSideways2019) |
 | 22 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | [Polish Nationals 2013](https://www.worldcubeassociation.org/competitions/PolishNationals2013) |
 | 20 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | [Nagawczyna Side Open 2026](https://www.worldcubeassociation.org/competitions/NagawczynaSideOpen2026) |
-| 19 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | [CFL Koluszki 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueKoluszki2025) |
+| 19 | [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | [CFL Koluszki 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueKoluszki2025) |
 | 15 | [Szymon Jeziorski](https://www.worldcubeassociation.org/persons/2013JEZI01) | [Cube Factory Częstochowa 2018](https://www.worldcubeassociation.org/competitions/CubeFactoryCzestochowa2018) |
 | 15 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | [Poznań MBLD Cup 2023](https://www.worldcubeassociation.org/competitions/PoznanMBLDCup2023) |
 
@@ -181,7 +181,7 @@
 | 40 | [Bartosz Łebkowski](https://www.worldcubeassociation.org/persons/2021LEBK01) | [Let's Solve Liberec 2025](https://www.worldcubeassociation.org/competitions/LetsSolveLiberec2025) |
 | 39 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | [BrizZon Side Open 2025](https://www.worldcubeassociation.org/competitions/BrizZonSideOpen2025) |
 | 39 | [Bartosz Dąbrowski](https://www.worldcubeassociation.org/persons/2023DABR07) | [Cube Factory Aleksandrów 2026](https://www.worldcubeassociation.org/competitions/CubeFactoryAleksandrow2026) |
-| 38 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | [Winter Side Wrocław 2025](https://www.worldcubeassociation.org/competitions/WinterSideWroclaw2025) |
+| 38 | [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | [Winter Side Wrocław 2025](https://www.worldcubeassociation.org/competitions/WinterSideWroclaw2025) |
 | 37 | [Joanna Kierznikiewicz](https://www.worldcubeassociation.org/persons/2022KIER01) | [PST: Monday Night in Gdańsk 2025](https://www.worldcubeassociation.org/competitions/PSTMondayNightinGdansk2025) |
 
 ### Skewb

@@ -1,23 +1,23 @@
 ## Most visited countries
 
-*Updated on 13 October 2026*
+*Updated on 16 October 2026*
 
 | Countries | Person |
 | ---: | :--- |
-| 42 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 43 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 23 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
-| 22 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
+| 23 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
+| 20 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) |
 | 19 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 19 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
-| 19 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) |
 | 18 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 18 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 15 | [Igor Wojciech Wawrzynski](https://www.worldcubeassociation.org/persons/2019WAWR01) |
 | 13 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
+| 13 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
 | 13 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 13 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
 | 12 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
-| 12 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
 | 12 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) |
 | 12 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) |
 | 11 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) |
@@ -39,15 +39,15 @@
 | 8 | [Rafał Studnicki](https://www.worldcubeassociation.org/persons/2005STUD01) |
 | 8 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) |
 | 8 | [Mikołaj Molski](https://www.worldcubeassociation.org/persons/2015MOLS01) |
+| 8 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) |
 | 8 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 8 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |
 | 8 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
 | 8 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 8 | [Wojciech Barciaga](https://www.worldcubeassociation.org/persons/2013BARC03) |
-| 7 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 7 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) |
+| 7 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 7 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) |
-| 7 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) |
 | 7 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) |
 | 7 | [Hubert Darłak](https://www.worldcubeassociation.org/persons/2023DARL03) |
 | 7 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
@@ -93,7 +93,7 @@
 | 5 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) |
 | 5 | [Michał Soboń](https://www.worldcubeassociation.org/persons/2019SOBO03) |
 | 5 | [Aleksander Arefiew](https://www.worldcubeassociation.org/persons/2016AREF01) |
-| 5 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) |
+| 5 | [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) |
 | 5 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) |
 | 5 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) |
 | 5 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) |

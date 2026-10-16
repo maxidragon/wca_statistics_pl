@@ -1,7 +1,7 @@
 ## Worst result providing a podium by year at Polish competitions
 
 *Note: Only finals at competitions held in Poland are taken into account, regardless of the podium members' countries. Results where the main statistic is DNF are ignored. Each year is considered separately.*
-*Updated on 13 October 2026*
+*Updated on 16 October 2026*
 
 
 ### 2026
@@ -72,7 +72,7 @@
 | :--- | ---: | ---: | :--- | :--: |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 1:57.54 | **2:02.70** | [Olsztyn Spring Open 2026](https://www.worldcubeassociation.org/competitions/OlsztynSpringOpen2026/results/podiums#e666) | 3 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 1:54.02 | **1:57.46** | [Silesian Minx Fest 2026](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2026/results/podiums#e666) | 3 |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 1:50.79 | **1:55.25** | [Olsztyn Spring Open 2026](https://www.worldcubeassociation.org/competitions/OlsztynSpringOpen2026/results/podiums#e666) | 2 |
+| [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 1:50.79 | **1:55.25** | [Olsztyn Spring Open 2026](https://www.worldcubeassociation.org/competitions/OlsztynSpringOpen2026/results/podiums#e666) | 2 |
 | [Tomasz Cepil](https://www.worldcubeassociation.org/persons/2018CEPI01) | 1:48.52 | **1:55.05** | [WIW at Opole 2026](https://www.worldcubeassociation.org/competitions/WIWatOpole2026/results/podiums#e666) | 3 |
 | [Mikołaj Molski](https://www.worldcubeassociation.org/persons/2015MOLS01) | 1:43.52 | **1:54.88** | [CF Goes Sideways Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesSidewaysBrzeziny2026/results/podiums#e666) | 3 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 1:45.71 | **1:53.53** | [GLS Side Challenge Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSSideChallengeGdansk2026/results/podiums#e666) | 3 |
@@ -124,7 +124,7 @@
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 26 | **27.67** | [Silesian Minx Fest 2026](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2026/results/podiums#e333fm) | 1 |
 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | 26 | **27.67** | [GLS Side Challenge Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSSideChallengeGdansk2026/results/podiums#e333fm) | 1 |
 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) | 24 | **25.33** | [Poznań Mental Breakdown 2026](https://www.worldcubeassociation.org/competitions/PoznanMentalBreakdown2026/results/podiums#e333fm) | 3 |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 24 | **24.33** | [WIW at Opole 2026](https://www.worldcubeassociation.org/competitions/WIWatOpole2026/results/podiums#e333fm) | 2 |
+| [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 24 | **24.33** | [WIW at Opole 2026](https://www.worldcubeassociation.org/competitions/WIWatOpole2026/results/podiums#e333fm) | 2 |
 
 #### 3x3x3 Fewest Moves (Best of 1)
 
@@ -284,7 +284,7 @@
 | :--- | ---: | ---: | :--- | :--: |
 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 7.83 | **8.92** | [Cube4fun Lublin Spring 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinSpring2025/results/podiums#e333) | 3 |
 | [Artem Zhdamirov](https://www.worldcubeassociation.org/persons/2022ZHDA01) | 7.32 | **8.88** | [Megaminx Fiesta Augustów 2025](https://www.worldcubeassociation.org/competitions/MegaminxFiestaAugustow2025/results/podiums#e333) | 3 |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 8.46 | **8.83** | [Olsztyn Open 2025](https://www.worldcubeassociation.org/competitions/OlsztynOpen2025/results/podiums#e333) | 3 |
+| [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 8.46 | **8.83** | [Olsztyn Open 2025](https://www.worldcubeassociation.org/competitions/OlsztynOpen2025/results/podiums#e333) | 3 |
 | [Aleksander Kołodziński](https://www.worldcubeassociation.org/persons/2021KOLO01) | 8.19 | **8.80** | [Olsztyn Open 2025](https://www.worldcubeassociation.org/competitions/OlsztynOpen2025/results/podiums#e333) | 2 |
 | [Wojciech Piórczyński](https://www.worldcubeassociation.org/persons/2021PIOR01) | 8.36 | **8.77** | [Cube4fun Lublin Sunday 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinSunday2025/results/podiums#e333) | 3 |
 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | 8.10 | **8.75** | [Cube4fun Lublin Sunday 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinSunday2025/results/podiums#e333) | 2 |
@@ -297,7 +297,7 @@
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 1.96 | **3.22** | [Olsztyn Open 2025](https://www.worldcubeassociation.org/competitions/OlsztynOpen2025/results/podiums#e222) | 3 |
+| [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 1.96 | **3.22** | [Olsztyn Open 2025](https://www.worldcubeassociation.org/competitions/OlsztynOpen2025/results/podiums#e222) | 3 |
 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 2.25 | **2.89** | [Cube4fun Biała Podlaska 2025](https://www.worldcubeassociation.org/competitions/Cube4funBialaPodlaska2025/results/podiums#e222) | 3 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 2.48 | **2.87** | [Olsztyn Open 2025](https://www.worldcubeassociation.org/competitions/OlsztynOpen2025/results/podiums#e222) | 2 |
 | [Mateusz Otto](https://www.worldcubeassociation.org/persons/2022OTTO01) | 1.90 | **2.78** | [Siedlce Open 2025](https://www.worldcubeassociation.org/competitions/SiedlceOpen2025/results/podiums#e222) | 3 |
@@ -316,7 +316,7 @@
 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 31.88 | **36.80** | [Cube4fun Biała Podlaska 2025](https://www.worldcubeassociation.org/competitions/Cube4funBialaPodlaska2025/results/podiums#e444) | 3 |
 | [Medard Lecluyse](https://www.worldcubeassociation.org/persons/2022LECL01) | 32.77 | **36.37** | [Cube4fun Lublin Sunday 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinSunday2025/results/podiums#e444) | 2 |
 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 33.20 | **35.67** | [GLS III 2025](https://www.worldcubeassociation.org/competitions/GLSIII2025/results/podiums#e444) | 3 |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 34.65 | **35.60** | [Olsztyn Open 2025](https://www.worldcubeassociation.org/competitions/OlsztynOpen2025/results/podiums#e444) | 3 |
+| [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 34.65 | **35.60** | [Olsztyn Open 2025](https://www.worldcubeassociation.org/competitions/OlsztynOpen2025/results/podiums#e444) | 3 |
 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | 34.63 | **35.21** | [Cube4fun Lublin Sunday 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinSunday2025/results/podiums#e444) | 1 |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 32.85 | **35.02** | [Megaminx Fiesta Augustów 2025](https://www.worldcubeassociation.org/competitions/MegaminxFiestaAugustow2025/results/podiums#e444) | 3 |
 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | 30.19 | **34.98** | [Cube4fun Biała Podlaska 2025](https://www.worldcubeassociation.org/competitions/Cube4funBialaPodlaska2025/results/podiums#e444) | 2 |
@@ -395,7 +395,7 @@
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 23 | **28.00** | [5BLD Masters Opole 2025](https://www.worldcubeassociation.org/competitions/5BLDMastersOpole2025/results/podiums#e333fm) | 3 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 26 | **27.67** | [Silesian Minx Fest 2025](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2025/results/podiums#e333fm) | 2 |
 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) | 26 | **27.33** | [PST: FMC Warszawa-Wesoła 2025](https://www.worldcubeassociation.org/competitions/PSTFMCWarszawaWesola2025/results/podiums#e333fm) | 2 |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 26 | **27.33** | [Big Side & Blind Olsztyn 2025](https://www.worldcubeassociation.org/competitions/BigSideBlindOlsztyn2025/results/podiums#e333fm) | 3 |
+| [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 26 | **27.33** | [Big Side & Blind Olsztyn 2025](https://www.worldcubeassociation.org/competitions/BigSideBlindOlsztyn2025/results/podiums#e333fm) | 3 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 24 | **27.33** | [Please Be Quiet Opole 2025](https://www.worldcubeassociation.org/competitions/PleaseBeQuietOpole2025/results/podiums#e333fm) | 3 |
 
 #### 3x3x3 Fewest Moves (Best of 1)
@@ -410,7 +410,7 @@
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **29** |  | [CFL Brzeziny Spring 2025](https://www.worldcubeassociation.org/competitions/CFLBrzezinySpring2025/results/podiums#e333fm) | 2 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **28** |  | [CFL Koluszki 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueKoluszki2025/results/podiums#e333fm) | 2 |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | **27** |  | [Polish Open 2025](https://www.worldcubeassociation.org/competitions/PolishOpen2025/results/podiums#e333fm) | 1 |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | **27** |  | [CFL Koluszki 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueKoluszki2025/results/podiums#e333fm) | 1 |
+| [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | **27** |  | [CFL Koluszki 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueKoluszki2025/results/podiums#e333fm) | 1 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **27** |  | [CFL Brzeziny Spring 2025](https://www.worldcubeassociation.org/competitions/CFLBrzezinySpring2025/results/podiums#e333fm) | 1 |
 
 #### 3x3x3 One-Handed
@@ -422,7 +422,7 @@
 | [Wojciech Piórczyński](https://www.worldcubeassociation.org/persons/2021PIOR01) | 15.95 | **17.78** | [Cube4fun Lublin Sunday 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinSunday2025/results/podiums#e333oh) | 3 |
 | [Robert Siniawski](https://www.worldcubeassociation.org/persons/2016SINI01) | 15.53 | **17.44** | [Gniezno Side Open 2025](https://www.worldcubeassociation.org/competitions/GnieznoSideOpen2025/results/podiums#e333oh) | 2 |
 | [Robert Cegiel](https://www.worldcubeassociation.org/persons/2017CEGI01) | 11.82 | **17.33** | [CF Goes Crazy Brzeziny 2025](https://www.worldcubeassociation.org/competitions/CFGoesCrazyBrzeziny2025/results/podiums#e333oh) | 2 |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 12.95 | **16.83** | [Olsztyn Open 2025](https://www.worldcubeassociation.org/competitions/OlsztynOpen2025/results/podiums#e333oh) | 3 |
+| [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 12.95 | **16.83** | [Olsztyn Open 2025](https://www.worldcubeassociation.org/competitions/OlsztynOpen2025/results/podiums#e333oh) | 3 |
 | [Felix Lewicki](https://www.worldcubeassociation.org/persons/2021LEWI03) | 13.84 | **16.48** | [Olsztyn Open 2025](https://www.worldcubeassociation.org/competitions/OlsztynOpen2025/results/podiums#e333oh) | 2 |
 | [Adam Łyskawa](https://www.worldcubeassociation.org/persons/2017LYSK01) | 13.43 | **16.19** | [Cool Down Szczecin 2025](https://www.worldcubeassociation.org/competitions/CoolDownSzczecin2025/results/podiums#e333oh) | 3 |
 | [Szymon Musiał](https://www.worldcubeassociation.org/persons/2018MUSI03) | 12.70 | **15.96** | [Królowie Speedcubingu 2025](https://www.worldcubeassociation.org/competitions/KrolowieSpeedcubingu2025/results/podiums#e333oh) | 3 |
@@ -558,7 +558,7 @@
 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) | 8.16 | **9.22** | [Cube4fun Jarosław 2024](https://www.worldcubeassociation.org/competitions/Cube4funLowLimitsJaroslaw2024/results/podiums#e333) | 3 |
 | [Wojciech Piórczyński](https://www.worldcubeassociation.org/persons/2021PIOR01) | 8.09 | **9.22** | [Cube4fun Bełżyce Autumn 2024](https://www.worldcubeassociation.org/competitions/Cube4funBelzyceAutumn2024/results/podiums#e333) | 3 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 7.40 | **9.20** | [Żory Cubing Mansion 2024](https://www.worldcubeassociation.org/competitions/ZoryCubingMansion2024/results/podiums#e333) | 3 |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 8.47 | **9.17** | [Spring Vibe Giżycko 2024](https://www.worldcubeassociation.org/competitions/SpringVibeGizycko2024/results/podiums#e333) | 3 |
+| [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 8.47 | **9.17** | [Spring Vibe Giżycko 2024](https://www.worldcubeassociation.org/competitions/SpringVibeGizycko2024/results/podiums#e333) | 3 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 6.29 | **9.14** | [Cube4fun Bełżyce Autumn 2024](https://www.worldcubeassociation.org/competitions/Cube4funBelzyceAutumn2024/results/podiums#e333) | 2 |
 | [Victor Kiziukiewicz](https://www.worldcubeassociation.org/persons/2023KIZI01) | 8.22 | **9.13** | [Cube Factory Rogów 2024](https://www.worldcubeassociation.org/competitions/CubeFactoryRogow2024/results/podiums#e333) | 3 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 7.22 | **8.98** | [Olsztyn Open 2024](https://www.worldcubeassociation.org/competitions/OlsztynOpen2024/results/podiums#e333) | 3 |
@@ -615,7 +615,7 @@
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
 | [Dominik Zamęcki](https://www.worldcubeassociation.org/persons/2020ZAME01) | 2:18.18 | **2:20.47** | [Cube4fun in Biała Podlaska 2024](https://www.worldcubeassociation.org/competitions/Cube4funinBialaPodlaska2024/results/podiums#e666) | 3 |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 2:05.12 | **2:10.94** | [Olsztyn Squared 2024](https://www.worldcubeassociation.org/competitions/OlsztynSquared2024/results/podiums#e666) | 3 |
+| [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 2:05.12 | **2:10.94** | [Olsztyn Squared 2024](https://www.worldcubeassociation.org/competitions/OlsztynSquared2024/results/podiums#e666) | 3 |
 | [Przemysław Kruczek](https://www.worldcubeassociation.org/persons/2013KRUC01) | 2:03.12 | **2:04.71** | [Cube4fun Bełżyce Autumn 2024](https://www.worldcubeassociation.org/competitions/Cube4funBelzyceAutumn2024/results/podiums#e666) | 3 |
 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 1:59.57 | **2:03.16** | [Cube4fun Jarosław 2024](https://www.worldcubeassociation.org/competitions/Cube4funLowLimitsJaroslaw2024/results/podiums#e666) | 3 |
 | [Tomasz Cepil](https://www.worldcubeassociation.org/persons/2018CEPI01) | 1:48.69 | **2:01.57** | [Clock Masters Opole 2024](https://www.worldcubeassociation.org/competitions/ClockMastersOpole2024/results/podiums#e666) | 3 |
@@ -632,13 +632,13 @@
 | [Dominik Zamęcki](https://www.worldcubeassociation.org/persons/2020ZAME01) | 3:07.98 | **3:17.32** | [Cube4fun in Biała Podlaska 2024](https://www.worldcubeassociation.org/competitions/Cube4funinBialaPodlaska2024/results/podiums#e777) | 3 |
 | [Przemysław Kruczek](https://www.worldcubeassociation.org/persons/2013KRUC01) | 3:05.11 | **3:15.57** | [Cube4fun in Biała Rawska 2024](https://www.worldcubeassociation.org/competitions/Cube4funinBialaRawska2024/results/podiums#e777) | 3 |
 | [Tomasz Cepil](https://www.worldcubeassociation.org/persons/2018CEPI01) | 3:00.14 | **3:14.91** | [Clock Masters Opole 2024](https://www.worldcubeassociation.org/competitions/ClockMastersOpole2024/results/podiums#e777) | 3 |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 3:06.52 | **3:12.88** | [Olsztyn Open 2024](https://www.worldcubeassociation.org/competitions/OlsztynOpen2024/results/podiums#e777) | 3 |
+| [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 3:06.52 | **3:12.88** | [Olsztyn Open 2024](https://www.worldcubeassociation.org/competitions/OlsztynOpen2024/results/podiums#e777) | 3 |
 | [Pavel Yushkevich](https://www.worldcubeassociation.org/persons/2013YUSH01) | 2:55.14 | **3:08.41** | [Cube4fun Żyrardów 2024](https://www.worldcubeassociation.org/competitions/Cube4funCEZyrardow2024/results/podiums#e777) | 3 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 3:00.25 | **3:07.33** | [Cube4fun Lublin on WEII 2024](https://www.worldcubeassociation.org/competitions/Cube4funLublinonWEII2024/results/podiums#e777) | 3 |
 | [Przemysław Kruczek](https://www.worldcubeassociation.org/persons/2013KRUC01) | 2:56.54 | **3:03.22** | [Cube4fun in Biała Podlaska 2024](https://www.worldcubeassociation.org/competitions/Cube4funinBialaPodlaska2024/results/podiums#e777) | 2 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 2:55.65 | **3:01.21** | [Clock Masters Opole 2024](https://www.worldcubeassociation.org/competitions/ClockMastersOpole2024/results/podiums#e777) | 2 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 2:53.60 | **3:00.75** | [Wrocław Cubing Holiday 2024](https://www.worldcubeassociation.org/competitions/WroclawCubingHoliday2024/results/podiums#e777) | 3 |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 2:40.14 | **3:00.51** | [Ostróda Open 2024](https://www.worldcubeassociation.org/competitions/OstrodaOpen2024/results/podiums#e777) | 3 |
+| [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 2:40.14 | **3:00.51** | [Ostróda Open 2024](https://www.worldcubeassociation.org/competitions/OstrodaOpen2024/results/podiums#e777) | 3 |
 
 #### 3x3x3 Blindfolded
 
@@ -688,7 +688,7 @@
 | [Radosław Smędzik](https://www.worldcubeassociation.org/persons/2022SMED01) | 14.68 | **17.06** | [Cube Factory Rogów 2024](https://www.worldcubeassociation.org/competitions/CubeFactoryRogow2024/results/podiums#e333oh) | 2 |
 | [Krzysztof Dybich](https://www.worldcubeassociation.org/persons/2019DYBI01) | 15.24 | **16.82** | [Żory Cubing Mansion 2024](https://www.worldcubeassociation.org/competitions/ZoryCubingMansion2024/results/podiums#e333oh) | 3 |
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 12.82 | **16.57** | [Ostróda Open 2024](https://www.worldcubeassociation.org/competitions/OstrodaOpen2024/results/podiums#e333oh) | 3 |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 15.17 | **16.33** | [Olsztyn Open 2024](https://www.worldcubeassociation.org/competitions/OlsztynOpen2024/results/podiums#e333oh) | 2 |
+| [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 15.17 | **16.33** | [Olsztyn Open 2024](https://www.worldcubeassociation.org/competitions/OlsztynOpen2024/results/podiums#e333oh) | 2 |
 | [Jan Bulczak](https://www.worldcubeassociation.org/persons/2022BULC01) | 14.32 | **16.28** | [Ostróda Open 2024](https://www.worldcubeassociation.org/competitions/OstrodaOpen2024/results/podiums#e333oh) | 2 |
 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | 12.42 | **16.24** | [Cube4fun Bełżyce Autumn 2024](https://www.worldcubeassociation.org/competitions/Cube4funBelzyceAutumn2024/results/podiums#e333oh) | 2 |
 | [Robert Cegiel](https://www.worldcubeassociation.org/persons/2017CEGI01) | 14.42 | **16.08** | [Cube Factory Rogów 2024](https://www.worldcubeassociation.org/competitions/CubeFactoryRogow2024/results/podiums#e333oh) | 1 |
@@ -733,7 +733,7 @@
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 5.21 | **6.42** | [CFL Brzeziny Spring Open 2024](https://www.worldcubeassociation.org/competitions/CFLBrzezinySpringOpen2024/results/podiums#eclock) | 3 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 3.68 | **6.22** | [Winter Vibe Wrocław 2024](https://www.worldcubeassociation.org/competitions/WinterVibeWroclaw2024/results/podiums#eclock) | 3 |
 | [Szymon Styburski](https://www.worldcubeassociation.org/persons/2023STYB01) | 5.94 | **6.21** | [Santa Claus Mysłowice 2024](https://www.worldcubeassociation.org/competitions/SantaClausCubeRaceMyslowice2024/results/podiums#eclock) | 3 |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 4.70 | **6.16** | [Olsztyn Open 2024](https://www.worldcubeassociation.org/competitions/OlsztynOpen2024/results/podiums#eclock) | 3 |
+| [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 4.70 | **6.16** | [Olsztyn Open 2024](https://www.worldcubeassociation.org/competitions/OlsztynOpen2024/results/podiums#eclock) | 3 |
 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 5.29 | **6.06** | [SLS Styczeń 2024](https://www.worldcubeassociation.org/competitions/SLSStyczen2024/results/podiums#eclock) | 3 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 5.27 | **6.05** | [Cube4fun Bełżyce Autumn 2024](https://www.worldcubeassociation.org/competitions/Cube4funBelzyceAutumn2024/results/podiums#eclock) | 3 |
 | [Maksymilian Jedynak](https://www.worldcubeassociation.org/persons/2019JEDY01) | 4.92 | **6.04** | [BrizZon Side Open IV 2024](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenIV2024/results/podiums#eclock) | 3 |
@@ -946,7 +946,7 @@
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **29** |  | [Poznań MBLD Cup 2023](https://www.worldcubeassociation.org/competitions/PoznanMBLDCup2023/results/podiums#e333fm) | 2 |
 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | **28** |  | [Poznań MBLD Cup 2023](https://www.worldcubeassociation.org/competitions/PoznanMBLDCup2023/results/podiums#e333fm) | 1 |
 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | **25** |  | [All Rounders in Stobierna 2023](https://www.worldcubeassociation.org/competitions/AllRoundersinStobierna2023/results/podiums#e333fm) | 1 |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | **25** |  | [Warsaw Cube Masters 2023](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2023/results/podiums#e333fm) | 2 |
+| [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | **25** |  | [Warsaw Cube Masters 2023](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2023/results/podiums#e333fm) | 2 |
 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | **23** |  | [Warsaw Cube Masters 2023](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2023/results/podiums#e333fm) | 1 |
 
 #### 3x3x3 One-Handed
@@ -2011,10 +2011,10 @@
 | [Hubert Badocha](https://www.worldcubeassociation.org/persons/2013BADO01) | 9.61 | **11.93** | [PST Łuków 2019](https://www.worldcubeassociation.org/competitions/PSTLukow2019/results/podiums#eclock) | 3 |
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 9.17 | **11.22** | [PST Mielec 2019](https://www.worldcubeassociation.org/competitions/PolishSpeedcubingTourMielec2019/results/podiums#eclock) | 3 |
 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) | 9.72 | **11.04** | [CFL Goes Sideways 2019](https://www.worldcubeassociation.org/competitions/CFLGoesSideways2019/results/podiums#eclock) | 3 |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 8.78 | **10.09** | [Dąbrowa Górnicza Spring 2019](https://www.worldcubeassociation.org/competitions/DabrowaGorniczaSpring2019/results/podiums#eclock) | 3 |
+| [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 8.78 | **10.09** | [Dąbrowa Górnicza Spring 2019](https://www.worldcubeassociation.org/competitions/DabrowaGorniczaSpring2019/results/podiums#eclock) | 3 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 8.73 | **10.04** | [CFL Goes Sideways 2019](https://www.worldcubeassociation.org/competitions/CFLGoesSideways2019/results/podiums#eclock) | 2 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 9.18 | **9.91** | [LLS V Final 2019](https://www.worldcubeassociation.org/competitions/LLSVFinal2019/results/podiums#eclock) | 3 |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 9.34 | **9.63** | [Wrocław Side Challenge 2019](https://www.worldcubeassociation.org/competitions/WroclawSideChallenge2019/results/podiums#eclock) | 3 |
+| [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 9.34 | **9.63** | [Wrocław Side Challenge 2019](https://www.worldcubeassociation.org/competitions/WroclawSideChallenge2019/results/podiums#eclock) | 3 |
 | [Marcel Nycz](https://www.worldcubeassociation.org/persons/2016NYCZ01) | 8.00 | **9.59** | [Polish Open 2019](https://www.worldcubeassociation.org/competitions/PolishOpen2019/results/podiums#eclock) | 3 |
 
 #### Skewb

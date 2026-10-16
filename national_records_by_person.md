@@ -1,6 +1,6 @@
 ## National records count by person
 
-*Updated on 13 October 2026*
+*Updated on 16 October 2026*
 
 | WRs | Person |
 | ---: | :--- |
@@ -76,8 +76,8 @@
 | 1 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) |
 | 1 | [Cezary Mach](https://www.worldcubeassociation.org/persons/2018MACH04) |
 | 1 | [Cezary Rokita](https://www.worldcubeassociation.org/persons/2011ROKI01) |
-| 1 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) |
 | 1 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) |
+| 1 | [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) |
 | 1 | [Grzegorz Prusak](https://www.worldcubeassociation.org/persons/2006PRUS01) |
 | 1 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) |
 | 1 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) |

@@ -130,7 +130,7 @@
 | :--- | ---: | ---: | :--- |
 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) | **36** |  | [Chojnice Open 2013](https://www.worldcubeassociation.org/competitions/ChojniceOpen2013/results/podiums#e333fm) |
 | [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) | **36** |  | [Chojnice Open 2013](https://www.worldcubeassociation.org/competitions/ChojniceOpen2013/results/podiums#e333fm) |
-| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **34** |  | [ Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013/results/podiums#e333fm) |
+| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **34** |  | [Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013/results/podiums#e333fm) |
 | [Krzysztof Żerucha](https://www.worldcubeassociation.org/persons/2008ZERU01) | **32** |  | [Polish Nationals 2010](https://www.worldcubeassociation.org/competitions/PolishNationals2010/results/podiums#e333fm) |
 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) | **31** |  | [Polish Open 2007](https://www.worldcubeassociation.org/competitions/PolishOpen2007/results/podiums#e333fm) |
 | [Krzysztof Żerucha](https://www.worldcubeassociation.org/persons/2008ZERU01) | **30** |  | [SLS Zaglebie 2013](https://www.worldcubeassociation.org/competitions/SLSZaglebie2013/results/podiums#e333fm) |

@@ -129,8 +129,8 @@
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **39** |  | [Chojnice Open 2013](https://www.worldcubeassociation.org/competitions/ChojniceOpen2013/results/podiums#e333fm) | 3 |
-| [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | **38** |  | [ Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013/results/podiums#e333fm) | 2 |
-| [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) | **38** |  | [ Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013/results/podiums#e333fm) | 2 |
+| [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | **38** |  | [Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013/results/podiums#e333fm) | 2 |
+| [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) | **38** |  | [Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013/results/podiums#e333fm) | 2 |
 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) | **36** |  | [Chojnice Open 2013](https://www.worldcubeassociation.org/competitions/ChojniceOpen2013/results/podiums#e333fm) | 1 |
 | [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) | **36** |  | [Chojnice Open 2013](https://www.worldcubeassociation.org/competitions/ChojniceOpen2013/results/podiums#e333fm) | 1 |
 | [Jarosław Krzyżanowski](https://www.worldcubeassociation.org/persons/2007KRZY01) | **36** |  | [Polish Open 2007](https://www.worldcubeassociation.org/competitions/PolishOpen2007/results/podiums#e333fm) | 3 |
@@ -249,7 +249,7 @@
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
 | [Tomasz Tokarski](https://www.worldcubeassociation.org/persons/2012TOKA02) | **41:46.00** |  | [Jura Open 2012](https://www.worldcubeassociation.org/competitions/JuraOpen2012/results/podiums#e444bf) | 1 |
-| [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) | **27:36.00** | DNF | [ Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013/results/podiums#e444bf) | 3 |
+| [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) | **27:36.00** | DNF | [Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013/results/podiums#e444bf) | 3 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **27:08.00** | DNF | [Silesian Minx Fest 2025](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2025/results/podiums#e444bf) | 3 |
 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) | **25:31.00** | DNF | [Polish Open 2019](https://www.worldcubeassociation.org/competitions/PolishOpen2019/results/podiums#e444bf) | 3 |
 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) | **24:57.00** | DNF | [Staszic Open 2017](https://www.worldcubeassociation.org/competitions/StaszicOpen2017/results/podiums#e444bf) | 3 |

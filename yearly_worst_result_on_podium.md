@@ -3501,7 +3501,7 @@
 | [Jakub Wojtaszewski](https://www.worldcubeassociation.org/persons/2013WOJT02) | 3:18.44 | **3:29.59** | [Cubers Eve 2013](https://www.worldcubeassociation.org/competitions/CubersEve2013/results/podiums#e666) | 3 |
 | [Jakub Sokołowski](https://www.worldcubeassociation.org/persons/2012SOKO01) | 3:15.13 | **3:26.57** | [Cubers Eve 2013](https://www.worldcubeassociation.org/competitions/CubersEve2013/results/podiums#e666) | 2 |
 | [Daniel Jamrużka](https://www.worldcubeassociation.org/persons/2012JAMR01) | 3:15.42 | **3:20.89** | [Chojnice Open 2013](https://www.worldcubeassociation.org/competitions/ChojniceOpen2013/results/podiums#e666) | 3 |
-| [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | 3:12.95 | **3:20.71** | [ Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013/results/podiums#e666) | 3 |
+| [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | 3:12.95 | **3:20.71** | [Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013/results/podiums#e666) | 3 |
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 3:11.16 | **3:20.57** | [SLS Zaglebie 2013](https://www.worldcubeassociation.org/competitions/SLSZaglebie2013/results/podiums#e666) | 3 |
 | [Adam Czech](https://www.worldcubeassociation.org/persons/2013CZEC01) | 3:02.18 | **3:20.49** | [GLS Autumn Reda 2013](https://www.worldcubeassociation.org/competitions/GLSAutumnReda2013/results/podiums#e666) | 1 |
 
@@ -3518,7 +3518,7 @@
 | [Jakub Sokołowski](https://www.worldcubeassociation.org/persons/2012SOKO01) | 4:37.80 | **4:57.40** | [GLS Autumn Reda 2013](https://www.worldcubeassociation.org/competitions/GLSAutumnReda2013/results/podiums#e777) | 3 |
 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 4:46.77 | **4:53.69** | [GLS Autumn Reda 2013](https://www.worldcubeassociation.org/competitions/GLSAutumnReda2013/results/podiums#e777) | 2 |
 | [Jakub Sokołowski](https://www.worldcubeassociation.org/persons/2012SOKO01) | 4:47.16 | **4:52.54** | [Grudziadz Open 2013](https://www.worldcubeassociation.org/competitions/GrudziadzOpen2013/results/podiums#e777) | 2 |
-| [Piotr Tomczyk](https://www.worldcubeassociation.org/persons/2009TOMC01) | 4:30.58 | **4:51.85** | [ Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013/results/podiums#e777) | 2 |
+| [Piotr Tomczyk](https://www.worldcubeassociation.org/persons/2009TOMC01) | 4:30.58 | **4:51.85** | [Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013/results/podiums#e777) | 2 |
 
 #### 3x3x3 Blindfolded
 
@@ -3526,7 +3526,7 @@
 | :--- | ---: | ---: | :--- | :--: |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **1:58.31** | DNF | [GLS Summer 2013](https://www.worldcubeassociation.org/competitions/GLSSummer2013/results/podiums#e333bf) | 3 |
 | [Bartosz Bździel](https://www.worldcubeassociation.org/persons/2010BZDZ01) | **1:46.39** | DNF | [Radom Open 2013](https://www.worldcubeassociation.org/competitions/RadomOpen2013/results/podiums#e333bf) | 3 |
-| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **1:44.94** | DNF | [ Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013/results/podiums#e333bf) | 3 |
+| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **1:44.94** | DNF | [Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013/results/podiums#e333bf) | 3 |
 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | **1:42.12** | DNF | [Radom Open 2013](https://www.worldcubeassociation.org/competitions/RadomOpen2013/results/podiums#e333bf) | 2 |
 | [Kamil Galicki](https://www.worldcubeassociation.org/persons/2013GALI02) | **1:36.77** | DNF | [Chojnice Open 2013](https://www.worldcubeassociation.org/competitions/ChojniceOpen2013/results/podiums#e333bf) | 3 |
 | [Bartosz Bździel](https://www.worldcubeassociation.org/persons/2010BZDZ01) | **1:32.20** | DNF | [GLS Autumn Reda 2013](https://www.worldcubeassociation.org/competitions/GLSAutumnReda2013/results/podiums#e333bf) | 3 |
@@ -3540,12 +3540,12 @@
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **39** |  | [Chojnice Open 2013](https://www.worldcubeassociation.org/competitions/ChojniceOpen2013/results/podiums#e333fm) | 3 |
-| [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | **38** |  | [ Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013/results/podiums#e333fm) | 2 |
-| [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) | **38** |  | [ Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013/results/podiums#e333fm) | 2 |
+| [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | **38** |  | [Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013/results/podiums#e333fm) | 2 |
+| [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) | **38** |  | [Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013/results/podiums#e333fm) | 2 |
 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) | **36** |  | [Chojnice Open 2013](https://www.worldcubeassociation.org/competitions/ChojniceOpen2013/results/podiums#e333fm) | 1 |
 | [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) | **36** |  | [Chojnice Open 2013](https://www.worldcubeassociation.org/competitions/ChojniceOpen2013/results/podiums#e333fm) | 1 |
 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | **34** |  | [SLS Zaglebie 2013](https://www.worldcubeassociation.org/competitions/SLSZaglebie2013/results/podiums#e333fm) | 3 |
-| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **34** |  | [ Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013/results/podiums#e333fm) | 1 |
+| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **34** |  | [Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013/results/podiums#e333fm) | 1 |
 | [Krzysztof Kuncki](https://www.worldcubeassociation.org/persons/2010KUNC01) | **33** |  | [SLS Zaglebie 2013](https://www.worldcubeassociation.org/competitions/SLSZaglebie2013/results/podiums#e333fm) | 2 |
 | [Piotr Kuchta](https://www.worldcubeassociation.org/persons/2012KUCH01) | **31** |  | [Grudziadz Open 2013](https://www.worldcubeassociation.org/competitions/GrudziadzOpen2013/results/podiums#e333fm) | 3 |
 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | **31** |  | [Grudziadz Open 2013](https://www.worldcubeassociation.org/competitions/GrudziadzOpen2013/results/podiums#e333fm) | 3 |
@@ -3621,7 +3621,7 @@
 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) | 12.52 | **12.89** | [Chojnice Open 2013](https://www.worldcubeassociation.org/competitions/ChojniceOpen2013/results/podiums#eclock) | 3 |
 | [Wojciech Włodarczyk](https://www.worldcubeassociation.org/persons/2012WODA01) | 9.80 | **12.74** | [Grudziadz Open 2013](https://www.worldcubeassociation.org/competitions/GrudziadzOpen2013/results/podiums#eclock) | 3 |
 | [Tomasz Kiełbasa](https://www.worldcubeassociation.org/persons/2009KIEL01) | 10.97 | **12.43** | [SLS Zaglebie 2013](https://www.worldcubeassociation.org/competitions/SLSZaglebie2013/results/podiums#eclock) | 3 |
-| [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) | 11.68 | **12.38** | [ Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013/results/podiums#eclock) | 3 |
+| [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) | 11.68 | **12.38** | [Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013/results/podiums#eclock) | 3 |
 | [Łukasz Herman](https://www.worldcubeassociation.org/persons/2011HERM02) | 11.53 | **12.38** | [GLS Autumn Reda 2013](https://www.worldcubeassociation.org/competitions/GLSAutumnReda2013/results/podiums#eclock) | 2 |
 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) | 11.20 | **12.37** | [Cubers Eve 2013](https://www.worldcubeassociation.org/competitions/CubersEve2013/results/podiums#eclock) | 2 |
 
@@ -3638,14 +3638,14 @@
 | [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) | 16.27 | **25.85** | [Chojnice Open 2013](https://www.worldcubeassociation.org/competitions/ChojniceOpen2013/results/podiums#esq1) | 3 |
 | [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) | 22.33 | **24.50** | [GLS Autumn Reda 2013](https://www.worldcubeassociation.org/competitions/GLSAutumnReda2013/results/podiums#esq1) | 1 |
 | [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) | 15.14 | **24.18** | [Grudziadz Open 2013](https://www.worldcubeassociation.org/competitions/GrudziadzOpen2013/results/podiums#esq1) | 1 |
-| [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) | 19.53 | **23.51** | [ Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013/results/podiums#esq1) | 3 |
+| [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) | 19.53 | **23.51** | [Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013/results/podiums#esq1) | 3 |
 
 #### 4x4x4 Blindfolded
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
-| [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) | **27:36.00** | DNF | [ Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013/results/podiums#e444bf) | 3 |
-| [Daniel Chudecki](https://www.worldcubeassociation.org/persons/2011CHUD01) | **14:34.00** | DNF | [ Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013/results/podiums#e444bf) | 2 |
+| [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) | **27:36.00** | DNF | [Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013/results/podiums#e444bf) | 3 |
+| [Daniel Chudecki](https://www.worldcubeassociation.org/persons/2011CHUD01) | **14:34.00** | DNF | [Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013/results/podiums#e444bf) | 2 |
 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | **6:35.87** | DNF | [Manufaktura Open 2013](https://www.worldcubeassociation.org/competitions/ManufakturaOpen2013/results/podiums#e444bf) | 1 |
 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | **6:14.40** | DNF | [SLS Zaglebie 2013](https://www.worldcubeassociation.org/competitions/SLSZaglebie2013/results/podiums#e444bf) | 1 |
 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | **5:33.31** | DNF | [Polish Nationals 2013](https://www.worldcubeassociation.org/competitions/PolishNationals2013/results/podiums#e444bf) | 2 |
@@ -3653,7 +3653,7 @@
 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | **4:56.72** | 6:24.42 | [Polish Open 2013](https://www.worldcubeassociation.org/competitions/PolishOpen2013/results/podiums#e444bf) | 1 |
 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | **4:39.61** |  | [GLS Autumn Reda 2013](https://www.worldcubeassociation.org/competitions/GLSAutumnReda2013/results/podiums#e444bf) | 1 |
 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | **3:38.62** | DNF | [Grudziadz Open 2013](https://www.worldcubeassociation.org/competitions/GrudziadzOpen2013/results/podiums#e444bf) | 2 |
-| [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | **3:34.94** | DNF | [ Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013/results/podiums#e444bf) | 1 |
+| [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | **3:34.94** | DNF | [Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013/results/podiums#e444bf) | 1 |
 
 #### 5x5x5 Blindfolded
 
@@ -3662,7 +3662,7 @@
 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | **26:40.00** | DNF | [Polish Open 2013](https://www.worldcubeassociation.org/competitions/PolishOpen2013/results/podiums#e555bf) | 2 |
 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | **20:27.00** | DNF | [Polish Nationals 2013](https://www.worldcubeassociation.org/competitions/PolishNationals2013/results/podiums#e555bf) | 2 |
 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | **16:31.00** | DNF | [Polish Open 2013](https://www.worldcubeassociation.org/competitions/PolishOpen2013/results/podiums#e555bf) | 1 |
-| [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | **16:30.00** | DNF | [ Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013/results/podiums#e555bf) | 1 |
+| [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | **16:30.00** | DNF | [Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013/results/podiums#e555bf) | 1 |
 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | **15:23.00** | DNF | [Polish Nationals 2013](https://www.worldcubeassociation.org/competitions/PolishNationals2013/results/podiums#e555bf) | 1 |
 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | **15:21.00** | DNF | [SLS Zaglebie 2013](https://www.worldcubeassociation.org/competitions/SLSZaglebie2013/results/podiums#e555bf) | 1 |
 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | **10:57.00** | DNF | [Grudziadz Open 2013](https://www.worldcubeassociation.org/competitions/GrudziadzOpen2013/results/podiums#e555bf) | 1 |

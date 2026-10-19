@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 16 October 2026*
+*Updated on 19 October 2026*
 
 
 ### Competition
@@ -32,25 +32,25 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **21643** | 22564 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **21819** | 22744 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **17302** | 17994 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **16494** | 16925 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **13677** | 14734 |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **13363** | 13844 |
-| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **13146** | 13820 |
-| [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **12256** | 12942 |
-| [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | **11483** | 11849 |
+| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **13214** | 13890 |
+| [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **12321** | 13007 |
+| [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | **11567** | 11934 |
 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | **10375** | 11049 |
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | **10342** | 10920 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | **10264** | 10451 |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **9678** | 11200 |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **9623** | 9795 |
+| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **9746** | 11277 |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **9653** | 9825 |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | **9582** | 9795 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **9332** | 9669 |
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | **9319** | 9524 |
-| [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | **7977** | 8702 |
+| [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | **8032** | 8766 |
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | **7956** | 8230 |
-| [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | **7531** | 7891 |
+| [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | **7565** | 7926 |
 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | **7523** | 7663 |
 
 ### Year
@@ -59,7 +59,7 @@
 | :--- | ---: | ---: |
 | 2025 | **236931** | 249879 |
 | 2024 | **224448** | 235988 |
-| 2026 | **201197** | 213322 |
+| 2026 | **207636** | 220105 |
 | 2023 | **188218** | 198622 |
 | 2022 | **116402** | 123618 |
 | 2019 | **91337** | 95933 |
@@ -82,26 +82,26 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **390306** | 398060 |
-| 2x2x2 Cube | **254842** | 261851 |
-| Pyraminx | **196986** | 202190 |
-| Skewb | **140004** | 143609 |
-| 4x4x4 Cube | **133143** | 137715 |
-| 3x3x3 One-Handed | **107526** | 110997 |
-| Clock | **84646** | 97873 |
-| Megaminx | **67348** | 70055 |
-| 5x5x5 Cube | **65162** | 67481 |
-| Square-1 | **54250** | 56378 |
-| 6x6x6 Cube | **15653** | 16234 |
-| 3x3x3 Blindfolded | **14410** | 37705 |
-| 7x7x7 Cube | **13248** | 13827 |
+| 3x3x3 Cube | **392306** | 400095 |
+| 2x2x2 Cube | **256012** | 263051 |
+| Pyraminx | **197957** | 203179 |
+| Skewb | **140813** | 144436 |
+| 4x4x4 Cube | **133862** | 138457 |
+| 3x3x3 One-Handed | **107871** | 111353 |
+| Clock | **84966** | 98241 |
+| Megaminx | **67353** | 70060 |
+| 5x5x5 Cube | **65173** | 67492 |
+| Square-1 | **54260** | 56388 |
+| 6x6x6 Cube | **15655** | 16236 |
+| 3x3x3 Blindfolded | **14481** | 37932 |
+| 7x7x7 Cube | **13251** | 13832 |
 | 3x3x3 Fewest Moves | **7062** | 9260 |
 | Magic | **4230** | 4674 |
 | 3x3x3 Multi-Blind | **2479** | 3682 |
 | 3x3x3 With Feet | **2450** | 2650 |
 | Master Magic | **2181** | 2238 |
-| 4x4x4 Blindfolded | **894** | 2977 |
-| 5x5x5 Blindfolded | **402** | 1587 |
+| 4x4x4 Blindfolded | **897** | 2981 |
+| 5x5x5 Blindfolded | **402** | 1589 |
 
 
 <a href="https://github.com/maxidragon/wca_statistics_pl" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

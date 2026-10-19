@@ -1,6 +1,6 @@
 ## Most completed solves at one competition
 
-*Updated on 16 October 2026*
+*Updated on 19 October 2026*
 
 | Person | Competition | Solves | Attempts |
 | :--- | ---: | ---: | ---: |
@@ -17,7 +17,7 @@
 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | [Kārķi Open 2025](https://www.worldcubeassociation.org/competitions/KarkiOpen2025) | 160 | 165 |
 | [Tymon Martyński](https://www.worldcubeassociation.org/persons/2022MART79) | [All Rounders Katowice I 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceI2026) | 160 | 165 |
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | [All Rounders Katowice I 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceI2026) | 160 | 169 |
-| [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | [All Rounders Katowice I 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceI2026) | 160 | 172 |
+| [Moli Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | [All Rounders Katowice I 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceI2026) | 160 | 172 |
 | [Marcel Borkowski](https://www.worldcubeassociation.org/persons/2023BORK01) | [Farewell Strathclyde 2026](https://www.worldcubeassociation.org/competitions/FarewellStrathclyde2026) | 160 | 176 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | [All Rounders Katowice I 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceI2026) | 158 | 163 |
 | [Igor Łabędź](https://www.worldcubeassociation.org/persons/2021LABE01) | [All Rounders Katowice I 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceI2026) | 157 | 165 |

@@ -1,7 +1,7 @@
 ## Most competitions attended before delegating one
 
 *Note: Only competitions that started before the first delegated one are counted.*
-*Updated on 16 October 2026*
+*Updated on 19 October 2026*
 
 | Competitions | Person | First competition | First delegated |
 | ---: | :--- | :--- | :--- |
@@ -17,6 +17,7 @@
 | 79 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | [Polish Open 2005](https://www.worldcubeassociation.org/competitions/PolishOpen2005) | [Aleksandrus Cube 2014](https://www.worldcubeassociation.org/competitions/AleksandrusCube2014) |
 | 74 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | [LLS I Bełżyce 2021](https://www.worldcubeassociation.org/competitions/LLSIBelzyce2021) | [Cube Factory League Rogów 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueRogow2025) |
 | 69 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | [Cubing Spring Grudziadz 2012](https://www.worldcubeassociation.org/competitions/CubingSpringGrudziadz2012) | [Piła Open 2025](https://www.worldcubeassociation.org/competitions/PilaOpen2025) |
+| 62 | [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) | [SLS Bielsko-Biala 2014](https://www.worldcubeassociation.org/competitions/SLSBielskoBiala2014) | [Cube4fun in Sieradz 2026](https://www.worldcubeassociation.org/competitions/Cube4funinSieradz2026) |
 | 48 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | [Polish Open 2005](https://www.worldcubeassociation.org/competitions/PolishOpen2005) | [ŚLS Zawiercie 2015](https://www.worldcubeassociation.org/competitions/SLSZawiercie2015) |
 | 46 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | [Cube4fun Kluczbork 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueIIKluczbork2022) | [Cube4fun in Tylmanowa 2025](https://www.worldcubeassociation.org/competitions/Cube4funinTylmanowa2025) |
 | 38 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) | [Silesia Open 2012](https://www.worldcubeassociation.org/competitions/SilesiaOpen2012) | [Polish Nationals 2017](https://www.worldcubeassociation.org/competitions/PolishNationals2017) |

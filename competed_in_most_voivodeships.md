@@ -1,7 +1,7 @@
 ## Competed in most voivodeships in Poland
 
 *Note: Voivodeships are inferred from competition coordinates. Approximate bounding box classification.*
-*Updated on 16 October 2026*
+*Updated on 19 October 2026*
 
 | Person | Completed | Missed | Missed Voivodeships | Completed At |
 | :--- | ---: | ---: | :--- | :--- |
@@ -15,7 +15,7 @@
 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | 16 | 0 |  | [Olsztyn Open 2024](https://www.worldcubeassociation.org/competitions/OlsztynOpen2024) |
 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 16 | 0 |  | [Kielce Open 2026](https://www.worldcubeassociation.org/competitions/KielceOpen2026) |
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 16 | 0 |  | [Kielce Open 2026](https://www.worldcubeassociation.org/competitions/KielceOpen2026) |
-| [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | 16 | 0 |  | [Gorzów Cubing Days 2026](https://www.worldcubeassociation.org/competitions/GorzowCubingDays2026) |
+| [Moli Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | 16 | 0 |  | [Gorzów Cubing Days 2026](https://www.worldcubeassociation.org/competitions/GorzowCubingDays2026) |
 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 16 | 0 |  | [Cube4fun in Barcin 2026](https://www.worldcubeassociation.org/competitions/Cube4funinBarcin2026) |
 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 15 | 1 | małopolskie |  |
 | [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) | 15 | 1 | warmińsko-mazurskie |  |

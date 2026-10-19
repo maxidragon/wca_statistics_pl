@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 16 October 2026*
+*Updated on 19 October 2026*
 
 | Countries | Person |
 | ---: | :--- |
@@ -9,7 +9,7 @@
 | 23 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 20 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) |
 | 19 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
-| 19 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
+| 19 | [Moli Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
 | 18 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 18 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 15 | [Igor Wojciech Wawrzynski](https://www.worldcubeassociation.org/persons/2019WAWR01) |

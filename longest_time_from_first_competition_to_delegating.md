@@ -1,11 +1,12 @@
 ## Longest time from first competition to delegating one
 
-*Updated on 16 October 2026*
+*Updated on 19 October 2026*
 
 | Days | Person | First competition | First delegated |
 | ---: | :--- | :--- | :--- |
 | 4844 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | [Polish Nationals 2013](https://www.worldcubeassociation.org/competitions/PolishNationals2013) | [Chorzów Cubing Days 2026](https://www.worldcubeassociation.org/competitions/ChorzowCubingDays2026) |
 | 4662 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | [Cubing Spring Grudziadz 2012](https://www.worldcubeassociation.org/competitions/CubingSpringGrudziadz2012) | [Piła Open 2025](https://www.worldcubeassociation.org/competitions/PilaOpen2025) |
+| 4656 | [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) | [SLS Bielsko-Biala 2014](https://www.worldcubeassociation.org/competitions/SLSBielskoBiala2014) | [Cube4fun in Sieradz 2026](https://www.worldcubeassociation.org/competitions/Cube4funinSieradz2026) |
 | 4368 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | [Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013) | [FMC Europe 2025](https://www.worldcubeassociation.org/competitions/FMCEurope2025) |
 | 3892 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | [PLS Sopot 2014](https://www.worldcubeassociation.org/competitions/PLSSopot2014) | [Winter Side Wrocław 2025](https://www.worldcubeassociation.org/competitions/WinterSideWroclaw2025) |
 | 3541 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | [Polish Open 2005](https://www.worldcubeassociation.org/competitions/PolishOpen2005) | [Speed Days Kraśnik 2015](https://www.worldcubeassociation.org/competitions/SpeedDaysKrasnik2015) |

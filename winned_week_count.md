@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 16 October 2026*
+*Updated on 19 October 2026*
 
 
 ### 3x3x3 Cube
@@ -56,7 +56,7 @@
 
 | Person | Winned weeks |
 | :--- | ---: |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 67 |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 68 |
 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 6 |
 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 5 |
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 5 |
@@ -279,7 +279,7 @@
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 1 |
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 1 |
 | [Oliver Sherlock](https://www.worldcubeassociation.org/persons/2019SHER13) | 1 |
-| [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | 1 |
+| [Moli Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | 1 |
 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) | 1 |
 | [Szymon Knapek](https://www.worldcubeassociation.org/persons/2023KNAP01) | 1 |
 

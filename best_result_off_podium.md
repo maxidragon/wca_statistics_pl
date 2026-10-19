@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals at Polish competitions are taken into account.*
-*Updated on 16 October 2026*
+*Updated on 19 October 2026*
 
 
 ### 3x3x3 Cube
@@ -211,7 +211,7 @@
 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 7.65 | **8.07** | [SzczeciNxN 2026](https://www.worldcubeassociation.org/competitions/SzczeciNxN2026/results/all#esq1_f) | 5 |
 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 6.75 | **8.35** | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026/results/all#esq1_c) | 4 |
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 6.98 | **8.44** | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/all#esq1_f) | 4 |
-| [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | 6.86 | **8.45** | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/all#esq1_f) | 5 |
+| [Moli Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | 6.86 | **8.45** | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/all#esq1_f) | 5 |
 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 5.84 | **8.49** | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/all#esq1_f) | 6 |
 
 ### 4x4x4 Blindfolded

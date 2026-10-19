@@ -1,6 +1,6 @@
 ## Average results submission time by Polish delegates each year
 
-*Updated on 16 October 2026*
+*Updated on 19 October 2026*
 
 
 ### 2026
@@ -8,19 +8,20 @@
 | Delegate | Average time | Total delegated |
 | ---: | :--- | ---: |
 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | -0.46h | 10 |
-| [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) | -0.30h | 1 |
+| [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) | -0.29h | 1 |
 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 0.30h | 27 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 1.28h | 36 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 1.23h | 37 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 1.66h | 28 |
 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 2.85h | 1 |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 3.06h | 1 |
 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 7.42h | 1 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 8.24h | 2 |
-| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 11.14h | 16 |
+| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 10.43h | 17 |
 | [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) | 14.36h | 1 |
 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 19.06h | 13 |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 1d 1.98h | 18 |
-| [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 2d 5.72h | 12 |
+| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 1d 7.85h | 20 |
+| [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 2d 14.64h | 13 |
+| [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) | 3d 12.66h | 2 |
 
 ### 2025
 
@@ -79,8 +80,8 @@
 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 4d 13.11h | 2 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 4d 23.12h | 10 |
 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) | 6d 2.03h | 3 |
-| [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 6d 6.51h | 1 |
 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 6d 6.51h | 1 |
+| [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 6d 6.51h | 1 |
 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) | 6d 8.74h | 6 |
 
 ### 2020

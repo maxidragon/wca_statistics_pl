@@ -1,13 +1,13 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 16 October 2026*
+*Updated on 19 October 2026*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **273** | 35 | 14 | 322 |
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | **84** | 35 | 27 | 146 |
-| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **40** | 55 | 40 | 135 |
+| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **41** | 55 | 42 | 138 |
 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | **30** | 17 | 12 | 59 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **26** | 20 | 21 | 67 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | **20** | 10 | 8 | 38 |
@@ -39,7 +39,7 @@
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | **7** | 7 | 2 | 16 |
 | [Jakub Cabaj](https://www.worldcubeassociation.org/persons/2008CABA03) | **7** | 6 | 5 | 18 |
 | [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) | **7** | 4 | 11 | 22 |
-| [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | **7** | 4 | 3 | 14 |
+| [Moli Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | **7** | 4 | 3 | 14 |
 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | **7** | 3 | 5 | 15 |
 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | **7** | 2 | 0 | 9 |
 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) | **6** | 16 | 13 | 35 |
@@ -92,7 +92,7 @@
 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) | **1** | 4 | 4 | 9 |
 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) | **1** | 4 | 1 | 6 |
 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | **1** | 3 | 5 | 9 |
-| [Filip Chudy](https://www.worldcubeassociation.org/persons/2022CHUD02) | **1** | 3 | 1 | 5 |
+| [Filip Chudy](https://www.worldcubeassociation.org/persons/2022CHUD02) | **1** | 3 | 2 | 6 |
 | [Maksymilian Sordyl](https://www.worldcubeassociation.org/persons/2022SORD01) | **1** | 3 | 0 | 4 |
 | [Jakub Grzybowski](https://www.worldcubeassociation.org/persons/2017GRZY02) | **1** | 2 | 3 | 6 |
 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | **1** | 2 | 2 | 5 |

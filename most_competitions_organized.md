@@ -1,10 +1,10 @@
 ## Most competitions organized
 
-*Updated on 16 October 2026*
+*Updated on 19 October 2026*
 
 | Organized | Person |
 | ---: | :--- |
-| 146 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
+| 147 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
 | 85 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
 | 85 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 79 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
@@ -29,7 +29,7 @@
 | 18 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) |
 | 18 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
 | 16 | [Klaudia Milewczyk](https://www.worldcubeassociation.org/persons/2022MILE05) |
-| 14 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
+| 14 | [Moli Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
 | 13 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) |
 | 12 | [Szymon Jeziorski](https://www.worldcubeassociation.org/persons/2013JEZI01) |
 | 12 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |

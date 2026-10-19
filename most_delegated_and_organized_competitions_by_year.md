@@ -1,26 +1,27 @@
 ## Most delegated and organized competitions each year
 
 *Note: This statistic shows how many of the competitions delegated by each Polish delegate in a given year were also organized by them.*
-*Updated on 16 October 2026*
+*Updated on 19 October 2026*
 
 
 ### 2026
 
 | Delegated & organized | Delegated | Share | Person |
 | ---: | ---: | ---: | :--- |
+| 2 | 2 | 100.0% | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) |
 | 1 | 1 | 100.0% | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |
-| 1 | 1 | 100.0% | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) |
 | 24 | 28 | 85.7% | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
-| 10 | 13 | 76.9% | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
-| 13 | 18 | 72.2% | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
-| 10 | 16 | 62.5% | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
+| 11 | 14 | 78.6% | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
+| 13 | 20 | 65.0% | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
+| 10 | 17 | 58.8% | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
 | 4 | 13 | 30.8% | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
-| 10 | 37 | 27.0% | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 10 | 38 | 26.3% | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 1 | 27 | 3.7% | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
 | 0 | 2 | 0.0% | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
 | 0 | 10 | 0.0% | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) |
 | 0 | 1 | 0.0% | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
 | 0 | 2 | 0.0% | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
+| 0 | 1 | 0.0% | [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) |
 | 0 | 1 | 0.0% | [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) |
 
 ### 2025

@@ -1,7 +1,7 @@
 ## Highest percentage of delegates per competitor
 
 *Note: Only Polish competitions with posted results are included. Listed delegates are taken from the competition's delegate list and do not have to compete. An unlisted delegate is a competitor who was not listed and whose RolesMetadataDelegateRegions role was active during at least one day of the competition. Because some historical role dates were not backfilled, a role starting on 1 August 2004 is treated as starting at the delegate's earliest listed competition instead.*
-*Updated on 16 October 2026*
+*Updated on 19 October 2026*
 
 
 ### Listed delegates only
@@ -98,6 +98,7 @@
 | 4.26% | [Stork Cubing Przygodzice 2026](https://www.worldcubeassociation.org/competitions/StorkCubingPrzygodzice2026) | 2 | 47 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01), [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 4.08% | [Cool Down Szczecin 2025](https://www.worldcubeassociation.org/competitions/CoolDownSzczecin2025) | 2 | 49 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01), [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
 | 4.08% | [Gift Packs Niepołomice 2025](https://www.worldcubeassociation.org/competitions/GiftPacksNiepolomice2025) | 2 | 49 | [Ihor Sukhovatenko (Ігор Суховатенко)](https://www.worldcubeassociation.org/persons/2017SUKH02), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 4.00% | [Cube4fun in Sieradz 2026](https://www.worldcubeassociation.org/competitions/Cube4funinSieradz2026) | 2 | 50 | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 3.85% | [Winter Holiday Czarna Woda 2026](https://www.worldcubeassociation.org/competitions/WinterHolidayCzarnaWoda2026) | 2 | 52 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01), [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 3.85% | [CF Goes Sideways Brzeziny 2025](https://www.worldcubeassociation.org/competitions/CFGoesSidewaysBrzeziny2025) | 1 | 26 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
 | 3.75% | [Winter Vibe Wrocław 2024](https://www.worldcubeassociation.org/competitions/WinterVibeWroclaw2024) | 3 | 80 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01), [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
@@ -112,7 +113,6 @@
 | 3.39% | [Cube4fun Tylmanowa Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaWinter2026) | 2 | 59 | [Ihor Sukhovatenko (Ігор Суховатенко)](https://www.worldcubeassociation.org/persons/2017SUKH02), [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 3.33% | [CF Claus Race Brzeziny 2025](https://www.worldcubeassociation.org/competitions/CFClausRaceBrzeziny2025) | 3 | 90 | [Ihor Sukhovatenko (Ігор Суховатенко)](https://www.worldcubeassociation.org/persons/2017SUKH02), [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 3.33% | [Gniezno Side Open 2025](https://www.worldcubeassociation.org/competitions/GnieznoSideOpen2025) | 1 | 30 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
-| 3.23% | [CFGS VI Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGSVIBrzeziny2026) | 1 | 31 | [Ihor Sukhovatenko (Ігор Суховатенко)](https://www.worldcubeassociation.org/persons/2017SUKH02) |
 
 ### Listed and unlisted delegates
 

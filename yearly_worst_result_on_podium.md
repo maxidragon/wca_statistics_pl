@@ -1,7 +1,7 @@
 ## Worst result providing a podium by year at Polish competitions
 
 *Note: Only finals at competitions held in Poland are taken into account, regardless of the podium members' countries. Results where the main statistic is DNF are ignored. Each year is considered separately.*
-*Updated on 16 October 2026*
+*Updated on 19 October 2026*
 
 
 ### 2026
@@ -42,6 +42,7 @@
 | :--- | ---: | ---: | :--- | :--: |
 | [Kacper Grzelakowski](https://www.worldcubeassociation.org/persons/2017GRZE01) | 36.69 | **40.17** | [Baltic Skewb Fest Gdańsk 2026](https://www.worldcubeassociation.org/competitions/BalticSkewbFestGdansk2026/results/podiums#e444) | 3 |
 | [Michał Majchrzak](https://www.worldcubeassociation.org/persons/2022MAJC01) | 34.37 | **38.09** | [Koszalin Open 2026](https://www.worldcubeassociation.org/competitions/KoszalinOpen2026/results/podiums#e444) | 3 |
+| [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | 35.22 | **37.77** | [Cube4fun in Lublin 2026](https://www.worldcubeassociation.org/competitions/Cube4funinLublin2026/results/podiums#e444) | 3 |
 | [Jan Jędrzej Kasprzak](https://www.worldcubeassociation.org/persons/2022KASP03) | 33.52 | **37.71** | [Summer Cubing Szczecin 2026](https://www.worldcubeassociation.org/competitions/SummerCubingSzczecin2026/results/podiums#e444) | 3 |
 | [Volodymyr Hnidko (Володимир Гнідко)](https://www.worldcubeassociation.org/persons/2016HNID01) | 28.05 | **37.50** | [Cube4fun Lublin Spring 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinSpring2026/results/podiums#e444) | 3 |
 | [Maks Noska](https://www.worldcubeassociation.org/persons/2023NOSK01) | 31.88 | **36.99** | [Baltic Skewb Fest Gdańsk 2026](https://www.worldcubeassociation.org/competitions/BalticSkewbFestGdansk2026/results/podiums#e444) | 2 |
@@ -49,7 +50,6 @@
 | [Ihor Sukhovatenko (Ігор Суховатенко)](https://www.worldcubeassociation.org/persons/2017SUKH02) | 26.35 | **36.69** | [Cube4fun Lublin on POLLUB 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinonPOLLUB2026/results/podiums#e444) | 3 |
 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | 30.35 | **35.61** | [Winter Holiday Czarna Woda 2026](https://www.worldcubeassociation.org/competitions/WinterHolidayCzarnaWoda2026/results/podiums#e444) | 3 |
 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 31.44 | **35.32** | [Koszalin Open 2026](https://www.worldcubeassociation.org/competitions/KoszalinOpen2026/results/podiums#e444) | 2 |
-| [Oskar Matysik](https://www.worldcubeassociation.org/persons/2019MATY01) | 31.91 | **35.24** | [Scrambled Cubes Legnica 2026](https://www.worldcubeassociation.org/competitions/ScrambledCubesLegnica2026/results/podiums#e444) | 3 |
 
 #### 5x5x5 Cube
 

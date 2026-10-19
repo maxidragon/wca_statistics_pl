@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on 16 October 2026*
+*Updated on 19 October 2026*
 
 | Continents | Person |
 | ---: | :--- |
@@ -73,7 +73,7 @@
 | 2 | [Jarosław Chodyniecki](https://www.worldcubeassociation.org/persons/2018CHOD01) |
 | 2 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) |
 | 2 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
-| 2 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
+| 2 | [Moli Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
 | 2 | [Michał Kopeć](https://www.worldcubeassociation.org/persons/2020KOPE01) |
 | 2 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
 | 2 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) |

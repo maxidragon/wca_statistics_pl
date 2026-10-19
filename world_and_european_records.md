@@ -1,7 +1,7 @@
 ## World and European records set by Polish people
 
 *Note: All historical records are taken into account (i.e. not only the current ones). Records that were world records at the time are listed only in the world records table.*
-*Updated on 16 October 2026*
+*Updated on 19 October 2026*
 
 
 ### World records
@@ -143,6 +143,8 @@
 
 | Date | Event | Type | Result | Person | Competition |
 | :--- | :--- | :--- | ---: | :--- | :--- |
+| 10 Oct 2026 | 3x3x3 Cube | Average | 4.37 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | [GLS Gdańsk VI 2026](https://www.worldcubeassociation.org/competitions/GLSGdanskVI2026/results/by_person#2021ZAJD03) |
+| 10 Oct 2026 | 3x3x3 Cube | Average | 4.37 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | [GLS Gdańsk VI 2026](https://www.worldcubeassociation.org/competitions/GLSGdanskVI2026/results/by_person#2021ZAJD03) |
 | 25 Aug 2026 | 7x7x7 Cube | Single | 1:32.69 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Elmsford Extravaganza III 2026](https://www.worldcubeassociation.org/competitions/ElmsfordExtravaganzaIII2026/results/by_person#2016KOLA02) |
 | 16 Jul 2026 | 7x7x7 Cube | Average | 1:42.14 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2016KOLA02) |
 | 16 Jul 2026 | 7x7x7 Cube | Average | 1:41.64 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2016KOLA02) |

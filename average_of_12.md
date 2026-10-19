@@ -1,14 +1,14 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 16 October 2026*
+*Updated on 19 October 2026*
 
 
 ### 3x3x3 Cube
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 4.71 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 4.50, 5.36, 4.86, 3.84, 3.94, 4.43, 4.58, 6.33, 3.41, 4.85, 6.22, 4.50 |
+| 4.45 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 3.89, 5.18, 4.11, 5.12, 3.71, 6.69, 4.63, 4.75, 3.88, 4.50, 4.14, 4.31 |
 | 4.73 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 4.10, 5.41, 3.85, 4.72, 4.64, 3.89, 5.76, 4.86, 4.88, 6.71, 4.97, 4.07 |
 | 5.15 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 5.35, 5.29, 5.59, 5.51, 4.55, 4.82, 8.83, 4.93, 5.19, 4.72, 4.56, 5.51 |
 | 5.71 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | 5.65, 4.75, 5.58, 6.82, 5.78, 5.70, 5.44, 7.95, 5.64, 5.84, 4.87, 5.76 |
@@ -209,7 +209,7 @@
 | 6.65 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 6.92, 7.09, 5.03, 6.77, 6.77, 7.40, 4.91, 6.53, 8.21, 5.72, 7.27, 7.01 |
 | 6.70 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 6.60, 6.81, 7.24, 7.05, 6.80, 5.91, 6.45, 8.25, 6.95, 6.62, 6.56, 5.80 |
 | 6.83 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 5.36, 5.50, 5.94, 8.43, 7.58, 7.06, 6.73, 6.49, 9.09, 6.69, 5.52, 8.35 |
-| 7.32 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | 8.17, 5.29, 8.08, 5.78, 10.39, 6.17, 6.39, 6.61, 8.76, 7.29, 10.35, 5.61 |
+| 7.32 | [Moli Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | 8.17, 5.29, 8.08, 5.78, 10.39, 6.17, 6.39, 6.61, 8.76, 7.29, 10.35, 5.61 |
 | 7.73 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 11.09, 6.62, 7.85, 8.41, 5.36, 5.76, 12.58, 8.53, 8.24, 6.78, 7.15, 6.88 |
 | 8.32 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 9.38, 9.83, 8.15, 8.86, 13.56, 7.79, 7.10, 8.15, 7.61, 8.61, 6.85, 7.70 |
 | 8.39 | [Witold Sołtysik](https://www.worldcubeassociation.org/persons/2015SOLT03) | 7.28, 8.61, 8.25, 8.96, 6.23, 8.07, 10.92, 16.06, 7.02, 8.18, 8.96, 7.65 |

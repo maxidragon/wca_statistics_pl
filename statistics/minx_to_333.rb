@@ -3,6 +3,7 @@ require_relative "../core/statistic"
 class MinxTo333 < Statistic
   def initialize
     @title = "Megaminx results compared to 3x3 (Poland)"
+    @category = :results
     @table_header = { "Person" => :left, "Megaminx" => :right, "3x3" => :right, "Ratio" => :right }
     @note = "This statistic compares the best Megaminx average to the best 3x3 average for Polish competitors."
   end

@@ -5,6 +5,7 @@ class MostCompetitionRoundsPercentage < Statistic
 
   def initialize
     @title = "Most % of rounds competed in at one competition"
+    @category = :results
     @note = "Shows the highest percentage of a competition's rounds that a Polish competitor participated in. Only competitions with more than 1 event and more than #{MIN_ROUNDS} rounds are included."
     @table_header = { "%" => :right, "Person" => :left, "Competition" => :left, "Rounds competed" => :right, "Total rounds" => :right }
   end

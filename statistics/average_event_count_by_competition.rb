@@ -3,6 +3,7 @@ require_relative "../core/statistic"
 class AverageEventCountByCompetition < Statistic
   def initialize
     @title = "Average event count by competition"
+    @category = :competitions
     @note = "In other words, average number of events competitors participated in."
     @table_header = { "Competition" => :left, "Average event count" => :right, "Competitors" => :right }
   end

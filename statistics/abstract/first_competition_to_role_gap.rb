@@ -5,13 +5,14 @@ require_relative "../../core/statistic"
 # either in days or in competitions attended in between.
 class FirstCompetitionToRoleGap < Statistic
   ROLES = {
-    organizer: { table: "competition_organizers", column: "organizer_id", verb: "organizing", participle: "organized" },
-    delegate: { table: "competition_delegates", column: "delegate_id", verb: "delegating", participle: "delegated" }
+    organizer: { table: "competition_organizers", column: "organizer_id", verb: "organizing", participle: "organized", category: :organizing },
+    delegate: { table: "competition_delegates", column: "delegate_id", verb: "delegating", participle: "delegated", category: :delegating }
   }.freeze
 
   def initialize(role:, metric:)
     @role = ROLES.fetch(role)
     @metric = metric
+    @category = @role[:category]
     @table_header =
       case @metric
       when :days

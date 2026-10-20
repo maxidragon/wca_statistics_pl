@@ -10,6 +10,7 @@ class WorstQualifyingResults < GroupedStatistic
 
   def initialize(title:, note:, max_position:, joins: "", condition: "", yearly: false)
     @title = title
+    @category = :podiums
     @note = note
     @max_position = max_position
     @joins = joins

@@ -6,6 +6,7 @@ class DelegatedACompetitionInMostVoivodeships < Statistic
 
   def initialize
     @title = "Delegated competitions in most voivodeships in Poland"
+    @category = :delegating
     @note = "Voivodeships are inferred from competition coordinates (approximate bounding box). " \
             "Only Polish delegates and Polish competitions with posted results are included."
     @table_header = {

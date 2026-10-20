@@ -7,6 +7,7 @@ class NrAveragesWithAllAttemptsSubPreviousNr < GroupedStatistic
 
   def initialize
     @title = "National record averages with every attempt better than the previous national record average"
+    @category = :records
     @note = "Continental and world records count as national records as well. The first national record in an event is skipped, as there is nothing to compare it with. Averages with an unsolved attempt are not taken into account."
     @table_header = { "Average" => :right, "Times" => :left, "Previous NR" => :right, "Person" => :left, "Competition" => :left }
   end

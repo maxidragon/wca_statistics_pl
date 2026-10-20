@@ -3,6 +3,7 @@ require_relative "../core/statistic"
 class HighestPercentageOfCompetitionsWithMedal < Statistic
   def initialize
     @title = "Highest percentage of competitions with at least one medal"
+    @category = :podiums
     @note = "A medal means a top 3 place in a final of any event. Only Polish competitors with at least 10 competitions are included."
     @table_header = { "Share" => :right, "With a medal" => :right, "Competitions" => :right, "Person" => :left }
   end

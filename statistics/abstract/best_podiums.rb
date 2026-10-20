@@ -7,6 +7,7 @@ class BestPodiums < GroupedStatistic
     @condition = condition
 
     @title = title
+    @category = :podiums
     @note = note
     @table_header = { "Competition" => :left, "Podium" => :left, "Total" => :right }
   end

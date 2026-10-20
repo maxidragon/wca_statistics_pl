@@ -6,6 +6,7 @@ class AverageFeePerVoivodeship < GroupedStatistic
 
   def initialize
     @title = "Average registration fee per voivodeship"
+    @category = :competitions
     @note = "Voivodeship is inferred from competition coordinates (approximate bounding box). " \
             "Only PLN competitions are included."
     @table_header = { "Voivodeship" => :left, "Avg Fee" => :right, "Competitions" => :right }

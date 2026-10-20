@@ -3,6 +3,7 @@ require_relative "../core/statistic"
 class MostCompetitionsOnSameDate < Statistic
   def initialize
     @title = "Most competitions on the same calendar date"
+    @category = :competing
     @table_header = { "Count" => :right, "Person" => :left, "Date" => :left, "Years" => :left }
   end
 

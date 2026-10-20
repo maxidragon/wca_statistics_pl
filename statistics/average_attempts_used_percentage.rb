@@ -5,6 +5,7 @@ class AverageAttemptsUsedPercentage < Statistic
 
   def initialize
     @title = "Highest average percentage of available attempts used"
+    @category = :results
     @note = "For every competition, the available attempts are the sum of the expected solve counts of all its rounds, no matter which events the competitor signed up for. The used attempts are the ones they actually started (DNFs count, DNSs and attempts lost to a cutoff do not). The percentage is the average of those per-competition ratios, while the attempt counts are totals. Competitions abroad are included. Only Polish competitors with at least #{MIN_COMPETITIONS} competitions are included."
     @table_header = { "%" => :right, "Person" => :left, "Attempted" => :right, "Available" => :right, "Competitions" => :right }
   end

@@ -7,6 +7,7 @@ class Rankings < GroupedStatistic
     @condition = condition
 
     @title = title
+    @category = :results
     @note = note
     @table_header = { "Person" => :left, "Result" => :right, "Competition" => :left, "Details" => :left }
   end

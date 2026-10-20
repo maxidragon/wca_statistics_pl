@@ -3,6 +3,7 @@ require_relative "../core/statistic"
 class AverageFeePerYear < Statistic
   def initialize
     @title = "Average registration fee per year"
+    @category = :competitions
     @note = "Only competitions with a PLN base fee are included."
     @table_header = { "Year" => :left, "Avg Fee" => :right, "Competitions" => :right }
   end

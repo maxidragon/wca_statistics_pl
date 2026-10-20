@@ -3,6 +3,7 @@ require_relative "../core/statistic"
 class LongestTimeToSub10 < Statistic
   def initialize
     @title = "Longest time to achieve sub 10 3x3x3 average"
+    @category = :milestones
     @table_header = { "Person" => :left, "Years" => :right }
   end
 

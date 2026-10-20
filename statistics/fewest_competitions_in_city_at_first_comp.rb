@@ -3,6 +3,7 @@ require_relative "../core/statistic"
 class FewestCompetitionsInCityAtFirstComp < Statistic
   def initialize
     @title = "Fewest % of competitions attended in the same city as the first competition of the competitor"
+    @category = :competing
     @note = "Counts how many competitions a Polish person attended in the same city " \
             "where they had their very first competition. " \
             "The ratio is computed against all competitions attended, including those abroad. " \

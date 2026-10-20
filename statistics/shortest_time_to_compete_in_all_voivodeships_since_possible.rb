@@ -6,6 +6,7 @@ class ShortestTimeToCompeteInAllVoivodeshipsSincePossible < Statistic
 
   def initialize
     @title = "Shortest time to compete in all voivodeships since it became possible"
+    @category = :milestones
     @note = "Voivodeships are inferred from competition coordinates. Approximate bounding box classification. " \
             "The timer starts when all voivodeships had at least one competition the person could have attended (on or after their debut)."
     @table_header = {

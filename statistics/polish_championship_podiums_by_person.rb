@@ -3,6 +3,7 @@ require_relative "../core/statistic"
 class PolishChampionshipPodiumsByPerson < Statistic
   def initialize
     @title = "Polish Championship podiums by person"
+    @category = :podiums
     @table_header = { "Person" => :left, "Gold" => :center, "Silver" => :center, "Bronze" => :center, "Total" => :center }
   end
 

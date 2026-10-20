@@ -3,6 +3,7 @@ require_relative "../core/statistic"
 class DelegatedCompetitionPerYear < Statistic
   def initialize
     @title = "Delegated competitions per year"
+    @category = :delegating
     @note = "Only delegates with at least 3 competitions are taken into account.
              Delegate period is calculated as the difference between first and last delegated competition."
     @table_header = { "Delegated per year" => :right, "Delegated" => :right, "Years" => :right, "Person" => :left, "List on WCA" => :center }

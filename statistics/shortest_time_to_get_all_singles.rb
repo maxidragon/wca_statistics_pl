@@ -4,6 +4,7 @@ require_relative "../core/events"
 class ShortestTimeToGetAllSingles < Statistic
   def initialize
     @title = "Shortest time to get all singles"
+    @category = :milestones
     @note = "Only current official events are taken into account."
     @table_header = { "Days" => :right, "Person" => :left }
   end

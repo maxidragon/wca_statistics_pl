@@ -6,6 +6,7 @@ class ShortestTimeToCompeteInAllVoivodeships < Statistic
 
   def initialize
     @title = "Shortest time to compete in all voivodeships in Poland"
+    @category = :milestones
     @note = "Voivodeships are inferred from competition coordinates. Approximate bounding box classification."
     @table_header = {
       "Person" => :left,

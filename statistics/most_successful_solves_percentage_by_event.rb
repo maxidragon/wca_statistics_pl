@@ -6,6 +6,7 @@ class MostSuccessfulSolvesPercentageByEvent < GroupedStatistic
 
   def initialize
     @title = "Most % of successful solves in each event"
+    @category = :results
     @note = "Counts individual attempt values. A successful attempt has value > 0 (not DNF). DNS attempts are excluded. Minimum #{MIN_ATTEMPTS} attempts required."
     @table_header = { "%" => :right, "Successful" => :right, "Total" => :right, "Person" => :left }
   end

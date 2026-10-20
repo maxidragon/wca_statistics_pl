@@ -5,6 +5,7 @@ require_relative "../core/solve_time"
 class BestFirstSingle < GroupedStatistic
   def initialize
     @title = "Best first single"
+    @category = :results
     @note = "In other words, it's the best first time done when participating for the first time in the given event."
     @table_header = { "First single" => :right, "Person": :left }
   end

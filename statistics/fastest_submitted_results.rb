@@ -3,6 +3,7 @@ require_relative "../core/statistic"
 class FastestSubmittedResults < Statistic
   def initialize
     @title = "Fastest submitted results"
+    @category = :delegating
     @note = "Only Polish competitions are included."
     @table_header = { "Competition" => :left, "Time to submit" => :right, "Delegates" => :left }
   end

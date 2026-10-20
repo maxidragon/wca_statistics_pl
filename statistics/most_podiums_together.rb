@@ -3,6 +3,7 @@ require_relative "../core/grouped_statistic"
 class MostPodiumsTogether < GroupedStatistic
   def initialize
     @title = "Most podiums together"
+    @category = :podiums
     @table_header = { "Podiums" => :right, "People" => :left }
   end
 

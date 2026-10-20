@@ -5,6 +5,7 @@ require_relative "../core/solve_time"
 class BestSingleCountingIntoAverage < GroupedStatistic
   def initialize
     @title = "Best single counting into an average of 5"
+    @category = :results
     @table_header = { "Counting" => :right, "Peson" => :left, "Competition" => :left }
   end
 

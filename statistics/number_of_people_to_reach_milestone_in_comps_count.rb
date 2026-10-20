@@ -3,6 +3,7 @@ require_relative "../core/statistic"
 class NumberOfPeopleToReachMilestoneInCompsCount < Statistic
   def initialize
     @title = "Number of people to reach milestone in competitions count"
+    @category = :milestones
     @note = "Only Polish competitors are taken into account."
     @table_header = { "Competitions" => :left, "Persons" => :right }
   end

@@ -3,6 +3,7 @@ require_relative "../core/statistic"
 class <<<CLASS_NAME>>> < Statistic
   def initialize
     @title = "Title"
+    @category = :results # One of the keys in core/categories.rb
     @note = "Optional note"
     @table_header = {  }
   end

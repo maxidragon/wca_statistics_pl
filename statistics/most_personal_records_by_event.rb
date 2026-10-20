@@ -4,6 +4,7 @@ require_relative "../core/events"
 class MostPersonalRecordsByEvent < GroupedStatistic
   def initialize
     @title = "Most personal records by event"
+    @category = :results
     @note = "Counts how many personal records (single or average) a competitor achieved in each event."
     @table_header = { "PRs" => :right, "Person" => :left }
   end

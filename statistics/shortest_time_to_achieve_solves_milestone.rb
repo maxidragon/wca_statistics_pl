@@ -3,6 +3,7 @@ require_relative "../core/grouped_statistic"
 class ShortestTimeToAchieveSolvesMilestone < GroupedStatistic
   def initialize
     @title = "Shortest time to achieve solves milestone"
+    @category = :milestones
     @table_header = { "Days" => :right, "Person" => :left }
   end
 

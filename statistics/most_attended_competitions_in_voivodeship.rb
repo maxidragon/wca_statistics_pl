@@ -6,6 +6,7 @@ class MostAttendedCompetitionsInVoivodeship < GroupedStatistic
 
   def initialize
     @title = "Competitions per voivodeship"
+    @category = :competing
     @note = "Voivodeships are inferred from competition coordinates (approximate bounding box). "
     @table_header = { "Person" => :left, "Competitions" => :right }
   end

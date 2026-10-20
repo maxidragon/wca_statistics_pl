@@ -6,6 +6,7 @@ class FewestCompetitionsInVoivodeshipAtFirstComp < Statistic
 
   def initialize
     @title = "Fewest % of competitions attended in the same voivodeship as the first competition of the competitor"
+    @category = :competing
     @note = "Counts how many Polish competitions a person attended in the same voivodeship " \
             "where they had their first competition. " \
             "The ratio is computed against all competitions attended, including those abroad. " \

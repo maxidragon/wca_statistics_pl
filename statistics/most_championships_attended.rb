@@ -50,6 +50,7 @@ class MostChampionshipsAttended < GroupedStatistic
 
   def initialize
     @title = "Most championships attended"
+    @category = :competing
     @note = "Only results achieved while representing Poland are included. Eligible championships are those whose title the competitor could win: World, European and Polish Championships. A competition that is a championship of several types counts once in the total, but in every breakdown column it belongs to. Up to the top #{TOP_POSITIONS} positions are listed for each category, so ties may add more rows."
     @table_header = { "Position" => :right, "Person" => :left, "Championships" => :right }
   end

@@ -3,6 +3,7 @@ require_relative "../core/statistic"
 class LongestCompetitionsPathInWeek < Statistic
   def initialize
     @title = "Longest competitions path in a single week"
+    @category = :travel
     @note = "Calculated as the sum of direct distance between subsequent competitions attended within the same calendar week (Monday-Sunday)."
     @table_header = { "Distance" => :right, "Person" => :left, "Start date" => :left, "End date" => :left, "List" => :left }
   end

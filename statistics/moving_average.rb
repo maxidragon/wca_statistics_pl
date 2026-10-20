@@ -5,6 +5,7 @@ require_relative "../core/solve_time"
 class MovingAverage < GroupedStatistic
   def initialize
     @title = "Moving average"
+    @category = :results
     @note = <<-NOTE
       You may think of it as "how well the given person has been doing recently".
       This computes exponentially moving average (EMA) of competitor averages.

@@ -5,6 +5,7 @@ class AverageNewPeopleMetPerCompetition < Statistic
 
   def initialize
     @title = "Highest average number of new people met per competition"
+    @category = :competing
     @note = "Divides all unique co-competitors met across a competitor's career by their number of competitions. A co-competitor is someone of any nationality who recorded a result at the same competition, and each person counts only once. Minimum #{MIN_COMPETITIONS} competitions required."
     @table_header = { "Avg. new people" => :right, "Unique people" => :right, "Competitions" => :right, "Person" => :left }
   end

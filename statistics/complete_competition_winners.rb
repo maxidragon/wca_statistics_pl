@@ -3,6 +3,7 @@ require_relative "../core/statistic"
 class CompleteCompetitionWinners < Statistic
   def initialize
     @title = "Complete competition winners"
+    @category = :podiums
     @note = "A complete win means taking the first place in every event on the given competition."
     @table_header = { "Events count" => :right, "Person" => :left, "Citizen of" => :left, "Competition" => :left }
   end

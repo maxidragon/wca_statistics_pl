@@ -1,6 +1,6 @@
 All statistics are computed only for competitors from Poland/Polish competitions.
 
-[Results](#results) (26) · [Records](#records) (10) · [Podiums & medals](#podiums) (21) · [Milestones](#milestones) (8) · [Competing](#competing) (23) · [Travel](#travel) (9) · [Delegating](#delegating) (22) · [Organizing](#organizing) (5) · [Competitions](#competitions) (14)
+[Results](#results) (26) · [Records](#records) (10) · [Podiums & medals](#podiums) (21) · [Milestones](#milestones) (8) · [Competing](#competing) (23) · [Travel](#travel) (9) · [Delegating](#delegating) (21) · [Organizing](#organizing) (4) · [Competitions](#competitions) (14)
 
 ## Results {#results}
 
@@ -136,7 +136,6 @@ All statistics are computed only for competitors from Poland/Polish competitions
 - [Most delegated and organized competitions each year](most_delegated_and_organized_competitions_by_year)
 - [Most delegated competitions](most_delegated_competitions)
 - [Most delegated competitions each year](most_delegated_competitions_by_year)
-- [Most delegated competitions in a city](most_delegated_competitions_in_city)
 - [Most delegated competitions with another delegate](most_delegated_with_another_delegate)
 - [Most delegates at one competition](most_delegates_at_one_competition)
 - [Most records delegated](most_records_delegated)
@@ -148,7 +147,6 @@ All statistics are computed only for competitors from Poland/Polish competitions
 - [Most competitions attended before organizing one](most_competitions_attended_before_organizing)
 - [Most competitions organized](most_competitions_organized)
 - [Most competitions organized in a single city before organizing elsewhere](most_competitions_organized_in_single_city)
-- [Most organized competitions in a city](most_organized_competitions_in_city)
 
 ## Competitions {#competitions}
 

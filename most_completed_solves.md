@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 19 October 2026*
+*Updated on 20 October 2026*
 
 
 ### Competition
@@ -37,7 +37,7 @@
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **16494** | 16925 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **13677** | 14734 |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **13363** | 13844 |
-| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **13214** | 13890 |
+| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **13215** | 13891 |
 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **12321** | 13007 |
 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | **11567** | 11934 |
 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | **10375** | 11049 |
@@ -59,7 +59,7 @@
 | :--- | ---: | ---: |
 | 2025 | **236931** | 249879 |
 | 2024 | **224448** | 235988 |
-| 2026 | **207636** | 220105 |
+| 2026 | **207626** | 220105 |
 | 2023 | **188218** | 198622 |
 | 2022 | **116402** | 123618 |
 | 2019 | **91337** | 95933 |
@@ -82,8 +82,8 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **392306** | 400095 |
-| 2x2x2 Cube | **256012** | 263051 |
+| 3x3x3 Cube | **392286** | 400075 |
+| 2x2x2 Cube | **256017** | 263056 |
 | Pyraminx | **197957** | 203179 |
 | Skewb | **140813** | 144436 |
 | 4x4x4 Cube | **133862** | 138457 |
@@ -93,11 +93,11 @@
 | 5x5x5 Cube | **65173** | 67492 |
 | Square-1 | **54260** | 56388 |
 | 6x6x6 Cube | **15655** | 16236 |
-| 3x3x3 Blindfolded | **14481** | 37932 |
+| 3x3x3 Blindfolded | **14483** | 37942 |
 | 7x7x7 Cube | **13251** | 13832 |
-| 3x3x3 Fewest Moves | **7062** | 9260 |
+| 3x3x3 Fewest Moves | **7064** | 9264 |
 | Magic | **4230** | 4674 |
-| 3x3x3 Multi-Blind | **2479** | 3682 |
+| 3x3x3 Multi-Blind | **2480** | 3683 |
 | 3x3x3 With Feet | **2450** | 2650 |
 | Master Magic | **2181** | 2238 |
 | 4x4x4 Blindfolded | **897** | 2981 |

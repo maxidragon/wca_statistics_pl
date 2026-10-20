@@ -1,14 +1,14 @@
 ## Most competitions each year
 
 *Note: Only the 25 competitors with the most competitions are listed for each year.*
-*Updated on 19 October 2026*
+*Updated on 20 October 2026*
 
 
 ### 2026
 
 | Competitions | Person |
 | ---: | :--- |
-| 76 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 77 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 49 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 34 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 34 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |

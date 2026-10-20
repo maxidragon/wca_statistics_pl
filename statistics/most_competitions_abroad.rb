@@ -3,6 +3,7 @@ require_relative "../core/statistic"
 class MostCompetitionsAbroad < Statistic
   def initialize
     @title = "Most competitions abroad"
+    @category = :travel
     @table_header = { "Competitions" => :right, "Person" => :left }
   end
 

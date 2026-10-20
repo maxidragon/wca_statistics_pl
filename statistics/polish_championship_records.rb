@@ -5,6 +5,7 @@ require_relative "../core/events"
 class PolishChampionshipRecords < GroupedStatistic
   def initialize
     @title = "Polish Championship records"
+    @category = :records
     @note = "This is a list of the best results from all Polish Championships. It corresponds to Olympic records for Olympic sports."
     @table_header = { "Event" => :left, "Result" => :right, "Person" => :left, "Citizen of" => :left, "Competition" => :left }
   end

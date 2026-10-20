@@ -3,6 +3,7 @@ require_relative "../core/grouped_statistic"
 class MostAttendedCompetitionsInCity < GroupedStatistic
   def initialize
     @title = "Most attended competitions in a city"
+    @category = :competing
     @note = "Only Polish persons and Polish competitions with posted results are included."
     @table_header = { "Person" => :left, "Competitions" => :right }
   end

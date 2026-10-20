@@ -3,6 +3,7 @@ require_relative "../core/statistic"
 class DelegatedACompetitionInMostCountries < Statistic
   def initialize
     @title = "Delegated a competition in most countries"
+    @category = :delegating
     @note = "This statistic shows the Polish delegates who have delegated a competition in most countries. Multi-location FMC competitions are excluded."
     @table_header = { "Name" => :left, "Countries" => :right }
   end

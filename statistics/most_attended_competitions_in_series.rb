@@ -30,6 +30,7 @@ class MostAttendedCompetitionsInSeries < GroupedStatistic
 
   def initialize
     @title = "Most attended competitions in a series"
+    @category = :competing
     @note = "Only Polish competitions with posted results are included. Up to the top #{TOP_POSITIONS} positions are listed for each series, so ties may add more rows."
     @table_header = { "Position" => :right, "Person" => :left, "Competitions" => :right }
   end

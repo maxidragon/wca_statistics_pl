@@ -3,6 +3,7 @@ require_relative "../core/statistic"
 class PotentiallySeenWorldRecords < Statistic
   def initialize
     @title = "Potentially seen world records"
+    @category = :records
     @note = "Potentially means that a person was on a competition and could see a world record being set."
     @table_header = { "WRs" => :right, "Person" => :left }
   end

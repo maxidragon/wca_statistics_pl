@@ -3,6 +3,7 @@ require_relative "../core/statistic"
 class MostUniquePeopleMetAtCompetitions < Statistic
   def initialize
     @title = "Most unique people met at competitions"
+    @category = :competing
     @note = "Treats two people as having met when both recorded at least one result at the same competition. Co-competitors of any nationality are included and each is counted once, regardless of how many competitions they shared."
     @table_header = { "People met" => :right, "Competitions" => :right, "Person" => :left }
   end

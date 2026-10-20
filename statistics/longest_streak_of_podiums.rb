@@ -3,6 +3,7 @@ require_relative "../core/statistic"
 class LongestStreakOfPodiums < Statistic
   def initialize
     @title = "Longest streak of podiums"
+    @category = :podiums
     @note = "All competitions that did not hold the given event are ignored. "\
             "Results without any completed attempt are not eligible for podium. "\
             "Only finals are taken into account."

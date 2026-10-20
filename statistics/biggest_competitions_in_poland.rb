@@ -3,6 +3,7 @@ require_relative "../core/statistic"
 class BiggestCompetitionsInPoland < Statistic
   def initialize
     @title = "Biggest competitions in Poland"
+    @category = :competitions
     @note = "Every competitor with at least one result is counted, no matter their country."
     @table_header = { "Competitors" => :right, "Competition" => :left }
   end

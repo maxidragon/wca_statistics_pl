@@ -3,6 +3,7 @@ require_relative "../core/grouped_statistic"
 class DelegatedToAttendedCompetitionsRatioByYear < GroupedStatistic
   def initialize
     @title = "Delegated to attended competition ratio each year (Poland)"
+    @category = :delegating
     @table_header = {
       "Delegated" => :right,
       "Attended" => :right,

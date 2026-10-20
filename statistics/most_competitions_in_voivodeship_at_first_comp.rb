@@ -6,6 +6,7 @@ class MostCompetitionsInVoivodeshipAtFirstComp < Statistic
 
   def initialize
     @title = "Most % of competitions attended in the same voivodeship as the first competition of the competitor"
+    @category = :competing
     @note = "Counts how many Polish competitions a person attended in the same voivodeship " \
             "where they had their first Polish competition. " \
             "The ratio is computed against all competitions attended, including those abroad."

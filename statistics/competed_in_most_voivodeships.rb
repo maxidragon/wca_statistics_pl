@@ -6,6 +6,7 @@ class CompetedInMostVoivodeships < Statistic
 
   def initialize
     @title = "Competed in most voivodeships in Poland"
+    @category = :travel
     @note = "Voivodeships are inferred from competition coordinates. Approximate bounding box classification."
     @table_header = {
       "Person" => :left,

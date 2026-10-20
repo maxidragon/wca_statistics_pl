@@ -3,6 +3,7 @@ require_relative "../core/grouped_statistic"
 class WinnedWeekCount < GroupedStatistic
   def initialize
     @title = "Winned week count"
+    @category = :podiums
     @note = "In other words it's the number of weeks when the given person got the fastest single in the given event."
     @table_header = { "Person" => :left, "Winned weeks" => :right }
   end

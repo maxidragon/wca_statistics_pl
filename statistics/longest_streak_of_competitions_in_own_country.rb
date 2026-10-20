@@ -3,6 +3,7 @@ require_relative "../core/statistic"
 class LongestStreakOfCompetitionsInOwnCountry < Statistic
   def initialize
     @title = "Longest streak of competitions in Poland"
+    @category = :competing
     @note = "The streak ends whenever the person doesn't participate in a competition in Poland."
     @table_header = { "Competitions" => :right, "Person" => :left, "Started at" => :left, "Missed" => :left }
   end

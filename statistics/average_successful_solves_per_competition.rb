@@ -5,6 +5,7 @@ class AverageSuccessfulSolvesPerCompetition < Statistic
 
   def initialize
     @title = "Average number of successful solves per competition"
+    @category = :results
     @note = "Counts successful individual attempts (value > 0). DNS and empty attempts are excluded. Minimum #{MIN_COMPETITIONS} competitions required."
     @table_header = { "Person" => :left, "Avg. successful" => :right, "Total successful" => :right, "Competitions" => :right }
   end

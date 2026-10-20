@@ -4,6 +4,7 @@ require_relative "../core/solve_time"
 class WorldAndEuropeanRecords < GroupedStatistic
   def initialize
     @title = "World and European records set by Polish people"
+    @category = :records
     @note = "All historical records are taken into account (i.e. not only the current ones). Records that were world records at the time are listed only in the world records table."
     @table_header = { "Date" => :left, "Event" => :left, "Type" => :left, "Result" => :right, "Person" => :left, "Competition" => :left }
   end

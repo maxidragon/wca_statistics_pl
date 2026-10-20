@@ -3,6 +3,7 @@ require_relative "../core/grouped_statistic"
 class MostDelegatedAndOrganizedCompetitionsByYear < GroupedStatistic
   def initialize
     @title = "Most delegated and organized competitions each year"
+    @category = :delegating
     @note = "This statistic shows how many of the competitions delegated by each Polish delegate in a given year were also organized by them."
     @table_header = {
       "Delegated & organized" => :right,

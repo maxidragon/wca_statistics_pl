@@ -3,6 +3,7 @@ require_relative "../core/statistic"
 class MostFinals < Statistic
   def initialize
     @title = "Most finals"
+    @category = :podiums
     @table_header = { "Finals" => :right, "Person" => :left }
   end
 

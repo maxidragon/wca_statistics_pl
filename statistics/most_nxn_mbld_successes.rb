@@ -3,6 +3,7 @@ require_relative "../core/statistic"
 class MostNxnMbldSuccesses < Statistic
   def initialize
     @title = "Most N/N 3x3 MBLD successes"
+    @category = :results
     @note = "Count of all 3x3 MBLD successes where all cubes were solved. Only people with at least 3 N/N successes are shown."
     @table_header = {
       "Name" => :left,

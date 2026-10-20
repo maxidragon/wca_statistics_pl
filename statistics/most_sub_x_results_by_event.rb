@@ -25,6 +25,7 @@ class MostSubXResultsByEvent < Statistic
 
   def initialize
     @title = "Most sub-X results by event"
+    @category = :results
     @note = "Counts competition averages below the threshold for speed events, singles for BLD events. For Multi-BLD, counts results with strictly more than the given number of points."
   end
 

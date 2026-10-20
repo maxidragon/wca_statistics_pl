@@ -3,6 +3,7 @@ require_relative "../core/statistic"
 class LongestDistanceBetweenCompetitionsOnConsecutiveDaysUnique < Statistic
   def initialize
     @title = "Longest distance between competitions on consecutive days (unique)"
+    @category = :travel
     @note = "Calculated as the direct distance between two competitions with overlapping or adjacent dates. Excludes multi-location competitions. Each person appears at most once."
     @table_header = { "Person" => :left, "Distance" => :right, "From" => :left, "To" => :left }
   end

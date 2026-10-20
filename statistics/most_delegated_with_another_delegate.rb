@@ -3,6 +3,7 @@ require_relative "../core/grouped_statistic"
 class MostDelegatedWithAnotherDelegate < GroupedStatistic
   def initialize
     @title = "Most delegated competitions with another delegate"
+    @category = :delegating
     @note = "Shows how many times each delegate has co-delegated with others. Only Polish delegates are included, and only competitions that have taken place in Poland and have results posted are considered."
     @table_header = { "Co-delegate" => :left, "Count" => :right }
   end

@@ -3,6 +3,7 @@ require_relative "../core/statistic"
 class MostRoundsAtCompetition < Statistic
   def initialize
     @title = "Most rounds held at a competition"
+    @category = :competitions
     @table_header = { "Rounds" => :right, "Competition" => :left }
   end
 

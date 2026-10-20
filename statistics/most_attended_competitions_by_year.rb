@@ -3,6 +3,7 @@ require_relative "../core/grouped_statistic"
 class MostAttendedCompetitionsByYear < GroupedStatistic
   def initialize
     @title = "Most competitions each year"
+    @category = :competing
     @note = "Only the 25 competitors with the most competitions are listed for each year."
     @table_header = { "Competitions" => :right, "Person" => :left }
   end

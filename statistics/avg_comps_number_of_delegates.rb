@@ -3,6 +3,7 @@ require_relative "../core/grouped_statistic"
 class AvgCompsNumberOfDelegates < GroupedStatistic
   def initialize
     @title = "Average number of competitions of listed delegates at Polish competitions by number of delegates"
+    @category = :delegating
     @note = "Competitions are grouped by how many delegates they had. Each table shows the competitions with the highest average number of competitions that listed delegates had participated in up to and including the one they delegated."
     @table_header = {
       "Competition" => :left,

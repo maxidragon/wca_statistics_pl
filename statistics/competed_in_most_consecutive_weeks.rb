@@ -4,6 +4,7 @@ require "date"
 class CompetedInMostConsecutiveWeeks < Statistic
   def initialize
     @title = "Most consecutive weeks with competitions"
+    @category = :competing
     @note = "Only includes people from Poland. Weeks are counted as ISO weeks (Monday-Sunday). Multiple competitions in the same week count as one."
     @table_header = {
       "Count" => :right,

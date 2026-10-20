@@ -3,6 +3,7 @@ require_relative "../core/statistic"
 class HighestPossibleNumberOfSolvesAtOneCompetition < Statistic
   def initialize
     @title = "Highest possible number of solves at one competition"
+    @category = :competitions
     @note = "The maximum assumes that one competitor enters every event, passes every cutoff, advances to every round, and completes every attempt. It is calculated by summing the expected solve count for each round's format."
     @table_header = { "Solves" => :right, "Competition" => :left, "Rounds" => :right }
   end

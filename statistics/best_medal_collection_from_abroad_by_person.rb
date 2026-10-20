@@ -3,6 +3,7 @@ require_relative "../core/statistic"
 class BestMedalCollectionFromAbroadByPerson < Statistic
   def initialize
     @title = "Best medal collection from abroad by person"
+    @category = :podiums
     @note = "Only medals got abroad are taken into account."
     @table_header = { "Person" => :left, "Gold" => :center, "Silver" => :center, "Bronze" => :center, "Total" => :center }
   end

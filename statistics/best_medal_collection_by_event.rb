@@ -4,6 +4,7 @@ require_relative "../core/events"
 class BestMedalCollectionByEvent < GroupedStatistic
   def initialize
     @title = "Best medal collection by event"
+    @category = :podiums
     @note = "All medals are taken into account, no matter where the competition was held."
     @table_header = { "Total" => :center, "Person" => :left, "Gold" => :center, "Silver" => :center, "Bronze" => :center }
   end

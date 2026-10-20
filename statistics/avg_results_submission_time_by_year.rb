@@ -3,6 +3,7 @@ require_relative "../core/grouped_statistic"
 class AvgResultsSubmissionTimeByYear < GroupedStatistic
   def initialize
     @title = "Average results submission time by Polish delegates each year"
+    @category = :delegating
     @table_header = { "Delegate" => :right, "Average time" => :left, "Total delegated" => :right }
   end
 

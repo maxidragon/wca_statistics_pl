@@ -3,6 +3,7 @@ require_relative "../core/statistic"
 class MostCompetitionsOrganizedInSingleCity < Statistic
   def initialize
     @title = "Most competitions organized in a single city before organizing elsewhere"
+    @category = :organizing
     @note = "Counts how many competitions a Polish organizer organized in their first city " \
             "before organizing in a different city for the first time. " \
             "Only Polish competitions are included."

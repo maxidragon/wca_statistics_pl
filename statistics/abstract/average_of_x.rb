@@ -7,6 +7,7 @@ class AverageOfX < GroupedStatistic
     @solve_count = solve_count
 
     @title = "Average of #{@solve_count}"
+    @category = :results
     @note = "#{@solve_count} consecutive official attempts are considered. Only people from top 200 single are taken into account."
     @table_header = { "Ao#{@solve_count}" => :right, "Person" => :left, "Times" => :left }
   end

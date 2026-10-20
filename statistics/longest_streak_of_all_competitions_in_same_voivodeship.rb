@@ -6,6 +6,7 @@ class LongestStreakOfAllCompetitionsInSameVoivodeship < Statistic
 
   def initialize
     @title = "Longest streak of all competitions in a voivodeship"
+    @category = :competing
     @note = "The streak ends whenever the person misses a competition in that voivodeship. " \
             "Voivodeships are inferred from competition coordinates (approximate bounding box)."
     @table_header = { "Competitions" => :right, "Person" => :left, "Voivodeship" => :left, "Started at" => :left, "Missed" => :left }

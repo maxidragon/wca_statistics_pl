@@ -122,7 +122,7 @@ All statistics are computed only for competitors from Poland/Polish competitions
 - [Average number of competitions of listed delegates at Polish competitions by number of delegates](avg_comps_number_of_delegates)
 - [Average results submission time by Polish delegates](avg_results_submission_time)
 - [Average results submission time by Polish delegates each year](avg_results_submission_time_by_year)
-- [Delegated a competition in most cities](delegated_a_competition_in_most_cities)
+- [Delegated a competition in most Polish cities](delegated_a_competition_in_most_cities)
 - [Delegated a competition in most countries](delegated_a_competition_in_most_countries)
 - [Delegated competitions in most voivodeships in Poland](delegated_a_competition_in_most_voivodeships)
 - [Delegated competitions per year](delegated_competition_per_year)

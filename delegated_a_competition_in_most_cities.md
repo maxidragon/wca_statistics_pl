@@ -1,7 +1,7 @@
 ## Delegated a competition in most Polish cities
 
 *Note: This statistic shows the Polish delegates who have delegated a competition in most cities in Poland.*
-*Updated on 21 October 2026*
+*Updated on 22 October 2026*
 
 | Name | Cities |
 | :--- | ---: |
@@ -10,15 +10,15 @@
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 43 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 35 |
 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 31 |
-| [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 28 |
+| [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 27 |
 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 27 |
-| [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 23 |
+| [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 22 |
 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 22 |
 | [Krzysztof Kuncki](https://www.worldcubeassociation.org/persons/2010KUNC01) | 18 |
 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) | 18 |
 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) | 18 |
 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 15 |
-| [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 15 |
+| [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 14 |
 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) | 14 |
 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 13 |
 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 12 |

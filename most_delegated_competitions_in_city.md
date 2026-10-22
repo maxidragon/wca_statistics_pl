@@ -1,7 +1,7 @@
 ## Most delegated competitions in a city
 
 *Note: Only Polish delegates and Polish competitions are included.*
-*Updated on 20 October 2026*
+*Updated on 22 October 2026*
 
 
 ### Gdańsk
@@ -28,23 +28,24 @@ _Total competitions: 81_
 | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) | 1 |
 
 ### Warszawa
-_Total competitions: 56_
+_Total competitions: 57_
 
 | Person | Competitions |
 | :--- | ---: |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 28 |
-| [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 20 |
+| [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 21 |
 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 14 |
 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 9 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 7 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 6 |
-| [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 4 |
-| [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 3 |
-| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 3 |
+| [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 5 |
+| [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 4 |
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 3 |
-| [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 2 |
-| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 2 |
+| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 3 |
 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 2 |
+| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 2 |
+| [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 2 |
+| [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 1 |
 | [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) | 1 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 1 |
 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) | 1 |
@@ -132,7 +133,7 @@ _Total competitions: 13_
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 1 |
 
 ### Łódź
-_Total competitions: 11_
+_Total competitions: 12_
 
 | Person | Competitions |
 | :--- | ---: |
@@ -143,6 +144,7 @@ _Total competitions: 11_
 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 1 |
 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 1 |
 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) | 1 |
+| [Stefan Łapicki](https://www.worldcubeassociation.org/persons/2006LAPI01) | 1 |
 | [Krzysztof Kuncki](https://www.worldcubeassociation.org/persons/2010KUNC01) | 1 |
 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 1 |
 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) | 1 |
@@ -495,6 +497,14 @@ _Total competitions: 4_
 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 1 |
 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 1 |
 
+### Pilzno
+_Total competitions: 4_
+
+| Person | Competitions |
+| :--- | ---: |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 3 |
+| [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 1 |
+
 ### Szczecinek
 _Total competitions: 4_
 
@@ -506,14 +516,6 @@ _Total competitions: 4_
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 1 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 1 |
 
-### Pilzno
-_Total competitions: 4_
-
-| Person | Competitions |
-| :--- | ---: |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 3 |
-| [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 1 |
-
 ### Kraśnik
 _Total competitions: 4_
 
@@ -522,6 +524,19 @@ _Total competitions: 4_
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 2 |
 | [Krzysztof Kuncki](https://www.worldcubeassociation.org/persons/2010KUNC01) | 1 |
 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) | 1 |
+
+### Tomaszów Mazowiecki
+_Total competitions: 3_
+
+| Person | Competitions |
+| :--- | ---: |
+| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 3 |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 2 |
+| [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 1 |
+| [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 1 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 1 |
+| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 1 |
+| [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 1 |
 
 ### Żyrardów
 _Total competitions: 3_
@@ -545,44 +560,6 @@ _Total competitions: 3_
 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 1 |
 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 1 |
 
-### Tomaszów Mazowiecki
-_Total competitions: 3_
-
-| Person | Competitions |
-| :--- | ---: |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 3 |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 2 |
-| [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 1 |
-| [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 1 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 1 |
-| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 1 |
-| [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 1 |
-
-### Częstochowa
-_Total competitions: 3_
-
-| Person | Competitions |
-| :--- | ---: |
-| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 1 |
-| [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) | 1 |
-| [Krzysztof Kuncki](https://www.worldcubeassociation.org/persons/2010KUNC01) | 1 |
-
-### Będzin
-_Total competitions: 3_
-
-| Person | Competitions |
-| :--- | ---: |
-| [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) | 3 |
-| [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) | 1 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 1 |
-
-### Pabianice
-_Total competitions: 3_
-
-| Person | Competitions |
-| :--- | ---: |
-| [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) | 3 |
-
 ### Bydgoszcz
 _Total competitions: 3_
 
@@ -594,6 +571,22 @@ _Total competitions: 3_
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 1 |
 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) | 1 |
 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) | 1 |
+
+### Częstochowa
+_Total competitions: 3_
+
+| Person | Competitions |
+| :--- | ---: |
+| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 1 |
+| [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) | 1 |
+| [Krzysztof Kuncki](https://www.worldcubeassociation.org/persons/2010KUNC01) | 1 |
+
+### Pabianice
+_Total competitions: 3_
+
+| Person | Competitions |
+| :--- | ---: |
+| [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) | 3 |
 
 ### Byczyna
 _Total competitions: 3_
@@ -664,6 +657,15 @@ _Total competitions: 3_
 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 2 |
 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 1 |
 
+### Będzin
+_Total competitions: 3_
+
+| Person | Competitions |
+| :--- | ---: |
+| [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) | 3 |
+| [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) | 1 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 1 |
+
 ### Katowice
 _Total competitions: 3_
 
@@ -679,14 +681,6 @@ _Total competitions: 3_
 | :--- | ---: |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 3 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 1 |
-
-### Radom
-_Total competitions: 2_
-
-| Person | Competitions |
-| :--- | ---: |
-| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 1 |
-| [Krzysztof Kuncki](https://www.worldcubeassociation.org/persons/2010KUNC01) | 1 |
 
 ### Lubartów
 _Total competitions: 2_
@@ -743,14 +737,6 @@ _Total competitions: 2_
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 1 |
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 1 |
 
-### Rumia
-_Total competitions: 2_
-
-| Person | Competitions |
-| :--- | ---: |
-| [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) | 1 |
-| [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 1 |
-
 ### Puck
 _Total competitions: 2_
 
@@ -760,6 +746,14 @@ _Total competitions: 2_
 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 1 |
 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 1 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 1 |
+
+### Rumia
+_Total competitions: 2_
+
+| Person | Competitions |
+| :--- | ---: |
+| [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) | 1 |
+| [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 1 |
 
 ### Jarosław
 _Total competitions: 2_
@@ -885,13 +879,13 @@ _Total competitions: 2_
 | :--- | ---: |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 2 |
 
-### Mikołajki
+### Radom
 _Total competitions: 2_
 
 | Person | Competitions |
 | :--- | ---: |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 2 |
-| [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 1 |
+| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 1 |
+| [Krzysztof Kuncki](https://www.worldcubeassociation.org/persons/2010KUNC01) | 1 |
 
 ### Domaniewice
 _Total competitions: 2_
@@ -901,29 +895,21 @@ _Total competitions: 2_
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 1 |
 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) | 1 |
 
-### Warsaw
-_Total competitions: 1_
+### Mikołajki
+_Total competitions: 2_
 
 | Person | Competitions |
 | :--- | ---: |
-| [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 1 |
-| [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 1 |
+| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 2 |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 1 |
+
+### Frydman
+_Total competitions: 1_
+
+| Person | Competitions |
+| :--- | ---: |
 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 1 |
-
-### Starogard Gdanski
-_Total competitions: 1_
-
-| Person | Competitions |
-| :--- | ---: |
-| [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) | 1 |
-
-### Wadowice
-_Total competitions: 1_
-
-| Person | Competitions |
-| :--- | ---: |
-| [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) | 1 |
+| [Krzysztof Kuncki](https://www.worldcubeassociation.org/persons/2010KUNC01) | 1 |
 
 ### Przeźmierowo
 _Total competitions: 1_
@@ -933,13 +919,19 @@ _Total competitions: 1_
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 1 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 1 |
 
-### Frydman
+### Wadowice
 _Total competitions: 1_
 
 | Person | Competitions |
 | :--- | ---: |
-| [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 1 |
-| [Krzysztof Kuncki](https://www.worldcubeassociation.org/persons/2010KUNC01) | 1 |
+| [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) | 1 |
+
+### Starogard Gdanski
+_Total competitions: 1_
+
+| Person | Competitions |
+| :--- | ---: |
+| [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) | 1 |
 
 ### Stobierna
 _Total competitions: 1_
@@ -1059,70 +1051,45 @@ _Total competitions: 1_
 | :--- | ---: |
 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 1 |
 
-### Suwałki
+### Wojciechów
 _Total competitions: 1_
 
 | Person | Competitions |
 | :--- | ---: |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 1 |
-
-### Głuszyca
-_Total competitions: 1_
-
-| Person | Competitions |
-| :--- | ---: |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 1 |
-| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 1 |
-
-### Człuchów
-_Total competitions: 1_
-
-| Person | Competitions |
-| :--- | ---: |
-| [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 1 |
-
-### Czechowice-Dziedzice
-_Total competitions: 1_
-
-| Person | Competitions |
-| :--- | ---: |
-| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 1 |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 1 |
-
-### Olesno
-_Total competitions: 1_
-
-| Person | Competitions |
-| :--- | ---: |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 1 |
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 1 |
 
-### Żuromin
+### Zbuczyn
+_Total competitions: 1_
+
+| Person | Competitions |
+| :--- | ---: |
+| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 1 |
+
+### Gorlice
+_Total competitions: 1_
+
+| Person | Competitions |
+| :--- | ---: |
+| [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 1 |
+
+### Kluczbork
 _Total competitions: 1_
 
 | Person | Competitions |
 | :--- | ---: |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 1 |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 1 |
+| [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 1 |
 
-### Środa Wielkopolska
+### Aleksandrów Łódzki
 _Total competitions: 1_
 
 | Person | Competitions |
 | :--- | ---: |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 1 |
-
-### Justynów
-_Total competitions: 1_
-
-| Person | Competitions |
-| :--- | ---: |
 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 1 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 1 |
-| [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 1 |
-| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 1 |
 
-### Zgierz
+### Kalisz
 _Total competitions: 1_
 
 | Person | Competitions |
@@ -1142,7 +1109,7 @@ _Total competitions: 1_
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 1 |
 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 1 |
 
-### Kalisz
+### Zgierz
 _Total competitions: 1_
 
 | Person | Competitions |
@@ -1152,153 +1119,68 @@ _Total competitions: 1_
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 1 |
 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 1 |
 
-### Aleksandrów Łódzki
+### Justynów
+_Total competitions: 1_
+
+| Person | Competitions |
+| :--- | ---: |
+| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 1 |
+| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 1 |
+| [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 1 |
+| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 1 |
+
+### Środa Wielkopolska
 _Total competitions: 1_
 
 | Person | Competitions |
 | :--- | ---: |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 1 |
-| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 1 |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 1 |
 
-### Lodz
-_Total competitions: 1_
-
-| Person | Competitions |
-| :--- | ---: |
-| [Stefan Łapicki](https://www.worldcubeassociation.org/persons/2006LAPI01) | 1 |
-
-### Kluczbork
+### Żuromin
 _Total competitions: 1_
 
 | Person | Competitions |
 | :--- | ---: |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 1 |
+| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 1 |
+
+### Olesno
+_Total competitions: 1_
+
+| Person | Competitions |
+| :--- | ---: |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 1 |
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 1 |
 
-### Gorlice
+### Czechowice-Dziedzice
 _Total competitions: 1_
 
 | Person | Competitions |
 | :--- | ---: |
-| [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 1 |
+| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 1 |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 1 |
 
-### Zbuczyn
-_Total competitions: 1_
-
-| Person | Competitions |
-| :--- | ---: |
-| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 1 |
-
-### Wojciechów
-_Total competitions: 1_
-
-| Person | Competitions |
-| :--- | ---: |
-| [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 1 |
-
-### Sopot
+### Człuchów
 _Total competitions: 1_
 
 | Person | Competitions |
 | :--- | ---: |
 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 1 |
 
-### Piotrków Trybunalski
-_Total competitions: 1_
-
-| Person | Competitions |
-| :--- | ---: |
-| [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 1 |
-
-### Ostróda
-_Total competitions: 1_
-
-| Person | Competitions |
-| :--- | ---: |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 1 |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 1 |
-
-### Bednary
-_Total competitions: 1_
-
-| Person | Competitions |
-| :--- | ---: |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 1 |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 1 |
-
-### Nowa Sól
+### Głuszyca
 _Total competitions: 1_
 
 | Person | Competitions |
 | :--- | ---: |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 1 |
-| [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 1 |
-
-### Nagawczyna
-_Total competitions: 1_
-
-| Person | Competitions |
-| :--- | ---: |
 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 1 |
 
-### Sucha Beskidzka
-_Total competitions: 1_
-
-| Person | Competitions |
-| :--- | ---: |
-| [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 1 |
-
-### Augustów
+### Góraszka
 _Total competitions: 1_
 
 | Person | Competitions |
 | :--- | ---: |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 1 |
-
-### Elbląg
-_Total competitions: 1_
-
-| Person | Competitions |
-| :--- | ---: |
-| [Stefan Łapicki](https://www.worldcubeassociation.org/persons/2006LAPI01) | 1 |
-
-### Lipnica Wielka
-_Total competitions: 1_
-
-| Person | Competitions |
-| :--- | ---: |
-| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 1 |
-
-### Koszalin
-_Total competitions: 1_
-
-| Person | Competitions |
-| :--- | ---: |
-| [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 1 |
-
-### Korzenna
-_Total competitions: 1_
-
-| Person | Competitions |
-| :--- | ---: |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 1 |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 1 |
-
-### Kęty
-_Total competitions: 1_
-
-| Person | Competitions |
-| :--- | ---: |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 1 |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 1 |
-
-### Stalowa Wola
-_Total competitions: 1_
-
-| Person | Competitions |
-| :--- | ---: |
-| [Stefan Łapicki](https://www.worldcubeassociation.org/persons/2006LAPI01) | 1 |
 
 ### Gorzów Wielkopolski
 _Total competitions: 1_
@@ -1308,7 +1190,110 @@ _Total competitions: 1_
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 1 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 1 |
 
-### Góraszka
+### Stalowa Wola
+_Total competitions: 1_
+
+| Person | Competitions |
+| :--- | ---: |
+| [Stefan Łapicki](https://www.worldcubeassociation.org/persons/2006LAPI01) | 1 |
+
+### Kęty
+_Total competitions: 1_
+
+| Person | Competitions |
+| :--- | ---: |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 1 |
+| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 1 |
+
+### Korzenna
+_Total competitions: 1_
+
+| Person | Competitions |
+| :--- | ---: |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 1 |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 1 |
+
+### Koszalin
+_Total competitions: 1_
+
+| Person | Competitions |
+| :--- | ---: |
+| [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 1 |
+
+### Lipnica Wielka
+_Total competitions: 1_
+
+| Person | Competitions |
+| :--- | ---: |
+| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 1 |
+
+### Elbląg
+_Total competitions: 1_
+
+| Person | Competitions |
+| :--- | ---: |
+| [Stefan Łapicki](https://www.worldcubeassociation.org/persons/2006LAPI01) | 1 |
+
+### Augustów
+_Total competitions: 1_
+
+| Person | Competitions |
+| :--- | ---: |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 1 |
+
+### Sucha Beskidzka
+_Total competitions: 1_
+
+| Person | Competitions |
+| :--- | ---: |
+| [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 1 |
+
+### Nagawczyna
+_Total competitions: 1_
+
+| Person | Competitions |
+| :--- | ---: |
+| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 1 |
+
+### Nowa Sól
+_Total competitions: 1_
+
+| Person | Competitions |
+| :--- | ---: |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 1 |
+| [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 1 |
+
+### Bednary
+_Total competitions: 1_
+
+| Person | Competitions |
+| :--- | ---: |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 1 |
+| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 1 |
+
+### Ostróda
+_Total competitions: 1_
+
+| Person | Competitions |
+| :--- | ---: |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 1 |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 1 |
+
+### Piotrków Trybunalski
+_Total competitions: 1_
+
+| Person | Competitions |
+| :--- | ---: |
+| [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 1 |
+
+### Sopot
+_Total competitions: 1_
+
+| Person | Competitions |
+| :--- | ---: |
+| [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 1 |
+
+### Suwałki
 _Total competitions: 1_
 
 | Person | Competitions |

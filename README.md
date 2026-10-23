@@ -1,6 +1,6 @@
 All statistics are computed only for competitors from Poland/Polish competitions.
 
-[Results](#results) (26) · [Records](#records) (10) · [Podiums & medals](#podiums) (21) · [Milestones](#milestones) (8) · [Competing](#competing) (23) · [Travel](#travel) (9) · [Delegating](#delegating) (22) · [Organizing](#organizing) (5) · [Competitions](#competitions) (14)
+[Results](#results) (28) · [Records](#records) (10) · [Podiums & medals](#podiums) (21) · [Milestones](#milestones) (8) · [Competing](#competing) (23) · [Travel](#travel) (9) · [Delegating](#delegating) (22) · [Organizing](#organizing) (5) · [Competitions](#competitions) (14)
 
 ## Results {#results}
 
@@ -26,6 +26,8 @@ All statistics are computed only for competitors from Poland/Polish competitions
 - [Most frequent results](most_frequent_results)
 - [Most personal records by event](most_personal_records_by_event)
 - [Most solves before getting a successful BLD attempt](most_solves_before_bld_success)
+- [Most solves in an event](most_solves_in_event)
+- [Most solves per year](most_solves_per_year)
 - [Most sub-X results by event](most_sub_x_results_by_event)
 - [Moving average](moving_average)
 - [Smallest difference between a single and an average](smallest_diff_between_single_and_average)

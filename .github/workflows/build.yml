@@ -6,6 +6,11 @@ on:
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
+# Runs deploy to the same gh-pages branch, so they must not overlap.
+# Queue instead of cancelling: a push run only computes the stats changed in that push.
+concurrency:
+  group: build
+  cancel-in-progress: false
 jobs:
   main:
     runs-on: ubuntu-latest

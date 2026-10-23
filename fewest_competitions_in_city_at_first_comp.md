@@ -1,7 +1,7 @@
 ## Fewest % of competitions attended in the same city as the first competition of the competitor
 
 *Note: Counts how many competitions a Polish person attended in the same city where they had their very first competition. The ratio is computed against all competitions attended, including those abroad. Requires at least 10 total competitions.*
-*Updated on 22 October 2026*
+*Updated on 23 October 2026*
 
 | Person | First Competition | City | Comps in City | Total Comps | Ratio |
 | :--- | :--- | :--- | ---: | ---: | ---: |
@@ -10,7 +10,7 @@
 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | [Wroclaw Open 2007](https://www.worldcubeassociation.org/competitions/WroclawOpen2007) | Bielany Wrocławskie | 1 | 153 | 0.7% |
 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | [PLS Sopot 2014](https://www.worldcubeassociation.org/competitions/PLSSopot2014) | Sopot | 1 | 152 | 0.7% |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | [SLS Chorzow 2014](https://www.worldcubeassociation.org/competitions/SLSChorzow2014) | Chorzów | 1 | 148 | 0.7% |
-| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | [Lubelska Liga Speedcubingu III v2 2020](https://www.worldcubeassociation.org/competitions/LLSIIIv22020) | Bełżyce | 3 | 404 | 0.7% |
+| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | [Lubelska Liga Speedcubingu III v2 2020](https://www.worldcubeassociation.org/competitions/LLSIIIv22020) | Bełżyce | 3 | 405 | 0.7% |
 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | [Cube4fun League II Kluczbork 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueIIKluczbork2022) | Kluczbork | 1 | 134 | 0.7% |
 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | [Cubing Spring Grudziadz 2012](https://www.worldcubeassociation.org/competitions/CubingSpringGrudziadz2012) | Grudziądz | 1 | 123 | 0.8% |
 | [Moli Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | [GLS Gdynia 2020](https://www.worldcubeassociation.org/competitions/GLSGdynia2020) | Gdynia | 1 | 121 | 0.8% |

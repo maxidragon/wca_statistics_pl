@@ -1,7 +1,7 @@
 ## Delegated a competition in most Polish cities
 
 *Note: This statistic shows the Polish delegates who have delegated a competition in most cities in Poland.*
-*Updated on 22 October 2026*
+*Updated on 23 October 2026*
 
 | Name | Cities |
 | :--- | ---: |

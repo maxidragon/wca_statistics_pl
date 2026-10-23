@@ -1,7 +1,7 @@
 ## Most competitions attended before delegating one
 
 *Note: Only competitions that started before the first delegated one are counted.*
-*Updated on 22 October 2026*
+*Updated on 23 October 2026*
 
 | Competitions | Person | First competition | First delegated |
 | ---: | :--- | :--- | :--- |

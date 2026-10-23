@@ -1,7 +1,7 @@
 ## Fewest % of competitions attended in the same voivodeship as the first competition of the competitor
 
 *Note: Counts how many Polish competitions a person attended in the same voivodeship where they had their first competition. The ratio is computed against all competitions attended, including those abroad. Requires at least 10 total competitions.*
-*Updated on 22 October 2026*
+*Updated on 23 October 2026*
 
 | Person | First Competition | Voivodeship | Comps in Voivodeship | Total Comps | Ratio |
 | :--- | :--- | :--- | ---: | ---: | ---: |
@@ -41,7 +41,7 @@
 | [Daniel Chudecki](https://www.worldcubeassociation.org/persons/2011CHUD01) | [Bialystok Open 2011](https://www.worldcubeassociation.org/competitions/BialystokOpen2011) | Podlaskie | 1 | 25 | 4.0% |
 | [Felix Lewicki](https://www.worldcubeassociation.org/persons/2021LEWI03) | [Lubelska Liga Speedcubingu I Bełżyce 2021](https://www.worldcubeassociation.org/competitions/LLSIBelzyce2021) | Lubelskie | 1 | 25 | 4.0% |
 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | [Poznan Open 2011](https://www.worldcubeassociation.org/competitions/PoznanOpen2011) | Wielkopolskie | 2 | 50 | 4.0% |
-| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | [Lubelska Liga Speedcubingu III v2 2020](https://www.worldcubeassociation.org/competitions/LLSIIIv22020) | Lubelskie | 17 | 404 | 4.2% |
+| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | [Lubelska Liga Speedcubingu III v2 2020](https://www.worldcubeassociation.org/competitions/LLSIIIv22020) | Lubelskie | 17 | 405 | 4.2% |
 | [Kamil Pawlak](https://www.worldcubeassociation.org/persons/2006PAWL01) | [Polish Open 2006](https://www.worldcubeassociation.org/competitions/PolishOpen2006) | Małopolskie | 3 | 71 | 4.2% |
 | [Aleksandra Bystrova](https://www.worldcubeassociation.org/persons/2021BYST01) | [September Speedcubing Tour Kielce 2021](https://www.worldcubeassociation.org/competitions/SSTKielce2021) | Świętokrzyskie | 1 | 23 | 4.3% |
 | [Kacper Bieńkowski](https://www.worldcubeassociation.org/persons/2022BIEN01) | [Lake Cubing Szczecinek 2022](https://www.worldcubeassociation.org/competitions/LakeCubingSzczecinek2022) | Zachodniopomorskie | 1 | 23 | 4.3% |

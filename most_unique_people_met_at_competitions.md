@@ -1,12 +1,12 @@
 ## Most unique people met at competitions
 
 *Note: Treats two people as having met when both recorded at least one result at the same competition. Co-competitors of any nationality are included and each is counted once, regardless of how many competitions they shared.*
-*Updated on 22 October 2026*
+*Updated on 23 October 2026*
 
 | People met | Competitions | Person |
 | ---: | ---: | :--- |
 | 15033 | 203 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
-| 11419 | 404 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 11450 | 405 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 11151 | 415 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 9830 | 229 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 8478 | 197 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
@@ -32,7 +32,7 @@
 | 5594 | 87 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
 | 5580 | 113 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
 | 5518 | 96 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) |
-| 5480 | 136 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) |
+| 5517 | 137 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) |
 | 5474 | 74 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) |
 | 5391 | 123 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
 | 5363 | 170 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) |

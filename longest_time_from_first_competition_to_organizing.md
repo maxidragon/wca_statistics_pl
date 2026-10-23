@@ -1,6 +1,6 @@
 ## Longest time from first competition to organizing one
 
-*Updated on 22 October 2026*
+*Updated on 23 October 2026*
 
 | Days | Person | First competition | First organized |
 | ---: | :--- | :--- | :--- |

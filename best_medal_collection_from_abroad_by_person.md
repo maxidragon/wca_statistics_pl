@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 22 October 2026*
+*Updated on 23 October 2026*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -71,6 +71,7 @@
 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | **2** | 6 | 1 | 9 |
 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) | **2** | 5 | 4 | 11 |
 | [Marcel Borkowski](https://www.worldcubeassociation.org/persons/2023BORK01) | **2** | 4 | 5 | 11 |
+| [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) | **2** | 4 | 4 | 10 |
 | [Rafał Studnicki](https://www.worldcubeassociation.org/persons/2005STUD01) | **2** | 4 | 3 | 9 |
 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) | **2** | 3 | 1 | 6 |
 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | **2** | 2 | 2 | 6 |
@@ -89,7 +90,6 @@
 | [Tymoteusz Zmudzki Piskorska](https://www.worldcubeassociation.org/persons/2024PISK02) | **1** | 8 | 3 | 12 |
 | [Victor Kiziukiewicz](https://www.worldcubeassociation.org/persons/2023KIZI01) | **1** | 5 | 1 | 7 |
 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | **1** | 4 | 6 | 11 |
-| [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) | **1** | 4 | 4 | 9 |
 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) | **1** | 4 | 1 | 6 |
 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | **1** | 3 | 5 | 9 |
 | [Filip Chudy](https://www.worldcubeassociation.org/persons/2022CHUD02) | **1** | 3 | 2 | 6 |

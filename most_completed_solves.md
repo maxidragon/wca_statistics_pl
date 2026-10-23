@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 22 October 2026*
+*Updated on 23 October 2026*
 
 
 ### Competition
@@ -37,7 +37,7 @@
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **16494** | 16925 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **13677** | 14734 |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **13363** | 13844 |
-| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **13215** | 13891 |
+| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **13260** | 13936 |
 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **12321** | 13007 |
 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | **11567** | 11934 |
 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | **10375** | 11049 |
@@ -59,7 +59,7 @@
 | :--- | ---: | ---: |
 | 2025 | **236931** | 249879 |
 | 2024 | **224448** | 235988 |
-| 2026 | **207626** | 220105 |
+| 2026 | **207700** | 220179 |
 | 2023 | **188218** | 198622 |
 | 2022 | **116402** | 123618 |
 | 2019 | **91337** | 95933 |
@@ -82,16 +82,16 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **392286** | 400075 |
-| 2x2x2 Cube | **256017** | 263056 |
-| Pyraminx | **197957** | 203179 |
-| Skewb | **140813** | 144436 |
-| 4x4x4 Cube | **133862** | 138457 |
-| 3x3x3 One-Handed | **107871** | 111353 |
-| Clock | **84966** | 98241 |
-| Megaminx | **67353** | 70060 |
-| 5x5x5 Cube | **65173** | 67492 |
-| Square-1 | **54260** | 56388 |
+| 3x3x3 Cube | **392301** | 400090 |
+| 2x2x2 Cube | **256032** | 263071 |
+| Pyraminx | **197962** | 203184 |
+| Skewb | **140818** | 144441 |
+| 4x4x4 Cube | **133877** | 138472 |
+| 3x3x3 One-Handed | **107876** | 111358 |
+| Clock | **84971** | 98246 |
+| Megaminx | **67358** | 70065 |
+| 5x5x5 Cube | **65175** | 67494 |
+| Square-1 | **54262** | 56390 |
 | 6x6x6 Cube | **15655** | 16236 |
 | 3x3x3 Blindfolded | **14483** | 37942 |
 | 7x7x7 Cube | **13251** | 13832 |

@@ -1,11 +1,11 @@
 ## Most days potentially spent at competitions
 
-*Updated on 22 October 2026*
+*Updated on 23 October 2026*
 
 | Days | Person | Competitions |
 | ---: | :--- | ---: |
 | 765 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 415 |
-| 693 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 404 |
+| 695 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 405 |
 | 539 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 274 |
 | 533 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 281 |
 | 448 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 229 |
@@ -33,7 +33,7 @@
 | 248 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) | 116 |
 | 246 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 134 |
 | 245 | [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) | 129 |
-| 242 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) | 136 |
+| 244 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) | 137 |
 | 240 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 130 |
 | 238 | [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) | 127 |
 | 237 | [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) | 129 |

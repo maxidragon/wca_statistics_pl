@@ -1,7 +1,7 @@
 ## Average registration fee per voivodeship
 
 *Note: Voivodeship is inferred from competition coordinates (approximate bounding box). Only PLN competitions are included.*
-*Updated on 23 October 2026*
+*Updated on 25 October 2026*
 
 
 ### 2026
@@ -21,7 +21,7 @@
 | Warmińsko-Mazurskie | 67.50 PLN | 2 |
 | Dolnośląskie | 66.67 PLN | 3 |
 | Podkarpackie | 61.56 PLN | 9 |
-| Opolskie | 60.00 PLN | 2 |
+| Opolskie | 60.00 PLN | 3 |
 | Wielkopolskie | 59.44 PLN | 9 |
 | Mazowieckie | 44.83 PLN | 12 |
 

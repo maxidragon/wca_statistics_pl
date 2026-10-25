@@ -1,6 +1,6 @@
 ## Longest time from first competition to delegating one
 
-*Updated on 23 October 2026*
+*Updated on 25 October 2026*
 
 | Days | Person | First competition | First delegated |
 | ---: | :--- | :--- | :--- |
@@ -9,6 +9,7 @@
 | 4656 | [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) | [SLS Bielsko-Biala 2014](https://www.worldcubeassociation.org/competitions/SLSBielskoBiala2014) | [Cube4fun in Sieradz 2026](https://www.worldcubeassociation.org/competitions/Cube4funinSieradz2026) |
 | 4368 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | [Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013) | [FMC Europe 2025](https://www.worldcubeassociation.org/competitions/FMCEurope2025) |
 | 3892 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | [PLS Sopot 2014](https://www.worldcubeassociation.org/competitions/PLSSopot2014) | [Winter Side Wrocław 2025](https://www.worldcubeassociation.org/competitions/WinterSideWroclaw2025) |
+| 3598 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | [Santa Claus Cube Race 2016](https://www.worldcubeassociation.org/competitions/SantaClausCubeRace2016) | [Opole Cubing Day 2026](https://www.worldcubeassociation.org/competitions/OpoleCubingDay2026) |
 | 3541 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | [Polish Open 2005](https://www.worldcubeassociation.org/competitions/PolishOpen2005) | [Speed Days Kraśnik 2015](https://www.worldcubeassociation.org/competitions/SpeedDaysKrasnik2015) |
 | 3534 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | [Polish Open 2005](https://www.worldcubeassociation.org/competitions/PolishOpen2005) | [ŚLS Zawiercie 2015](https://www.worldcubeassociation.org/competitions/SLSZawiercie2015) |
 | 3437 | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) | [GLS Cup II 2017](https://www.worldcubeassociation.org/competitions/GLSCupII2017) | [Honey Cube Barcin 2026](https://www.worldcubeassociation.org/competitions/HoneyCubeBarcin2026) |

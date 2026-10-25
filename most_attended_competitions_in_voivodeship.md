@@ -1,7 +1,7 @@
 ## Competitions per voivodeship
 
 *Note: Voivodeships are inferred from competition coordinates (approximate bounding box). *
-*Updated on 23 October 2026*
+*Updated on 25 October 2026*
 
 
 ### Pomorskie
@@ -293,40 +293,40 @@ _Total competitions: 42_
 | [Dominik Kądziołka](https://www.worldcubeassociation.org/persons/2023KADZ01) | 14 |
 
 ### Opolskie
-_Total competitions: 20_
+_Total competitions: 21_
 
 | Person | Competitions |
 | :--- | ---: |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 20 |
-| [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 16 |
-| [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 12 |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 21 |
+| [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 17 |
+| [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 13 |
+| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 12 |
+| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 12 |
+| [Tomasz Cepil](https://www.worldcubeassociation.org/persons/2018CEPI01) | 12 |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 12 |
-| [Tomasz Cepil](https://www.worldcubeassociation.org/persons/2018CEPI01) | 11 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 11 |
-| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 11 |
-| [Dominik Unijewski](https://www.worldcubeassociation.org/persons/2017UNIJ01) | 11 |
 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 11 |
-| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 11 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 11 |
+| [Dominik Unijewski](https://www.worldcubeassociation.org/persons/2017UNIJ01) | 11 |
+| [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 11 |
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 10 |
-| [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 10 |
+| [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | 10 |
 | [Marcel Nycz](https://www.worldcubeassociation.org/persons/2016NYCZ01) | 9 |
 | [Tobiasz Rychlik](https://www.worldcubeassociation.org/persons/2016RYCH01) | 9 |
-| [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | 9 |
 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | 9 |
-| [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) | 8 |
-| [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | 8 |
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 8 |
+| [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | 8 |
+| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 8 |
 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) | 8 |
-| [Mateusz Cichoracki](https://www.worldcubeassociation.org/persons/2011CICH01) | 7 |
+| [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) | 8 |
 | [Artur Rapiński](https://www.worldcubeassociation.org/persons/2016RAPI01) | 7 |
-| [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 7 |
 | [Witold Sołtysik](https://www.worldcubeassociation.org/persons/2015SOLT03) | 7 |
-| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 7 |
-| [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) | 7 |
+| [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 7 |
+| [Mateusz Cichoracki](https://www.worldcubeassociation.org/persons/2011CICH01) | 7 |
 | [Dominik Kobinski](https://www.worldcubeassociation.org/persons/2019KOBI01) | 7 |
+| [Szymon Ruksza](https://www.worldcubeassociation.org/persons/2013RUKS01) | 7 |
+| [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) | 7 |
 | [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 7 |
-| [Marcel Grüner](https://www.worldcubeassociation.org/persons/2017GRUN02) | 6 |
-| [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | 6 |
+| [Marcin Chmielewski](https://www.worldcubeassociation.org/persons/2023CHMI01) | 6 |
 
 ### Dolnośląskie
 _Total competitions: 20_

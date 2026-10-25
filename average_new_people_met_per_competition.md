@@ -1,7 +1,7 @@
 ## Highest average number of new people met per competition
 
 *Note: Divides all unique co-competitors met across a competitor's career by their number of competitions. A co-competitor is someone of any nationality who recorded a result at the same competition, and each person counts only once. Minimum 20 competitions required.*
-*Updated on 23 October 2026*
+*Updated on 25 October 2026*
 
 | Avg. new people | Unique people | Competitions | Person |
 | ---: | ---: | ---: | :--- |
@@ -27,10 +27,10 @@
 | 84.53 | 2536 | 30 | [Piotr Rejdych](https://www.worldcubeassociation.org/persons/2022REJD01) |
 | 83.22 | 4161 | 50 | [Maciej Jabłoński](https://www.worldcubeassociation.org/persons/2017JABL01) |
 | 83.08 | 2077 | 25 | [Tomek Thinlay](https://www.worldcubeassociation.org/persons/2025THIN01) |
-| 82.17 | 1890 | 23 | [Antoni Firlej](https://www.worldcubeassociation.org/persons/2023FIRL01) |
 | 81.90 | 1720 | 21 | [Marcin Popławski](https://www.worldcubeassociation.org/persons/2014POPA01) |
 | 81.85 | 2210 | 27 | [Stefan Pokrycki](https://www.worldcubeassociation.org/persons/2024POKR01) |
 | 81.68 | 2287 | 28 | [Tomasz Odelga](https://www.worldcubeassociation.org/persons/2021ODEL01) |
+| 80.29 | 1927 | 24 | [Antoni Firlej](https://www.worldcubeassociation.org/persons/2023FIRL01) |
 | 78.02 | 3823 | 49 | [Przemysław Malinowski](https://www.worldcubeassociation.org/persons/2022MALI01) |
 | 77.68 | 1709 | 22 | [Felix Rejent](https://www.worldcubeassociation.org/persons/2022REJE01) |
 | 77.68 | 1709 | 22 | [Gustaw Rejent](https://www.worldcubeassociation.org/persons/2022REJE02) |
@@ -77,13 +77,13 @@
 | 59.76 | 2271 | 38 | [Dominik Unijewski](https://www.worldcubeassociation.org/persons/2017UNIJ01) |
 | 59.69 | 1552 | 26 | [Marcin Karczmarz](https://www.worldcubeassociation.org/persons/2023KARC01) |
 | 59.26 | 2726 | 46 | [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) |
-| 59.16 | 2189 | 37 | [Aleksander Skrzypczak](https://www.worldcubeassociation.org/persons/2024SKRZ01) |
 | 59.14 | 1242 | 21 | [Michał Mendocha](https://www.worldcubeassociation.org/persons/2008MEND02) |
 | 58.82 | 2882 | 49 | [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) |
 | 58.74 | 1997 | 34 | [Paweł Dominiczak](https://www.worldcubeassociation.org/persons/2023DOMI21) |
 | 58.64 | 4574 | 78 | [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) |
 | 58.60 | 3106 | 53 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) |
 | 58.45 | 2221 | 38 | [Tobiasz Gładysz](https://www.worldcubeassociation.org/persons/2024GLAD02) |
+| 58.11 | 2208 | 38 | [Aleksander Skrzypczak](https://www.worldcubeassociation.org/persons/2024SKRZ01) |
 | 57.95 | 1217 | 21 | [Filip Wyczyński](https://www.worldcubeassociation.org/persons/2018WYCZ01) |
 | 57.60 | 2765 | 48 | [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) |
 | 57.48 | 5518 | 96 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) |

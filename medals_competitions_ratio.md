@@ -1,7 +1,7 @@
 ## Medals to competitions ratio
 
 *Note: Only Polish competitors included*
-*Updated on 23 October 2026*
+*Updated on 25 October 2026*
 
 | Person | Medals | Competitions | Ratio |
 | :--- | ---: | ---: | ---: |
@@ -14,7 +14,7 @@
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 557 | 181 | 3.08 |
 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | 156 | 51 | 3.06 |
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 318 | 109 | 2.92 |
-| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 636 | 226 | 2.81 |
+| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 641 | 227 | 2.82 |
 | [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) | 135 | 49 | 2.76 |
 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 258 | 94 | 2.74 |
 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | 245 | 90 | 2.72 |

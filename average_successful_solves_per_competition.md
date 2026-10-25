@@ -1,7 +1,7 @@
 ## Average number of successful solves per competition
 
 *Note: Counts successful individual attempts (value > 0). DNS and empty attempts are excluded. Minimum 20 competitions required.*
-*Updated on 23 October 2026*
+*Updated on 25 October 2026*
 
 | Person | Avg. successful | Total successful | Competitions |
 | :--- | ---: | ---: | ---: |
@@ -9,13 +9,13 @@
 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 85.58 | 7189 | 84 |
 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | 85.49 | 4360 | 51 |
 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | 78.28 | 4227 | 54 |
-| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 76.56 | 17302 | 226 |
+| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 76.41 | 17346 | 227 |
 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 76.24 | 6862 | 90 |
 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | 75.10 | 5332 | 71 |
 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 74.32 | 6986 | 94 |
 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | 73.91 | 4065 | 55 |
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 73.35 | 10342 | 141 |
-| [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 72.55 | 10375 | 143 |
+| [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 72.34 | 10417 | 144 |
 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) | 71.33 | 5849 | 82 |
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 71.04 | 7956 | 112 |
 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | 70.23 | 5197 | 74 |
@@ -43,8 +43,8 @@
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 63.75 | 7267 | 114 |
 | [Grzegorz Szumigaj](https://www.worldcubeassociation.org/persons/2013SZUM01) | 63.28 | 2468 | 39 |
 | [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) | 62.89 | 2893 | 46 |
-| [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 62.54 | 12321 | 197 |
 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 62.52 | 7565 | 121 |
+| [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 62.45 | 12366 | 198 |
 | [Jan Jędrzej Kasprzak](https://www.worldcubeassociation.org/persons/2022KASP03) | 61.65 | 2096 | 34 |
 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | 61.62 | 3204 | 52 |
 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) | 61.47 | 7130 | 116 |

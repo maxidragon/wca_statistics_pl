@@ -1,7 +1,7 @@
 ## Most organized competitions in a city
 
 *Note: Only Polish organizers and Polish competitions are included.*
-*Updated on 23 October 2026*
+*Updated on 25 October 2026*
 
 
 ### Gdańsk
@@ -61,16 +61,16 @@ _Total competitions: 57_
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 1 |
 
 ### Poznań
-_Total competitions: 51_
+_Total competitions: 52_
 
 | Person | Competitions |
 | :--- | ---: |
-| [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 38 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 34 |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 33 |
+| [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 39 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 35 |
+| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 34 |
 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | 23 |
-| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 15 |
-| [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 15 |
+| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 16 |
+| [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 16 |
 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 13 |
 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 9 |
 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 7 |
@@ -164,6 +164,19 @@ _Total competitions: 13_
 | [Julia Dąbrowska](https://www.worldcubeassociation.org/persons/2024DABR01) | 3 |
 | [Szymon Gabara](https://www.worldcubeassociation.org/persons/2023GABA01) | 2 |
 
+### Opole
+_Total competitions: 12_
+
+| Person | Competitions |
+| :--- | ---: |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 9 |
+| [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 6 |
+| [Adam Brzana](https://www.worldcubeassociation.org/persons/2022BRZA01) | 3 |
+| [Radosław Ciuk](https://www.worldcubeassociation.org/persons/2013CIUK01) | 3 |
+| [Artur Rapiński](https://www.worldcubeassociation.org/persons/2016RAPI01) | 3 |
+| [Marek Mendel](https://www.worldcubeassociation.org/persons/2016MEND29) | 3 |
+| [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 1 |
+
 ### Łódź
 _Total competitions: 12_
 
@@ -206,19 +219,6 @@ _Total competitions: 12_
 | [Kamil Michalak](https://www.worldcubeassociation.org/persons/2016MICH01) | 1 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 1 |
 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 1 |
-
-### Opole
-_Total competitions: 11_
-
-| Person | Competitions |
-| :--- | ---: |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 8 |
-| [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 6 |
-| [Adam Brzana](https://www.worldcubeassociation.org/persons/2022BRZA01) | 3 |
-| [Radosław Ciuk](https://www.worldcubeassociation.org/persons/2013CIUK01) | 3 |
-| [Artur Rapiński](https://www.worldcubeassociation.org/persons/2016RAPI01) | 3 |
-| [Marek Mendel](https://www.worldcubeassociation.org/persons/2016MEND29) | 3 |
-| [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 1 |
 
 ### Dębica
 _Total competitions: 11_

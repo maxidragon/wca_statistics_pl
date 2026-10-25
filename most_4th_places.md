@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 23 October 2026*
+*Updated on 25 October 2026*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -15,8 +15,8 @@
 | 89 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) |
 | 81 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
 | 79 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
+| 75 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
 | 74 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
-| 73 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
 | 71 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) |
 | 70 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 63 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) |
@@ -31,7 +31,7 @@
 | 52 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) |
 | 49 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) |
 | 48 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) |
-| 46 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
+| 47 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
 | 46 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) |
 | 45 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) |
 | 44 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) |

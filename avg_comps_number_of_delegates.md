@@ -1,7 +1,7 @@
 ## Average number of competitions of listed delegates at Polish competitions by number of delegates
 
 *Note: Competitions are grouped by how many delegates they had. Each table shows the competitions with the highest average number of competitions that listed delegates had participated in up to and including the one they delegated.*
-*Updated on 23 October 2026*
+*Updated on 25 October 2026*
 
 
 ### 9 Delegates
@@ -48,8 +48,8 @@
 | [BrizZon Side Open II 2025](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenII2025) | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01), [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01), [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 174.50 |
 | [Big Side & Blind Olsztyn 2025](https://www.worldcubeassociation.org/competitions/BigSideBlindOlsztyn2025) | [Kasparas Lienys](https://www.worldcubeassociation.org/persons/2018LIEN01), [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 172.75 |
 | [BrizZon Side Open 2025](https://www.worldcubeassociation.org/competitions/BrizZonSideOpen2025) | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01), [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01), [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 170.25 |
+| [Opole Cubing Day 2026](https://www.worldcubeassociation.org/competitions/OpoleCubingDay2026) | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01), [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01), [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01), [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | 144.00 |
 | [Warsaw Cube Masters 2023](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2023) | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01), [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01), [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 135.75 |
-| [CF Claus Race Brzeziny 2025](https://www.worldcubeassociation.org/competitions/CFClausRaceBrzeziny2025) | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01), [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01), [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 132.50 |
 
 ### 3 Delegates
 

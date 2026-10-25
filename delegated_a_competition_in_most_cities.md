@@ -1,7 +1,7 @@
 ## Delegated a competition in most Polish cities
 
 *Note: This statistic shows the Polish delegates who have delegated a competition in most cities in Poland.*
-*Updated on 23 October 2026*
+*Updated on 25 October 2026*
 
 | Name | Cities |
 | :--- | ---: |
@@ -26,11 +26,12 @@
 | [Stefan Łapicki](https://www.worldcubeassociation.org/persons/2006LAPI01) | 8 |
 | [Adam Joks](https://www.worldcubeassociation.org/persons/2005JOKS01) | 5 |
 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) | 5 |
+| [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 2 |
+| [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) | 2 |
 | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) | 2 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 2 |
-| [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 1 |
 | [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) | 1 |
-| [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) | 1 |
+| [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | 1 |
 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 1 |
 
 

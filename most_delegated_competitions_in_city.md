@@ -1,7 +1,7 @@
 ## Most delegated competitions in a city
 
 *Note: Only Polish delegates and Polish competitions are included.*
-*Updated on 23 October 2026*
+*Updated on 25 October 2026*
 
 
 ### Gdańsk
@@ -54,14 +54,14 @@ _Total competitions: 57_
 | [Stefan Łapicki](https://www.worldcubeassociation.org/persons/2006LAPI01) | 1 |
 
 ### Poznań
-_Total competitions: 51_
+_Total competitions: 52_
 
 | Person | Competitions |
 | :--- | ---: |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 37 |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 31 |
-| [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 13 |
-| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 12 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 38 |
+| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 32 |
+| [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 14 |
+| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 13 |
 | [Adam Joks](https://www.worldcubeassociation.org/persons/2005JOKS01) | 4 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 2 |
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 2 |
@@ -149,6 +149,22 @@ _Total competitions: 12_
 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 1 |
 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) | 1 |
 
+### Opole
+_Total competitions: 12_
+
+| Person | Competitions |
+| :--- | ---: |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 9 |
+| [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 2 |
+| [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 1 |
+| [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) | 1 |
+| [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 1 |
+| [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 1 |
+| [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | 1 |
+| [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) | 1 |
+| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 1 |
+| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 1 |
+
 ### Dębica
 _Total competitions: 11_
 
@@ -173,19 +189,6 @@ _Total competitions: 11_
 | [Adam Joks](https://www.worldcubeassociation.org/persons/2005JOKS01) | 1 |
 | [Stefan Łapicki](https://www.worldcubeassociation.org/persons/2006LAPI01) | 1 |
 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) | 1 |
-
-### Opole
-_Total competitions: 11_
-
-| Person | Competitions |
-| :--- | ---: |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 8 |
-| [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 2 |
-| [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 1 |
-| [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) | 1 |
-| [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 1 |
-| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 1 |
-| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 1 |
 
 ### Olsztyn
 _Total competitions: 10_

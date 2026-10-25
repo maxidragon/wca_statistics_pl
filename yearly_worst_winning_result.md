@@ -1,7 +1,7 @@
 ## Worst result providing a win by year at Polish competitions
 
 *Note: Only finals at competitions held in Poland are taken into account, regardless of the winners' countries. Results where the main statistic is DNF are ignored. Each year is considered separately.*
-*Updated on 23 October 2026*
+*Updated on 25 October 2026*
 
 
 ### 2026
@@ -29,12 +29,12 @@
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 1.95 | **2.47** | [Stork Cubing Przygodzice 2026](https://www.worldcubeassociation.org/competitions/StorkCubingPrzygodzice2026/results/podiums#e222) |
 | [Stanisław Ożyński](https://www.worldcubeassociation.org/persons/2022OZYN01) | 1.35 | **2.42** | [Olsztyn Spring Open 2026](https://www.worldcubeassociation.org/competitions/OlsztynSpringOpen2026/results/podiums#e222) |
 | [Antoni Polityło](https://www.worldcubeassociation.org/persons/2023POLI06) | 1.79 | **2.14** | [Baltic Skewb Fest Gdańsk 2026](https://www.worldcubeassociation.org/competitions/BalticSkewbFestGdansk2026/results/podiums#e222) |
+| [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 1.54 | **2.13** | [Opole Cubing Day 2026](https://www.worldcubeassociation.org/competitions/OpoleCubingDay2026/results/podiums#e222) |
 | [Medard Lecluyse](https://www.worldcubeassociation.org/persons/2022LECL01) | 1.26 | **2.13** | [Cube4fun Biała Rawska 2026](https://www.worldcubeassociation.org/competitions/Cube4funBialaRawskaSpring2026/results/podiums#e222) |
 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | 1.49 | **1.91** | [Podlaskie Tour Suwałki 2026](https://www.worldcubeassociation.org/competitions/PodlaskieTourSuwalki2026/results/podiums#e222) |
 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 0.99 | **1.84** | [Cube4fun Lublin on POLLUB 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinonPOLLUB2026/results/podiums#e222) |
 | [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) | 1.57 | **1.81** | [WLS Marzec 2026](https://www.worldcubeassociation.org/competitions/WLSMarzec2026/results/podiums#e222) |
 | [Maks Noska](https://www.worldcubeassociation.org/persons/2023NOSK01) | 1.52 | **1.80** | [Koszalin Open 2026](https://www.worldcubeassociation.org/competitions/KoszalinOpen2026/results/podiums#e222) |
-| [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | 1.48 | **1.76** | [Cubing Mine Rybnik IV 2026](https://www.worldcubeassociation.org/competitions/CubingMineRybnikIV2026/results/podiums#e222) |
 
 #### 4x4x4 Cube
 
@@ -148,9 +148,9 @@
 | [Yurii Hnidko (Юрій Гнідко)](https://www.worldcubeassociation.org/persons/2016HNID02) | 11.37 | **13.12** | [Cube4fun Lublin Spring 2026](https://www.worldcubeassociation.org/competitions/Cube4funLublinSpring2026/results/podiums#e333oh) |
 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 11.36 | **12.99** | [Cube4fun in Lublin 2026](https://www.worldcubeassociation.org/competitions/Cube4funinLublin2026/results/podiums#e333oh) |
 | [Mateusz Korolkiewicz](https://www.worldcubeassociation.org/persons/2024KORO03) | 11.70 | **12.88** | [Lipnica Wielka Open 2026](https://www.worldcubeassociation.org/competitions/LipnicaWielkaOpen2026/results/podiums#e333oh) |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 11.90 | **12.40** | [Opole Cubing Day 2026](https://www.worldcubeassociation.org/competitions/OpoleCubingDay2026/results/podiums#e333oh) |
 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 9.77 | **12.13** | [Cube4fun DW Zbuczyn 2026](https://www.worldcubeassociation.org/competitions/Cube4funDWZbuczyn2026/results/podiums#e333oh) |
 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | 10.13 | **11.97** | [GLS Gdańsk IV 2026](https://www.worldcubeassociation.org/competitions/GLSGdanskIV2026/results/podiums#e333oh) |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 10.65 | **11.87** | [Scrambled Cubes Legnica 2026](https://www.worldcubeassociation.org/competitions/ScrambledCubesLegnica2026/results/podiums#e333oh) |
 
 #### Megaminx
 

@@ -1,6 +1,6 @@
 All statistics are computed only for competitors from Poland/Polish competitions.
 
-[Results](#results) (28) · [Records](#records) (10) · [Podiums & medals](#podiums) (21) · [Milestones](#milestones) (8) · [Competing](#competing) (23) · [Travel](#travel) (9) · [Delegating](#delegating) (22) · [Organizing](#organizing) (5) · [Competitions](#competitions) (14)
+[Results](#results) (28) · [Records](#records) (10) · [Podiums & medals](#podiums) (21) · [Milestones](#milestones) (8) · [Competing](#competing) (24) · [Travel](#travel) (9) · [Delegating](#delegating) (22) · [Organizing](#organizing) (5) · [Competitions](#competitions) (14)
 
 ## Results {#results}
 
@@ -88,6 +88,7 @@ All statistics are computed only for competitors from Poland/Polish competitions
 - [Fewest % of competitions attended in the same city as the first competition of the competitor](fewest_competitions_in_city_at_first_comp)
 - [Fewest % of competitions attended in the same voivodeship as the first competition of the competitor](fewest_competitions_in_voivodeship_at_first_comp)
 - [Highest average number of new people met per competition](average_new_people_met_per_competition)
+- [Longest gaps between competitions](longest_competition_gaps)
 - [Longest streak of all competitions in a city](longest_streak_of_all_competitions_in_same_city)
 - [Longest streak of all competitions in a voivodeship](longest_streak_of_all_competitions_in_same_voivodeship)
 - [Longest streak of competitions in Poland](longest_streak_of_competitions_in_own_country)

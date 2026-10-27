@@ -1,6 +1,6 @@
 ## National records count by person
 
-*Updated on 25 October 2026*
+*Updated on 26 October 2026*
 
 | WRs | Person |
 | ---: | :--- |
@@ -21,10 +21,10 @@
 | 12 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) |
 | 11 | [Piotr Alexandrowicz](https://www.worldcubeassociation.org/persons/2007ALEX01) |
 | 11 | [Rafał Studnicki](https://www.worldcubeassociation.org/persons/2005STUD01) |
+| 10 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 10 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 9 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
 | 9 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
-| 9 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 9 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) |
 | 9 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) |
 | 7 | [Kamil Fiedoruk](https://www.worldcubeassociation.org/persons/2012FIED01) |

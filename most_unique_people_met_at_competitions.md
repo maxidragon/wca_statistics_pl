@@ -1,23 +1,23 @@
 ## Most unique people met at competitions
 
 *Note: Treats two people as having met when both recorded at least one result at the same competition. Co-competitors of any nationality are included and each is counted once, regardless of how many competitions they shared.*
-*Updated on 25 October 2026*
+*Updated on 26 October 2026*
 
 | People met | Competitions | Person |
 | ---: | ---: | :--- |
 | 15033 | 203 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
-| 11469 | 406 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
-| 11151 | 415 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 11494 | 408 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 11152 | 416 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 9862 | 230 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
-| 8495 | 198 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
-| 8443 | 274 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
+| 8496 | 199 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
+| 8444 | 275 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 8272 | 148 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
 | 7898 | 227 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 7740 | 121 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) |
 | 7709 | 160 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) |
 | 7560 | 282 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 6982 | 97 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) |
-| 6613 | 146 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
+| 6614 | 147 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 6521 | 233 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 6323 | 116 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) |
 | 6192 | 56 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) |
@@ -34,7 +34,7 @@
 | 5518 | 96 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) |
 | 5517 | 137 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) |
 | 5474 | 74 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) |
-| 5391 | 123 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
+| 5392 | 124 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
 | 5363 | 170 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) |
 | 5338 | 84 | [Ignacy Malinowski](https://www.worldcubeassociation.org/persons/2021MALI02) |
 | 5255 | 121 | [Moli Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
@@ -43,7 +43,7 @@
 | 5170 | 181 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 5149 | 95 | [Szymon Jaworski](https://www.worldcubeassociation.org/persons/2021JAWO01) |
 | 5068 | 144 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
-| 4976 | 141 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) |
+| 4977 | 142 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) |
 | 4965 | 130 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) |
 | 4927 | 152 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
 | 4840 | 71 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) |
@@ -51,7 +51,7 @@
 | 4693 | 90 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |
 | 4654 | 134 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
 | 4644 | 54 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) |
-| 4642 | 118 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
+| 4643 | 119 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
 | 4574 | 78 | [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) |
 | 4459 | 50 | [Michał Kopeć](https://www.worldcubeassociation.org/persons/2020KOPE01) |
 | 4456 | 61 | [Ada Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD01) |
@@ -92,7 +92,7 @@
 | 3725 | 81 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) |
 | 3677 | 80 | [Przemysław Kanarski](https://www.worldcubeassociation.org/persons/2019KANA04) |
 | 3672 | 93 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) |
-| 3635 | 104 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) |
+| 3636 | 105 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) |
 | 3572 | 86 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) |
 | 3507 | 75 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) |
 | 3488 | 74 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) |
@@ -101,8 +101,8 @@
 | 3396 | 114 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) |
 | 3396 | 12 | [Dawid Pelko](https://www.worldcubeassociation.org/persons/2024PELK01) |
 | 3343 | 92 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) |
-| 3341 | 91 | [Stanisław Szyszka](https://www.worldcubeassociation.org/persons/2016SZYS02) |
-| 3328 | 107 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) |
+| 3342 | 92 | [Stanisław Szyszka](https://www.worldcubeassociation.org/persons/2016SZYS02) |
+| 3329 | 108 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) |
 | 3316 | 86 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) |
 | 3296 | 58 | [Stanisław Dąbrowski](https://www.worldcubeassociation.org/persons/2016DABR03) |
 

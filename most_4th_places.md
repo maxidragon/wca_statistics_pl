@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 25 October 2026*
+*Updated on 26 October 2026*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -64,12 +64,12 @@
 | 29 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) |
 | 28 | [Michał Mlostek](https://www.worldcubeassociation.org/persons/2015MLOS01) |
 | 28 | [Mateusz Fydrych](https://www.worldcubeassociation.org/persons/2011FYDR01) |
+| 27 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
 | 27 | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) |
 | 27 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
 | 27 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) |
 | 26 | [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) |
 | 26 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) |
-| 26 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
 | 26 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) |
 | 25 | [Wojciech Piórczyński](https://www.worldcubeassociation.org/persons/2021PIOR01) |
 | 25 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) |
@@ -88,16 +88,16 @@
 | 20 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
 | 19 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) |
 | 19 | [Grzegorz Szumigaj](https://www.worldcubeassociation.org/persons/2013SZUM01) |
-| 18 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) |
-| 18 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) |
-| 18 | [Jakub Wojtaszewski](https://www.worldcubeassociation.org/persons/2013WOJT02) |
-| 18 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) |
 | 18 | [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) |
+| 18 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) |
+| 18 | [Jakub Wojtaszewski](https://www.worldcubeassociation.org/persons/2013WOJT02) |
+| 18 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) |
+| 18 | [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) |
+| 18 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) |
 | 17 | [Paweł Kowol](https://www.worldcubeassociation.org/persons/2011KOWO01) |
 | 16 | [Stanisław Szyszka](https://www.worldcubeassociation.org/persons/2016SZYS02) |
 | 16 | [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) |
 | 16 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
-| 16 | [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) |
 | 16 | [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) |
 | 15 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) |
 | 15 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) |

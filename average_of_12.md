@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 25 October 2026*
+*Updated on 26 October 2026*
 
 
 ### 3x3x3 Cube
@@ -107,7 +107,7 @@
 | 27.27 | [Kacper Rafalski](https://www.worldcubeassociation.org/persons/2024RAFA06) | 24.99, 36.10, 30.57, 25.47, 23.90, 24.57, DNF, 27.95, 25.14, 20.83, 30.02, 23.99 |
 | 27.70 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | 26.68, 25.68, 28.53, 24.10, 28.94, 28.35, 35.45, 27.57, 31.75, 29.51, 23.24, 25.92 |
 | 27.81 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | 23.39, 29.34, 30.15, 23.62, DNF, 27.55, 26.16, 26.44, 29.33, 29.29, 28.42, 27.83 |
-| 36.11 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | 28.90, 49.86, 48.01, 28.68, 48.77, 37.20, 34.88, 23.82, DNF, 29.00, 30.43, 25.36 |
+| 31.20 | [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) | 27.45, 29.29, 31.13, 43.91, 34.81, 27.17, 28.09, 30.52, 31.32, 28.27, DNF, 25.06 |
 
 ### 3x3x3 Fewest Moves
 

@@ -1,7 +1,7 @@
 ## Most solves in an event
 
 *Note: Counts completed solves (not DNF) across all competitions. Attempts include completed solves and DNFs, DNS are excluded.*
-*Updated on 25 October 2026*
+*Updated on 26 October 2026*
 
 
 ### 3x3x3 Cube
@@ -95,7 +95,7 @@
 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **653** | 657 |
 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | **646** | 650 |
 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | **645** | 650 |
-| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **620** | 628 |
+| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **625** | 633 |
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | **533** | 534 |
 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | **529** | 536 |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | **514** | 515 |
@@ -158,26 +158,26 @@
 
 | Person | Solves | Attempts |
 | :--- | ---: | ---: |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **692** | 1471 |
-| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **652** | 902 |
-| [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | **517** | 870 |
-| [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | **457** | 569 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **450** | 972 |
+| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **700** | 1486 |
+| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **657** | 907 |
+| [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | **522** | 885 |
+| [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | **465** | 579 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **457** | 982 |
 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | **362** | 696 |
 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | **327** | 533 |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **314** | 610 |
 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | **295** | 456 |
-| [Stanisław Szyszka](https://www.worldcubeassociation.org/persons/2016SZYS02) | **291** | 576 |
+| [Stanisław Szyszka](https://www.worldcubeassociation.org/persons/2016SZYS02) | **295** | 591 |
 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) | **283** | 330 |
 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | **273** | 500 |
 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | **250** | 490 |
-| [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **193** | 550 |
+| [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **195** | 555 |
 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | **185** | 571 |
 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | **183** | 286 |
-| [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | **175** | 609 |
-| [Dominik Kobinski](https://www.worldcubeassociation.org/persons/2019KOBI01) | **173** | 285 |
+| [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | **178** | 624 |
+| [Dominik Kobinski](https://www.worldcubeassociation.org/persons/2019KOBI01) | **174** | 290 |
 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | **171** | 279 |
-| [Marcin Chmielewski](https://www.worldcubeassociation.org/persons/2023CHMI01) | **168** | 374 |
+| [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) | **170** | 304 |
 
 ### 3x3x3 Fewest Moves
 
@@ -234,25 +234,25 @@
 | Person | Solves | Attempts |
 | :--- | ---: | ---: |
 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | **1658** | 1685 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **1578** | 1581 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **1588** | 1591 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **1342** | 1351 |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | **1218** | 1223 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **1041** | 1050 |
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | **1010** | 1023 |
+| [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **900** | 904 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **894** | 909 |
-| [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **890** | 894 |
 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **834** | 841 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | **802** | 807 |
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | **796** | 797 |
 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | **750** | 757 |
-| [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | **714** | 715 |
+| [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | **724** | 725 |
 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | **712** | 719 |
 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | **680** | 726 |
-| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **655** | 663 |
-| [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | **651** | 657 |
-| [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | **600** | 604 |
+| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **665** | 673 |
+| [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | **661** | 667 |
+| [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | **610** | 614 |
 | [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) | **579** | 581 |
-| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | **549** | 568 |
+| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | **559** | 578 |
 
 ### Pyraminx
 
@@ -283,23 +283,23 @@
 
 | Person | Solves | Attempts |
 | :--- | ---: | ---: |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **2266** | 2430 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **2281** | 2445 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **1133** | 1424 |
 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **1124** | 1239 |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **1064** | 1277 |
+| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **1079** | 1292 |
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | **968** | 1091 |
 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **940** | 1060 |
 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | **788** | 844 |
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | **740** | 810 |
-| [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | **682** | 769 |
+| [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | **697** | 784 |
 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | **668** | 799 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **642** | 775 |
 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | **623** | 667 |
 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | **610** | 670 |
 | [Szymon Jaworski](https://www.worldcubeassociation.org/persons/2021JAWO01) | **605** | 660 |
 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | **595** | 710 |
+| [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | **593** | 701 |
 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) | **591** | 662 |
-| [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | **578** | 686 |
 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | **552** | 662 |
 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | **546** | 629 |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **530** | 573 |
@@ -315,8 +315,8 @@
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | **1147** | 1155 |
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | **1109** | 1140 |
 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **1089** | 1105 |
+| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **1074** | 1096 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **1068** | 1083 |
-| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **1065** | 1086 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **1047** | 1055 |
 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | **1047** | 1123 |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **1009** | 1014 |
@@ -333,25 +333,25 @@
 
 | Person | Solves | Attempts |
 | :--- | ---: | ---: |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **1487** | 1492 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **1494** | 1499 |
 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **1382** | 1394 |
-| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **1259** | 1267 |
-| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **1202** | 1212 |
+| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **1269** | 1277 |
+| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **1212** | 1222 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **981** | 1002 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **945** | 975 |
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | **925** | 951 |
 | [Moli Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | **907** | 928 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | **889** | 901 |
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | **880** | 922 |
-| [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | **771** | 775 |
+| [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | **781** | 785 |
+| [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | **751** | 770 |
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | **742** | 745 |
-| [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | **741** | 760 |
 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | **640** | 662 |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | **614** | 624 |
+| [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | **509** | 520 |
 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | **501** | 510 |
-| [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | **499** | 510 |
+| [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | **498** | 501 |
 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | **494** | 505 |
-| [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | **493** | 496 |
 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | **483** | 487 |
 
 ### 4x4x4 Blindfolded
@@ -408,12 +408,12 @@
 
 | Person | Solves | Attempts |
 | :--- | ---: | ---: |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **171** | 189 |
-| [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | **154** | 175 |
+| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **173** | 191 |
+| [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | **156** | 177 |
 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | **127** | 151 |
-| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **100** | 103 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **65** | 77 |
-| [Stanisław Szyszka](https://www.worldcubeassociation.org/persons/2016SZYS02) | **60** | 68 |
+| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **101** | 104 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **66** | 78 |
+| [Stanisław Szyszka](https://www.worldcubeassociation.org/persons/2016SZYS02) | **62** | 70 |
 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | **57** | 67 |
 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | **55** | 72 |
 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | **55** | 73 |
@@ -421,13 +421,13 @@
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **53** | 65 |
 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | **51** | 61 |
 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) | **50** | 51 |
-| [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | **46** | 76 |
+| [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | **47** | 78 |
 | [Kamil Michalak](https://www.worldcubeassociation.org/persons/2016MICH01) | **44** | 58 |
 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | **43** | 44 |
 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | **39** | 44 |
 | [Bartosz Bździel](https://www.worldcubeassociation.org/persons/2010BZDZ01) | **37** | 39 |
 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | **37** | 45 |
-| [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) | **34** | 37 |
+| [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) | **36** | 39 |
 
 ### 3x3x3 With Feet
 

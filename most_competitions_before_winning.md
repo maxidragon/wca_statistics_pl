@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 25 October 2026*
+*Updated on 26 October 2026*
 
 
 ### 3x3x3 Cube
@@ -87,11 +87,11 @@
 | 47 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | [Kolla Winter Cup 2024](https://www.worldcubeassociation.org/competitions/KollaWinterCup2024) |
 | 39 | [Przemysław Kruczek](https://www.worldcubeassociation.org/persons/2013KRUC01) | [CFL Goes Sideways Rogów 2025](https://www.worldcubeassociation.org/competitions/CFLGoesSidewaysRogow2025) |
 | 35 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | [PST Biłgoraj 2020](https://www.worldcubeassociation.org/competitions/PSTBilgoraj2020) |
-| 25 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | [K:nummen Kuutionvääntelyt 2022](https://www.worldcubeassociation.org/competitions/KnummenKuutionvaantelyt2022) |
+| 26 | [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) | [Wuppertal 2 2026](https://www.worldcubeassociation.org/competitions/Wuppertal22026) |
 | 25 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) | [Estonian Championship 2024](https://www.worldcubeassociation.org/competitions/EstonianChampionship2024) |
+| 25 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | [K:nummen Kuutionvääntelyt 2022](https://www.worldcubeassociation.org/competitions/KnummenKuutionvaantelyt2022) |
 | 20 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | [Dębica Cubing Summer 2026](https://www.worldcubeassociation.org/competitions/DebicaCubingSummer2026) |
 | 17 | [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) | [Cube4fun Tylmanowa Autumn 2025](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaAutumn2025) |
-| 16 | [Kamil Pawlak](https://www.worldcubeassociation.org/persons/2006PAWL01) | [PLS Szczecin 2014](https://www.worldcubeassociation.org/competitions/PLSSzczecin2014) |
 | 16 | [Oskar Matysik](https://www.worldcubeassociation.org/persons/2019MATY01) | [Czech Open 2025](https://www.worldcubeassociation.org/competitions/CzechOpen2025) |
 
 ### 3x3x3 Blindfolded
@@ -175,8 +175,8 @@
 | ---: | :--- | :--- |
 | 84 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | [North Slovakian Open 2024](https://www.worldcubeassociation.org/competitions/NorthSlovakianOpen2024) |
 | 62 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | [Back To Białystok 2024](https://www.worldcubeassociation.org/competitions/BackToBialystok2024) |
-| 49 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) | [GLS V 2023](https://www.worldcubeassociation.org/competitions/GLSV2023) |
 | 49 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | [Szczecin Winter 2022](https://www.worldcubeassociation.org/competitions/SzczecinWinter2022) |
+| 49 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) | [GLS V 2023](https://www.worldcubeassociation.org/competitions/GLSV2023) |
 | 44 | [Ignacy Malinowski](https://www.worldcubeassociation.org/persons/2021MALI02) | [Cube4fun Żyrardów 2024](https://www.worldcubeassociation.org/competitions/Cube4funCEZyrardow2024) |
 | 40 | [Bartosz Łebkowski](https://www.worldcubeassociation.org/persons/2021LEBK01) | [Let's Solve Liberec 2025](https://www.worldcubeassociation.org/competitions/LetsSolveLiberec2025) |
 | 39 | [Bartosz Dąbrowski](https://www.worldcubeassociation.org/persons/2023DABR07) | [Cube Factory Aleksandrów 2026](https://www.worldcubeassociation.org/competitions/CubeFactoryAleksandrow2026) |
@@ -192,9 +192,9 @@
 | 59 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | [Marrakech Open 2026](https://www.worldcubeassociation.org/competitions/MarrakechOpen2026) |
 | 52 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | [Project Biała Podlaska 2018](https://www.worldcubeassociation.org/competitions/ProjectBialaPodlaska2018) |
 | 46 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | [Cubers Eve Białystok 2018](https://www.worldcubeassociation.org/competitions/CubersEve2018) |
-| 42 | [Martyna Jarosz](https://www.worldcubeassociation.org/persons/2022JARO01) | [Cube4fun in Lublin 2025](https://www.worldcubeassociation.org/competitions/Cube4funinLublin2025) |
-| 42 | [Hubert Darłak](https://www.worldcubeassociation.org/persons/2023DARL03) | [Scrambled Cubes Legnica 2026](https://www.worldcubeassociation.org/competitions/ScrambledCubesLegnica2026) |
 | 42 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | [Lithuanian Open 2016](https://www.worldcubeassociation.org/competitions/LithuanianOpen2016) |
+| 42 | [Hubert Darłak](https://www.worldcubeassociation.org/persons/2023DARL03) | [Scrambled Cubes Legnica 2026](https://www.worldcubeassociation.org/competitions/ScrambledCubesLegnica2026) |
+| 42 | [Martyna Jarosz](https://www.worldcubeassociation.org/persons/2022JARO01) | [Cube4fun in Lublin 2025](https://www.worldcubeassociation.org/competitions/Cube4funinLublin2025) |
 | 41 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | [Rīga Open 2024](https://www.worldcubeassociation.org/competitions/RigaOpen2024) |
 | 37 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) | [Spring Vibe Giżycko 2024](https://www.worldcubeassociation.org/competitions/SpringVibeGizycko2024) |
 | 33 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | [Kopr Cube 2024](https://www.worldcubeassociation.org/competitions/KoprCube2024) |

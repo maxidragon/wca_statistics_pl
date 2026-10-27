@@ -1,6 +1,6 @@
 ## Average results submission time by Polish delegates each year
 
-*Updated on 25 October 2026*
+*Updated on 26 October 2026*
 
 
 ### 2026
@@ -12,15 +12,15 @@
 | [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) | -0.29h | 1 |
 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 0.30h | 27 |
 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 1.13h | 2 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 1.23h | 37 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 1.20h | 38 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 1.59h | 29 |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 3.06h | 1 |
 | [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) | 6.88h | 2 |
 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 7.42h | 1 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 8.24h | 2 |
-| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 10.43h | 17 |
-| [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 19.06h | 13 |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 1d 7.85h | 20 |
+| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 9.86h | 18 |
+| [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 17.71h | 14 |
+| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 1d 6.34h | 21 |
 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 2d 14.64h | 13 |
 | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) | 3d 12.66h | 2 |
 

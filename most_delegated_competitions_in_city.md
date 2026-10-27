@@ -1,7 +1,7 @@
 ## Most delegated competitions in a city
 
 *Note: Only Polish delegates and Polish competitions are included.*
-*Updated on 25 October 2026*
+*Updated on 26 October 2026*
 
 
 ### Gdańsk

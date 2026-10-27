@@ -1,7 +1,7 @@
 ## Longest distance between competitions on consecutive days (unique)
 
 *Note: Calculated as the direct distance between two competitions with overlapping or adjacent dates. Excludes multi-location competitions. Each person appears at most once.*
-*Updated on 25 October 2026*
+*Updated on 26 October 2026*
 
 | Person | Distance | From | To |
 | :--- | ---: | :--- | :--- |
@@ -45,7 +45,7 @@
 | [Gabriel Marczak](https://www.worldcubeassociation.org/persons/2013MARC03) | 216 km | [Wrocław FMC Masters 2019](https://www.worldcubeassociation.org/competitions/WroclawFMCMasters2019) (Poland) | [Cube Factory League Domaniewice 2019](https://www.worldcubeassociation.org/competitions/CFLDomaniewice2019) (Poland) |
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 215 km | [Big Side & Blind Olsztyn 2025](https://www.worldcubeassociation.org/competitions/BigSideBlindOlsztyn2025) (Poland) | [Cube4fun Biała Rawska Spring 2025](https://www.worldcubeassociation.org/competitions/Cube4funBialaRawska2025) (Poland) |
 | [Tomasz Larysz](https://www.worldcubeassociation.org/persons/2020LARY01) | 209 km | [BrizZon Side Open V 2022](https://www.worldcubeassociation.org/competitions/BrizzonSideOpenV2022) (Poland) | [Elektryk Cube Race 2022](https://www.worldcubeassociation.org/competitions/ElektrykCubeRace2022) (Poland) |
-| [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 207 km | [All Rounders Katowice I 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceI2026) (Poland) | [Kostelec NxN 2026](https://www.worldcubeassociation.org/competitions/KostelecNxN2026) (Czech Republic) |
+| [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 209 km | [Opole Cubing Day 2026](https://www.worldcubeassociation.org/competitions/OpoleCubingDay2026) (Poland) | [BrizZon Side Open V 2026](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenV2026) (Poland) |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 207 km | [All Rounders Katowice I 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceI2026) (Poland) | [Kostelec NxN 2026](https://www.worldcubeassociation.org/competitions/KostelecNxN2026) (Czech Republic) |
 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | 207 km | [All Rounders Katowice I 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceI2026) (Poland) | [Kostelec NxN 2026](https://www.worldcubeassociation.org/competitions/KostelecNxN2026) (Czech Republic) |
 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | 207 km | [All Rounders Katowice I 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceI2026) (Poland) | [Kostelec NxN 2026](https://www.worldcubeassociation.org/competitions/KostelecNxN2026) (Czech Republic) |

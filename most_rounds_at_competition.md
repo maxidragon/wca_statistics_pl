@@ -1,58 +1,58 @@
 ## Most rounds held at a competition
 
-*Updated on 25 October 2026*
+*Updated on 26 October 2026*
 
 | Rounds | Competition |
 | ---: | :--- |
 | 41 | [Polish Championship 2015](https://www.worldcubeassociation.org/competitions/PolishChampionship2015) |
 | 40 | [All Rounders Katowice I 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceI2026) |
-| 39 | [Warszawa Open 2012](https://www.worldcubeassociation.org/competitions/WarszawaOpen2012) |
 | 39 | [Polish Nationals 2012](https://www.worldcubeassociation.org/competitions/PolishNationals2012) |
+| 39 | [Warszawa Open 2012](https://www.worldcubeassociation.org/competitions/WarszawaOpen2012) |
 | 37 | [Pabianice Open 2010](https://www.worldcubeassociation.org/competitions/PabianiceOpen2010) |
-| 36 | [Euro 2012](https://www.worldcubeassociation.org/competitions/Euro2012) |
 | 36 | [Jura Open 2012](https://www.worldcubeassociation.org/competitions/JuraOpen2012) |
-| 36 | [Polish Open 2019](https://www.worldcubeassociation.org/competitions/PolishOpen2019) |
 | 36 | [Polish Nationals 2011](https://www.worldcubeassociation.org/competitions/PolishNationals2011) |
+| 36 | [Polish Open 2019](https://www.worldcubeassociation.org/competitions/PolishOpen2019) |
 | 36 | [Silesian Minx Fest 2025](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2025) |
+| 36 | [Euro 2012](https://www.worldcubeassociation.org/competitions/Euro2012) |
+| 35 | [Polish Championship 2019](https://www.worldcubeassociation.org/competitions/PolishChampionship2019) |
+| 35 | [Polish Open 2015](https://www.worldcubeassociation.org/competitions/PolishOpen2015) |
 | 35 | [PST Łuków 2019](https://www.worldcubeassociation.org/competitions/PSTLukow2019) |
 | 35 | [PST Rzeszów 2019](https://www.worldcubeassociation.org/competitions/PSTRzeszow2019) |
-| 35 | [Polish Open 2015](https://www.worldcubeassociation.org/competitions/PolishOpen2015) |
-| 35 | [Polish Championship 2019](https://www.worldcubeassociation.org/competitions/PolishChampionship2019) |
-| 34 | [Polish Nationals 2017](https://www.worldcubeassociation.org/competitions/PolishNationals2017) |
-| 34 | [Speed Days Kraśnik 2017](https://www.worldcubeassociation.org/competitions/SpeedDaysKrasnik2017) |
-| 34 | [Polish Open 2012](https://www.worldcubeassociation.org/competitions/PolishOpen2012) |
 | 34 | [Polish Championship 2016](https://www.worldcubeassociation.org/competitions/PolishChampionship2016) |
 | 34 | [Polish Championship 2018](https://www.worldcubeassociation.org/competitions/PolishChampionship2018) |
-| 34 | [Silesian Minx Fest 2024](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2024) |
-| 34 | [Polish Nationals 2010](https://www.worldcubeassociation.org/competitions/PolishNationals2010) |
 | 34 | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023) |
-| 34 | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) |
+| 34 | [Speed Days Kraśnik 2017](https://www.worldcubeassociation.org/competitions/SpeedDaysKrasnik2017) |
 | 34 | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) |
+| 34 | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) |
+| 34 | [Polish Nationals 2010](https://www.worldcubeassociation.org/competitions/PolishNationals2010) |
+| 34 | [Polish Nationals 2017](https://www.worldcubeassociation.org/competitions/PolishNationals2017) |
+| 34 | [Polish Open 2012](https://www.worldcubeassociation.org/competitions/PolishOpen2012) |
+| 34 | [Silesian Minx Fest 2024](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2024) |
+| 33 | [Kaliska Open 2015](https://www.worldcubeassociation.org/competitions/KaliskaOpen2015) |
 | 33 | [Polish Open 2009](https://www.worldcubeassociation.org/competitions/PolishOpen2009) |
 | 33 | [PST Biłgoraj 2019](https://www.worldcubeassociation.org/competitions/PolishSpeedcubingTourBilgora2019) |
-| 33 | [Kaliska Open 2015](https://www.worldcubeassociation.org/competitions/KaliskaOpen2015) |
 | 33 | [PST LLS Lublin 2019](https://www.worldcubeassociation.org/competitions/PSTLLSLublin2019) |
+| 32 | [PLS Sopot 2014](https://www.worldcubeassociation.org/competitions/PLSSopot2014) |
+| 32 | [Staszic Open 2017](https://www.worldcubeassociation.org/competitions/StaszicOpen2017) |
 | 32 | [Chojnice Open 2014](https://www.worldcubeassociation.org/competitions/ChojniceOpen2014) |
+| 32 | [SLS Zaglebie 2013](https://www.worldcubeassociation.org/competitions/SLSZaglebie2013) |
+| 32 | [Polish Open 2013](https://www.worldcubeassociation.org/competitions/PolishOpen2013) |
 | 32 | [Warsaw Cube Masters 2015](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2015) |
 | 32 | [PST Biłgoraj 2020](https://www.worldcubeassociation.org/competitions/PSTBilgoraj2020) |
 | 32 | [PST Nowa Słupia 2019](https://www.worldcubeassociation.org/competitions/PSTNowaSlupia2019) |
-| 32 | [SLS Zaglebie 2013](https://www.worldcubeassociation.org/competitions/SLSZaglebie2013) |
-| 32 | [PLS Sopot 2014](https://www.worldcubeassociation.org/competitions/PLSSopot2014) |
-| 32 | [Polish Open 2013](https://www.worldcubeassociation.org/competitions/PolishOpen2013) |
-| 32 | [Staszic Open 2017](https://www.worldcubeassociation.org/competitions/StaszicOpen2017) |
 | 31 | [Cube4fun in Biała Podlaska 2024](https://www.worldcubeassociation.org/competitions/Cube4funinBialaPodlaska2024) |
 | 31 | [Chojnice Open 2013](https://www.worldcubeassociation.org/competitions/ChojniceOpen2013) |
 | 31 | [Polish Open 2017](https://www.worldcubeassociation.org/competitions/PolishOpen2017) |
 | 31 | [LLS VII Final 2018](https://www.worldcubeassociation.org/competitions/LLSVIIFinal2018) |
-| 30 | [LLS V Final 2019](https://www.worldcubeassociation.org/competitions/LLSVFinal2019) |
-| 30 | [PLS Szczecin 2014](https://www.worldcubeassociation.org/competitions/PLSSzczecin2014) |
 | 30 | [CFL Santa Claus Cube Race 2017](https://www.worldcubeassociation.org/competitions/CFLSantaClausCubeRace2017) |
-| 30 | [Santa Claus Cube Race 2019](https://www.worldcubeassociation.org/competitions/SantaClausCubeRace2019) |
-| 30 | [Polish Nationals 2013](https://www.worldcubeassociation.org/competitions/PolishNationals2013) |
-| 30 | [PST Mielec 2019](https://www.worldcubeassociation.org/competitions/PolishSpeedcubingTourMielec2019) |
+| 30 | [PLS Szczecin 2014](https://www.worldcubeassociation.org/competitions/PLSSzczecin2014) |
 | 30 | [Polish Open 2018](https://www.worldcubeassociation.org/competitions/PolishOpen2018) |
 | 30 | [LLS Meeting Days 2018](https://www.worldcubeassociation.org/competitions/LLSMeetingDays2018) |
-| 29 | [Warsaw Open 2014](https://www.worldcubeassociation.org/competitions/WarsawOpen2014) |
+| 30 | [LLS V Final 2019](https://www.worldcubeassociation.org/competitions/LLSVFinal2019) |
+| 30 | [PST Mielec 2019](https://www.worldcubeassociation.org/competitions/PolishSpeedcubingTourMielec2019) |
+| 30 | [Polish Nationals 2013](https://www.worldcubeassociation.org/competitions/PolishNationals2013) |
+| 30 | [Santa Claus Cube Race 2019](https://www.worldcubeassociation.org/competitions/SantaClausCubeRace2019) |
+| 29 | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022) |
 | 29 | [Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013) |
 
 

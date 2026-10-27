@@ -1,15 +1,15 @@
 ## Highest percentage of competitions with at least one medal
 
 *Note: A medal means a top 3 place in a final of any event. Only Polish competitors with at least 10 competitions are included.*
-*Updated on 25 October 2026*
+*Updated on 26 October 2026*
 
 | Share | With a medal | Competitions | Person |
 | ---: | ---: | ---: | :--- |
 | 100.0% | 50 | 50 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) |
-| 95.7% | 135 | 141 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) |
+| 95.8% | 136 | 142 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) |
 | 95.2% | 40 | 42 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) |
 | 93.8% | 15 | 16 | [Rafał Guzewicz](https://www.worldcubeassociation.org/persons/2006GUZE01) |
-| 92.9% | 78 | 84 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) |
+| 92.9% | 79 | 85 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) |
 | 92.0% | 23 | 25 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) |
 | 91.8% | 90 | 98 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) |
 | 90.8% | 89 | 98 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
@@ -40,7 +40,7 @@
 | 80.0% | 8 | 10 | [Konrad Stawski](https://www.worldcubeassociation.org/persons/2007STAW01) |
 | 78.7% | 74 | 94 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) |
 | 78.4% | 76 | 97 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) |
-| 78.1% | 114 | 146 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
+| 78.2% | 115 | 147 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 77.9% | 67 | 86 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) |
 | 77.7% | 73 | 94 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) |
 | 77.6% | 45 | 58 | [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) |
@@ -61,7 +61,7 @@
 | 72.4% | 21 | 29 | [Piotr Alexandrowicz](https://www.worldcubeassociation.org/persons/2007ALEX01) |
 | 72.0% | 18 | 25 | [Daniel Chudecki](https://www.worldcubeassociation.org/persons/2011CHUD01) |
 | 71.9% | 87 | 121 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) |
-| 71.2% | 195 | 274 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
+| 71.3% | 196 | 275 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 70.7% | 58 | 82 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) |
 | 70.0% | 7 | 10 | [Wojciech Moska](https://www.worldcubeassociation.org/persons/2009MOSK01) |
 | 69.5% | 107 | 154 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) |
@@ -69,7 +69,6 @@
 | 69.0% | 20 | 29 | [Filip Miazek](https://www.worldcubeassociation.org/persons/2010MIAZ01) |
 | 68.8% | 22 | 32 | [Szymon Musiał](https://www.worldcubeassociation.org/persons/2018MUSI03) |
 | 67.5% | 77 | 114 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) |
-| 67.4% | 29 | 43 | [Dominik Kobinski](https://www.worldcubeassociation.org/persons/2019KOBI01) |
 | 67.3% | 37 | 55 | [Mateusz Fydrych](https://www.worldcubeassociation.org/persons/2011FYDR01) |
 | 67.1% | 55 | 82 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) |
 | 66.7% | 52 | 78 | [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) |
@@ -79,6 +78,7 @@
 | 66.7% | 8 | 12 | [Tomasz Tokarski](https://www.worldcubeassociation.org/persons/2012TOKA02) |
 | 66.3% | 57 | 86 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) |
 | 66.2% | 47 | 71 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) |
+| 65.9% | 29 | 44 | [Dominik Kobinski](https://www.worldcubeassociation.org/persons/2019KOBI01) |
 | 65.6% | 42 | 64 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) |
 | 63.4% | 59 | 93 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) |
 | 63.2% | 24 | 38 | [Mateusz Śliż](https://www.worldcubeassociation.org/persons/2012SLIZ01) |

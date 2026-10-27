@@ -1,13 +1,13 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 25 October 2026*
+*Updated on 26 October 2026*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **273** | 35 | 14 | 322 |
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | **84** | 35 | 27 | 146 |
-| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **41** | 55 | 42 | 138 |
+| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **41** | 56 | 42 | 139 |
 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | **30** | 17 | 12 | 59 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **26** | 20 | 21 | 67 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | **20** | 10 | 8 | 38 |
@@ -43,12 +43,12 @@
 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | **7** | 3 | 5 | 15 |
 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | **7** | 2 | 0 | 9 |
 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) | **6** | 16 | 13 | 35 |
+| [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) | **6** | 12 | 19 | 37 |
 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | **5** | 9 | 3 | 17 |
 | [Mikołaj Molski](https://www.worldcubeassociation.org/persons/2015MOLS01) | **5** | 7 | 6 | 18 |
 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) | **5** | 4 | 4 | 13 |
 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | **5** | 3 | 0 | 8 |
 | [Igor Wojciech Wawrzynski](https://www.worldcubeassociation.org/persons/2019WAWR01) | **4** | 12 | 2 | 18 |
-| [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) | **4** | 11 | 18 | 33 |
 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | **4** | 8 | 4 | 16 |
 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) | **4** | 6 | 2 | 12 |
 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | **4** | 5 | 4 | 13 |

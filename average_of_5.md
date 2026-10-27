@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 25 October 2026*
+*Updated on 26 October 2026*
 
 
 ### 3x3x3 Cube
@@ -152,7 +152,7 @@
 | 34.72 | [Przemysław Rudziak](https://www.worldcubeassociation.org/persons/2020RUDZ02) | 31.69, 35.98, 36.48, 42.45, 31.41 |
 | 35.11 | [Ernest Seroczyński](https://www.worldcubeassociation.org/persons/2015SERO02) | 38.12, 33.80, 35.21, 36.33, 32.93 |
 | 35.99 | [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) | 39.08, 34.11, 34.77, 45.02, 33.34 |
-| 36.52 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 33.39, 44.10, 33.88, 39.15, 36.53 |
+| 36.02 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 36.08, 39.17, 35.99, 35.83, 36.00 |
 
 ### Pyraminx
 

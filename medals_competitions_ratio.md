@@ -1,12 +1,12 @@
 ## Medals to competitions ratio
 
 *Note: Only Polish competitors included*
-*Updated on 25 October 2026*
+*Updated on 26 October 2026*
 
 | Person | Medals | Competitions | Ratio |
 | :--- | ---: | ---: | ---: |
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 439 | 98 | 4.48 |
-| [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 374 | 84 | 4.45 |
+| [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 376 | 85 | 4.42 |
 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 390 | 98 | 3.98 |
 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | 168 | 43 | 3.91 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 670 | 203 | 3.30 |
@@ -22,7 +22,7 @@
 | [Kamil Zieliński](https://www.worldcubeassociation.org/persons/2008ZIEL01) | 87 | 34 | 2.56 |
 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 206 | 87 | 2.37 |
 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | 164 | 71 | 2.31 |
-| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 322 | 141 | 2.28 |
+| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 323 | 142 | 2.27 |
 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 185 | 82 | 2.26 |
 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) | 135 | 62 | 2.18 |
 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 91 | 42 | 2.17 |

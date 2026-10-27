@@ -1,6 +1,6 @@
 ## Longest time from first competition to delegating one
 
-*Updated on 25 October 2026*
+*Updated on 26 October 2026*
 
 | Days | Person | First competition | First delegated |
 | ---: | :--- | :--- | :--- |

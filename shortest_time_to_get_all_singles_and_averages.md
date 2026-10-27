@@ -1,7 +1,12 @@
 ## Shortest time to get all singles and averages
 
-*Note: Only current official events are taken into account.*
-*Updated on 25 October 2026*
+*Note: Each table covers a period in which the set of official events didn't change. A person is listed when they had a result in every event of that period on one of their competition days within it. Days are counted from their first competition.*
+*Updated on 26 October 2026*
+
+
+### 1 January 2020 – 1 January 2027
+
+Events: 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, 3x3x3 Blindfolded, 3x3x3 Fewest Moves, 3x3x3 One-Handed, Megaminx, Pyraminx, Clock, Skewb, Square-1, 4x4x4 Blindfolded, 5x5x5 Blindfolded, 3x3x3 Multi-Blind
 
 | Days | Person |
 | ---: | :--- |

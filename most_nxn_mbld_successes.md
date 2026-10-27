@@ -1,7 +1,7 @@
 ## Most N/N 3x3 MBLD successes
 
 *Note: Count of all 3x3 MBLD successes where all cubes were solved. Only people with at least 3 N/N successes are shown.*
-*Updated on 25 October 2026*
+*Updated on 26 October 2026*
 
 | Name | N/N successes | Breakdown |
 | :--- | ---: | :--- |
@@ -28,6 +28,7 @@
 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | 4 | 2/2, 4/4, 5/5, 8/8 |
 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) | 4 | 3/3 (2), 5/5, 6/6 |
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 4 | 2/2, 3/3, 4/4, 5/5 |
+| [Joanna Hołdakowska](https://www.worldcubeassociation.org/persons/2016HOLD04) | 4 | 2/2, 3/3, 4/4, 5/5 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 4 | 2/2 (2), 3/3 (2) |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 4 | 3/3 (4) |
 | [Mateusz Fydrych](https://www.worldcubeassociation.org/persons/2011FYDR01) | 4 | 2/2 (4) |
@@ -35,7 +36,6 @@
 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | 3 | 7/7, 12/12, 20/20 |
 | [Szymon Ruksza](https://www.worldcubeassociation.org/persons/2013RUKS01) | 3 | 4/4, 13/13, 14/14 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 3 | 3/3, 4/4, 9/9 |
-| [Joanna Hołdakowska](https://www.worldcubeassociation.org/persons/2016HOLD04) | 3 | 2/2, 3/3, 4/4 |
 | [Jakub Lorens](https://www.worldcubeassociation.org/persons/2018LORE01) | 3 | 2/2 (2), 3/3 |
 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 3 | 3/3 (3) |
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 3 | 2/2 (3) |

@@ -1,34 +1,35 @@
 ## Most attended competitions in a series
 
 *Note: Only Polish competitions with posted results are included. Up to the top 20 positions are listed for each series, so ties may add more rows.*
-*Updated on 25 October 2026*
+*Updated on 26 October 2026*
 
 
 ### BrizZon
-_Total competitions: 32_
+_Total competitions: 33_
 
 | Position | Person | Competitions |
 | ---: | :--- | ---: |
-| 1 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | 32 |
-| 1 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 32 |
-| 1 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 32 |
-| 4 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 31 |
-| 5 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 28 |
-| 5 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 28 |
+| 1 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | 33 |
+| 1 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 33 |
+| 1 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 33 |
+| 4 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 32 |
+| 5 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 29 |
+| 5 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 29 |
 | 7 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | 26 |
-| 8 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 22 |
-| 9 | [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) | 21 |
-| 9 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) | 21 |
-| 11 | [Stanisław Szyszka](https://www.worldcubeassociation.org/persons/2016SZYS02) | 19 |
-| 12 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 18 |
-| 12 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 18 |
+| 8 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 23 |
+| 9 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) | 22 |
+| 10 | [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) | 21 |
+| 11 | [Stanisław Szyszka](https://www.worldcubeassociation.org/persons/2016SZYS02) | 20 |
+| 12 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 19 |
+| 13 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 18 |
+| 14 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) | 16 |
+| 14 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 16 |
+| 14 | [Maksymilian Jedynak](https://www.worldcubeassociation.org/persons/2019JEDY01) | 16 |
 | 14 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 16 |
-| 15 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) | 15 |
-| 15 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 15 |
-| 15 | [Maksymilian Jedynak](https://www.worldcubeassociation.org/persons/2019JEDY01) | 15 |
-| 15 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 15 |
-| 15 | [Robert Cegiel](https://www.worldcubeassociation.org/persons/2017CEGI01) | 15 |
+| 18 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 15 |
+| 18 | [Robert Cegiel](https://www.worldcubeassociation.org/persons/2017CEGI01) | 15 |
 | 20 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | 14 |
+| 20 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 14 |
 | 20 | [Tomasz Stawowy](https://www.worldcubeassociation.org/persons/2021STAW01) | 14 |
 
 ### Gdańska Liga Speedcubingu

@@ -1,6 +1,6 @@
 ## Biggest rounds in Poland
 
-*Updated on 25 October 2026*
+*Updated on 26 October 2026*
 
 
 ### 3x3x3 Cube
@@ -106,7 +106,7 @@
 | 50 | [Polish Nationals 2014](https://www.worldcubeassociation.org/competitions/PolishNationals2014) |
 | 49 | [CFL Final Łódź 2025](https://www.worldcubeassociation.org/competitions/CFLFinalLodz2025) |
 | 48 | [Santa Claus Cube Race 2019](https://www.worldcubeassociation.org/competitions/SantaClausCubeRace2019) |
-| 45 | [Polish Championship 2015](https://www.worldcubeassociation.org/competitions/PolishChampionship2015) |
+| 45 | [Cube4fun Warsaw 2022](https://www.worldcubeassociation.org/competitions/Cube4funWarsaw2022) |
 
 ### 3x3x3 Fewest Moves
 

@@ -1,7 +1,7 @@
 ## Highest average number of new people met per competition
 
 *Note: Divides all unique co-competitors met across a competitor's career by their number of competitions. A co-competitor is someone of any nationality who recorded a result at the same competition, and each person counts only once. Minimum 20 competitions required.*
-*Updated on 25 October 2026*
+*Updated on 26 October 2026*
 
 | Avg. new people | Unique people | Competitions | Person |
 | ---: | ---: | ---: | :--- |
@@ -57,9 +57,9 @@
 | 67.68 | 5685 | 84 | [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) |
 | 66.80 | 2004 | 30 | [Zofia Węgrzynowska](https://www.worldcubeassociation.org/persons/2024WEGR01) |
 | 66.66 | 2133 | 32 | [Szymon Musiał](https://www.worldcubeassociation.org/persons/2018MUSI03) |
-| 66.37 | 2854 | 43 | [Kajtek Kwiatkowski](https://www.worldcubeassociation.org/persons/2023KWIA01) |
 | 65.72 | 1643 | 25 | [Patryk Szewczyk](https://www.worldcubeassociation.org/persons/2012SZEW01) |
 | 65.41 | 1439 | 22 | [Paweł Wojciechowski](https://www.worldcubeassociation.org/persons/2016WOJC02) |
+| 64.89 | 2855 | 44 | [Kajtek Kwiatkowski](https://www.worldcubeassociation.org/persons/2023KWIA01) |
 | 64.69 | 4011 | 62 | [Cezary Mach](https://www.worldcubeassociation.org/persons/2018MACH04) |
 | 64.57 | 5811 | 90 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) |
 | 64.39 | 2318 | 36 | [Krystian Kalicki](https://www.worldcubeassociation.org/persons/2023KALI10) |

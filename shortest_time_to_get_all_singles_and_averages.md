@@ -1,7 +1,7 @@
 ## Shortest time to get all singles and averages
 
 *Note: Each table covers a period in which the set of official events didn't change. A person is listed when they had a result in every event of that period on one of their competition days within it. Days are counted from their first competition.*
-*Updated on 26 October 2026*
+*Updated on 28 October 2026*
 
 
 ### 1 January 2020 – 1 January 2027

@@ -1,6 +1,6 @@
 ## Most competitions on the same calendar date
 
-*Updated on 26 October 2026*
+*Updated on 28 October 2026*
 
 | Count | Person | Date | Years |
 | ---: | :--- | :--- | :--- |

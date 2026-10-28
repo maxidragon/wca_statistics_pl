@@ -1,7 +1,7 @@
 ## Longest gaps between competitions
 
 *Note: Only includes people from Poland. For each person, only their longest gap between two consecutive competitions they attended (anywhere in the world) is shown. Only gaps of at least 5 years are shown.*
-*Updated on 26 October 2026*
+*Updated on 28 October 2026*
 
 | Gap | Person | From | To |
 | ---: | :--- | :--- | :--- |

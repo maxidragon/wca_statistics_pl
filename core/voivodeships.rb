@@ -18,11 +18,6 @@ module Voivodeships
     nil
   end
 
-  # The polygons are simplified, so points on the coast can fall just outside of them.
-  def nearest_voivodeship_for(lat, lon)
-    POLYGONS.min_by { |_, ring| ring.map { |x, y| (x - lon.to_f)**2 + (y - lat.to_f)**2 }.min }.first
-  end
-
   def voivodeship_display_name(voiv)
     voiv.split('-').map { |w| w[0].upcase + w[1..] }.join('-')
   end

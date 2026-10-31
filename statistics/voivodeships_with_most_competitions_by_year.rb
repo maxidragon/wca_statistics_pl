@@ -9,7 +9,6 @@ class VoivodeshipsWithMostCompetitionsByYear < PlacesWithMostCompetitionsByYear
   end
 
   def place_for(row)
-    lat, lon = row["lat"].to_f, row["lon"].to_f
-    voivodeship_display_name(voivodeship_for(lat, lon) || nearest_voivodeship_for(lat, lon))
+    voivodeship_display_name(voivodeship_for(row["lat"].to_f, row["lon"].to_f))
   end
 end

@@ -14,13 +14,18 @@ concurrency:
 jobs:
   main:
     runs-on: ubuntu-latest
+    # A healthy run takes about 2 hours; fail well before GitHub's 6-hour limit.
+    timeout-minutes: 240
     steps:
       - uses: actions/checkout@v2
         with:
           # We need the commits from the whole push to determine which stats source changed
           fetch-depth: 0
       - name: Activate MySQL # as per https://github.com/actions/virtual-environments/blob/main/images/linux/Ubuntu2004-README.md#mysql
-        run: sudo systemctl start mysql.service
+        # The database is rebuilt from scratch each run, so trade durability for import speed.
+        run: |
+          printf '[mysqld]\ninnodb_buffer_pool_size=4G\ninnodb_flush_log_at_trx_commit=0\ndisable_log_bin\n' | sudo tee /etc/mysql/conf.d/ci.cnf
+          sudo systemctl start mysql.service
       - name: Free disk space
         run: |
           sudo rm -rf /usr/share/dotnet
@@ -35,6 +40,8 @@ jobs:
         env:
           GITHUB_BEFORE_SHA: ${{ github.event.before }}
       - name: Deploy
+        # Branch runs (workflow_dispatch) only measure the build; only master publishes.
+        if: github.ref == 'refs/heads/master'
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}

@@ -97,6 +97,7 @@ Dir.mktmpdir do |tmp_directory|
       mysql_cmd = "#{mysql_with_credentials} #{config["database"]} #{filter_out_mysql_warning}"
       IO.popen(mysql_cmd, "w") do |mysql_io|
         mysql_io.puts "SET FOREIGN_KEY_CHECKS=0;"
+        mysql_io.puts "SET UNIQUE_CHECKS=0;"
 
         Database::REQUIRED_TABLES.each do |table_name|
           puts "  - Importing table #{table_name}"
@@ -105,7 +106,9 @@ Dir.mktmpdir do |tmp_directory|
 
           # Get rid of indexes within the table definition in favour of index creations after all the INSERT statements.
           index_creations = ""
-          table_sql.gsub!(/,\s*KEY (.\\w+.) (\([^)]*\))/m) do
+          # (The name is backquoted in the dump; this used to match a literal backslash
+          # instead, so every index was kept and maintained row by row during the load.)
+          table_sql.gsub!(/,\s*KEY (`\w+`) (\([^)]*\))/m) do
             index_creations += "CREATE INDEX #{$1} ON #{table_name} #{$2};\n"
             ""
           end

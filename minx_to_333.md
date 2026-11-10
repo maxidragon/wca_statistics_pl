@@ -1,7 +1,7 @@
 ## Megaminx results compared to 3x3 (Poland)
 
 *Note: This statistic compares the best Megaminx average to the best 3x3 average for Polish competitors.*
-*Updated on 28 October 2026*
+*Updated on 10 November 2026*
 
 | Person | Megaminx | 3x3 | Ratio |
 | :--- | ---: | ---: | ---: |
@@ -21,9 +21,9 @@
 | [Dominik Unijewski](https://www.worldcubeassociation.org/persons/2017UNIJ01) | 56.06 | 13.47 | 4.16 |
 | [Mikołaj Dorosiński](https://www.worldcubeassociation.org/persons/2016DORO01) | 53.95 | 12.91 | 4.18 |
 | [Jędrzej Topolski](https://www.worldcubeassociation.org/persons/2024TOPO01) | 41.74 | 9.88 | 4.23 |
+| [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 28.40 | 6.64 | 4.28 |
 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 37.08 | 8.55 | 4.34 |
 | [Idan Bolesto](https://www.worldcubeassociation.org/persons/2022BOLE01) | 43.72 | 10.05 | 4.35 |
-| [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 28.94 | 6.64 | 4.36 |
 | [Bartosz Brudnicki](https://www.worldcubeassociation.org/persons/2023BRUD01) | 54.29 | 12.32 | 4.41 |
 
 

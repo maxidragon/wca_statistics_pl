@@ -1,15 +1,15 @@
 ## Number of people to reach milestone in competitions count
 
 *Note: Only Polish competitors are taken into account.*
-*Updated on 28 October 2026*
+*Updated on 10 November 2026*
 
 | Competitions | Persons |
 | :--- | ---: |
-| >= 1 | 7017 |
+| >= 1 | 7031 |
 | >= 50 | 187 |
 | >= 100 | 51 |
 | >= 150 | 17 |
-| >= 200 | 10 |
+| >= 200 | 11 |
 | >= 250 | 4 |
 | >= 300 | 2 |
 | >= 350 | 2 |

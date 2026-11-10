@@ -1,7 +1,7 @@
 ## Worst result providing a win
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on 28 October 2026*
+*Updated on 10 November 2026*
 
 
 ### 3x3x3 Cube
@@ -122,7 +122,7 @@
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 28 | **31.33** | [Poznań Side Challenge 2017](https://www.worldcubeassociation.org/competitions/PoznanSideChallenge2017/results/podiums#e333fm) |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 29 | **31.00** | [Gdańsk Rubik's Cube Day 2015](https://www.worldcubeassociation.org/competitions/GdanskRubiksCubeDay2015/results/podiums#e333fm) |
 | [Piotr Kuchta](https://www.worldcubeassociation.org/persons/2012KUCH01) | 28 | **30.67** | [GLS Cup III 2017](https://www.worldcubeassociation.org/competitions/GLSCupIII2017/results/podiums#e333fm) |
-| [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 25 | **30.67** | [Polish Open 2015](https://www.worldcubeassociation.org/competitions/PolishOpen2015/results/podiums#e333fm) |
+| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 26 | **30.67** | [VERK XX 2026](https://www.worldcubeassociation.org/competitions/VERKXX2026/results/podiums#e333fm) |
 
 ### 3x3x3 Fewest Moves (Best of 2)
 
@@ -135,8 +135,8 @@
 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) | **31** |  | [Polish Open 2007](https://www.worldcubeassociation.org/competitions/PolishOpen2007/results/podiums#e333fm) |
 | [Krzysztof Żerucha](https://www.worldcubeassociation.org/persons/2008ZERU01) | **30** |  | [SLS Zaglebie 2013](https://www.worldcubeassociation.org/competitions/SLSZaglebie2013/results/podiums#e333fm) |
 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | **29** |  | [Rumia Open 2014](https://www.worldcubeassociation.org/competitions/RumiaOpen2014/results/podiums#e333fm) |
-| [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) | **28** |  | [Czech Open 2013](https://www.worldcubeassociation.org/competitions/CzechOpen2013/results/podiums#e333fm) |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | **28** |  | [Montpellier Open 2011](https://www.worldcubeassociation.org/competitions/MontpellierOpen2011/results/podiums#e333fm) |
+| [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) | **28** |  | [Czech Open 2013](https://www.worldcubeassociation.org/competitions/CzechOpen2013/results/podiums#e333fm) |
 | [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) | **27** |  | [Grudziadz Open 2013](https://www.worldcubeassociation.org/competitions/GrudziadzOpen2013/results/podiums#e333fm) |
 
 ### 3x3x3 Fewest Moves (Best of 1)
@@ -148,9 +148,9 @@
 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) | **41** |  | [Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/PolishNationals2009/results/podiums#e333fm) |
 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) | **39** |  | [Polish Open 2005](https://www.worldcubeassociation.org/competitions/PolishOpen2005/results/podiums#e333fm) |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **38** |  | [Lithuanian Open 2016](https://www.worldcubeassociation.org/competitions/LithuanianOpen2016/results/podiums#e333fm) |
+| [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) | **37** |  | [Warszawa Open 2012](https://www.worldcubeassociation.org/competitions/WarszawaOpen2012/results/podiums#e333fm) |
 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | **37** |  | [Project Łuków 2018](https://www.worldcubeassociation.org/competitions/ProjectLukow2018/results/podiums#e333fm) |
 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) | **37** |  | [Project Łuków 2018](https://www.worldcubeassociation.org/competitions/ProjectLukow2018/results/podiums#e333fm) |
-| [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) | **37** |  | [Warszawa Open 2012](https://www.worldcubeassociation.org/competitions/WarszawaOpen2012/results/podiums#e333fm) |
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | **37** |  | [Polish Open 2009](https://www.worldcubeassociation.org/competitions/PolishOpen2009/results/podiums#e333fm) |
 | [Mateusz Kurek](https://www.worldcubeassociation.org/persons/2008KURE01) | **37** |  | [Polish Open 2009](https://www.worldcubeassociation.org/competitions/PolishOpen2009/results/podiums#e333fm) |
 

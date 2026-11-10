@@ -1,7 +1,7 @@
 ## Most attended competitions in a series
 
 *Note: Only Polish competitions with posted results are included. Up to the top 20 positions are listed for each series, so ties may add more rows.*
-*Updated on 28 October 2026*
+*Updated on 10 November 2026*
 
 
 ### BrizZon
@@ -150,31 +150,30 @@ _Total competitions: 6_
 | 20 | [Wojciech Ludwin](https://www.worldcubeassociation.org/persons/2024LUDW01) | 3 |
 
 ### Warszawska Liga Speedcuberów
-_Total competitions: 9_
+_Total competitions: 10_
 
 | Position | Person | Competitions |
 | ---: | :--- | ---: |
-| 1 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 9 |
-| 1 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 9 |
-| 3 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 8 |
-| 4 | [Jakub Bartos](https://www.worldcubeassociation.org/persons/2014BART06) | 7 |
-| 5 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) | 6 |
-| 5 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 6 |
-| 5 | [Joanna Hołdakowska](https://www.worldcubeassociation.org/persons/2016HOLD04) | 6 |
-| 5 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 6 |
-| 5 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 6 |
-| 10 | [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) | 5 |
-| 10 | [Antoni Szcześniak](https://www.worldcubeassociation.org/persons/2023SZCZ04) | 5 |
-| 10 | [Bartosz Łopacki](https://www.worldcubeassociation.org/persons/2025LOPA01) | 5 |
-| 10 | [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) | 5 |
-| 10 | [Kacper Jędrzejuk](https://www.worldcubeassociation.org/persons/2019JEDR01) | 5 |
-| 10 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 5 |
-| 10 | [Marcin Dołoto](https://www.worldcubeassociation.org/persons/2021DOLO01) | 5 |
-| 10 | [Marta Szcześniak](https://www.worldcubeassociation.org/persons/2023SZCZ07) | 5 |
-| 10 | [Nikita Loika](https://www.worldcubeassociation.org/persons/2013LOYK01) | 5 |
-| 10 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) | 5 |
-| 10 | [Wojciech Łopacki](https://www.worldcubeassociation.org/persons/2025LOPA02) | 5 |
-| 10 | [Wojciech Piórczyński](https://www.worldcubeassociation.org/persons/2021PIOR01) | 5 |
+| 1 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 10 |
+| 1 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 10 |
+| 3 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 9 |
+| 4 | [Jakub Bartos](https://www.worldcubeassociation.org/persons/2014BART06) | 8 |
+| 5 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) | 7 |
+| 5 | [Joanna Hołdakowska](https://www.worldcubeassociation.org/persons/2016HOLD04) | 7 |
+| 5 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 7 |
+| 5 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 7 |
+| 9 | [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) | 6 |
+| 9 | [Antoni Szcześniak](https://www.worldcubeassociation.org/persons/2023SZCZ04) | 6 |
+| 9 | [Bartosz Łopacki](https://www.worldcubeassociation.org/persons/2025LOPA01) | 6 |
+| 9 | [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) | 6 |
+| 9 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 6 |
+| 9 | [Kacper Jędrzejuk](https://www.worldcubeassociation.org/persons/2019JEDR01) | 6 |
+| 9 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 6 |
+| 9 | [Marcin Dołoto](https://www.worldcubeassociation.org/persons/2021DOLO01) | 6 |
+| 9 | [Marta Szcześniak](https://www.worldcubeassociation.org/persons/2023SZCZ07) | 6 |
+| 9 | [Nikita Loika](https://www.worldcubeassociation.org/persons/2013LOYK01) | 6 |
+| 9 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) | 6 |
+| 9 | [Wojciech Łopacki](https://www.worldcubeassociation.org/persons/2025LOPA02) | 6 |
 
 ### Cube Factory
 _Total competitions: 16_
@@ -203,32 +202,32 @@ _Total competitions: 16_
 | 15 | [Piotr Gabara](https://www.worldcubeassociation.org/persons/2024GABA02) | 7 |
 
 ### Cube Factory League
-_Total competitions: 24_
+_Total competitions: 25_
 
 | Position | Person | Competitions |
 | ---: | :--- | ---: |
-| 1 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 24 |
-| 1 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 24 |
-| 3 | [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) | 23 |
-| 4 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 21 |
-| 5 | [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) | 16 |
-| 5 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | 16 |
-| 5 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 16 |
-| 8 | [Idan Bolesto](https://www.worldcubeassociation.org/persons/2022BOLE01) | 15 |
-| 8 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 15 |
-| 8 | [Szymon Gabara](https://www.worldcubeassociation.org/persons/2023GABA01) | 15 |
-| 11 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 14 |
-| 11 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | 14 |
-| 11 | [Bartosz Dąbrowski](https://www.worldcubeassociation.org/persons/2023DABR07) | 14 |
-| 11 | [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) | 14 |
-| 11 | [Julia Dąbrowska](https://www.worldcubeassociation.org/persons/2024DABR01) | 14 |
-| 11 | [Mateusz Gąsiorkiewicz](https://www.worldcubeassociation.org/persons/2016GASI04) | 14 |
-| 11 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | 14 |
-| 11 | [Piotr Gabara](https://www.worldcubeassociation.org/persons/2024GABA02) | 14 |
-| 19 | [Adam Dojtrowski](https://www.worldcubeassociation.org/persons/2023DOJT02) | 13 |
-| 19 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 13 |
-| 19 | [Marek Dojtrowski](https://www.worldcubeassociation.org/persons/2023DOJT01) | 13 |
-| 19 | [Tomasz Szubert](https://www.worldcubeassociation.org/persons/2022SZUB02) | 13 |
+| 1 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 25 |
+| 1 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 25 |
+| 3 | [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) | 24 |
+| 4 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 22 |
+| 5 | [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) | 17 |
+| 6 | [Idan Bolesto](https://www.worldcubeassociation.org/persons/2022BOLE01) | 16 |
+| 6 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | 16 |
+| 6 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 16 |
+| 6 | [Szymon Gabara](https://www.worldcubeassociation.org/persons/2023GABA01) | 16 |
+| 10 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 15 |
+| 10 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | 15 |
+| 10 | [Bartosz Dąbrowski](https://www.worldcubeassociation.org/persons/2023DABR07) | 15 |
+| 10 | [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) | 15 |
+| 10 | [Julia Dąbrowska](https://www.worldcubeassociation.org/persons/2024DABR01) | 15 |
+| 10 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 15 |
+| 10 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | 15 |
+| 10 | [Piotr Gabara](https://www.worldcubeassociation.org/persons/2024GABA02) | 15 |
+| 18 | [Adam Dojtrowski](https://www.worldcubeassociation.org/persons/2023DOJT02) | 14 |
+| 18 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 14 |
+| 18 | [Marek Dojtrowski](https://www.worldcubeassociation.org/persons/2023DOJT01) | 14 |
+| 18 | [Mateusz Gąsiorkiewicz](https://www.worldcubeassociation.org/persons/2016GASI04) | 14 |
+| 18 | [Tomasz Szubert](https://www.worldcubeassociation.org/persons/2022SZUB02) | 14 |
 
 ### Szansa Cubing Open
 _Total competitions: 6_

@@ -1,11 +1,11 @@
 ## Delegated a competition in most Polish cities
 
 *Note: This statistic shows the Polish delegates who have delegated a competition in most cities in Poland.*
-*Updated on 28 October 2026*
+*Updated on 10 November 2026*
 
 | Name | Cities |
 | :--- | ---: |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 60 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 61 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 55 |
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 43 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 35 |
@@ -26,12 +26,13 @@
 | [Stefan Łapicki](https://www.worldcubeassociation.org/persons/2006LAPI01) | 8 |
 | [Adam Joks](https://www.worldcubeassociation.org/persons/2005JOKS01) | 5 |
 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) | 5 |
-| [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 2 |
+| [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 3 |
 | [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) | 2 |
 | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) | 2 |
+| [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | 2 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 2 |
+| [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) | 1 |
 | [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) | 1 |
-| [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | 1 |
 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 1 |
 
 

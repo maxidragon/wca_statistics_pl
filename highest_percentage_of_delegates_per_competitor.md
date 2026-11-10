@@ -1,7 +1,7 @@
 ## Highest percentage of delegates per competitor
 
 *Note: Only Polish competitions with posted results are included. Listed delegates are taken from the competition's delegate list and do not have to compete. An unlisted delegate is a competitor who was not listed and whose RolesMetadataDelegateRegions role was active during at least one day of the competition. Because some historical role dates were not backfilled, a role starting on 1 August 2004 is treated as starting at the delegate's earliest listed competition instead.*
-*Updated on 28 October 2026*
+*Updated on 10 November 2026*
 
 
 ### Listed delegates only
@@ -51,13 +51,13 @@
 | 8.33% | [Warsaw FMC Tour II Friday 2024](https://www.worldcubeassociation.org/competitions/WarsawFMCTourIIFriday2024) | 1 | 12 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 8.33% | [PST: FMC Warszawa-Wesoła 2025](https://www.worldcubeassociation.org/competitions/PSTFMCWarszawaWesola2025) | 1 | 12 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 7.89% | [WLS Czerwiec 2026](https://www.worldcubeassociation.org/competitions/WLSCzerwiec2026) | 3 | 38 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01), [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 7.89% | [WLS Listopad 2026](https://www.worldcubeassociation.org/competitions/WLSListopad2026) | 3 | 38 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01), [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 7.69% | [WLS Marzec 2026](https://www.worldcubeassociation.org/competitions/WLSMarzec2026) | 3 | 39 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01), [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 7.69% | [CF Goes Sideways Brzeziny 2025](https://www.worldcubeassociation.org/competitions/CFGoesSidewaysBrzeziny2025) | 2 | 26 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01), [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 7.69% | [Warsaw FMC Tour Friday 2024](https://www.worldcubeassociation.org/competitions/WarsawFMCTourFriday2024) | 1 | 13 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 7.69% | [Fun with FM in Warsaw II 2026](https://www.worldcubeassociation.org/competitions/FunWithFMinWarsawII2026) | 1 | 13 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
 | 7.50% | [WLS Maj 2026](https://www.worldcubeassociation.org/competitions/WLSMaj2026) | 3 | 40 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01), [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 7.14% | [WLTD Poznań Side Open 2022](https://www.worldcubeassociation.org/competitions/WLTDPoznanSideOpen2022) | 2 | 28 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
-| 7.14% | [Gniezno Big Blind Cubing 2022](https://www.worldcubeassociation.org/competitions/GnieznoBigBlindCubing2022) | 2 | 28 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 
 ### Unlisted delegates only
 

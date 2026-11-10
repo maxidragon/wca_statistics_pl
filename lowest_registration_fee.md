@@ -1,7 +1,7 @@
 ## Lowest registration fee at Polish competitions
 
 *Note: Only competitions with a PLN base fee are included.*
-*Updated on 28 October 2026*
+*Updated on 10 November 2026*
 
 
 ### 2026

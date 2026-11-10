@@ -1,7 +1,7 @@
 ## Most delegated and organized competitions each year
 
 *Note: This statistic shows how many of the competitions delegated by each Polish delegate in a given year were also organized by them.*
-*Updated on 28 October 2026*
+*Updated on 10 November 2026*
 
 
 ### 2026
@@ -10,19 +10,20 @@
 | ---: | ---: | ---: | :--- |
 | 2 | 2 | 100.0% | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) |
 | 1 | 1 | 100.0% | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |
-| 25 | 29 | 86.2% | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
+| 26 | 30 | 86.7% | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 11 | 14 | 78.6% | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
-| 14 | 21 | 66.7% | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
-| 11 | 18 | 61.1% | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
+| 15 | 22 | 68.2% | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
+| 12 | 19 | 63.2% | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
 | 5 | 14 | 35.7% | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
-| 11 | 39 | 28.2% | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
-| 1 | 27 | 3.7% | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
+| 1 | 3 | 33.3% | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
+| 12 | 41 | 29.3% | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 1 | 29 | 3.4% | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
 | 0 | 2 | 0.0% | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
 | 0 | 10 | 0.0% | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) |
-| 0 | 2 | 0.0% | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
-| 0 | 2 | 0.0% | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
-| 0 | 1 | 0.0% | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) |
+| 0 | 3 | 0.0% | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
+| 0 | 2 | 0.0% | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) |
 | 0 | 1 | 0.0% | [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) |
+| 0 | 1 | 0.0% | [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) |
 | 0 | 2 | 0.0% | [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) |
 
 ### 2025

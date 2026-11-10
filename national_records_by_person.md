@@ -1,6 +1,6 @@
 ## National records count by person
 
-*Updated on 28 October 2026*
+*Updated on 10 November 2026*
 
 | WRs | Person |
 | ---: | :--- |
@@ -28,6 +28,7 @@
 | 9 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) |
 | 9 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) |
 | 7 | [Kamil Fiedoruk](https://www.worldcubeassociation.org/persons/2012FIED01) |
+| 7 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 7 | [Marek Kurcyus](https://www.worldcubeassociation.org/persons/2005KURC01) |
 | 7 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 7 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) |
@@ -41,7 +42,6 @@
 | 6 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
 | 5 | [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) |
 | 5 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) |
-| 5 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 5 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |
 | 5 | [Stefan Łapicki](https://www.worldcubeassociation.org/persons/2006LAPI01) |
 | 4 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) |

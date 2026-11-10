@@ -1,6 +1,6 @@
 ## Longest time from first competition to delegating one
 
-*Updated on 28 October 2026*
+*Updated on 10 November 2026*
 
 | Days | Person | First competition | First delegated |
 | ---: | :--- | :--- | :--- |
@@ -21,6 +21,7 @@
 | 2407 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | [Lodz Open 2011](https://www.worldcubeassociation.org/competitions/LodzOpen2011) | [Polish Open 2017](https://www.worldcubeassociation.org/competitions/PolishOpen2017) |
 | 1966 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) | [Silesia Open 2012](https://www.worldcubeassociation.org/competitions/SilesiaOpen2012) | [Polish Nationals 2017](https://www.worldcubeassociation.org/competitions/PolishNationals2017) |
 | 1918 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | [Radom Open 2013](https://www.worldcubeassociation.org/competitions/RadomOpen2013) | [Project Warszawa 2019](https://www.worldcubeassociation.org/competitions/ProjectWarszawa2019) |
+| 1876 | [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) | [SST Kielce 2021](https://www.worldcubeassociation.org/competitions/SSTKielce2021) | [CFL Koluszki 2026](https://www.worldcubeassociation.org/competitions/CFLKoluszki2026) |
 | 1805 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) | [Jura Open 2012](https://www.worldcubeassociation.org/competitions/JuraOpen2012) | [Polish Nationals 2017](https://www.worldcubeassociation.org/competitions/PolishNationals2017) |
 | 1792 | [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) | [Dragon Cubing 2021](https://www.worldcubeassociation.org/competitions/DragonCubing2021) | [Cube4fun Szansa Cubing 2026](https://www.worldcubeassociation.org/competitions/Cube4funSzansaCubing2026) |
 | 1415 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) | [World Championship 2003](https://www.worldcubeassociation.org/competitions/WC2003) | [Wroclaw Open 2007](https://www.worldcubeassociation.org/competitions/WroclawOpen2007) |

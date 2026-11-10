@@ -1,7 +1,7 @@
 ## Delegated competitions in most voivodeships in Poland
 
 *Note: Voivodeships are inferred from competition coordinates (approximate bounding box). Only Polish delegates and Polish competitions with posted results are included.*
-*Updated on 28 October 2026*
+*Updated on 10 November 2026*
 
 | Delegate | Delegated | Missed | Missed Voivodeships | Completed At |
 | :--- | ---: | ---: | :--- | :--- |
@@ -29,9 +29,10 @@
 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 2 | 14 | dolnośląskie, kujawsko-pomorskie, lubelskie, lubuskie, mazowieckie, małopolskie, podkarpackie, podlaskie, pomorskie, warmińsko-mazurskie, wielkopolskie, zachodniopomorskie, łódzkie, świętokrzyskie |  |
 | [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) | 2 | 14 | dolnośląskie, kujawsko-pomorskie, lubelskie, lubuskie, małopolskie, podkarpackie, podlaskie, pomorskie, warmińsko-mazurskie, wielkopolskie, zachodniopomorskie, łódzkie, śląskie, świętokrzyskie |  |
 | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) | 2 | 14 | dolnośląskie, lubelskie, lubuskie, mazowieckie, małopolskie, opolskie, podkarpackie, podlaskie, warmińsko-mazurskie, wielkopolskie, zachodniopomorskie, łódzkie, śląskie, świętokrzyskie |  |
+| [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | 2 | 14 | dolnośląskie, kujawsko-pomorskie, lubelskie, lubuskie, mazowieckie, małopolskie, podkarpackie, podlaskie, pomorskie, warmińsko-mazurskie, wielkopolskie, zachodniopomorskie, łódzkie, świętokrzyskie |  |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 2 | 14 | dolnośląskie, kujawsko-pomorskie, lubuskie, małopolskie, opolskie, podkarpackie, podlaskie, pomorskie, warmińsko-mazurskie, wielkopolskie, zachodniopomorskie, łódzkie, śląskie, świętokrzyskie |  |
+| [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) | 1 | 15 | dolnośląskie, kujawsko-pomorskie, lubelskie, lubuskie, mazowieckie, małopolskie, opolskie, podkarpackie, podlaskie, pomorskie, warmińsko-mazurskie, wielkopolskie, zachodniopomorskie, śląskie, świętokrzyskie |  |
 | [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) | 1 | 15 | dolnośląskie, kujawsko-pomorskie, lubelskie, lubuskie, mazowieckie, małopolskie, opolskie, podkarpackie, podlaskie, pomorskie, warmińsko-mazurskie, wielkopolskie, zachodniopomorskie, śląskie, świętokrzyskie |  |
-| [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | 1 | 15 | dolnośląskie, kujawsko-pomorskie, lubelskie, lubuskie, mazowieckie, małopolskie, podkarpackie, podlaskie, pomorskie, warmińsko-mazurskie, wielkopolskie, zachodniopomorskie, łódzkie, śląskie, świętokrzyskie |  |
 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 1 | 15 | dolnośląskie, kujawsko-pomorskie, lubelskie, lubuskie, mazowieckie, małopolskie, opolskie, podkarpackie, podlaskie, pomorskie, warmińsko-mazurskie, wielkopolskie, zachodniopomorskie, łódzkie, świętokrzyskie |  |
 
 

@@ -1,11 +1,11 @@
 ## Most N/N 3x3 MBLD successes
 
 *Note: Count of all 3x3 MBLD successes where all cubes were solved. Only people with at least 3 N/N successes are shown.*
-*Updated on 28 October 2026*
+*Updated on 10 November 2026*
 
 | Name | N/N successes | Breakdown |
 | :--- | ---: | :--- |
-| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 22 | 2/2, 9/9, 17/17 (20) |
+| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 23 | 2/2, 4/4, 9/9, 17/17 (20) |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 19 | 2/2 (7), 3/3, 4/4 (4), 5/5 (2), 6/6, 7/7, 8/8 (2), 9/9 |
 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) | 12 | 16/16, 19/19, 20/20, 24/24, 25/25 (3), 27/27 (2), 28/28, 29/29, 31/31 |
 | [Bartosz Bździel](https://www.worldcubeassociation.org/persons/2010BZDZ01) | 11 | 2/2, 4/4 (2), 5/5, 7/7 (2), 8/8 (2), 9/9 (2), 10/10 |
@@ -36,6 +36,7 @@
 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | 3 | 7/7, 12/12, 20/20 |
 | [Szymon Ruksza](https://www.worldcubeassociation.org/persons/2013RUKS01) | 3 | 4/4, 13/13, 14/14 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 3 | 3/3, 4/4, 9/9 |
+| [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 3 | 2/2, 5/5, 6/6 |
 | [Jakub Lorens](https://www.worldcubeassociation.org/persons/2018LORE01) | 3 | 2/2 (2), 3/3 |
 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 3 | 3/3 (3) |
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 3 | 2/2 (3) |

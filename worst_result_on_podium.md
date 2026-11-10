@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on 28 October 2026*
+*Updated on 10 November 2026*
 
 
 ### 3x3x3 Cube
@@ -131,9 +131,9 @@
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **39** |  | [Chojnice Open 2013](https://www.worldcubeassociation.org/competitions/ChojniceOpen2013/results/podiums#e333fm) | 3 |
 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | **38** |  | [Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013/results/podiums#e333fm) | 2 |
 | [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) | **38** |  | [Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013/results/podiums#e333fm) | 2 |
+| [Jarosław Krzyżanowski](https://www.worldcubeassociation.org/persons/2007KRZY01) | **36** |  | [Polish Open 2007](https://www.worldcubeassociation.org/competitions/PolishOpen2007/results/podiums#e333fm) | 3 |
 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) | **36** |  | [Chojnice Open 2013](https://www.worldcubeassociation.org/competitions/ChojniceOpen2013/results/podiums#e333fm) | 1 |
 | [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) | **36** |  | [Chojnice Open 2013](https://www.worldcubeassociation.org/competitions/ChojniceOpen2013/results/podiums#e333fm) | 1 |
-| [Jarosław Krzyżanowski](https://www.worldcubeassociation.org/persons/2007KRZY01) | **36** |  | [Polish Open 2007](https://www.worldcubeassociation.org/competitions/PolishOpen2007/results/podiums#e333fm) | 3 |
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | **35** |  | [Polish Nationals 2010](https://www.worldcubeassociation.org/competitions/PolishNationals2010/results/podiums#e333fm) | 2 |
 | [Mateusz Kurek](https://www.worldcubeassociation.org/persons/2008KURE01) | **35** |  | [Polish Nationals 2010](https://www.worldcubeassociation.org/competitions/PolishNationals2010/results/podiums#e333fm) | 2 |
 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | **35** |  | [Polish Nationals 2010](https://www.worldcubeassociation.org/competitions/PolishNationals2010/results/podiums#e333fm) | 2 |

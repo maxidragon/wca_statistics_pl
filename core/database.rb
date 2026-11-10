@@ -22,6 +22,7 @@ module Database
     round_types
     users
     user_roles
+    roles_metadata_delegate_regions
     schedule_activities
     venue_rooms
     competition_venues

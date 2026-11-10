@@ -6,7 +6,7 @@ class BestSingleCountingIntoAverage < GroupedStatistic
   def initialize
     @title = "Best single counting into an average of 5"
     @category = :results
-    @table_header = { "Counting" => :right, "Peson" => :left, "Competition" => :left }
+    @table_header = { "Counting" => :right, "Person" => :left, "Competition" => :left }
   end
 
   def query
@@ -29,6 +29,7 @@ class BestSingleCountingIntoAverage < GroupedStatistic
       JOIN competitions competition 
         ON competition.id = r.competition_id
       WHERE r.format_id = 'a'
+        AND r.average > 0
         AND ra.attempt_number IN (1,2,3,4,5)
       GROUP BY r.id
     SQL
@@ -38,12 +39,12 @@ class BestSingleCountingIntoAverage < GroupedStatistic
     Events::ALL.map do |event_id, event_name|
       results = query_results
         .select { |result| result["event_id"] == event_id }
-        .flat_map do |result|
+        .map do |result|
           solves = (1..5).map { |n| result["value#{n}"] || 0 }
-          counting_solves = solves.sort_by { |v| v > 0 ? 0 : 1 }[1...-1]
-          counting_solves
-            .select { |solve| solve > 0 } # tylko ukończone
-            .map { |solve| [solve, result["person_link"], result["results_link"]] }
+          # DNF, DNS and skipped attempts are worse than any completed solve.
+          sorted_solves = solves.sort_by { |solve| solve > 0 ? [0, solve] : [1, 0] }
+          # The best solve is dropped, so the second best is the best one that counts.
+          [sorted_solves[1], result["person_link"], result["results_link"]]
         end
         .sort_by { |solve, person_link, results_link| solve }
         .first(10)

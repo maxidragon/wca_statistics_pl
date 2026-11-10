@@ -2,7 +2,7 @@ require_relative "../core/statistic"
 
 class MostCompetitionsOnSameDate < Statistic
   def initialize
-    @title = "Most competitions on the same calendar date"
+    @title = "Most years with competitions on the same calendar date"
     @category = :competing
     @table_header = { "Count" => :right, "Person" => :left, "Date" => :left, "Years" => :left }
   end
@@ -18,8 +18,8 @@ class MostCompetitionsOnSameDate < Statistic
         SELECT
           person_id,
           competition_date,
-          COUNT(*) AS cnt,
-          GROUP_CONCAT(comp_year ORDER BY comp_year SEPARATOR ', ') AS years
+          COUNT(DISTINCT comp_year) AS cnt,
+          GROUP_CONCAT(DISTINCT comp_year ORDER BY comp_year SEPARATOR ', ') AS years
         FROM (
           SELECT DISTINCT
             r.person_id,

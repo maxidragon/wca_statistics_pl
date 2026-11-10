@@ -103,12 +103,12 @@ All statistics are computed only for competitors from Poland/Polish competitions
 - [Most attended competitions in a single week (unique)](most_attended_competitions_in_single_week_unique)
 - [Most championships attended](most_championships_attended)
 - [Most competitions each year](most_attended_competitions_by_year)
-- [Most competitions on the same calendar date](most_competitions_on_same_date)
 - [Most competitions together](most_competitions_together)
 - [Most consecutive weeks with competitions](competed_in_most_consecutive_weeks)
 - [Most days potentially spent at competitions](most_days_potentially_spent_at_competitions)
 - [Most distinct dates competed on](most_distinct_dates_competed_on)
 - [Most unique people met at competitions](most_unique_people_met_at_competitions)
+- [Most years with competitions on the same calendar date](most_competitions_on_same_date)
 
 ## Travel {#travel}
 

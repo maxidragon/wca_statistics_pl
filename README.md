@@ -1,6 +1,6 @@
 All statistics are computed only for competitors from Poland/Polish competitions.
 
-[Results](#results) (28) · [Records](#records) (11) · [Podiums & medals](#podiums) (21) · [Milestones](#milestones) (8) · [Competing](#competing) (25) · [Travel](#travel) (9) · [Delegating](#delegating) (22) · [Organizing](#organizing) (5) · [Competitions](#competitions) (16)
+[Results](#results) (28) · [Records](#records) (11) · [Podiums & medals](#podiums) (21) · [Milestones](#milestones) (8) · [Competing](#competing) (25) · [Travel](#travel) (9) · [Delegating](#delegating) (22) · [Organizing](#organizing) (5) · [Competitions](#competitions) (17)
 
 ## Results {#results}
 
@@ -158,6 +158,7 @@ All statistics are computed only for competitors from Poland/Polish competitions
 ## Competitions {#competitions}
 
 - [Average event count by competition](average_event_count_by_competition)
+- [Average registration fee per city](average_fee_per_city)
 - [Average registration fee per voivodeship](average_fee_per_voivodeship)
 - [Average registration fee per year](average_fee_per_year)
 - [Biggest competitions in Poland](biggest_competitions_in_poland)

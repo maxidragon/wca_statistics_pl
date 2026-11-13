@@ -1,7 +1,7 @@
 ## Most competitions attended before organizing one
 
 *Note: Only competitions that started before the first organized one are counted.*
-*Updated on 10 November 2026*
+*Updated on 13 November 2026*
 
 | Competitions | Person | First competition | First organized |
 | ---: | :--- | :--- | :--- |

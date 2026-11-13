@@ -1,7 +1,7 @@
 ## Voivodeships with the most competitions each year
 
 *Note: Voivodeship is inferred from competition coordinates.*
-*Updated on 10 November 2026*
+*Updated on 13 November 2026*
 
 
 ### 2026

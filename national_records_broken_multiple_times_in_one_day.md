@@ -1,7 +1,7 @@
 ## Days on which a Polish national record was broken more than once
 
 *Note: Following Regulation 9i2, every result of a round counts as achieved on the last local day of that round, so only the best of them is officially recognised as a record. Here every result better than or equal to the national record standing before that day is listed. Continental and world records count as national records as well. The first day of results in each event is skipped, as there was no record to beat yet. Dates marked with \* come from the competition end date, because the competition has no schedule, so the results may actually span several days.*
-*Updated on 10 November 2026*
+*Updated on 13 November 2026*
 
 | # | Date | Event | Type | Previous NR | Results |
 | ---: | :--- | :--- | :--- | ---: | :--- |

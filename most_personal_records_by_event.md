@@ -1,7 +1,7 @@
 ## Most personal records by event
 
 *Note: Counts how many personal records (single or average) a competitor achieved in each event.*
-*Updated on 10 November 2026*
+*Updated on 13 November 2026*
 
 
 ### 3x3x3 Cube
@@ -145,8 +145,8 @@
 | ---: | :--- |
 | 72 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 57 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
-| 56 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) |
 | 56 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
+| 56 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) |
 | 53 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 49 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) |
 | 47 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) |
@@ -164,10 +164,10 @@
 | 34 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
 | 34 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 33 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) |
-| 32 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) |
 | 32 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) |
 | 32 | [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) |
-| 31 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) |
+| 32 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) |
+| 31 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 
 ### Clock
 
@@ -194,9 +194,9 @@
 | 30 | [Mateusz Otto](https://www.worldcubeassociation.org/persons/2022OTTO01) |
 | 30 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 29 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
-| 28 | [Dominik Szajek](https://www.worldcubeassociation.org/persons/2023SZAJ01) |
 | 28 | [Hubert Darłak](https://www.worldcubeassociation.org/persons/2023DARL03) |
 | 28 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) |
+| 28 | [Dominik Szajek](https://www.worldcubeassociation.org/persons/2023SZAJ01) |
 | 28 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) |
 
 ### Square-1

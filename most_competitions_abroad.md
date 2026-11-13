@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 10 November 2026*
+*Updated on 13 November 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -52,6 +52,7 @@
 | 11 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) |
 | 11 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
 | 11 | [Wiktor Syrytczyk](https://www.worldcubeassociation.org/persons/2022SYRY01) |
+| 11 | [Krzysztof Wawrzyniak](https://www.worldcubeassociation.org/persons/2023WAWR01) |
 | 11 | [Kacper Borkowski](https://www.worldcubeassociation.org/persons/2023BORK03) |
 | 11 | [Alexander Gacek](https://www.worldcubeassociation.org/persons/2024GACE01) |
 | 10 | [Rafał Studnicki](https://www.worldcubeassociation.org/persons/2005STUD01) |
@@ -65,7 +66,6 @@
 | 10 | [Szymon Jaworski](https://www.worldcubeassociation.org/persons/2021JAWO01) |
 | 10 | [Oskar Obeid](https://www.worldcubeassociation.org/persons/2022OBEI01) |
 | 10 | [Eryk Haoyan Klimek](https://www.worldcubeassociation.org/persons/2022KLIM01) |
-| 10 | [Krzysztof Wawrzyniak](https://www.worldcubeassociation.org/persons/2023WAWR01) |
 | 10 | [Hubert Darłak](https://www.worldcubeassociation.org/persons/2023DARL03) |
 | 10 | [Zbigniew Mróz](https://www.worldcubeassociation.org/persons/2023MROZ03) |
 | 10 | [Antoni Baránski](https://www.worldcubeassociation.org/persons/2024BARA01) |

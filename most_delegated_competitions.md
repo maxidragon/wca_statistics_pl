@@ -1,7 +1,7 @@
 ## Most delegated competitions
 
 *Note: Trainee, Junior and Full count competitions by the status the delegate held on the competition's first day; Regional and Senior Delegates count as Full. The WCA keeps status history only since 2024, so delegates appointed earlier count as Full for all their competitions, and competitions delegated without a recorded role count as Unknown.*
-*Updated on 10 November 2026*
+*Updated on 13 November 2026*
 
 | Delegated | Person | Trainee | Junior | Full | Unknown | List on WCA |
 | ---: | :--- | ---: | ---: | ---: | ---: | :--: |

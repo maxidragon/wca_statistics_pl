@@ -1,6 +1,6 @@
 ## Delegated to attended competition ratio each year (Poland)
 
-*Updated on 10 November 2026*
+*Updated on 13 November 2026*
 
 
 ### 2026

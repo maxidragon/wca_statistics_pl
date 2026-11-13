@@ -1,7 +1,7 @@
 ## Most organized competitions in a city
 
 *Note: Only Polish organizers and Polish competitions are included.*
-*Updated on 10 November 2026*
+*Updated on 13 November 2026*
 
 
 ### Gdańsk

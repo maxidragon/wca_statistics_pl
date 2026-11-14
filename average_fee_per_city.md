@@ -1,7 +1,7 @@
 ## Average registration fee per city
 
 *Note: Only PLN competitions are included. Only cities with at least 2 competitions in a given year are listed.*
-*Updated on 13 November 2026*
+*Updated on 14 November 2026*
 
 
 ### 2026

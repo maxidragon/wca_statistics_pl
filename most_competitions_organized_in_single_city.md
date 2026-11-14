@@ -1,7 +1,7 @@
 ## Most competitions organized in a single city before organizing elsewhere
 
 *Note: Counts how many competitions a Polish organizer organized in their first city before organizing in a different city for the first time. Only Polish competitions are included.*
-*Updated on 13 November 2026*
+*Updated on 14 November 2026*
 
 | Person | City | Competitions | Ended at |
 | :--- | :--- | ---: | :--- |
@@ -60,18 +60,18 @@
 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | Poznań | 3 | [Gniezno Big Blind Cubing 2022](https://www.worldcubeassociation.org/competitions/GnieznoBigBlindCubing2022) |
 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | Wrocław | 3 | [BrizZon Side Open 2024](https://www.worldcubeassociation.org/competitions/BrizZonSideOpen2024) |
 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) | Białystok | 3 |  |
-| [Adam Brzana](https://www.worldcubeassociation.org/persons/2022BRZA01) | Opole | 3 |  |
 | [Moli Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | Olsztyn | 3 | [Ostróda Open 2024](https://www.worldcubeassociation.org/competitions/OstrodaOpen2024) |
+| [Adam Brzana](https://www.worldcubeassociation.org/persons/2022BRZA01) | Opole | 3 |  |
 | [Zofia Herzyk](https://www.worldcubeassociation.org/persons/2024HERZ05) | Bielsko-Biała | 2 |  |
-| [Mateusz Kurek](https://www.worldcubeassociation.org/persons/2008KURE01) | Poznań | 2 |  |
 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | Rumia | 2 |  |
 | [Mateusz Adamczyk](https://www.worldcubeassociation.org/persons/2011ADAM03) | Rybnik | 2 |  |
-| [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | Warszawa | 2 |  |
+| [Mateusz Kurek](https://www.worldcubeassociation.org/persons/2008KURE01) | Poznań | 2 |  |
 | [Artur Miazga](https://www.worldcubeassociation.org/persons/2010MIAZ02) | Łódź | 2 |  |
-| [Michał Machała](https://www.worldcubeassociation.org/persons/2009MACH01) | Łódź | 2 |  |
 | [Wojciech Wójcik](https://www.worldcubeassociation.org/persons/2013WOJC03) | Dąbrowa Górnicza | 2 |  |
+| [Michał Machała](https://www.worldcubeassociation.org/persons/2009MACH01) | Łódź | 2 |  |
 | [Weronika Krzakiewicz](https://www.worldcubeassociation.org/persons/2013KRZA01) | Dąbrowa Górnicza | 2 |  |
 | [Robert Siniawski](https://www.worldcubeassociation.org/persons/2016SINI01) | Gniezno | 2 |  |
+| [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | Warszawa | 2 |  |
 | [Paweł Włoszek](https://www.worldcubeassociation.org/persons/2006WLOS01) | Chorzów | 2 |  |
 | [Oskar Kaczmarek](https://www.worldcubeassociation.org/persons/2013KACZ01) | Grudziądz | 2 |  |
 | [Filip Paryż](https://www.worldcubeassociation.org/persons/2012PARY01) | Gliwice | 2 |  |
@@ -85,13 +85,13 @@
 | [Konrad Leśniak](https://www.worldcubeassociation.org/persons/2014LENI02) | Mielec | 2 |  |
 | [Michał Herzyk](https://www.worldcubeassociation.org/persons/2024HERZ04) | Bielsko-Biała | 2 |  |
 | [Adrian Permus](https://www.worldcubeassociation.org/persons/2017PERM04) | Kraków | 2 |  |
-| [Paweł Zygmunt](https://www.worldcubeassociation.org/persons/2013ZYGM02) | Biłgoraj | 2 |  |
 | Amadeusz Mik | Rzeszów | 2 |  |
+| [Marcel Nycz](https://www.worldcubeassociation.org/persons/2016NYCZ01) | Pszczyna | 2 |  |
 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) | Warszawa | 2 |  |
 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) | Warszawa | 2 |  |
 | Marcin Herzyk | Bielsko-Biała | 2 |  |
-| [Marcel Nycz](https://www.worldcubeassociation.org/persons/2016NYCZ01) | Pszczyna | 2 |  |
 | [Jan Wojcieszkiewicz](https://www.worldcubeassociation.org/persons/2023WOJC03) | Gdańsk | 2 |  |
+| [Paweł Zygmunt](https://www.worldcubeassociation.org/persons/2013ZYGM02) | Biłgoraj | 2 |  |
 | [Błażej Morgała](https://www.worldcubeassociation.org/persons/2006MORG01) | Świerklany | 2 | [SLS Jastrzebie 2013](https://www.worldcubeassociation.org/competitions/SLSJastrzebie2013) |
 | [Marcin Bloch](https://www.worldcubeassociation.org/persons/2013BLOC01) | Reda | 2 |  |
 | [Marek Wójtowicz](https://www.worldcubeassociation.org/persons/2008WOJT01) | Lublin | 2 |  |
@@ -102,8 +102,8 @@
 | [Michał Wojcieszek](https://www.worldcubeassociation.org/persons/2015WOJC02) | Domaniewice | 2 |  |
 | [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) | Brzeziny | 2 | [Cube Factory League Koluszki 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueKoluszki2025) |
 | [Michał Luchowski](https://www.worldcubeassociation.org/persons/2024LUCH01) | Chorzów | 2 |  |
-| [Michał Tomański](https://www.worldcubeassociation.org/persons/2009TOMA01) | Kraków | 2 |  |
 | Uniwersyteckie l Liceum Ogólnokształcące im. Juliusza Słowackiego | Chorzów | 2 |  |
+| [Michał Tomański](https://www.worldcubeassociation.org/persons/2009TOMA01) | Kraków | 2 |  |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | Wrocław | 2 | [Lake Cubing Szczecinek 2022](https://www.worldcubeassociation.org/competitions/LakeCubingSzczecinek2022) |
 
 

@@ -1,7 +1,7 @@
 ## Most solves per year
 
 *Note: Only the 25 competitors with the most solves are listed for each year.*
-*Updated on 13 November 2026*
+*Updated on 14 November 2026*
 
 
 ### 2026

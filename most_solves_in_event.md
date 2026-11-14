@@ -1,7 +1,7 @@
 ## Most solves in an event
 
 *Note: Counts completed solves (not DNF) across all competitions. Attempts include completed solves and DNFs, DNS are excluded.*
-*Updated on 13 November 2026*
+*Updated on 14 November 2026*
 
 
 ### 3x3x3 Cube

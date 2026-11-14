@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 13 November 2026*
+*Updated on 14 November 2026*
 
 
 ### 3x3x3 Cube
@@ -128,9 +128,9 @@
 | Counting | Person | Competition |
 | ---: | :--- | :--- |
 | 1.08 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) | [Beskidy Cubing Days 2026](https://www.worldcubeassociation.org/competitions/BeskidyCubingDays2026/results/by_person#2021GORE01) |
-| 1.22 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | [CFL Justynów 2025](https://www.worldcubeassociation.org/competitions/CFLJustynow2025/results/by_person#2022SAMS03) |
-| 1.22 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | [Cube Factory League Kalisz 2026](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueKalisz2026/results/by_person#2018HANU02) |
 | 1.22 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | [Pilzno Cubing Holiday 2026](https://www.worldcubeassociation.org/competitions/PilznoCubingHoliday2026/results/by_person#2018HANU02) |
+| 1.22 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | [Cube Factory League Kalisz 2026](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueKalisz2026/results/by_person#2018HANU02) |
+| 1.22 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | [CFL Justynów 2025](https://www.worldcubeassociation.org/competitions/CFLJustynow2025/results/by_person#2022SAMS03) |
 | 1.23 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | [Megaminx Fiesta Augustów 2025](https://www.worldcubeassociation.org/competitions/MegaminxFiestaAugustow2025/results/by_person#2022SAMS03) |
 | 1.30 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | [Beskidy Cubing Days 2026](https://www.worldcubeassociation.org/competitions/BeskidyCubingDays2026/results/by_person#2018HANU02) |
 | 1.34 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025/results/by_person#2018HANU02) |

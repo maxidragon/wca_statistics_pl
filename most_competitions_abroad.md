@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 13 November 2026*
+*Updated on 14 November 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -57,6 +57,7 @@
 | 11 | [Alexander Gacek](https://www.worldcubeassociation.org/persons/2024GACE01) |
 | 10 | [Rafał Studnicki](https://www.worldcubeassociation.org/persons/2005STUD01) |
 | 10 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
+| 10 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) |
 | 10 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |
 | 10 | [Piotr Tomczyk](https://www.worldcubeassociation.org/persons/2016TOMC01) |
 | 10 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) |
@@ -70,7 +71,6 @@
 | 10 | [Zbigniew Mróz](https://www.worldcubeassociation.org/persons/2023MROZ03) |
 | 10 | [Antoni Baránski](https://www.worldcubeassociation.org/persons/2024BARA01) |
 | 9 | [Wojciech Barciaga](https://www.worldcubeassociation.org/persons/2013BARC03) |
-| 9 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) |
 | 9 | [Mikołaj Molski](https://www.worldcubeassociation.org/persons/2015MOLS01) |
 | 9 | [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) |
 | 9 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) |

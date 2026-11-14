@@ -1,7 +1,7 @@
 ## Most records per delegated competition
 
 *Note: Only Polish delegates included.*
-*Updated on 13 November 2026*
+*Updated on 14 November 2026*
 
 | Ratio | Records | Competitions | Delegate |
 | ---: | ---: | ---: | :--- |
@@ -18,7 +18,7 @@
 | 2.53 | 182 | 72 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
 | 2.38 | 19 | 8 | [Stefan Łapicki](https://www.worldcubeassociation.org/persons/2006LAPI01) |
 | 2.06 | 439 | 213 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
-| 2.03 | 130 | 64 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) |
+| 2.00 | 130 | 65 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) |
 | 1.79 | 131 | 73 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) |
 | 1.76 | 248 | 141 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 1.00 | 1 | 1 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |

@@ -1,7 +1,7 @@
 ## Most delegated competitions
 
 *Note: Trainee, Junior and Full count competitions by the status the delegate held on the competition's first day; Regional and Senior Delegates count as Full. The WCA keeps status history only since 2024, so delegates appointed earlier count as Full for all their competitions, and competitions delegated without a recorded role count as Unknown.*
-*Updated on 13 November 2026*
+*Updated on 14 November 2026*
 
 | Delegated | Person | Trainee | Junior | Full | Unknown | List on WCA |
 | ---: | :--- | ---: | ---: | ---: | ---: | :--: |
@@ -11,7 +11,7 @@
 | 78 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 0 | 0 | 0 | 78 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=293) |
 | 73 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 0 | 0 | 73 | 0 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=140169) |
 | 72 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 0 | 0 | 72 | 0 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=337) |
-| 64 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 0 | 0 | 64 | 0 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=382) |
+| 65 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 0 | 0 | 65 | 0 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=382) |
 | 58 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 20 | 38 | 0 | 0 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=259132) |
 | 46 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 20 | 26 | 0 | 0 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=14759) |
 | 36 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 15 | 21 | 0 | 0 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=228972) |

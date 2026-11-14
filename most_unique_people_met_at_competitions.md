@@ -1,7 +1,7 @@
 ## Most unique people met at competitions
 
 *Note: Treats two people as having met when both recorded at least one result at the same competition. Co-competitors of any nationality are included and each is counted once, regardless of how many competitions they shared.*
-*Updated on 13 November 2026*
+*Updated on 14 November 2026*
 
 | People met | Competitions | Person |
 | ---: | ---: | :--- |
@@ -57,9 +57,9 @@
 | 4465 | 62 | [Ada Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD01) |
 | 4459 | 50 | [Michał Kopeć](https://www.worldcubeassociation.org/persons/2020KOPE01) |
 | 4436 | 90 | [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) |
+| 4362 | 105 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) |
 | 4319 | 42 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) |
 | 4301 | 75 | [Aleksander Arefiew](https://www.worldcubeassociation.org/persons/2016AREF01) |
-| 4288 | 104 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) |
 | 4233 | 30 | [Maja Turczyk](https://www.worldcubeassociation.org/persons/2022TURC05) |
 | 4176 | 58 | [Kamil Michalak](https://www.worldcubeassociation.org/persons/2016MICH01) |
 | 4170 | 102 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) |

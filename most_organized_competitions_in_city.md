@@ -1,7 +1,7 @@
 ## Most organized competitions in a city
 
 *Note: Only Polish organizers and Polish competitions are included.*
-*Updated on 13 November 2026*
+*Updated on 14 November 2026*
 
 
 ### Gdańsk
@@ -191,6 +191,7 @@ _Total competitions: 12_
 | [Tomasz Jarosz](https://www.worldcubeassociation.org/persons/2024JARO03) | 3 |
 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 1 |
 | [Ewa Piechocka](https://www.worldcubeassociation.org/persons/2023PIEC04) | 1 |
+| [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) | 1 |
 
 ### Łódź
 _Total competitions: 12_

@@ -1,6 +1,6 @@
 All statistics are computed only for competitors from Poland/Polish competitions.
 
-[Results](#results) (28) · [Records](#records) (11) · [Podiums & medals](#podiums) (21) · [Milestones](#milestones) (8) · [Competing](#competing) (25) · [Travel](#travel) (9) · [Delegating](#delegating) (22) · [Organizing](#organizing) (5) · [Competitions](#competitions) (17)
+[Results](#results) (28) · [Records](#records) (12) · [Podiums & medals](#podiums) (21) · [Milestones](#milestones) (8) · [Competing](#competing) (25) · [Travel](#travel) (9) · [Delegating](#delegating) (22) · [Organizing](#organizing) (5) · [Competitions](#competitions) (17)
 
 ## Results {#results}
 
@@ -38,11 +38,12 @@ All statistics are computed only for competitors from Poland/Polish competitions
 - [Days on which a Polish national record was broken more than once](national_records_broken_multiple_times_in_one_day)
 - [Longest standing records](longest_standing_records)
 - [Longest streak of world records of the same type in the given event](longest_streak_of_world_records)
+- [Longest time holding a national record](longest_time_holding_national_record)
 - [Most records at a single competition](most_records_at_single_competition)
 - [National record averages with every attempt better than the previous national record average](nr_averages_with_all_attempts_sub_previous_nr)
-- [National records count by person](national_records_by_person)
 - [Polish Championship records](polish_championship_records)
 - [Potentially seen world records](potentially_seen_world_records)
+- [Record count by person](record_count_by_person)
 - [Records in the highest number of events](records_in_most_events)
 - [World and European records set by Polish people](world_and_european_records)
 - [World records count by person](world_records_by_person)

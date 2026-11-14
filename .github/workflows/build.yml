@@ -48,5 +48,7 @@ jobs:
           publish_dir: ./build
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
-          keep_files: true
+          # A push run builds only the changed statistics, so it must keep the other pages.
+          # A full run (cron or manual) builds every page, so it replaces the branch and drops pages of removed or renamed statistics.
+          keep_files: ${{ github.event_name == 'push' }}
           enable_jekyll: true

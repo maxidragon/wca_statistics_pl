@@ -39,8 +39,9 @@ Each statistic must set `@category` to one of the keys in `core/categories.rb`, 
 
 The `Build` GitHub Actions workflow publishes the results to the `gh-pages` branch:
 
-- on a push to `master` it computes only the statistics changed in that push,
-- once a day, and when run manually, it recomputes all of them.
+- on a push to `master` it computes only the statistics changed in that push and keeps the other pages,
+- once a day, and when run manually, it recomputes all of them and replaces the whole branch,
+  so pages of removed or renamed statistics disappear.
 
 ## License
 

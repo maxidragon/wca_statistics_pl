@@ -50,6 +50,8 @@ There is no test suite; running the statistic against real data is the check.
 - push to `master` — computes only the statistic files changed in the push,
 - daily cron and manual dispatch — recomputes everything,
 - then regenerates the index and deploys `build/` to `gh-pages` (runs are queued, never cancelled).
+  A push run keeps the other pages on `gh-pages`; a full run replaces them all, so pages of
+  removed or renamed statistics disappear on the next daily run.
 
 A change in `core/` or `statistics/abstract/` alone does not recompute dependent statistics on push;
 they refresh on the next daily run, or trigger the workflow manually.

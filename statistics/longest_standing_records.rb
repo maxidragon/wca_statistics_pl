@@ -1,65 +1,30 @@
-require "date"
-require_relative "../core/grouped_statistic"
-require_relative "../core/events"
-require_relative "../core/solve_time"
+require_relative "abstract/national_record_periods"
 
-class LongestStandingRecords < GroupedStatistic
+class LongestStandingRecords < NationalRecordPeriods
   def initialize
     @title = "Longest standing records"
     @category = :records
-    @table_header = { "Event" => :left, "Type" => :left, "Days" => :right, "Result" => :right, "Person" => :left, "Competition" => :left }
-  end
-
-  def query
-    <<-SQL
-      SELECT
-        regional_single_record,
-        regional_average_record,
-        best single,
-        average,
-        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
-        CONCAT('[', competition.cell_name, '](https://www.worldcubeassociation.org/competitions/', competition.id, '/results/by_person#', person.wca_id, ')') results_link,
-        competition.start_date competition_date,
-        event_id
-      FROM results result
-      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
-      JOIN competitions competition ON competition.id = competition_id
-      JOIN countries country ON country.id = result.country_id
-      WHERE (regional_single_record = 'NR' OR regional_average_record = 'NR')
-        AND country.id = 'Poland'
-      ORDER BY competition_date
-    SQL
+    @note = "Polish national records, sorted by how long they stood. Continental and world records set by Poles count as national records as well. " \
+      "A record with no end date still stands, and its days are counted up to today."
+    @table_header = { "Person" => :left, "Event" => :left, "Type" => :left, "Result" => :right, "Start date" => :left, "End date" => :left, "Days" => :right, "Competition" => :left }
   end
 
   def transform(query_results)
-    {
-      "Poland" => %w(NR)
-    }.map do |region, record_ids|
-      results = %w(single average).flat_map do |type|
-        query_results
-          .select do |result|
-            record_ids.include?(result["regional_#{type}_record"]) &&
-            Events::OFFICIAL.has_key?(result["event_id"])
-          end
-          .group_by { |result| result["event_id"] }
-          .flat_map do |event_id, results|
-            results.each do |result_1|
-              better_result = results.find { |result_2| result_2[type] < result_1[type] }
-              better_date = better_result ? better_result["competition_date"] : Date.today
-              result_1["days"] = better_date - result_1["competition_date"]
-            end
-            results
-          end
-          .map! do |result|
-            event_name = Events::ALL[result["event_id"]]
-            solve_time = SolveTime.new(result["event_id"], type, result[type])
-            [event_name, type.capitalize, result["days"].to_i, solve_time.clock_format, result["person_link"], result["results_link"]]
-          end
-        end
-        .sort_by! { |event, type, days, *rest| -days }
-        .take(50)
-        .map! { |event, type, days, *rest| [event, type, "**#{days}**", *rest] }
-      [region, results]
-    end
+    records(query_results)
+      .map { |record| record.merge(end_date: record[:beaten_by]&.fetch(:start_date)) }
+      .sort_by { |record| -days(record[:start_date], record[:end_date]) }
+      .take(50)
+      .map do |record|
+        [
+          record[:person_link],
+          record[:event],
+          record[:type],
+          record[:result],
+          format_date(record[:start_date]),
+          format_date(record[:end_date]),
+          "**#{days(record[:start_date], record[:end_date])}**",
+          record[:results_link]
+        ]
+      end
   end
 end

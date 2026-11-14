@@ -149,6 +149,19 @@ _Total competitions: 12_
 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 1 |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 1 |
 
+### Dębica
+_Total competitions: 12_
+
+| Person | Competitions |
+| :--- | ---: |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 9 |
+| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 4 |
+| [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 3 |
+| [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 1 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 1 |
+| [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | 1 |
+| [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) | 1 |
+
 ### Łódź
 _Total competitions: 12_
 
@@ -179,17 +192,6 @@ _Total competitions: 11_
 | [Adam Joks](https://www.worldcubeassociation.org/persons/2005JOKS01) | 1 |
 | [Stefan Łapicki](https://www.worldcubeassociation.org/persons/2006LAPI01) | 1 |
 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) | 1 |
-
-### Dębica
-_Total competitions: 11_
-
-| Person | Competitions |
-| :--- | ---: |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 8 |
-| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 4 |
-| [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 3 |
-| [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 1 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 1 |
 
 ### Olsztyn
 _Total competitions: 10_

@@ -11,9 +11,9 @@
 | 13 | Mazowieckie |
 | 13 | Łódzkie |
 | 11 | Pomorskie |
+| 10 | Podkarpackie |
 | 10 | Wielkopolskie |
 | 10 | Śląskie |
-| 9 | Podkarpackie |
 | 7 | Lubelskie |
 | 4 | Małopolskie |
 | 3 | Dolnośląskie |

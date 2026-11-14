@@ -5,7 +5,7 @@
 | Organized | Person |
 | ---: | :--- |
 | 147 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
-| 87 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
+| 88 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 85 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
 | 81 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 57 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
@@ -49,6 +49,7 @@
 | 7 | [Przemysław Piątek](https://www.worldcubeassociation.org/persons/2013PITE01) |
 | 7 | [Robert Cegiel](https://www.worldcubeassociation.org/persons/2017CEGI01) |
 | 7 | [Michał Wachowiak](https://www.worldcubeassociation.org/persons/2015WACH01) |
+| 7 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 7 | [Martyna Jarosz](https://www.worldcubeassociation.org/persons/2022JARO01) |
 | 7 | [Arleta Tokarska](https://www.worldcubeassociation.org/persons/2025TOKA01) |
 | 7 | Warszawska Liga Speedcuberów |
@@ -60,7 +61,6 @@
 | 6 | [Marek Mendel](https://www.worldcubeassociation.org/persons/2016MEND29) |
 | 6 | [Grzegorz Pacewicz](https://www.worldcubeassociation.org/persons/2014PACE01) |
 | 6 | [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) |
-| 6 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 6 | [Marta Radziwanowska](https://www.worldcubeassociation.org/persons/2022RADZ01) |
 | 5 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 5 | [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) |

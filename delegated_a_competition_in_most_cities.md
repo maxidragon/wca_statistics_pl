@@ -27,9 +27,9 @@
 | [Adam Joks](https://www.worldcubeassociation.org/persons/2005JOKS01) | 5 |
 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) | 5 |
 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 3 |
-| [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) | 2 |
+| [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) | 3 |
+| [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | 3 |
 | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) | 2 |
-| [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | 2 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 2 |
 | [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) | 1 |
 | [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) | 1 |

@@ -60,8 +60,8 @@
 | 97 | [Energy Cube Białołęka 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2025) |
 | 95 | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) |
 | 85 | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) |
-| 84 | [Żory Open 2025](https://www.worldcubeassociation.org/competitions/ZoryOpen2025) |
-| 84 | [Dragon Cubing II 2023](https://www.worldcubeassociation.org/competitions/DragonCubingII2023) |
+| 84 | [Polish Nationals 2014](https://www.worldcubeassociation.org/competitions/PolishNationals2014) |
+| 84 | [Polish Open 2015](https://www.worldcubeassociation.org/competitions/PolishOpen2015) |
 
 ### 6x6x6 Cube
 
@@ -91,7 +91,7 @@
 | 51 | [All Rounders Katowice I 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceI2026) |
 | 48 | [Siedlce Open 2023](https://www.worldcubeassociation.org/competitions/SiedlceOpen2023) |
 | 48 | [CFL Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFLBrzeziny2026) |
-| 46 | [GLS Big Cubes Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSBigCubesGdansk2026) |
+| 46 | [Cube4fun Żyrardów 2025](https://www.worldcubeassociation.org/competitions/Cube4funZyrardow2025) |
 
 ### 3x3x3 Blindfolded
 
@@ -106,7 +106,7 @@
 | 50 | [Polish Nationals 2014](https://www.worldcubeassociation.org/competitions/PolishNationals2014) |
 | 49 | [CFL Final Łódź 2025](https://www.worldcubeassociation.org/competitions/CFLFinalLodz2025) |
 | 48 | [Santa Claus Cube Race 2019](https://www.worldcubeassociation.org/competitions/SantaClausCubeRace2019) |
-| 45 | [Polish Championship 2015](https://www.worldcubeassociation.org/competitions/PolishChampionship2015) |
+| 45 | [Cube4fun Warsaw 2022](https://www.worldcubeassociation.org/competitions/Cube4funWarsaw2022) |
 
 ### 3x3x3 Fewest Moves
 
@@ -220,13 +220,13 @@
 | 24 | [Szansa Cubing Open Warsaw 2022](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2022) |
 | 21 | [Polish Open 2025](https://www.worldcubeassociation.org/competitions/PolishOpen2025) |
 | 20 | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026) |
-| 19 | [Euro 2012](https://www.worldcubeassociation.org/competitions/Euro2012) |
 | 19 | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021) |
+| 19 | [Euro 2012](https://www.worldcubeassociation.org/competitions/Euro2012) |
 | 19 | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) |
 | 18 | [GLS Side Challenge Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSSideChallengeGdansk2026) |
 | 18 | [All Rounders Katowice II 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceII2026) |
 | 17 | [Cube Factory League Zgierz 2026](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueZgierz2026) |
-| 17 | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) |
+| 17 | [Gniezno Big Blind Cubing 2022](https://www.worldcubeassociation.org/competitions/GnieznoBigBlindCubing2022) |
 
 ### 5x5x5 Blindfolded
 
@@ -240,8 +240,8 @@
 | 13 | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) |
 | 12 | [Big 'n Blind Szczecinek 2023](https://www.worldcubeassociation.org/competitions/BignBlindSzczecinek2023) |
 | 12 | [Poznań Mental Breakdown 2022](https://www.worldcubeassociation.org/competitions/PoznanMentalBreakdown2022) |
-| 11 | [CFL Luty 2018](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueLuty2018) |
-| 11 | [Cube Factory League Zgierz 2026](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueZgierz2026) |
+| 11 | [Szansa Cubing Open Warsaw 2023](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2023) |
+| 11 | [Winter Side Wrocław 2025](https://www.worldcubeassociation.org/competitions/WinterSideWroclaw2025) |
 
 ### 3x3x3 Multi-Blind
 
@@ -250,12 +250,12 @@
 | 36 | [Szansa Cubing Open Warsaw 2022](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2022) |
 | 30 | [Euro 2012](https://www.worldcubeassociation.org/competitions/Euro2012) |
 | 28 | [CFL Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFLBrzeziny2026) |
+| 26 | [Warsaw Cube Masters 2023](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2023) |
 | 26 | [BrizZon Side Open III 2022](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenIII2022) |
 | 26 | [BrizZon Side Open IV 2022](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenIV2022) |
 | 26 | [CFL Brzeziny 2025](https://www.worldcubeassociation.org/competitions/CFLBrzeziny2025) |
-| 26 | [Warsaw Cube Masters 2023](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2023) |
-| 25 | [Polish Championship 2021](https://www.worldcubeassociation.org/competitions/PolishChampionship2021) |
 | 25 | [GLS Side Challenge Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSSideChallengeGdansk2026) |
+| 25 | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021) |
 | 25 | [BrizZon Side Open V 2022](https://www.worldcubeassociation.org/competitions/BrizzonSideOpenV2022) |
 
 ### 3x3x3 With Feet
@@ -266,12 +266,12 @@
 | 20 | [Polish Championship 2015](https://www.worldcubeassociation.org/competitions/PolishChampionship2015) |
 | 18 | [Polish Open 2018](https://www.worldcubeassociation.org/competitions/PolishOpen2018) |
 | 18 | [Santa Claus Cube Race 2019](https://www.worldcubeassociation.org/competitions/SantaClausCubeRace2019) |
-| 17 | [Polish Nationals 2017](https://www.worldcubeassociation.org/competitions/PolishNationals2017) |
 | 17 | [Kielce Cube Attack 2014](https://www.worldcubeassociation.org/competitions/KielceCubeAttack2014) |
+| 17 | [Polish Nationals 2017](https://www.worldcubeassociation.org/competitions/PolishNationals2017) |
 | 16 | [Warsaw Cube Masters 2015](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2015) |
 | 15 | [Krakow Cubing Spree 2014](https://www.worldcubeassociation.org/competitions/KrakowCubingSpree2014) |
+| 14 | [Polish Open 2014](https://www.worldcubeassociation.org/competitions/PolishOpen2014) |
 | 14 | [Radomsko Cube Theory 2015](https://www.worldcubeassociation.org/competitions/Radomsko2015) |
-| 14 | [Santa Claus Cube Race 2016](https://www.worldcubeassociation.org/competitions/SantaClausCubeRace2016) |
 
 ### Rubik's Magic
 
@@ -284,8 +284,8 @@
 | 32 | [Polish Nationals 2012](https://www.worldcubeassociation.org/competitions/PolishNationals2012) |
 | 31 | [Polish Open 2012](https://www.worldcubeassociation.org/competitions/PolishOpen2012) |
 | 27 | [Warszawa Open 2012](https://www.worldcubeassociation.org/competitions/WarszawaOpen2012) |
-| 25 | [Cubing Spring Grudziadz 2012](https://www.worldcubeassociation.org/competitions/CubingSpringGrudziadz2012) |
 | 25 | [Silesia Open 2012](https://www.worldcubeassociation.org/competitions/SilesiaOpen2012) |
+| 25 | [Cubing Spring Grudziadz 2012](https://www.worldcubeassociation.org/competitions/CubingSpringGrudziadz2012) |
 | 23 | [Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/PolishNationals2009) |
 
 ### Master Magic
@@ -297,8 +297,8 @@
 | 22 | [Jura Open 2012](https://www.worldcubeassociation.org/competitions/JuraOpen2012) |
 | 19 | [Cubing Spring Grudziadz 2012](https://www.worldcubeassociation.org/competitions/CubingSpringGrudziadz2012) |
 | 19 | [Polish Open 2012](https://www.worldcubeassociation.org/competitions/PolishOpen2012) |
-| 18 | [Silesia Open 2012](https://www.worldcubeassociation.org/competitions/SilesiaOpen2012) |
 | 18 | [Warszawa Open 2012](https://www.worldcubeassociation.org/competitions/WarszawaOpen2012) |
+| 18 | [Silesia Open 2012](https://www.worldcubeassociation.org/competitions/SilesiaOpen2012) |
 | 15 | [Polish Open 2007](https://www.worldcubeassociation.org/competitions/PolishOpen2007) |
 | 15 | [Bialystok Open 2011](https://www.worldcubeassociation.org/competitions/BialystokOpen2011) |
 | 14 | [Polish Nationals 2012](https://www.worldcubeassociation.org/competitions/PolishNationals2012) |

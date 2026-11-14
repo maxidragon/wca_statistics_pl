@@ -13,10 +13,10 @@
 | 7 | Lublin |
 | 7 | Poznań |
 | 4 | Brzeziny |
+| 3 | Dębica |
 | 3 | Katowice |
 | 3 | Opole |
 | 2 | Barcin |
-| 2 | Dębica |
 | 2 | Nowa Sarzyna |
 | 2 | Olsztyn |
 | 2 | Rybnik |

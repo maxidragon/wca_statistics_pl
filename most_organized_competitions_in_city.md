@@ -179,6 +179,19 @@ _Total competitions: 12_
 | [Marek Mendel](https://www.worldcubeassociation.org/persons/2016MEND29) | 3 |
 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 1 |
 
+### Dębica
+_Total competitions: 12_
+
+| Person | Competitions |
+| :--- | ---: |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 8 |
+| [Martyna Jarosz](https://www.worldcubeassociation.org/persons/2022JARO01) | 7 |
+| [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | 4 |
+| [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 4 |
+| [Tomasz Jarosz](https://www.worldcubeassociation.org/persons/2024JARO03) | 3 |
+| [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 1 |
+| [Ewa Piechocka](https://www.worldcubeassociation.org/persons/2023PIEC04) | 1 |
+
 ### Łódź
 _Total competitions: 12_
 
@@ -221,19 +234,6 @@ _Total competitions: 12_
 | [Kamil Michalak](https://www.worldcubeassociation.org/persons/2016MICH01) | 1 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 1 |
 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 1 |
-
-### Dębica
-_Total competitions: 11_
-
-| Person | Competitions |
-| :--- | ---: |
-| [Martyna Jarosz](https://www.worldcubeassociation.org/persons/2022JARO01) | 7 |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 7 |
-| [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | 4 |
-| [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 3 |
-| [Tomasz Jarosz](https://www.worldcubeassociation.org/persons/2024JARO03) | 3 |
-| [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 1 |
-| [Ewa Piechocka](https://www.worldcubeassociation.org/persons/2023PIEC04) | 1 |
 
 ### Olsztyn
 _Total competitions: 10_

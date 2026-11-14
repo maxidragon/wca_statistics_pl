@@ -7,7 +7,8 @@ if [[ -z "$diff_base" || "$diff_base" =~ ^0+$ ]] || ! git cat-file -e "$diff_bas
   diff_base="$GITHUB_SHA~1"
 fi
 # Deleted files are skipped, as there is nothing left to compute for them.
-changed_statistic_files=`git diff --name-only --diff-filter=d $diff_base..$GITHUB_SHA | grep 'statistics/' | grep -v 'statistics/index.rb'`
+# Only top-level files are statistics; statistics/abstract/ holds base classes, not pages.
+changed_statistic_files=`git diff --name-only --diff-filter=d $diff_base..$GITHUB_SHA | grep -E '^statistics/[^/]+\.rb$' | grep -v '^statistics/index.rb$'`
 
 if [[ "$GITHUB_EVENT_NAME" != "schedule" && "$GITHUB_EVENT_NAME" != "workflow_dispatch" && "$changed_statistic_files" == "" ]]; then
   echo "There is nothing to compute."
@@ -20,7 +21,8 @@ else
   if [[ "$GITHUB_EVENT_NAME" == "schedule" || "$GITHUB_EVENT_NAME" == "workflow_dispatch" ]]; then
     bin/compute_all.rb || exit 1
   else
-    echo "$changed_statistic_files" | while read file; do
+    # A for loop, not a piped while loop: the pipe runs the loop in a subshell, where exit 1 does not stop the script.
+    for file in $changed_statistic_files; do
       echo "File has changed: $file"
       bin/compute.rb $file || exit 1
     done

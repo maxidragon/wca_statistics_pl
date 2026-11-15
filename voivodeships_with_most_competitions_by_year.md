@@ -10,7 +10,7 @@
 | ---: | :--- |
 | 13 | Mazowieckie |
 | 13 | Łódzkie |
-| 11 | Pomorskie |
+| 12 | Pomorskie |
 | 10 | Podkarpackie |
 | 10 | Wielkopolskie |
 | 10 | Śląskie |

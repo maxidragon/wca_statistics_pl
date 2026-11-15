@@ -6,7 +6,7 @@
 | ---: | :--- |
 | 147 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
 | 88 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
-| 85 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
+| 86 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
 | 81 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 57 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 43 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
@@ -15,8 +15,8 @@
 | 32 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) |
 | 30 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) |
 | 29 | [Karolina Wiącek](https://www.worldcubeassociation.org/persons/2008WIAC01) |
+| 28 | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) |
 | 27 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
-| 27 | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) |
 | 26 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
 | 24 | [Sylwester Jaroszewski](https://www.worldcubeassociation.org/persons/2014JARO01) |
 | 24 | [Piotr Gabara](https://www.worldcubeassociation.org/persons/2024GABA02) |
@@ -24,11 +24,11 @@
 | 22 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 21 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) |
 | 21 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 20 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
 | 20 | [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) |
-| 19 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
 | 19 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
 | 18 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) |
-| 16 | [Klaudia Milewczyk](https://www.worldcubeassociation.org/persons/2022MILE05) |
+| 17 | [Klaudia Milewczyk](https://www.worldcubeassociation.org/persons/2022MILE05) |
 | 14 | [Moli Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
 | 13 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) |
 | 12 | [Szymon Jeziorski](https://www.worldcubeassociation.org/persons/2013JEZI01) |

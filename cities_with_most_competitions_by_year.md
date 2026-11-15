@@ -9,7 +9,7 @@
 | Competitions | City |
 | ---: | :--- |
 | 12 | Warszawa |
-| 9 | Gdańsk |
+| 10 | Gdańsk |
 | 7 | Lublin |
 | 7 | Poznań |
 | 4 | Brzeziny |

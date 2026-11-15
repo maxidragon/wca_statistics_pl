@@ -5,15 +5,15 @@
 
 
 ### Gdańsk
-_Total competitions: 80_
+_Total competitions: 81_
 
 | Person | Competitions |
 | :--- | ---: |
-| [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 72 |
+| [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 73 |
 | [Karolina Wiącek](https://www.worldcubeassociation.org/persons/2008WIAC01) | 28 |
-| [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) | 24 |
-| [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 15 |
-| [Klaudia Milewczyk](https://www.worldcubeassociation.org/persons/2022MILE05) | 14 |
+| [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) | 25 |
+| [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 16 |
+| [Klaudia Milewczyk](https://www.worldcubeassociation.org/persons/2022MILE05) | 15 |
 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 3 |
 | [Jan Wojcieszkiewicz](https://www.worldcubeassociation.org/persons/2023WOJC03) | 2 |
 | [Kalina Jakubowska](https://www.worldcubeassociation.org/persons/2009BRZE01) | 2 |

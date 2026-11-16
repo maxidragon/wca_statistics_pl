@@ -1,7 +1,7 @@
 ## 3x3 One-Handed results compared to 3x3 (Poland)
 
 *Note: This statistic compares the best 3x3 One-Handed average to the best 3x3 average for Polish competitors.*
-*Updated on 14 November 2026*
+*Updated on 16 November 2026*
 
 | Person | 3x3 OH | 3x3 | Ratio |
 | :--- | ---: | ---: | ---: |
@@ -13,12 +13,12 @@
 | [Igor Kowalczyk](https://www.worldcubeassociation.org/persons/2013KOWA04) | 12.41 | 9.86 | 1.26 |
 | [Adam Gajda](https://www.worldcubeassociation.org/persons/2014GAJD03) | 16.68 | 13.09 | 1.27 |
 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | 8.57 | 6.67 | 1.29 |
-| [Adam Fic](https://www.worldcubeassociation.org/persons/2024FICA01) | 24.12 | 18.54 | 1.30 |
 | [Paweł Demjankowski](https://www.worldcubeassociation.org/persons/2009DEMJ01) | 28.14 | 21.56 | 1.31 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 9.82 | 7.44 | 1.32 |
 | [Bartłomiej Zięba](https://www.worldcubeassociation.org/persons/2013ZIEB01) | 14.40 | 10.75 | 1.34 |
 | [Grzegorz Dzikiewicz](https://www.worldcubeassociation.org/persons/2008DZIK01) | 18.48 | 13.72 | 1.35 |
 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) | 13.60 | 10.06 | 1.35 |
+| [Szczepan Rozwadowski](https://www.worldcubeassociation.org/persons/2025ROZW02) | 18.77 | 13.86 | 1.35 |
 | [Michał Korbacz](https://www.worldcubeassociation.org/persons/2008KORB01) | 26.77 | 19.59 | 1.37 |
 | [Krzysztof Żerucha](https://www.worldcubeassociation.org/persons/2008ZERU01) | 15.17 | 11.08 | 1.37 |
 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) | 18.33 | 13.26 | 1.38 |

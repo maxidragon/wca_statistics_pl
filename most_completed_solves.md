@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 14 November 2026*
+*Updated on 16 November 2026*
 
 
 ### Competition
@@ -33,21 +33,21 @@
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **21987** | 22925 |
-| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **17465** | 18167 |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **16563** | 16995 |
+| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **17564** | 18271 |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **16648** | 17081 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **13736** | 14794 |
-| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **13400** | 14083 |
-| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **13378** | 13859 |
+| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **13428** | 14112 |
+| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **13423** | 13904 |
 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **12494** | 13192 |
 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | **11567** | 11934 |
-| [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | **10473** | 11053 |
+| [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | **10593** | 11179 |
 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | **10461** | 11142 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | **10264** | 10451 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **9828** | 11374 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **9688** | 9860 |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | **9606** | 9820 |
+| [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | **9440** | 9650 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **9352** | 9689 |
-| [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | **9319** | 9524 |
 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | **8099** | 8837 |
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | **7956** | 8230 |
 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | **7565** | 7926 |
@@ -59,7 +59,7 @@
 | :--- | ---: | ---: |
 | 2025 | **236931** | 249879 |
 | 2024 | **224448** | 235988 |
-| 2026 | **217842** | 231069 |
+| 2026 | **221832** | 235211 |
 | 2023 | **188218** | 198622 |
 | 2022 | **116402** | 123618 |
 | 2019 | **91337** | 95933 |
@@ -82,19 +82,19 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **394710** | 402530 |
-| 2x2x2 Cube | **257729** | 264806 |
-| Pyraminx | **198720** | 203974 |
-| Skewb | **141854** | 145503 |
-| 4x4x4 Cube | **134946** | 139576 |
-| 3x3x3 One-Handed | **108860** | 112369 |
-| Clock | **85765** | 99162 |
-| Megaminx | **67759** | 70476 |
-| 5x5x5 Cube | **65477** | 67802 |
-| Square-1 | **54584** | 56717 |
-| 6x6x6 Cube | **15674** | 16255 |
-| 3x3x3 Blindfolded | **14674** | 38508 |
-| 7x7x7 Cube | **13335** | 13926 |
+| 3x3x3 Cube | **395388** | 403215 |
+| 2x2x2 Cube | **258070** | 265156 |
+| Pyraminx | **199369** | 204634 |
+| Skewb | **142403** | 146058 |
+| 4x4x4 Cube | **135288** | 139926 |
+| 3x3x3 One-Handed | **109150** | 112666 |
+| Clock | **86053** | 99495 |
+| Megaminx | **68193** | 70921 |
+| 5x5x5 Cube | **65610** | 67935 |
+| Square-1 | **54728** | 56864 |
+| 6x6x6 Cube | **15738** | 16319 |
+| 3x3x3 Blindfolded | **14700** | 38577 |
+| 7x7x7 Cube | **13387** | 13980 |
 | 3x3x3 Fewest Moves | **7107** | 9330 |
 | Magic | **4230** | 4674 |
 | 3x3x3 Multi-Blind | **2507** | 3714 |

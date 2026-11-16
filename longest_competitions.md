@@ -1,33 +1,34 @@
 ## Longest competitions in Poland
 
-*Updated on 14 November 2026*
+*Updated on 16 November 2026*
 
 | Days | Competition |
 | ---: | :--- |
 | 5 | [BrizZon Side Open II 2024](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenII2024) |
-| 5 | [GLS Winter Camp 2019](https://www.worldcubeassociation.org/competitions/GLSWinterCamp2019) |
 | 5 | [Gdańsk Cubing Summer Camp 2019](https://www.worldcubeassociation.org/competitions/GdanskCubingSummerCamp2019) |
+| 5 | [GLS Winter Camp 2019](https://www.worldcubeassociation.org/competitions/GLSWinterCamp2019) |
+| 4 | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) |
 | 4 | [Silesian Minx Fest 2026](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2026) |
-| 4 | [Silesian Minx Fest 2025](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2025) |
 | 4 | [BrizZon Side Open II 2025](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenII2025) |
+| 4 | [Silesian Minx Fest 2025](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2025) |
 | 4 | [Silesian Minx Fest 2024](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2024) |
 | 4 | [BrizZon Side Open III 2024](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenIII2024) |
 | 4 | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) |
-| 4 | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) |
-| 3 | [Polish Championship 2016](https://www.worldcubeassociation.org/competitions/PolishChampionship2016) |
-| 3 | [No Triangle in Dębica 2023](https://www.worldcubeassociation.org/competitions/NoTriangleinDebica2023) |
 | 3 | [Polish Championship 2018](https://www.worldcubeassociation.org/competitions/PolishChampionship2018) |
-| 3 | [Polish Championship 2019](https://www.worldcubeassociation.org/competitions/PolishChampionship2019) |
-| 3 | [Polish Championship 2021](https://www.worldcubeassociation.org/competitions/PolishChampionship2021) |
-| 3 | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022) |
 | 3 | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023) |
+| 3 | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022) |
+| 3 | [Polish Championship 2021](https://www.worldcubeassociation.org/competitions/PolishChampionship2021) |
+| 3 | [Polish Championship 2019](https://www.worldcubeassociation.org/competitions/PolishChampionship2019) |
+| 3 | [Polish Open 2017](https://www.worldcubeassociation.org/competitions/PolishOpen2017) |
+| 3 | [Polish Championship 2016](https://www.worldcubeassociation.org/competitions/PolishChampionship2016) |
 | 3 | [Polish Nationals 2017](https://www.worldcubeassociation.org/competitions/PolishNationals2017) |
 | 3 | [Polish Open 2015](https://www.worldcubeassociation.org/competitions/PolishOpen2015) |
-| 3 | [Polish Open 2017](https://www.worldcubeassociation.org/competitions/PolishOpen2017) |
+| 3 | [No Triangle in Rzeszów 2024](https://www.worldcubeassociation.org/competitions/NoTriangleinRzeszow2024) |
 | 3 | [Polish Open 2019](https://www.worldcubeassociation.org/competitions/PolishOpen2019) |
 | 3 | [Polish Open 2025](https://www.worldcubeassociation.org/competitions/PolishOpen2025) |
 | 3 | [Santa Claus Cube Race 2019](https://www.worldcubeassociation.org/competitions/SantaClausCubeRace2019) |
 | 3 | [Siedlce Open 2024](https://www.worldcubeassociation.org/competitions/SiedlceOpen2024) |
+| 3 | [Warm Up Dębica 2026](https://www.worldcubeassociation.org/competitions/WarmUpDebica2026) |
 | 3 | [Cool Down Szczecin 2025](https://www.worldcubeassociation.org/competitions/CoolDownSzczecin2025) |
 | 3 | [Big 'n Blind Szczecinek 2023](https://www.worldcubeassociation.org/competitions/BignBlindSzczecinek2023) |
 | 3 | [BrizZon Side Open II 2023](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenII2023) |
@@ -44,8 +45,8 @@
 | 3 | [Dębica Cubing Winter 2025](https://www.worldcubeassociation.org/competitions/DebicaCubingWinter2025) |
 | 3 | [Euro 2012](https://www.worldcubeassociation.org/competitions/Euro2012) |
 | 3 | [GLS III 2025](https://www.worldcubeassociation.org/competitions/GLSIII2025) |
+| 3 | [No Triangle in Dębica 2023](https://www.worldcubeassociation.org/competitions/NoTriangleinDebica2023) |
 | 3 | [All Rounders Katowice I 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceI2026) |
-| 3 | [No Triangle in Rzeszów 2024](https://www.worldcubeassociation.org/competitions/NoTriangleinRzeszow2024) |
 | 3 | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026) |
 
 

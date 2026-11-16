@@ -1,21 +1,22 @@
 ## Most visited continents
 
-*Updated on 14 November 2026*
+*Updated on 16 November 2026*
 
 | Continents | Person |
 | ---: | :--- |
 | 6 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 4 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) |
 | 4 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 4 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) |
-| 4 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) |
 | 4 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
-| 3 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) |
-| 3 | [Maciej Jabłoński](https://www.worldcubeassociation.org/persons/2017JABL01) |
+| 3 | [Maja Turczyk](https://www.worldcubeassociation.org/persons/2022TURC05) |
 | 3 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) |
+| 3 | [Maciej Jabłoński](https://www.worldcubeassociation.org/persons/2017JABL01) |
 | 3 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
 | 3 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) |
 | 3 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
 | 3 | [Joanna Dubicka](https://www.worldcubeassociation.org/persons/2018DUBI04) |
+| 3 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) |
 | 3 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
 | 3 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |
 | 3 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
@@ -40,7 +41,6 @@
 | 2 | [Omer Yusuf Gonen](https://www.worldcubeassociation.org/persons/2022GONE01) |
 | 2 | [Aleks Dawidek](https://www.worldcubeassociation.org/persons/2022DAWI01) |
 | 2 | [Stanisław Ożyński](https://www.worldcubeassociation.org/persons/2022OZYN01) |
-| 2 | [Maja Turczyk](https://www.worldcubeassociation.org/persons/2022TURC05) |
 | 2 | [Leopold Sayawaki-Kogut](https://www.worldcubeassociation.org/persons/2022SAYA01) |
 | 2 | [Jan Jędrzej Kasprzak](https://www.worldcubeassociation.org/persons/2022KASP03) |
 | 2 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) |

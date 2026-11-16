@@ -1,11 +1,11 @@
 ## Medals to competitions ratio
 
 *Note: Only Polish competitors included*
-*Updated on 14 November 2026*
+*Updated on 16 November 2026*
 
 | Person | Medals | Competitions | Ratio |
 | :--- | ---: | ---: | ---: |
-| [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 439 | 98 | 4.48 |
+| [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 444 | 99 | 4.48 |
 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 382 | 86 | 4.44 |
 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 390 | 98 | 3.98 |
 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | 168 | 43 | 3.91 |
@@ -14,7 +14,7 @@
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 557 | 181 | 3.08 |
 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | 158 | 52 | 3.04 |
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 318 | 109 | 2.92 |
-| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 655 | 229 | 2.86 |
+| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 659 | 230 | 2.87 |
 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 267 | 96 | 2.78 |
 | [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) | 135 | 49 | 2.76 |
 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | 245 | 90 | 2.72 |

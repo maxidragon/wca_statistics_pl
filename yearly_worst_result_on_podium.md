@@ -1,7 +1,7 @@
 ## Worst result providing a podium by year at Polish competitions
 
 *Note: Only finals at competitions held in Poland are taken into account, regardless of the podium members' countries. Results where the main statistic is DNF are ignored. Each year is considered separately.*
-*Updated on 14 November 2026*
+*Updated on 16 November 2026*
 
 
 ### 2026
@@ -107,9 +107,9 @@
 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | **1:25.62** | DNF | [Mysłowice Cubing Spring 2026](https://www.worldcubeassociation.org/competitions/MyslowiceCubingSpring2026/results/podiums#e333bf) | 3 |
 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | **1:24.68** | DNF | [Gdańsk Cubing Day 2026](https://www.worldcubeassociation.org/competitions/GdanskCubingDay2026/results/podiums#e333bf) | 3 |
 | [Piotr Melczewski](https://www.worldcubeassociation.org/persons/2019MELC02) | **1:24.07** | DNF | [Lipnica Wielka Open 2026](https://www.worldcubeassociation.org/competitions/LipnicaWielkaOpen2026/results/podiums#e333bf) | 3 |
+| [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | **1:22.13** | 1:43.93 | [Warm Up Dębica 2026](https://www.worldcubeassociation.org/competitions/WarmUpDebica2026/results/podiums#e333bf) | 3 |
 | [Daniel Jamrużka](https://www.worldcubeassociation.org/persons/2012JAMR01) | **1:20.75** | DNF | [Gniezno Open 2026](https://www.worldcubeassociation.org/competitions/GnieznoOpen2026/results/podiums#e333bf) | 3 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **1:17.82** | DNF | [Gniezno Open 2026](https://www.worldcubeassociation.org/competitions/GnieznoOpen2026/results/podiums#e333bf) | 2 |
-| [Jan Kaszczuk](https://www.worldcubeassociation.org/persons/2023KASZ02) | **1:17.03** | DNF | [Gdańsk Cubing Day 2026](https://www.worldcubeassociation.org/competitions/GdanskCubingDay2026/results/podiums#e333bf) | 2 |
 
 #### 3x3x3 Fewest Moves (Mean of 3)
 

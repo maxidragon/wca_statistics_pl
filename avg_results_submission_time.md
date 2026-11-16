@@ -1,19 +1,19 @@
 ## Average results submission time by Polish delegates
 
-*Updated on 14 November 2026*
+*Updated on 16 November 2026*
 
 | Delegate | Average time | Total delegated |
 | ---: | :--- | ---: |
-| [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | -0.43h | 2 |
+| [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | -0.55h | 3 |
 | [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) | -0.29h | 1 |
 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 0.44h | 57 |
 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 0.66h | 3 |
 | [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) | 3.07h | 1 |
+| [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) | 4.32h | 3 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 5.44h | 3 |
-| [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) | 6.88h | 2 |
 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 7.42h | 1 |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 12.35h | 140 |
-| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 14.88h | 46 |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 12.26h | 141 |
+| [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 14.55h | 47 |
 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 18.22h | 17 |
 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 19.95h | 36 |
 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 1d 1.58h | 65 |

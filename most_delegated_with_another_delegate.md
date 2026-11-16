@@ -1,7 +1,7 @@
 ## Most delegated competitions with another delegate
 
 *Note: Shows how many times each delegate has co-delegated with others. Only Polish delegates are included, and only competitions that have taken place in Poland and have results posted are considered.*
-*Updated on 14 November 2026*
+*Updated on 16 November 2026*
 
 
 ### [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01)
@@ -32,7 +32,7 @@ _Total delegated competitions: 1 (1 in Poland)_
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 1 |
 
 ### [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01)
-_Total delegated competitions: 46 (45 in Poland)_
+_Total delegated competitions: 47 (45 in Poland)_
 
 | Co-delegate | Count |
 | :--- | ---: |
@@ -135,18 +135,18 @@ _Total delegated competitions: 1 (1 in Poland)_
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 1 |
 
 ### [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01)
-_Total delegated competitions: 2 (2 in Poland)_
+_Total delegated competitions: 3 (3 in Poland)_
 
 | Co-delegate | Count |
 | :--- | ---: |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 2 |
+| [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | 2 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 1 |
 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 1 |
 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 1 |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 1 |
-| [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | 1 |
 
 ### [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01)
-_Total delegated competitions: 141 (138 in Poland)_
+_Total delegated competitions: 142 (139 in Poland)_
 
 | Co-delegate | Count |
 | :--- | ---: |
@@ -158,12 +158,12 @@ _Total delegated competitions: 141 (138 in Poland)_
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 9 |
 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 6 |
 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 3 |
+| [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | 3 |
 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 2 |
-| [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | 2 |
+| [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) | 2 |
 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 2 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 1 |
 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 1 |
-| [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) | 1 |
 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 1 |
 
 ### [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01)
@@ -239,14 +239,14 @@ _Total delegated competitions: 30 (29 in Poland)_
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 1 |
 
 ### [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09)
-_Total delegated competitions: 2 (2 in Poland)_
+_Total delegated competitions: 3 (3 in Poland)_
 
 | Co-delegate | Count |
 | :--- | ---: |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 3 |
 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 2 |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 2 |
+| [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) | 2 |
 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 1 |
-| [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) | 1 |
 
 ### [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01)
 _Total delegated competitions: 18 (17 in Poland)_

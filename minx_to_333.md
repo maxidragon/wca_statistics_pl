@@ -1,7 +1,7 @@
 ## Megaminx results compared to 3x3 (Poland)
 
 *Note: This statistic compares the best Megaminx average to the best 3x3 average for Polish competitors.*
-*Updated on 14 November 2026*
+*Updated on 16 November 2026*
 
 | Person | Megaminx | 3x3 | Ratio |
 | :--- | ---: | ---: | ---: |
@@ -11,10 +11,10 @@
 | [Przemysław Rudziak](https://www.worldcubeassociation.org/persons/2020RUDZ02) | 37.25 | 10.16 | 3.67 |
 | [Klaudia Milewczyk](https://www.worldcubeassociation.org/persons/2022MILE05) | 1:50.57 | 30.01 | 3.68 |
 | [Kacper Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC06) | 1:01.59 | 16.22 | 3.80 |
+| [Szczepan Rozwadowski](https://www.worldcubeassociation.org/persons/2025ROZW02) | 52.85 | 13.86 | 3.81 |
 | [Marcel Borkowski](https://www.worldcubeassociation.org/persons/2023BORK01) | 37.47 | 9.77 | 3.84 |
-| [Szczepan Rozwadowski](https://www.worldcubeassociation.org/persons/2025ROZW02) | 53.15 | 13.86 | 3.84 |
-| [Ernest Seroczyński](https://www.worldcubeassociation.org/persons/2015SERO02) | 35.11 | 9.12 | 3.85 |
 | [Maksymilian Piskorowski](https://www.worldcubeassociation.org/persons/2017PISK01) | 36.65 | 9.52 | 3.85 |
+| [Ernest Seroczyński](https://www.worldcubeassociation.org/persons/2015SERO02) | 35.11 | 9.12 | 3.85 |
 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | 49.83 | 12.53 | 3.98 |
 | [Zuzanna Bogusz](https://www.worldcubeassociation.org/persons/2022BOGU01) | 2:32.71 | 37.29 | 4.10 |
 | [Wiktor Gugulski](https://www.worldcubeassociation.org/persons/2023GUGU01) | 29.84 | 7.18 | 4.16 |

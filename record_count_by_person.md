@@ -1,7 +1,7 @@
 ## Record count by person
 
 *Note: Each record is counted once, at its highest level: a world record is not counted again as a European or national record.*
-*Updated on 14 November 2026*
+*Updated on 16 November 2026*
 
 | Person | Total | WR | ER | NR |
 | :--- | ---: | ---: | ---: | ---: |
@@ -37,6 +37,7 @@
 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) | 9 | 0 | 0 | 9 |
 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | 8 | 2 | 0 | 6 |
 | [Jarosław Nowicki](https://www.worldcubeassociation.org/persons/2004NOWI01) | 8 | 0 | 4 | 4 |
+| [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | 8 | 0 | 0 | 8 |
 | [Grzegorz Prusak](https://www.worldcubeassociation.org/persons/2006PRUS01) | 7 | 5 | 1 | 1 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 7 | 4 | 0 | 3 |
 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | 7 | 3 | 0 | 4 |
@@ -44,7 +45,6 @@
 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 7 | 0 | 0 | 7 |
 | [Marek Kurcyus](https://www.worldcubeassociation.org/persons/2005KURC01) | 7 | 0 | 0 | 7 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 7 | 0 | 0 | 7 |
-| [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | 7 | 0 | 0 | 7 |
 | [Ernest Seroczyński](https://www.worldcubeassociation.org/persons/2015SERO02) | 6 | 0 | 0 | 6 |
 | [Filip Miazek](https://www.worldcubeassociation.org/persons/2010MIAZ01) | 6 | 0 | 0 | 6 |
 | [Krzysztof Natusiewicz](https://www.worldcubeassociation.org/persons/2011NATU01) | 6 | 0 | 0 | 6 |

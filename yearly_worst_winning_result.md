@@ -1,7 +1,7 @@
 ## Worst result providing a win by year at Polish competitions
 
 *Note: Only finals at competitions held in Poland are taken into account, regardless of the winners' countries. Results where the main statistic is DNF are ignored. Each year is considered separately.*
-*Updated on 14 November 2026*
+*Updated on 16 November 2026*
 
 
 ### 2026
@@ -76,10 +76,10 @@
 | [Ihor Sukhovatenko (Ігор Суховатенко)](https://www.worldcubeassociation.org/persons/2017SUKH02) | 1:35.66 | **1:38.22** | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026/results/podiums#e666) |
 | [Matěj Grohmann](https://www.worldcubeassociation.org/persons/2015GROH02) | 1:31.54 | **1:34.90** | [Dębica Cubing Winter 2026](https://www.worldcubeassociation.org/competitions/DebicaCubingWinter2026/results/podiums#e666) |
 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 1:31.69 | **1:34.85** | [CFGS VI Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGSVIBrzeziny2026/results/podiums#e666) |
+| [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 1:25.55 | **1:34.50** | [Warm Up Dębica 2026](https://www.worldcubeassociation.org/competitions/WarmUpDebica2026/results/podiums#e666) |
 | [Ihor Sukhovatenko (Ігор Суховатенко)](https://www.worldcubeassociation.org/persons/2017SUKH02) | 1:25.71 | **1:33.21** | [Cube4fun Tylmanowa Winter 2026](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaWinter2026/results/podiums#e666) |
 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 1:28.40 | **1:32.55** | [Warm Up Niepołomice 2026](https://www.worldcubeassociation.org/competitions/WarmUpNiepolomice2026/results/podiums#e666) |
 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 1:27.89 | **1:31.97** | [Beskidy Cubing Days 2026](https://www.worldcubeassociation.org/competitions/BeskidyCubingDays2026/results/podiums#e666) |
-| [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 1:28.54 | **1:31.85** | [CF Goes Crazy II Brzeziny 2026](https://www.worldcubeassociation.org/competitions/CFGoesCrazyIIBrzeziny2026/results/podiums#e666) |
 
 #### 7x7x7 Cube
 
@@ -101,6 +101,7 @@
 | Person | Single | Average | Competition |
 | :--- | ---: | ---: | :--- |
 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | **1:09.86** | DNF | [Koszalin Open 2026](https://www.worldcubeassociation.org/competitions/KoszalinOpen2026/results/podiums#e333bf) |
+| [Dominik Podolak](https://www.worldcubeassociation.org/persons/2023PODO02) | **1:02.77** | DNF | [Warm Up Dębica 2026](https://www.worldcubeassociation.org/competitions/WarmUpDebica2026/results/podiums#e333bf) |
 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **42.23** | DNF | [OlsztyNxN 2026](https://www.worldcubeassociation.org/competitions/OlsztyNxN2026/results/podiums#e333bf) |
 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **38.98** | 52.24 | [Dębica Cubing Summer 2026](https://www.worldcubeassociation.org/competitions/DebicaCubingSummer2026/results/podiums#e333bf) |
 | [Łukasz Kamiński](https://www.worldcubeassociation.org/persons/2023KAMI07) | **37.10** | DNF | [Gdańsk Cubing Day 2026](https://www.worldcubeassociation.org/competitions/GdanskCubingDay2026/results/podiums#e333bf) |
@@ -109,7 +110,6 @@
 | [Alan Żeromski](https://www.worldcubeassociation.org/persons/2018ZERO01) | **27.73** | DNF | [GLS Gdańsk IV 2026](https://www.worldcubeassociation.org/competitions/GLSGdanskIV2026/results/podiums#e333bf) |
 | [Igor Szyszkowski](https://www.worldcubeassociation.org/persons/2025SZYS01) | **27.31** | DNF | [Mysłowice Cubing Spring 2026](https://www.worldcubeassociation.org/competitions/MyslowiceCubingSpring2026/results/podiums#e333bf) |
 | [Alan Żeromski](https://www.worldcubeassociation.org/persons/2018ZERO01) | **25.96** | DNF | [Baltic Skewb Fest Gdańsk 2026](https://www.worldcubeassociation.org/competitions/BalticSkewbFestGdansk2026/results/podiums#e333bf) |
-| [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) | **25.61** | DNF | [Głuszyca Open 2026](https://www.worldcubeassociation.org/competitions/GluszycaOpen2026/results/podiums#e333bf) |
 
 #### 3x3x3 Fewest Moves (Mean of 3)
 

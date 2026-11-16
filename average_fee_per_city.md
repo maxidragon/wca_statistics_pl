@@ -1,7 +1,7 @@
 ## Average registration fee per city
 
 *Note: Only PLN competitions are included. Only cities with at least 2 competitions in a given year are listed.*
-*Updated on 14 November 2026*
+*Updated on 16 November 2026*
 
 
 ### 2026
@@ -16,7 +16,7 @@
 | Brzeziny | 72.50 PLN | 4 |
 | Szczecin | 72.50 PLN | 2 |
 | Olsztyn | 67.50 PLN | 2 |
-| Dębica | 60.00 PLN | 2 |
+| Dębica | 60.00 PLN | 3 |
 | Opole | 60.00 PLN | 3 |
 | Rybnik | 60.00 PLN | 2 |
 | Poznań | 51.43 PLN | 7 |

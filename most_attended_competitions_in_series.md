@@ -1,7 +1,7 @@
 ## Most attended competitions in a series
 
 *Note: Only Polish competitions with posted results are included. Up to the top 20 positions are listed for each series, so ties may add more rows.*
-*Updated on 16 November 2026*
+*Updated on 19 November 2026*
 
 
 ### BrizZon
@@ -150,30 +150,34 @@ _Total competitions: 6_
 | 20 | [Wojciech Ludwin](https://www.worldcubeassociation.org/persons/2024LUDW01) | 3 |
 
 ### Warszawska Liga Speedcuberów
-_Total competitions: 10_
+_Total competitions: 11_
 
 | Position | Person | Competitions |
 | ---: | :--- | ---: |
-| 1 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 10 |
-| 1 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 10 |
-| 3 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 9 |
+| 1 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 11 |
+| 1 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 11 |
+| 3 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 10 |
+| 4 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) | 8 |
 | 4 | [Jakub Bartos](https://www.worldcubeassociation.org/persons/2014BART06) | 8 |
-| 5 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) | 7 |
-| 5 | [Joanna Hołdakowska](https://www.worldcubeassociation.org/persons/2016HOLD04) | 7 |
-| 5 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 7 |
-| 5 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 7 |
-| 9 | [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) | 6 |
-| 9 | [Antoni Szcześniak](https://www.worldcubeassociation.org/persons/2023SZCZ04) | 6 |
-| 9 | [Bartosz Łopacki](https://www.worldcubeassociation.org/persons/2025LOPA01) | 6 |
-| 9 | [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) | 6 |
-| 9 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 6 |
-| 9 | [Kacper Jędrzejuk](https://www.worldcubeassociation.org/persons/2019JEDR01) | 6 |
-| 9 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 6 |
-| 9 | [Marcin Dołoto](https://www.worldcubeassociation.org/persons/2021DOLO01) | 6 |
-| 9 | [Marta Szcześniak](https://www.worldcubeassociation.org/persons/2023SZCZ07) | 6 |
-| 9 | [Nikita Loika](https://www.worldcubeassociation.org/persons/2013LOYK01) | 6 |
-| 9 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) | 6 |
-| 9 | [Wojciech Łopacki](https://www.worldcubeassociation.org/persons/2025LOPA02) | 6 |
+| 4 | [Joanna Hołdakowska](https://www.worldcubeassociation.org/persons/2016HOLD04) | 8 |
+| 4 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 8 |
+| 4 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 8 |
+| 9 | [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) | 7 |
+| 9 | [Antoni Szcześniak](https://www.worldcubeassociation.org/persons/2023SZCZ04) | 7 |
+| 9 | [Bartosz Łopacki](https://www.worldcubeassociation.org/persons/2025LOPA01) | 7 |
+| 9 | [Kacper Jędrzejuk](https://www.worldcubeassociation.org/persons/2019JEDR01) | 7 |
+| 9 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 7 |
+| 9 | [Marta Szcześniak](https://www.worldcubeassociation.org/persons/2023SZCZ07) | 7 |
+| 9 | [Nikita Loika](https://www.worldcubeassociation.org/persons/2013LOYK01) | 7 |
+| 9 | [Wojciech Łopacki](https://www.worldcubeassociation.org/persons/2025LOPA02) | 7 |
+| 17 | [Adam Bednarek](https://www.worldcubeassociation.org/persons/2024BEDN03) | 6 |
+| 17 | [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) | 6 |
+| 17 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 6 |
+| 17 | [Idan Bolesto](https://www.worldcubeassociation.org/persons/2022BOLE01) | 6 |
+| 17 | [Marcin Dołoto](https://www.worldcubeassociation.org/persons/2021DOLO01) | 6 |
+| 17 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) | 6 |
+| 17 | [Szymon Jaworski](https://www.worldcubeassociation.org/persons/2021JAWO01) | 6 |
+| 17 | [Victor Kiziukiewicz](https://www.worldcubeassociation.org/persons/2023KIZI01) | 6 |
 
 ### Cube Factory
 _Total competitions: 16_

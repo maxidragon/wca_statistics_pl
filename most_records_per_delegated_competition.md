@@ -1,7 +1,7 @@
 ## Most records per delegated competition
 
 *Note: Only Polish delegates included.*
-*Updated on 16 November 2026*
+*Updated on 19 November 2026*
 
 | Ratio | Records | Competitions | Delegate |
 | ---: | ---: | ---: | :--- |
@@ -17,15 +17,15 @@
 | 3.04 | 237 | 78 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
 | 2.53 | 182 | 72 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
 | 2.38 | 19 | 8 | [Stefan Łapicki](https://www.worldcubeassociation.org/persons/2006LAPI01) |
-| 2.06 | 439 | 213 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 2.05 | 439 | 214 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 2.00 | 130 | 65 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) |
 | 1.79 | 131 | 73 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) |
 | 1.75 | 249 | 142 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 1.00 | 1 | 1 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |
 | 1.00 | 2 | 2 | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) |
 | 0.94 | 134 | 143 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
-| 0.93 | 54 | 58 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
-| 0.75 | 3 | 4 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
+| 0.92 | 54 | 59 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
+| 0.60 | 3 | 5 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 0.57 | 17 | 30 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
 | 0.53 | 19 | 36 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
 | 0.49 | 23 | 47 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |

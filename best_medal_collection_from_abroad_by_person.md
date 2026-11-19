@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 16 November 2026*
+*Updated on 19 November 2026*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -53,6 +53,7 @@
 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) | **4** | 7 | 2 | 13 |
 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | **4** | 5 | 4 | 13 |
 | [Marcel Borkowski](https://www.worldcubeassociation.org/persons/2023BORK01) | **4** | 4 | 6 | 14 |
+| [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | **4** | 4 | 4 | 12 |
 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | **4** | 3 | 2 | 9 |
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | **4** | 1 | 7 | 12 |
 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | **4** | 1 | 2 | 7 |
@@ -98,7 +99,6 @@
 | [Jakub Grzybowski](https://www.worldcubeassociation.org/persons/2017GRZY02) | **1** | 2 | 3 | 6 |
 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | **1** | 2 | 2 | 5 |
 | [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) | **1** | 2 | 1 | 4 |
-| [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | **1** | 1 | 1 | 3 |
 | [Szymon Plesniak](https://www.worldcubeassociation.org/persons/2024PLES01) | **1** | 1 | 1 | 3 |
 | [Bartosz Łebkowski](https://www.worldcubeassociation.org/persons/2021LEBK01) | **1** | 1 | 0 | 2 |
 | [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) | **1** | 1 | 0 | 2 |

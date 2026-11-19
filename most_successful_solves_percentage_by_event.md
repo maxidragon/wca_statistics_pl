@@ -1,7 +1,7 @@
 ## Most % of successful solves in each event
 
 *Note: Counts individual attempt values. A successful attempt has value > 0 (not DNF). DNS attempts are excluded. Minimum 10 attempts required.*
-*Updated on 16 November 2026*
+*Updated on 19 November 2026*
 
 
 ### 3x3x3 Cube
@@ -94,8 +94,8 @@
 | 100.00% | 159 | 159 | [Hubert Firek](https://www.worldcubeassociation.org/persons/2015FIRE01) |
 | 100.00% | 142 | 142 | [Stanisław Dąbrowski](https://www.worldcubeassociation.org/persons/2016DABR03) |
 | 100.00% | 141 | 141 | [Daniel Samoszyn](https://www.worldcubeassociation.org/persons/2015SAMO01) |
+| 100.00% | 132 | 132 | [Victor Kiziukiewicz](https://www.worldcubeassociation.org/persons/2023KIZI01) |
 | 100.00% | 127 | 127 | [Wojciech Piórczyński](https://www.worldcubeassociation.org/persons/2021PIOR01) |
-| 100.00% | 127 | 127 | [Victor Kiziukiewicz](https://www.worldcubeassociation.org/persons/2023KIZI01) |
 | 100.00% | 111 | 111 | [Michał Kopeć](https://www.worldcubeassociation.org/persons/2020KOPE01) |
 | 100.00% | 110 | 110 | [Adrian Walkowiak](https://www.worldcubeassociation.org/persons/2011WALK02) |
 | 100.00% | 109 | 109 | [Tymon Martyński](https://www.worldcubeassociation.org/persons/2022MART79) |
@@ -239,8 +239,8 @@
 | 100.00% | 251 | 251 | [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) |
 | 100.00% | 250 | 250 | [Kalina Jakubowska](https://www.worldcubeassociation.org/persons/2009BRZE01) |
 | 100.00% | 244 | 244 | [Henryk Gabor](https://www.worldcubeassociation.org/persons/2024GABO02) |
+| 100.00% | 225 | 225 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) |
 | 100.00% | 222 | 222 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) |
-| 100.00% | 215 | 215 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) |
 | 100.00% | 212 | 212 | [Igor Ośmiałowski](https://www.worldcubeassociation.org/persons/2014OMIA01) |
 | 100.00% | 204 | 204 | [Kajtek Kwiatkowski](https://www.worldcubeassociation.org/persons/2023KWIA01) |
 | 100.00% | 174 | 174 | [Mateusz Śliż](https://www.worldcubeassociation.org/persons/2012SLIZ01) |
@@ -267,9 +267,9 @@
 | 100.00% | 200 | 200 | [Krystian Kalicki](https://www.worldcubeassociation.org/persons/2023KALI10) |
 | 100.00% | 193 | 193 | [Piotr Kogut](https://www.worldcubeassociation.org/persons/2016KOGU01) |
 | 100.00% | 154 | 154 | [Mateusz Wich](https://www.worldcubeassociation.org/persons/2017WICH01) |
+| 100.00% | 150 | 150 | [Kacper Jędrzejuk](https://www.worldcubeassociation.org/persons/2019JEDR01) |
 | 100.00% | 150 | 150 | [Piotr Bzinkowski](https://www.worldcubeassociation.org/persons/2023BZIN01) |
 | 100.00% | 146 | 146 | [Patryk Zawieja](https://www.worldcubeassociation.org/persons/2014ZAWI02) |
-| 100.00% | 145 | 145 | [Kacper Jędrzejuk](https://www.worldcubeassociation.org/persons/2019JEDR01) |
 | 100.00% | 145 | 145 | [Kacper Bieńkowski](https://www.worldcubeassociation.org/persons/2022BIEN01) |
 | 100.00% | 144 | 144 | [Klaudiusz Cieszyński](https://www.worldcubeassociation.org/persons/2014CIES01) |
 | 100.00% | 137 | 137 | [Damian Malinowski](https://www.worldcubeassociation.org/persons/2015MALI01) |

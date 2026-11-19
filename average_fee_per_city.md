@@ -1,7 +1,7 @@
 ## Average registration fee per city
 
 *Note: Only PLN competitions are included. Only cities with at least 2 competitions in a given year are listed.*
-*Updated on 16 November 2026*
+*Updated on 19 November 2026*
 
 
 ### 2026
@@ -20,7 +20,7 @@
 | Opole | 60.00 PLN | 3 |
 | Rybnik | 60.00 PLN | 2 |
 | Poznań | 51.43 PLN | 7 |
-| Warszawa | 40.75 PLN | 12 |
+| Warszawa | 40.69 PLN | 13 |
 
 ### 2025
 

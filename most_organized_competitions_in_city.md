@@ -1,7 +1,7 @@
 ## Most organized competitions in a city
 
 *Note: Only Polish organizers and Polish competitions are included.*
-*Updated on 16 November 2026*
+*Updated on 19 November 2026*
 
 
 ### Gdańsk
@@ -27,29 +27,29 @@ _Total competitions: 81_
 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) | 1 |
 
 ### Warszawa
-_Total competitions: 58_
+_Total competitions: 59_
 
 | Person | Competitions |
 | :--- | ---: |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 18 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 19 |
+| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 14 |
 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | 13 |
-| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 13 |
 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 11 |
 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) | 11 |
+| Warszawska Liga Speedcuberów | 8 |
 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | 8 |
 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 8 |
-| Warszawska Liga Speedcuberów | 7 |
 | [Sylwester Jaroszewski](https://www.worldcubeassociation.org/persons/2014JARO01) | 7 |
 | [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) | 6 |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 6 |
 | Stowarzyszenie LIGA NIEZWYKŁYCH | 5 |
 | [Maksymilian Januszewski](https://www.worldcubeassociation.org/persons/2022JANU01) | 4 |
 | [Mateusz Zieliński](https://www.worldcubeassociation.org/persons/2013ZIEL02) | 3 |
+| [Idan Bolesto](https://www.worldcubeassociation.org/persons/2022BOLE01) | 3 |
 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) | 2 |
 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) | 2 |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 2 |
 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 2 |
-| [Idan Bolesto](https://www.worldcubeassociation.org/persons/2022BOLE01) | 2 |
 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 2 |
 | [Kacper Szumigaj](https://www.worldcubeassociation.org/persons/2012SZUM01) | 1 |
 | [Maciej Kawiński](https://www.worldcubeassociation.org/persons/2015KAWI01) | 1 |

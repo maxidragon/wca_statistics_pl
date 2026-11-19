@@ -1,7 +1,7 @@
 ## Most delegated and organized competitions each year
 
 *Note: This statistic shows how many of the competitions delegated by each Polish delegate in a given year were also organized by them.*
-*Updated on 16 November 2026*
+*Updated on 19 November 2026*
 
 
 ### 2026
@@ -14,10 +14,10 @@
 | 11 | 14 | 78.6% | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
 | 15 | 22 | 68.2% | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 12 | 20 | 60.0% | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
+| 2 | 4 | 50.0% | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 5 | 14 | 35.7% | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
-| 1 | 3 | 33.3% | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
-| 12 | 41 | 29.3% | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
-| 1 | 29 | 3.4% | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
+| 13 | 42 | 31.0% | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 1 | 30 | 3.3% | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
 | 0 | 2 | 0.0% | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
 | 0 | 11 | 0.0% | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) |
 | 0 | 3 | 0.0% | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |

@@ -1,7 +1,7 @@
 ## Best medal collection by event
 
 *Note: All medals are taken into account, no matter where the competition was held.*
-*Updated on 16 November 2026*
+*Updated on 19 November 2026*
 
 
 ### 3x3x3 Cube
@@ -159,7 +159,7 @@
 | Total | Person | Gold | Silver | Bronze |
 | :--: | :--- | :--: | :--: | :--: |
 | **103** | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | 58 | 32 | 13 |
-| **89** | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 35 | 34 | 20 |
+| **90** | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 35 | 35 | 20 |
 | **79** | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 50 | 16 | 13 |
 | **76** | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | 44 | 15 | 17 |
 | **63** | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | 13 | 23 | 27 |
@@ -167,7 +167,7 @@
 | **53** | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 12 | 24 | 17 |
 | **51** | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) | 19 | 24 | 8 |
 | **44** | [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) | 23 | 12 | 9 |
-| **41** | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | 19 | 14 | 8 |
+| **42** | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | 17 | 11 | 14 |
 
 ### Clock
 
@@ -195,7 +195,7 @@
 | **58** | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) | 25 | 19 | 14 |
 | **52** | [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) | 23 | 20 | 9 |
 | **49** | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 17 | 20 | 12 |
-| **44** | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | 25 | 11 | 8 |
+| **45** | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | 26 | 11 | 8 |
 | **42** | [Cezary Mach](https://www.worldcubeassociation.org/persons/2018MACH04) | 24 | 14 | 4 |
 | **39** | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) | 19 | 12 | 8 |
 

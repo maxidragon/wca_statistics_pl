@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 16 November 2026*
+*Updated on 19 November 2026*
 
 
 ### 3x3x3 Cube
@@ -60,8 +60,8 @@
 | 47.89 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 43.42, 51.38, 46.85, 45.74, 48.63, 45.51, 47.07, 53.10, 41.88, 46.29, 53.67, 50.95 |
 | 49.15 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | 45.97, 44.28, 1:09.63, 54.04, 49.93, 44.28, 47.74, 46.64, 49.95, 48.76, 53.08, 51.09 |
 | 49.19 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 47.67, 48.92, 44.44, 47.60, 50.77, 50.57, 51.10, 48.61, 47.24, 49.97, 51.74, 49.40 |
+| 49.37 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | DNF, 54.64, 51.96, 44.73, 45.16, 47.78, 44.96, 57.28, 46.07, 51.36, 46.74, 47.77 |
 | 49.73 | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) | 47.32, 49.14, 53.00, 47.34, 51.23, 45.80, 44.64, 58.41, 54.64, 50.40, 47.13, 51.28 |
-| 50.23 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 42.75, 49.15, 53.84, 49.64, 50.60, 53.12, 48.16, 50.80, 52.23, 49.43, 52.79, 46.40 |
 | 50.53 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | 50.56, 54.74, 47.46, DNF, 47.01, 48.91, 47.79, 47.83, 50.13, 59.58, 48.99, 49.27 |
 
 ### 6x6x6 Cube

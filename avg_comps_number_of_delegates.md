@@ -1,7 +1,7 @@
 ## Average number of competitions of listed delegates at Polish competitions by number of delegates
 
 *Note: Competitions are grouped by how many delegates they had. Each table shows the competitions with the highest average number of competitions that listed delegates had participated in up to and including the one they delegated.*
-*Updated on 16 November 2026*
+*Updated on 19 November 2026*
 
 
 ### 9 Delegates
@@ -59,6 +59,7 @@
 | [Stork Cubing Przygodzice 2026](https://www.worldcubeassociation.org/competitions/StorkCubingPrzygodzice2026) | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01), [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 270.33 |
 | [Energy Cube Białołęka 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeBialoleka2025) | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01), [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 269.67 |
 | [Cube Factory Aleksandrów 2026](https://www.worldcubeassociation.org/competitions/CubeFactoryAleksandrow2026) | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01), [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 266.00 |
+| [WLS Listopad II 2026](https://www.worldcubeassociation.org/competitions/WLSListopadII2026) | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01), [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 263.00 |
 | [WLS Listopad 2026](https://www.worldcubeassociation.org/competitions/WLSListopad2026) | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01), [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 261.67 |
 | [GLS Gdańsk II 2026](https://www.worldcubeassociation.org/competitions/GLSGdanskII2026) | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 258.00 |
 | [GLS Big Cubes Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSBigCubesGdansk2026) | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 252.67 |
@@ -74,7 +75,6 @@
 | [WLS Maj 2026](https://www.worldcubeassociation.org/competitions/WLSMaj2026) | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01), [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 203.33 |
 | [WLS Marzec 2026](https://www.worldcubeassociation.org/competitions/WLSMarzec2026) | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01), [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 195.33 |
 | [Chorzów Open 2024](https://www.worldcubeassociation.org/competitions/ChorzowOpen2024) | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01), [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 193.67 |
-| [Piła Open 2025](https://www.worldcubeassociation.org/competitions/PilaOpen2025) | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01), [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 193.00 |
 
 ### 2 Delegates
 

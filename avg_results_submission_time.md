@@ -1,16 +1,16 @@
 ## Average results submission time by Polish delegates
 
-*Updated on 16 November 2026*
+*Updated on 19 November 2026*
 
 | Delegate | Average time | Total delegated |
 | ---: | :--- | ---: |
 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | -0.55h | 3 |
 | [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) | -0.29h | 1 |
-| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 0.44h | 57 |
+| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 0.42h | 58 |
 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 0.66h | 3 |
 | [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) | 3.07h | 1 |
+| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 4.00h | 4 |
 | [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) | 4.32h | 3 |
-| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 5.44h | 3 |
 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 7.42h | 1 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 12.26h | 141 |
 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 14.55h | 47 |
@@ -18,7 +18,7 @@
 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 19.95h | 36 |
 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 1d 1.58h | 65 |
 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) | 1d 13.27h | 6 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 1d 19.65h | 208 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 1d 19.44h | 209 |
 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 1d 20.11h | 29 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 1d 22.47h | 142 |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 2d 19.71h | 66 |

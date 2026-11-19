@@ -1,7 +1,7 @@
 ## Competitions per voivodeship
 
 *Note: Voivodeships are inferred from competition coordinates (approximate bounding box). *
-*Updated on 16 November 2026*
+*Updated on 19 November 2026*
 
 
 ### Pomorskie
@@ -77,40 +77,40 @@ _Total competitions: 83_
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 28 |
 
 ### Mazowieckie
-_Total competitions: 77_
+_Total competitions: 78_
 
 | Person | Competitions |
 | :--- | ---: |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 59 |
-| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 56 |
-| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 45 |
-| [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) | 44 |
-| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 41 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 60 |
+| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 57 |
+| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 46 |
+| [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) | 45 |
+| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 42 |
 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | 34 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 34 |
-| [Joanna Hołdakowska](https://www.worldcubeassociation.org/persons/2016HOLD04) | 33 |
+| [Joanna Hołdakowska](https://www.worldcubeassociation.org/persons/2016HOLD04) | 34 |
+| [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) | 32 |
+| [Robert Ślesicki](https://www.worldcubeassociation.org/persons/2019SLES02) | 32 |
 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) | 32 |
-| [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) | 31 |
 | [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) | 31 |
-| [Robert Ślesicki](https://www.worldcubeassociation.org/persons/2019SLES02) | 31 |
 | [Jakub Bartos](https://www.worldcubeassociation.org/persons/2014BART06) | 30 |
+| [Antoni Szcześniak](https://www.worldcubeassociation.org/persons/2023SZCZ04) | 28 |
 | [Marcin Dołoto](https://www.worldcubeassociation.org/persons/2021DOLO01) | 28 |
+| [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) | 28 |
+| [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | 28 |
+| [Szymon Jaworski](https://www.worldcubeassociation.org/persons/2021JAWO01) | 28 |
 | [Bartosz Łebkowski](https://www.worldcubeassociation.org/persons/2021LEBK01) | 27 |
-| [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | 27 |
-| [Szymon Jaworski](https://www.worldcubeassociation.org/persons/2021JAWO01) | 27 |
-| [Antoni Szcześniak](https://www.worldcubeassociation.org/persons/2023SZCZ04) | 27 |
-| [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) | 27 |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 26 |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 26 |
 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 26 |
+| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 26 |
 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 25 |
 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 25 |
 | [Stanisław Ożyński](https://www.worldcubeassociation.org/persons/2022OZYN01) | 24 |
 | [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) | 23 |
 | [Hubert Firek](https://www.worldcubeassociation.org/persons/2015FIRE01) | 23 |
-| [Kacper Jędrzejuk](https://www.worldcubeassociation.org/persons/2019JEDR01) | 22 |
+| [Kacper Jędrzejuk](https://www.worldcubeassociation.org/persons/2019JEDR01) | 23 |
 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | 22 |
-| [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 21 |
+| [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 22 |
 
 ### Lubelskie
 _Total competitions: 73_

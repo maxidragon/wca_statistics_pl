@@ -1,7 +1,7 @@
 ## Most attended competitions in a city
 
 *Note: Only Polish persons and Polish competitions with posted results are included.*
-*Updated on 16 November 2026*
+*Updated on 19 November 2026*
 
 
 ### Gdańsk
@@ -41,40 +41,40 @@ _Total competitions: 81_
 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | 29 |
 
 ### Warszawa
-_Total competitions: 58_
+_Total competitions: 59_
 
 | Person | Competitions |
 | :--- | ---: |
-| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 48 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 46 |
-| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 39 |
-| [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) | 34 |
-| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 31 |
+| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 49 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 47 |
+| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 40 |
+| [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) | 35 |
+| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 32 |
+| [Joanna Hołdakowska](https://www.worldcubeassociation.org/persons/2016HOLD04) | 29 |
 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) | 28 |
-| [Joanna Hołdakowska](https://www.worldcubeassociation.org/persons/2016HOLD04) | 28 |
 | [Jakub Bartos](https://www.worldcubeassociation.org/persons/2014BART06) | 26 |
 | [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) | 25 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 24 |
+| [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | 24 |
+| [Robert Ślesicki](https://www.worldcubeassociation.org/persons/2019SLES02) | 24 |
+| [Kacper Jędrzejuk](https://www.worldcubeassociation.org/persons/2019JEDR01) | 23 |
+| [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) | 23 |
+| [Antoni Szcześniak](https://www.worldcubeassociation.org/persons/2023SZCZ04) | 23 |
 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | 23 |
-| [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | 23 |
-| [Robert Ślesicki](https://www.worldcubeassociation.org/persons/2019SLES02) | 23 |
-| [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) | 22 |
-| [Antoni Szcześniak](https://www.worldcubeassociation.org/persons/2023SZCZ04) | 22 |
-| [Kacper Jędrzejuk](https://www.worldcubeassociation.org/persons/2019JEDR01) | 22 |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 22 |
 | [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) | 21 |
+| [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) | 21 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 20 |
-| [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) | 20 |
 | [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) | 19 |
 | [Bartosz Łebkowski](https://www.worldcubeassociation.org/persons/2021LEBK01) | 19 |
 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 19 |
+| [Szymon Jaworski](https://www.worldcubeassociation.org/persons/2021JAWO01) | 19 |
+| [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 18 |
+| [Mikołaj Salamon](https://www.worldcubeassociation.org/persons/2016SALA18) | 18 |
 | [Stanisław Ożyński](https://www.worldcubeassociation.org/persons/2022OZYN01) | 18 |
+| [Marcin Dołoto](https://www.worldcubeassociation.org/persons/2021DOLO01) | 18 |
 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 18 |
 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 18 |
-| [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 18 |
-| [Marcin Dołoto](https://www.worldcubeassociation.org/persons/2021DOLO01) | 18 |
-| [Mikołaj Salamon](https://www.worldcubeassociation.org/persons/2016SALA18) | 18 |
-| [Szymon Jaworski](https://www.worldcubeassociation.org/persons/2021JAWO01) | 18 |
 
 ### Poznań
 _Total competitions: 52_

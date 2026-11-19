@@ -1,38 +1,38 @@
 ## Most solves per year
 
 *Note: Only the 25 competitors with the most solves are listed for each year.*
-*Updated on 16 November 2026*
+*Updated on 19 November 2026*
 
 
 ### 2026
 
 | Solves | Attempts | Person |
 | ---: | ---: | :--- |
-| **2880** | 3070 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| **2894** | 3085 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | **2318** | 2347 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
-| **2187** | 2335 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
-| **2089** | 2173 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| **2202** | 2350 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
+| **2104** | 2188 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | **1935** | 2004 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
-| **1833** | 1918 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) |
+| **1848** | 1933 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) |
 | **1811** | 1871 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) |
 | **1655** | 1722 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | **1592** | 1636 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
 | **1585** | 1750 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) |
 | **1580** | 1652 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) |
+| **1509** | 1641 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
 | **1507** | 1636 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) |
-| **1499** | 1629 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
 | **1465** | 1510 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) |
 | **1436** | 1471 | [Henryk Gabor](https://www.worldcubeassociation.org/persons/2024GABO02) |
 | **1435** | 1510 | [Hubert Darłak](https://www.worldcubeassociation.org/persons/2023DARL03) |
 | **1411** | 1568 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) |
+| **1364** | 1429 | [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) |
 | **1358** | 1396 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
-| **1349** | 1414 | [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) |
-| **1341** | 1465 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
+| **1355** | 1480 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | **1278** | 1412 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) |
+| **1269** | 1300 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |
 | **1261** | 1299 | [Kinga Bednarska](https://www.worldcubeassociation.org/persons/2021BEDN01) |
-| **1255** | 1285 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |
 | **1249** | 1258 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
-| **1228** | 1281 | [Szymon Gabara](https://www.worldcubeassociation.org/persons/2023GABA01) |
+| **1237** | 1360 | [Idan Bolesto](https://www.worldcubeassociation.org/persons/2022BOLE01) |
 
 ### 2025
 

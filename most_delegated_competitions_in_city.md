@@ -1,7 +1,7 @@
 ## Most delegated competitions in a city
 
 *Note: Only Polish delegates and Polish competitions are included.*
-*Updated on 16 November 2026*
+*Updated on 19 November 2026*
 
 
 ### Gdańsk
@@ -30,24 +30,24 @@ _Total competitions: 82_
 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 1 |
 
 ### Warszawa
-_Total competitions: 58_
+_Total competitions: 59_
 
 | Person | Competitions |
 | :--- | ---: |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 29 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 30 |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 21 |
 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 14 |
-| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 10 |
+| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 11 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 7 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 6 |
 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 5 |
 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 4 |
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 3 |
+| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 3 |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 3 |
 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 2 |
 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 2 |
 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 2 |
-| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 2 |
 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 1 |
 | [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) | 1 |
 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) | 1 |

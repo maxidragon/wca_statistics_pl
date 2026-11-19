@@ -1,6 +1,6 @@
 ## Most competitions organized
 
-*Updated on 16 November 2026*
+*Updated on 19 November 2026*
 
 | Organized | Person |
 | ---: | :--- |
@@ -8,15 +8,15 @@
 | 88 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 86 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
 | 81 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
-| 57 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 58 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 43 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 42 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
 | 36 | [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) |
 | 32 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) |
 | 30 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) |
 | 29 | [Karolina Wiącek](https://www.worldcubeassociation.org/persons/2008WIAC01) |
+| 28 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 28 | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) |
-| 27 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 26 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
 | 24 | [Sylwester Jaroszewski](https://www.worldcubeassociation.org/persons/2014JARO01) |
 | 24 | [Piotr Gabara](https://www.worldcubeassociation.org/persons/2024GABA02) |
@@ -46,13 +46,13 @@
 | 8 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
 | 8 | [Julia Dąbrowska](https://www.worldcubeassociation.org/persons/2024DABR01) |
 | 8 | Stowarzyszenie LIGA NIEZWYKŁYCH |
+| 8 | Warszawska Liga Speedcuberów |
 | 7 | [Przemysław Piątek](https://www.worldcubeassociation.org/persons/2013PITE01) |
 | 7 | [Robert Cegiel](https://www.worldcubeassociation.org/persons/2017CEGI01) |
 | 7 | [Michał Wachowiak](https://www.worldcubeassociation.org/persons/2015WACH01) |
 | 7 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 7 | [Martyna Jarosz](https://www.worldcubeassociation.org/persons/2022JARO01) |
 | 7 | [Arleta Tokarska](https://www.worldcubeassociation.org/persons/2025TOKA01) |
-| 7 | Warszawska Liga Speedcuberów |
 | 6 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) |
 | 6 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 6 | [Błażej Morgała](https://www.worldcubeassociation.org/persons/2006MORG01) |
@@ -107,6 +107,7 @@
 | 3 | [Marta Sandra Duraj](https://www.worldcubeassociation.org/persons/2018CHOR02) |
 | 3 | [Kamil Pieczka](https://www.worldcubeassociation.org/persons/2013PIEC02) |
 | 3 | [Michał Milówka](https://www.worldcubeassociation.org/persons/2013MILO02) |
+| 3 | [Idan Bolesto](https://www.worldcubeassociation.org/persons/2022BOLE01) |
 | 3 | [Adam Brzana](https://www.worldcubeassociation.org/persons/2022BRZA01) |
 | 3 | [Szymon Kulpa](https://www.worldcubeassociation.org/persons/2023KULP02) |
 | 3 | [Szymon Gabara](https://www.worldcubeassociation.org/persons/2023GABA01) |

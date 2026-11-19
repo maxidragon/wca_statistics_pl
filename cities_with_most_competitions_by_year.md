@@ -1,14 +1,14 @@
 ## Cities with the most competitions each year
 
 *Note: Only the 20 cities with the most competitions are listed for each year.*
-*Updated on 16 November 2026*
+*Updated on 19 November 2026*
 
 
 ### 2026
 
 | Competitions | City |
 | ---: | :--- |
-| 12 | Warszawa |
+| 13 | Warszawa |
 | 10 | Gdańsk |
 | 7 | Lublin |
 | 7 | Poznań |

@@ -1,7 +1,7 @@
 ## Most % of competitions attended in the same city as the first competition of the competitor
 
 *Note: Counts how many competitions a Polish person attended in the same city where they had their very first competition. The ratio is computed against all competitions attended, including those abroad.*
-*Updated on 16 November 2026*
+*Updated on 19 November 2026*
 
 | Person | First Competition | City | Comps in City | Total Comps | Ratio |
 | :--- | :--- | :--- | ---: | ---: | ---: |
@@ -46,6 +46,7 @@
 | [Maciej Domagalski](https://www.worldcubeassociation.org/persons/2024DOMA01) | [GLS I 2024](https://www.worldcubeassociation.org/competitions/GLSI2024) | Gdańsk | 6 | 6 | 100.0% |
 | [Maria Szabała](https://www.worldcubeassociation.org/persons/2025SZAB03) | [Cube4fun Lublin Spring 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinSpring2025) | Lublin | 6 | 6 | 100.0% |
 | [Wiktor Grzelak](https://www.worldcubeassociation.org/persons/2026GRZE02) | [WLS Marzec 2026](https://www.worldcubeassociation.org/competitions/WLSMarzec2026) | Warszawa | 6 | 6 | 100.0% |
+| [Adam Gostynski](https://www.worldcubeassociation.org/persons/2026GOST01) | [Stevenage January 2026](https://www.worldcubeassociation.org/competitions/StevenageJanuary2026) | Stevenage, Hertfordshire | 5 | 5 | 100.0% |
 | [Aleksander Siwek](https://www.worldcubeassociation.org/persons/2018SIWE01) | [LLS VI 2018](https://www.worldcubeassociation.org/competitions/LLSVI2018) | Lublin | 5 | 5 | 100.0% |
 | [Antoni Darmofalski-Zienkiewicz](https://www.worldcubeassociation.org/persons/2025ZIEN01) | [Gdańska Liga Speedcubingu V 2025](https://www.worldcubeassociation.org/competitions/GdanskaLigaSpeedcubinguV2025) | Gdańsk | 5 | 5 | 100.0% |
 | [Antoni Dziwulski](https://www.worldcubeassociation.org/persons/2023DZIW01) | [GLS II 2023](https://www.worldcubeassociation.org/competitions/GLSII2023) | Gdańsk | 5 | 5 | 100.0% |
@@ -73,7 +74,6 @@
 | [Tymon Jutrowski](https://www.worldcubeassociation.org/persons/2024JUTR01) | [GLS I 2024](https://www.worldcubeassociation.org/competitions/GLSI2024) | Gdańsk | 5 | 5 | 100.0% |
 | [Wiktor Meissner](https://www.worldcubeassociation.org/persons/2008MEIS01) | [Poznan Open 2008](https://www.worldcubeassociation.org/competitions/PoznanOpen2008) | Poznań | 5 | 5 | 100.0% |
 | [Wiktoria Lewandowska](https://www.worldcubeassociation.org/persons/2023LEWA01) | [GLS III 2023](https://www.worldcubeassociation.org/competitions/GLSIII2023) | Gdańsk | 5 | 5 | 100.0% |
-| [Adam Gostynski](https://www.worldcubeassociation.org/persons/2026GOST01) | [Stevenage January 2026](https://www.worldcubeassociation.org/competitions/StevenageJanuary2026) | Stevenage, Hertfordshire | 4 | 4 | 100.0% |
 | [Alan Kossak](https://www.worldcubeassociation.org/persons/2024KOSS01) | [Gdańska Liga Speedcubingu V 2024](https://www.worldcubeassociation.org/competitions/GdanskaLigaSpeedcubinguV2024) | Gdańsk | 4 | 4 | 100.0% |
 | [Artur Rzegost](https://www.worldcubeassociation.org/persons/2017RZEG01) | [Polish Nationals 2017](https://www.worldcubeassociation.org/competitions/PolishNationals2017) | Kraków | 4 | 4 | 100.0% |
 | [Bartosz Majewski](https://www.worldcubeassociation.org/persons/2025MAJE04) | [Gdańska Liga Speedcubingu Final 2025](https://www.worldcubeassociation.org/competitions/GLSFinal2025) | Gdańsk | 4 | 4 | 100.0% |

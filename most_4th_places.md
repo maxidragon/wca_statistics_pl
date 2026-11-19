@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 16 November 2026*
+*Updated on 19 November 2026*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -13,8 +13,8 @@
 | 104 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 103 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 89 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) |
+| 81 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 81 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
-| 80 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 76 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
 | 74 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 72 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) |
@@ -37,9 +37,9 @@
 | 46 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) |
 | 41 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) |
 | 41 | [Igor Ośmiałowski](https://www.worldcubeassociation.org/persons/2014OMIA01) |
+| 41 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) |
 | 41 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) |
 | 40 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) |
-| 40 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) |
 | 39 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) |
 | 39 | [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) |
 | 38 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |

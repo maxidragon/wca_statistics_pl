@@ -1,7 +1,7 @@
 ## Most delegates at one competition
 
 *Note: Only Polish competitions with posted results are included. Listed delegates are taken from the competition's delegate list. An unlisted delegate is a competitor who was not listed and whose RolesMetadataDelegateRegions role was active during at least one day of the competition. Because some historical role dates were not backfilled, a role starting on 1 August 2004 is treated as starting at the delegate's earliest listed competition instead.*
-*Updated on 19 November 2026*
+*Updated on 22 November 2026*
 
 
 ### Listed delegates only
@@ -50,6 +50,7 @@
 | 4 | [Opole Cubing Day 2026](https://www.worldcubeassociation.org/competitions/OpoleCubingDay2026) | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01), [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01), [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01), [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) |
 | 4 | [All Rounders Katowice III 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceIII2026) | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01), [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01), [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01), [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) |
 | 4 | [CFL Koluszki 2026](https://www.worldcubeassociation.org/competitions/CFLKoluszki2026) | [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01), [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01), [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 4 | [GLS Gdańsk VII 2026](https://www.worldcubeassociation.org/competitions/GLSGdanskVII2026) | [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01), [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01), [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04), [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
 | 3 | [Warsaw Cube Masters 2015](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2015) | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01), [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01), [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) |
 | 3 | [Polish Nationals 2017](https://www.worldcubeassociation.org/competitions/PolishNationals2017) | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01), [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01), [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) |
 | 3 | [Cubers Eve Lubartów 2021](https://www.worldcubeassociation.org/competitions/CubersEveLubartow2021) | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01), [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01), [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) |
@@ -57,7 +58,6 @@
 | 3 | [Cube4fun League Koło 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueKolo2022) | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01), [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 3 | [Olsztyn Spring Open 2022](https://www.worldcubeassociation.org/competitions/OlsztynSpringOpen2022) | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01), [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 3 | [Cube4fun Zawiercie 2022](https://www.worldcubeassociation.org/competitions/Cube4funZawiercie2022) | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01), [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01), [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
-| 3 | [UPP Poznań Cubing 2022](https://www.worldcubeassociation.org/competitions/UPPPoznanCubing2022) | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01), [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 
 ### Unlisted delegates only
 

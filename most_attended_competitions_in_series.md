@@ -1,7 +1,7 @@
 ## Most attended competitions in a series
 
 *Note: Only Polish competitions with posted results are included. Up to the top 20 positions are listed for each series, so ties may add more rows.*
-*Updated on 19 November 2026*
+*Updated on 22 November 2026*
 
 
 ### BrizZon
@@ -33,30 +33,31 @@ _Total competitions: 33_
 | 20 | [Tomasz Stawowy](https://www.worldcubeassociation.org/persons/2021STAW01) | 14 |
 
 ### Gdańska Liga Speedcubingu
-_Total competitions: 51_
+_Total competitions: 52_
 
 | Position | Person | Competitions |
 | ---: | :--- | ---: |
-| 1 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 51 |
-| 2 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 44 |
+| 1 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 52 |
+| 2 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 45 |
+| 3 | [Igor Ośmiałowski](https://www.worldcubeassociation.org/persons/2014OMIA01) | 43 |
 | 3 | [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) | 43 |
-| 4 | [Igor Ośmiałowski](https://www.worldcubeassociation.org/persons/2014OMIA01) | 42 |
-| 4 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 42 |
-| 6 | [Kacper Grzelakowski](https://www.worldcubeassociation.org/persons/2017GRZE01) | 38 |
-| 6 | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) | 38 |
+| 3 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 43 |
+| 6 | [Kacper Grzelakowski](https://www.worldcubeassociation.org/persons/2017GRZE01) | 39 |
+| 6 | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) | 39 |
 | 8 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 36 |
-| 9 | [Marek Pepke](https://www.worldcubeassociation.org/persons/2008PEPK01) | 34 |
-| 9 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 34 |
-| 9 | [Oskar Kaczmarek](https://www.worldcubeassociation.org/persons/2013KACZ01) | 34 |
+| 9 | [Marek Pepke](https://www.worldcubeassociation.org/persons/2008PEPK01) | 35 |
+| 9 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 35 |
+| 9 | [Oskar Kaczmarek](https://www.worldcubeassociation.org/persons/2013KACZ01) | 35 |
 | 12 | [Grzegorz Pacewicz](https://www.worldcubeassociation.org/persons/2014PACE01) | 31 |
 | 12 | [Karolina Wiącek](https://www.worldcubeassociation.org/persons/2008WIAC01) | 31 |
 | 14 | [Cezary Mach](https://www.worldcubeassociation.org/persons/2018MACH04) | 30 |
 | 14 | [Patrycja Michalska](https://www.worldcubeassociation.org/persons/2013MICH02) | 30 |
-| 16 | [Przemysław Kanarski](https://www.worldcubeassociation.org/persons/2019KANA04) | 29 |
-| 17 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 28 |
+| 14 | [Przemysław Kanarski](https://www.worldcubeassociation.org/persons/2019KANA04) | 30 |
+| 17 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 29 |
 | 18 | [Kalina Jakubowska](https://www.worldcubeassociation.org/persons/2009BRZE01) | 26 |
 | 18 | [Maciej Jabłoński](https://www.worldcubeassociation.org/persons/2017JABL01) | 26 |
 | 18 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | 26 |
+| 18 | [Sebastian Kowalewski](https://www.worldcubeassociation.org/persons/2013KOWA01) | 26 |
 
 ### Lubelska Liga Speedcubingu
 _Total competitions: 19_

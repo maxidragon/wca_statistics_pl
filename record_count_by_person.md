@@ -1,7 +1,7 @@
 ## Record count by person
 
 *Note: Each record is counted once, at its highest level: a world record is not counted again as a European or national record.*
-*Updated on 19 November 2026*
+*Updated on 22 November 2026*
 
 | Person | Total | WR | ER | NR |
 | :--- | ---: | ---: | ---: | ---: |
@@ -25,8 +25,8 @@
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 15 | 5 | 1 | 9 |
 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) | 15 | 4 | 2 | 9 |
 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | 15 | 1 | 0 | 14 |
+| [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 14 | 2 | 8 | 4 |
 | [Kamil Zieliński](https://www.worldcubeassociation.org/persons/2008ZIEL01) | 14 | 0 | 0 | 14 |
-| [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 13 | 2 | 7 | 4 |
 | [Piotr Alexandrowicz](https://www.worldcubeassociation.org/persons/2007ALEX01) | 13 | 1 | 1 | 11 |
 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) | 13 | 1 | 0 | 12 |
 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) | 11 | 9 | 0 | 2 |
@@ -99,6 +99,7 @@
 | [Krzysztof Krężelok](https://www.worldcubeassociation.org/persons/2005KREZ01) | 1 | 0 | 0 | 1 |
 | [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) | 1 | 0 | 0 | 1 |
 | [Maciej Mancewicz](https://www.worldcubeassociation.org/persons/2010MANC01) | 1 | 0 | 0 | 1 |
+| [Maksym Wingert](https://www.worldcubeassociation.org/persons/2024WING02) | 1 | 0 | 0 | 1 |
 | [Marcin Bloch](https://www.worldcubeassociation.org/persons/2013BLOC01) | 1 | 0 | 0 | 1 |
 | [Marek Pepke](https://www.worldcubeassociation.org/persons/2008PEPK01) | 1 | 0 | 0 | 1 |
 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | 1 | 0 | 0 | 1 |

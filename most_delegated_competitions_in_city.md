@@ -1,31 +1,35 @@
 ## Most delegated competitions in a city
 
 *Note: Only Polish delegates and Polish competitions are included.*
-*Updated on 19 November 2026*
+*Updated on 22 November 2026*
 
 
 ### Gdańsk
-_Total competitions: 82_
+_Total competitions: 83_
 
 | Person | Competitions |
 | :--- | ---: |
 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 40 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 35 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 36 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 26 |
-| [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 17 |
+| [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 18 |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 8 |
 | [Adam Joks](https://www.worldcubeassociation.org/persons/2005JOKS01) | 7 |
 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 4 |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 3 |
-| [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) | 2 |
+| [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) | 3 |
+| [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) | 2 |
 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) | 2 |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 2 |
 | [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) | 1 |
-| [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) | 1 |
 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 1 |
 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 1 |
 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) | 1 |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 1 |
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 1 |
+| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 1 |
+| [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | 1 |
+| [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 1 |
+| [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) | 1 |
 | [Krzysztof Kuncki](https://www.worldcubeassociation.org/persons/2010KUNC01) | 1 |
 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 1 |
 

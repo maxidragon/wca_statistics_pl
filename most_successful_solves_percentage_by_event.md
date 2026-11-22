@@ -1,7 +1,7 @@
 ## Most % of successful solves in each event
 
 *Note: Counts individual attempt values. A successful attempt has value > 0 (not DNF). DNS attempts are excluded. Minimum 10 attempts required.*
-*Updated on 19 November 2026*
+*Updated on 22 November 2026*
 
 
 ### 3x3x3 Cube
@@ -10,8 +10,8 @@
 | ---: | ---: | ---: | :--- |
 | 100.00% | 400 | 400 | [Paweł Kowol](https://www.worldcubeassociation.org/persons/2011KOWO01) |
 | 100.00% | 360 | 360 | [Adam Janiszewski](https://www.worldcubeassociation.org/persons/2022JANI01) |
+| 100.00% | 315 | 315 | [Krzysztof Michałek](https://www.worldcubeassociation.org/persons/2022MICH01) |
 | 100.00% | 310 | 310 | [Dominik Żabiński](https://www.worldcubeassociation.org/persons/2022ZABI01) |
-| 100.00% | 305 | 305 | [Krzysztof Michałek](https://www.worldcubeassociation.org/persons/2022MICH01) |
 | 100.00% | 260 | 260 | [Borys Pałczyński](https://www.worldcubeassociation.org/persons/2023PALC01) |
 | 100.00% | 250 | 250 | [Arkadiusz Dubicki](https://www.worldcubeassociation.org/persons/2023DUBI01) |
 | 100.00% | 230 | 230 | [Damian Malinowski](https://www.worldcubeassociation.org/persons/2015MALI01) |
@@ -41,7 +41,7 @@
 | 100.00% | 230 | 230 | [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) |
 | 100.00% | 217 | 217 | [Kacper Szeląg](https://www.worldcubeassociation.org/persons/2015SZEL01) |
 | 100.00% | 185 | 185 | [Łukasz Pawłowski](https://www.worldcubeassociation.org/persons/2020PAWL01) |
-| 100.00% | 175 | 175 | [Krzysztof Michałek](https://www.worldcubeassociation.org/persons/2022MICH01) |
+| 100.00% | 180 | 180 | [Krzysztof Michałek](https://www.worldcubeassociation.org/persons/2022MICH01) |
 | 100.00% | 173 | 173 | [Jarosław Chodyniecki](https://www.worldcubeassociation.org/persons/2018CHOD01) |
 | 100.00% | 165 | 165 | [Szymon Kornatowski](https://www.worldcubeassociation.org/persons/2017KORN03) |
 | 100.00% | 165 | 165 | [Wiktor Świstowski](https://www.worldcubeassociation.org/persons/2024SWIS01) |
@@ -75,7 +75,7 @@
 | 100.00% | 115 | 115 | [Patryk Skrzyński](https://www.worldcubeassociation.org/persons/2017SKRZ01) |
 | 100.00% | 114 | 114 | [Łukasz Owczarek](https://www.worldcubeassociation.org/persons/2022OWCZ02) |
 | 100.00% | 112 | 112 | [Jakub Bojanowski](https://www.worldcubeassociation.org/persons/2019BOJA02) |
-| 100.00% | 110 | 110 | [Hubert Seelieb](https://www.worldcubeassociation.org/persons/2023SEEL02) |
+| 100.00% | 112 | 112 | [Hubert Seelieb](https://www.worldcubeassociation.org/persons/2023SEEL02) |
 | 100.00% | 104 | 104 | [Fryderyk Janiak](https://www.worldcubeassociation.org/persons/2016JANI03) |
 | 100.00% | 100 | 100 | [Łukasz Gębicz](https://www.worldcubeassociation.org/persons/2013GBIC01) |
 
@@ -241,7 +241,7 @@
 | 100.00% | 244 | 244 | [Henryk Gabor](https://www.worldcubeassociation.org/persons/2024GABO02) |
 | 100.00% | 225 | 225 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) |
 | 100.00% | 222 | 222 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) |
-| 100.00% | 212 | 212 | [Igor Ośmiałowski](https://www.worldcubeassociation.org/persons/2014OMIA01) |
+| 100.00% | 217 | 217 | [Igor Ośmiałowski](https://www.worldcubeassociation.org/persons/2014OMIA01) |
 | 100.00% | 204 | 204 | [Kajtek Kwiatkowski](https://www.worldcubeassociation.org/persons/2023KWIA01) |
 | 100.00% | 174 | 174 | [Mateusz Śliż](https://www.worldcubeassociation.org/persons/2012SLIZ01) |
 | 100.00% | 171 | 171 | [Adrian Walkowiak](https://www.worldcubeassociation.org/persons/2011WALK02) |
@@ -309,17 +309,17 @@
 | % | Successful | Total | Person |
 | ---: | ---: | ---: | :--- |
 | 100.00% | 370 | 370 | [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) |
-| 100.00% | 343 | 343 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) |
+| 100.00% | 353 | 353 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) |
 | 100.00% | 230 | 230 | [Oskar Matysik](https://www.worldcubeassociation.org/persons/2019MATY01) |
 | 100.00% | 210 | 210 | [Mateusz Fydrych](https://www.worldcubeassociation.org/persons/2011FYDR01) |
 | 100.00% | 200 | 200 | [Michał Machnik](https://www.worldcubeassociation.org/persons/2022MACH14) |
 | 100.00% | 190 | 190 | [Dominik Podolak](https://www.worldcubeassociation.org/persons/2023PODO02) |
+| 100.00% | 180 | 180 | [Remigiusz Wingert](https://www.worldcubeassociation.org/persons/2024WING03) |
 | 100.00% | 175 | 175 | [Kacper Wandoch](https://www.worldcubeassociation.org/persons/2024WAND01) |
+| 100.00% | 175 | 175 | [Leon Marszal](https://www.worldcubeassociation.org/persons/2024MARS09) |
 | 100.00% | 172 | 172 | [Paweł Kowol](https://www.worldcubeassociation.org/persons/2011KOWO01) |
 | 100.00% | 170 | 170 | [Filip Chudy](https://www.worldcubeassociation.org/persons/2022CHUD02) |
-| 100.00% | 170 | 170 | [Remigiusz Wingert](https://www.worldcubeassociation.org/persons/2024WING03) |
-| 100.00% | 165 | 165 | [Leon Marszal](https://www.worldcubeassociation.org/persons/2024MARS09) |
-| 100.00% | 157 | 157 | [Krzysztof Michałek](https://www.worldcubeassociation.org/persons/2022MICH01) |
+| 100.00% | 162 | 162 | [Krzysztof Michałek](https://www.worldcubeassociation.org/persons/2022MICH01) |
 | 100.00% | 150 | 150 | [Maciej Sugier](https://www.worldcubeassociation.org/persons/2022SUGI01) |
 | 100.00% | 145 | 145 | [Michał Herzyk](https://www.worldcubeassociation.org/persons/2024HERZ04) |
 | 100.00% | 140 | 140 | [Franciszek Kłos](https://www.worldcubeassociation.org/persons/2021KLOS02) |
@@ -327,7 +327,7 @@
 | 100.00% | 130 | 130 | [Mikołaj Świątek](https://www.worldcubeassociation.org/persons/2023SWIA01) |
 | 100.00% | 120 | 120 | [Damian Ninard](https://www.worldcubeassociation.org/persons/2024NINA01) |
 | 100.00% | 115 | 115 | [Krzysztof Boguszewski](https://www.worldcubeassociation.org/persons/2019BOGU01) |
-| 100.00% | 112 | 112 | [Mateusz Laskus](https://www.worldcubeassociation.org/persons/2013LASK01) |
+| 100.00% | 115 | 115 | [Michał Suski](https://www.worldcubeassociation.org/persons/2025SUSK01) |
 
 ### Square-1
 

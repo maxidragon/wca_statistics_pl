@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 19 November 2026*
+*Updated on 22 November 2026*
 
 
 ### 3x3x3 Cube
@@ -204,7 +204,7 @@
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 5.41 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 4.99, 4.20, 5.22, 6.69, 6.03 |
-| 5.76 | [Maksym Wingert](https://www.worldcubeassociation.org/persons/2024WING02) | 5.50, 5.51, 10.75, 6.06, 5.70 |
+| 5.59 | [Maksym Wingert](https://www.worldcubeassociation.org/persons/2024WING02) | 6.42, 5.52, 5.83, 5.43, 5.39 |
 | 5.83 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 5.84, 5.68, 5.77, 7.23, 5.89 |
 | 5.86 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) | 5.26, 7.45, 5.40, 6.92, 4.85 |
 | 6.19 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 5.03, 6.77, 6.77, 7.40, 4.91 |

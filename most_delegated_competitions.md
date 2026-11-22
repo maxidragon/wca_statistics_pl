@@ -1,7 +1,7 @@
 ## Most delegated competitions
 
 *Note: Trainee, Junior and Full count competitions by the status the delegate held on the competition's first day; Regional and Senior Delegates count as Full. The WCA keeps status history only since 2024, so delegates appointed earlier count as Full for all their competitions, and competitions delegated without a recorded role count as Unknown.*
-*Updated on 19 November 2026*
+*Updated on 22 November 2026*
 
 | Delegated | Person | Trainee | Junior | Full | Unknown | List on WCA |
 | ---: | :--- | ---: | ---: | ---: | ---: | :--: |
@@ -16,7 +16,7 @@
 | 47 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 20 | 27 | 0 | 0 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=14759) |
 | 36 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 15 | 21 | 0 | 0 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=228972) |
 | 32 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) | 0 | 0 | 0 | 32 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=14631) |
-| 30 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 15 | 15 | 0 | 0 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=17351) |
+| 31 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 15 | 16 | 0 | 0 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=17351) |
 | 29 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) | 0 | 0 | 0 | 29 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=17776) |
 | 21 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 0 | 0 | 0 | 21 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=6516) |
 | 19 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 0 | 0 | 0 | 19 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=338) |
@@ -30,9 +30,9 @@
 | 3 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 3 | 0 | 0 | 0 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=5391) |
 | 3 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | 3 | 0 | 0 | 0 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=38893) |
 | 3 | [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) | 3 | 0 | 0 | 0 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=244611) |
-| 2 | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) | 2 | 0 | 0 | 0 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=149886) |
-| 1 | [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) | 1 | 0 | 0 | 0 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=241230) |
-| 1 | [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) | 1 | 0 | 0 | 0 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=51799) |
+| 3 | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) | 3 | 0 | 0 | 0 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=149886) |
+| 2 | [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) | 2 | 0 | 0 | 0 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=241230) |
+| 2 | [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) | 2 | 0 | 0 | 0 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=51799) |
 | 1 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 0 | 0 | 0 | 1 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=102430) |
 
 

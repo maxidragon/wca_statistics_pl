@@ -1,7 +1,7 @@
 ## Highest percentage of competitions with at least one medal
 
 *Note: A medal means a top 3 place in a final of any event. Only Polish competitors with at least 10 competitions are included.*
-*Updated on 19 November 2026*
+*Updated on 22 November 2026*
 
 | Share | With a medal | Competitions | Person |
 | ---: | ---: | ---: | :--- |
@@ -17,7 +17,7 @@
 | 90.7% | 185 | 204 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 90.2% | 101 | 112 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 90.1% | 64 | 71 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) |
-| 89.8% | 79 | 88 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
+| 89.9% | 80 | 89 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
 | 89.2% | 66 | 74 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) |
 | 89.1% | 205 | 230 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 88.9% | 80 | 90 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |
@@ -26,7 +26,7 @@
 | 88.1% | 96 | 109 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 87.5% | 49 | 56 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) |
 | 86.0% | 43 | 50 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) |
-| 85.1% | 74 | 87 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) |
+| 85.2% | 75 | 88 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) |
 | 84.6% | 126 | 149 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
 | 83.7% | 41 | 49 | [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) |
 | 82.9% | 58 | 70 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) |
@@ -49,7 +49,7 @@
 | 75.9% | 41 | 54 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
 | 75.7% | 53 | 70 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) |
 | 75.6% | 34 | 45 | [Tomasz Kiedrowicz](https://www.worldcubeassociation.org/persons/2006KIED01) |
-| 75.2% | 91 | 121 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) |
+| 75.4% | 92 | 122 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) |
 | 75.0% | 51 | 68 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) |
 | 75.0% | 12 | 16 | [Mateusz Kurek](https://www.worldcubeassociation.org/persons/2008KURE01) |
 | 75.0% | 9 | 12 | [Grzegorz Prusak](https://www.worldcubeassociation.org/persons/2006PRUS01) |

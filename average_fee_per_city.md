@@ -1,7 +1,7 @@
 ## Average registration fee per city
 
 *Note: Only PLN competitions are included. Only cities with at least 2 competitions in a given year are listed.*
-*Updated on 19 November 2026*
+*Updated on 22 November 2026*
 
 
 ### 2026
@@ -12,7 +12,7 @@
 | Lublin | 89.00 PLN | 7 |
 | Nowa Sarzyna | 87.00 PLN | 2 |
 | Barcin | 84.50 PLN | 2 |
-| Gdańsk | 78.89 PLN | 9 |
+| Gdańsk | 80.50 PLN | 10 |
 | Brzeziny | 72.50 PLN | 4 |
 | Szczecin | 72.50 PLN | 2 |
 | Olsztyn | 67.50 PLN | 2 |

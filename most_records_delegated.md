@@ -1,7 +1,7 @@
 ## Most records delegated
 
 *Note: Counts records achieved in competitions where the Polish Delegate was listed.*
-*Updated on 19 November 2026*
+*Updated on 22 November 2026*
 
 | Records | WR | CR | NR | Delegate |
 | ---: | ---: | ---: | ---: | :--- |
@@ -23,11 +23,13 @@
 | 54 | 5 | 8 | 41 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
 | 41 | 7 | 4 | 30 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) |
 | 23 | 2 | 8 | 13 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
+| 19 | 2 | 9 | 8 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
 | 19 | 4 | 7 | 8 | [Stefan Łapicki](https://www.worldcubeassociation.org/persons/2006LAPI01) |
 | 19 | 2 | 6 | 11 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
-| 17 | 2 | 8 | 7 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
+| 4 | 0 | 3 | 1 | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) |
 | 3 | 0 | 0 | 3 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
-| 2 | 0 | 2 | 0 | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) |
+| 2 | 0 | 1 | 1 | [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) |
+| 2 | 0 | 1 | 1 | [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) |
 | 1 | 0 | 0 | 1 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) |
 | 1 | 0 | 0 | 1 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |
 | 1 | 0 | 0 | 1 | [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) |

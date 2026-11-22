@@ -1,7 +1,7 @@
 ## Best podiums at Polish competitions
 
 *Note: Podiums at competitions held in Poland, regardless of the podium members' countries. Podium places with sum of best or average times depending on format.*
-*Updated on 19 November 2026*
+*Updated on 22 November 2026*
 
 
 ### 3x3x3 Cube
@@ -120,9 +120,9 @@
 | [Winter Side Wrocław 2025](https://www.worldcubeassociation.org/competitions/WinterSideWroclaw2025) | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) (20.33), [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) (22.33), [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) (23.33) | 65.99 |
 | [CFL Goes Sideways Rogów 2025](https://www.worldcubeassociation.org/competitions/CFLGoesSidewaysRogow2025) | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) (21.33), [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) (22.00), [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) (23.33) | 66.66 |
 | [PST: FMC Poznań 2025](https://www.worldcubeassociation.org/competitions/PSTFMCPoznan2025) | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) (22.00), [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) (22.33), [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) (22.33) | 66.66 |
+| [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) (22.00), [Marcin Chmielewski](https://www.worldcubeassociation.org/persons/2023CHMI01) (22.33), [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) (22.67) | 67.00 |
 | [Fun with FM in Warsaw II 2026](https://www.worldcubeassociation.org/competitions/FunWithFMinWarsawII2026) | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) (21.33), [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) (22.67), [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) (23.00) | 67.00 |
 | [Cool Down Szczecin 2025](https://www.worldcubeassociation.org/competitions/CoolDownSzczecin2025) | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) (22.00), [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) (22.00), [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) (23.00) | 67.00 |
-| [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) (22.00), [Marcin Chmielewski](https://www.worldcubeassociation.org/persons/2023CHMI01) (22.33), [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) (22.67) | 67.00 |
 
 ### 3x3x3 Fewest Moves (Best of 2)
 
@@ -149,7 +149,7 @@
 | [Warsaw Cube Masters 2018](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2018) | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) (24), [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) (30), [Grzegorz Pacewicz](https://www.worldcubeassociation.org/persons/2014PACE01) (30) | 84 |
 | [CFL Koluszki 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueKoluszki2025) | [Emi Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) (27), [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) (28), [Marcin Chmielewski](https://www.worldcubeassociation.org/persons/2023CHMI01) (29) | 84 |
 | [Polish Open 2018](https://www.worldcubeassociation.org/competitions/PolishOpen2018) | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) (27), [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) (28), [Krzysztof Żerucha](https://www.worldcubeassociation.org/persons/2008ZERU01) (29) | 84 |
-| [PST CFL Częstochowa 2019](https://www.worldcubeassociation.org/competitions/PSTCFLCzestochowa2019) | [Gabriel Marczak](https://www.worldcubeassociation.org/persons/2013MARC03) (26), [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) (27), [Jakub Bartos](https://www.worldcubeassociation.org/persons/2014BART06) (32) | 85 |
+| [Warsaw Cube Masters 2015](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2015) | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) (27), [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) (27), [Piotr Kuchta](https://www.worldcubeassociation.org/persons/2012KUCH01) (31) | 85 |
 
 ### 3x3x3 One-Handed
 

@@ -1,7 +1,7 @@
 ## Longest gaps between competitions
 
 *Note: Only includes people from Poland. For each person, only their longest gap between two consecutive competitions they attended (anywhere in the world) is shown. Only gaps of at least 5 years are shown.*
-*Updated on 19 November 2026*
+*Updated on 22 November 2026*
 
 | Gap | Person | From | To |
 | ---: | :--- | :--- | :--- |
@@ -45,6 +45,7 @@
 | 6 years 11 months 29 days | [Bartosz Osuch](https://www.worldcubeassociation.org/persons/2016OSUC01) | [Kaskada Open 2016](https://www.worldcubeassociation.org/competitions/KaskadaOpen2016) | [Ice Cubing Szczecinek 2023](https://www.worldcubeassociation.org/competitions/IceCubingSzczecinek2023) |
 | 6 years 11 months 21 days | [Mariusz Pabisz](https://www.worldcubeassociation.org/persons/2018PABI01) | [Byczy Cube Race 2019](https://www.worldcubeassociation.org/competitions/ByczyCubeRace2019) | [Jasło Cubing Days 2026](https://www.worldcubeassociation.org/competitions/JasloCubingDays2026) |
 | 6 years 11 months 15 days | [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) | [Krakow Cubing Spree 2014](https://www.worldcubeassociation.org/competitions/KrakowCubingSpree2014) | [SST Rzeszów 2021](https://www.worldcubeassociation.org/competitions/SSTRzeszow2021) |
+| 6 years 11 months 7 days | [Oliwier Ferenc](https://www.worldcubeassociation.org/persons/2018FERE02) | [Aarhus Christmas 2019](https://www.worldcubeassociation.org/competitions/AarhusChristmas2019) | [Aarhus Beginners Clash 2026](https://www.worldcubeassociation.org/competitions/AarhusBeginnersClash2026) |
 | 6 years 10 months 11 days | [Piotr Tomczyk](https://www.worldcubeassociation.org/persons/2016TOMC01) | [GLS Cup I 2016](https://www.worldcubeassociation.org/competitions/GLSCupI2016) | [GLS I 2023](https://www.worldcubeassociation.org/competitions/GLSI2023) |
 | 6 years 10 months 10 days | [Sławomir Kapka](https://www.worldcubeassociation.org/persons/2010KAPK01) | [III Project Warszawa 2019](https://www.worldcubeassociation.org/competitions/IIIProjectWarszawa2019) | [Cube4fun Szansa Cubing 2026](https://www.worldcubeassociation.org/competitions/Cube4funSzansaCubing2026) |
 | 6 years 9 months 27 days | [Dominik Tomczyk](https://www.worldcubeassociation.org/persons/2015TOMC01) | [Santa Claus Cube Race 2016](https://www.worldcubeassociation.org/competitions/SantaClausCubeRace2016) | [Beskid Cubing 2023](https://www.worldcubeassociation.org/competitions/BeskidCubing2023) |

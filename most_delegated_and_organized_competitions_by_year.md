@@ -1,17 +1,17 @@
 ## Most delegated and organized competitions each year
 
 *Note: This statistic shows how many of the competitions delegated by each Polish delegate in a given year were also organized by them.*
-*Updated on 19 November 2026*
+*Updated on 22 November 2026*
 
 
 ### 2026
 
 | Delegated & organized | Delegated | Share | Person |
 | ---: | ---: | ---: | :--- |
-| 2 | 2 | 100.0% | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) |
+| 3 | 3 | 100.0% | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) |
 | 1 | 1 | 100.0% | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |
 | 27 | 31 | 87.1% | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
-| 11 | 14 | 78.6% | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
+| 12 | 15 | 80.0% | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
 | 15 | 22 | 68.2% | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 12 | 20 | 60.0% | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
 | 2 | 4 | 50.0% | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
@@ -22,8 +22,8 @@
 | 0 | 11 | 0.0% | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) |
 | 0 | 3 | 0.0% | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
 | 0 | 3 | 0.0% | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) |
-| 0 | 1 | 0.0% | [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) |
-| 0 | 1 | 0.0% | [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) |
+| 0 | 2 | 0.0% | [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) |
+| 0 | 2 | 0.0% | [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) |
 | 0 | 3 | 0.0% | [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) |
 
 ### 2025

@@ -1,6 +1,6 @@
 ## Average results submission time by Polish delegates each year
 
-*Updated on 19 November 2026*
+*Updated on 22 November 2026*
 
 
 ### 2026
@@ -8,13 +8,11 @@
 | Delegate | Average time | Total delegated |
 | ---: | :--- | ---: |
 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | -0.55h | 3 |
-| [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) | -0.29h | 1 |
 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 0.25h | 30 |
 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 0.66h | 3 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 1.18h | 41 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 1.45h | 31 |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 3.06h | 1 |
-| [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) | 3.07h | 1 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 4.00h | 4 |
 | [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) | 4.32h | 3 |
 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 7.42h | 1 |
@@ -22,8 +20,10 @@
 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 12.65h | 11 |
 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 17.71h | 14 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 1d 5.10h | 22 |
-| [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 2d 14.64h | 13 |
-| [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) | 3d 12.66h | 2 |
+| [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) | 2d 0.85h | 2 |
+| [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) | 2d 2.53h | 2 |
+| [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 2d 17.16h | 14 |
+| [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) | 3d 17.10h | 3 |
 
 ### 2025
 

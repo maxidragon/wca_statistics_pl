@@ -1,7 +1,7 @@
 ## Delegated a competition in most Polish cities
 
 *Note: This statistic shows the Polish delegates who have delegated a competition in most cities in Poland.*
-*Updated on 19 November 2026*
+*Updated on 22 November 2026*
 
 | Name | Cities |
 | :--- | ---: |
@@ -17,7 +17,7 @@
 | [Krzysztof Kuncki](https://www.worldcubeassociation.org/persons/2010KUNC01) | 18 |
 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) | 18 |
 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) | 18 |
-| [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 15 |
+| [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 16 |
 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 14 |
 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) | 14 |
 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 13 |
@@ -26,13 +26,13 @@
 | [Stefan Łapicki](https://www.worldcubeassociation.org/persons/2006LAPI01) | 8 |
 | [Adam Joks](https://www.worldcubeassociation.org/persons/2005JOKS01) | 5 |
 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) | 5 |
+| [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) | 4 |
+| [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | 4 |
 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 3 |
-| [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) | 3 |
-| [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | 3 |
+| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 3 |
 | [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) | 2 |
 | [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) | 2 |
 | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) | 2 |
-| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 2 |
 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 1 |
 
 

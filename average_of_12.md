@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 19 November 2026*
+*Updated on 22 November 2026*
 
 
 ### 3x3x3 Cube
@@ -204,8 +204,8 @@
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
 | 5.92 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 5.95, 5.41, 6.79, 6.16, 5.33, 5.14, 8.35, 5.29, 6.00, 6.39, 5.58, 6.28 |
+| 6.06 | [Maksym Wingert](https://www.worldcubeassociation.org/persons/2024WING02) | 6.16, 6.42, 5.52, 5.83, 5.43, 5.39, 6.97, 7.85, 6.10, 6.64, 5.38, 6.11 |
 | 6.39 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) | 6.33, 6.85, 5.60, 6.94, 7.52, 6.83, 5.31, 7.26, 6.96, 5.80, 5.21, 6.06 |
-| 6.63 | [Maksym Wingert](https://www.worldcubeassociation.org/persons/2024WING02) | 6.23, 5.45, 5.56, 6.88, 9.04, 8.05, 5.57, 7.02, 8.64, 5.18, 6.43, 6.50 |
 | 6.65 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 6.92, 7.09, 5.03, 6.77, 6.77, 7.40, 4.91, 6.53, 8.21, 5.72, 7.27, 7.01 |
 | 6.70 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 6.60, 6.81, 7.24, 7.05, 6.80, 5.91, 6.45, 8.25, 6.95, 6.62, 6.56, 5.80 |
 | 6.83 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 5.36, 5.50, 5.94, 8.43, 7.58, 7.06, 6.73, 6.49, 9.09, 6.69, 5.52, 8.35 |

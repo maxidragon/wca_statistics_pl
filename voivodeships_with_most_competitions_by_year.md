@@ -1,7 +1,7 @@
 ## Voivodeships with the most competitions each year
 
 *Note: Voivodeship is inferred from competition coordinates.*
-*Updated on 19 November 2026*
+*Updated on 22 November 2026*
 
 
 ### 2026
@@ -9,8 +9,8 @@
 | Competitions | Voivodeship |
 | ---: | :--- |
 | 14 | Mazowieckie |
+| 13 | Pomorskie |
 | 13 | Łódzkie |
-| 12 | Pomorskie |
 | 10 | Podkarpackie |
 | 10 | Wielkopolskie |
 | 10 | Śląskie |

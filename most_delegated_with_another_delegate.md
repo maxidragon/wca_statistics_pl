@@ -1,7 +1,7 @@
 ## Most delegated competitions with another delegate
 
 *Note: Shows how many times each delegate has co-delegated with others. Only Polish delegates are included, and only competitions that have taken place in Poland and have results posted are considered.*
-*Updated on 19 November 2026*
+*Updated on 22 November 2026*
 
 
 ### [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01)
@@ -23,13 +23,16 @@ _Total delegated competitions: 78 (76 in Poland)_
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 1 |
 
 ### [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01)
-_Total delegated competitions: 1 (1 in Poland)_
+_Total delegated competitions: 2 (2 in Poland)_
 
 | Co-delegate | Count |
 | :--- | ---: |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 1 |
 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 1 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 1 |
+| [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 1 |
+| [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) | 1 |
+| [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) | 1 |
 
 ### [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01)
 _Total delegated competitions: 47 (45 in Poland)_
@@ -128,11 +131,14 @@ _Total delegated competitions: 73 (69 in Poland)_
 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 1 |
 
 ### [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01)
-_Total delegated competitions: 1 (1 in Poland)_
+_Total delegated competitions: 2 (2 in Poland)_
 
 | Co-delegate | Count |
 | :--- | ---: |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 1 |
+| [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 1 |
+| [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) | 1 |
+| [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) | 1 |
 
 ### [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01)
 _Total delegated competitions: 3 (3 in Poland)_
@@ -213,17 +219,19 @@ _Total delegated competitions: 59 (55 in Poland)_
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 1 |
 
 ### [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04)
-_Total delegated competitions: 2 (2 in Poland)_
+_Total delegated competitions: 3 (3 in Poland)_
 
 | Co-delegate | Count |
 | :--- | ---: |
+| [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 2 |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 2 |
-| [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 1 |
+| [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) | 1 |
+| [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) | 1 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 1 |
 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 1 |
 
 ### [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01)
-_Total delegated competitions: 30 (29 in Poland)_
+_Total delegated competitions: 31 (30 in Poland)_
 
 | Co-delegate | Count |
 | :--- | ---: |
@@ -232,8 +240,10 @@ _Total delegated competitions: 30 (29 in Poland)_
 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 4 |
 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 3 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 2 |
+| [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) | 2 |
 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 2 |
-| [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) | 1 |
+| [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) | 1 |
+| [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) | 1 |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 1 |
 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 1 |
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 1 |

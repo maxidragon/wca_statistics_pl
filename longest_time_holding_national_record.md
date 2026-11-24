@@ -12,30 +12,30 @@
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 5x5x5 Cube | Average | 19 | 1:00.22 | 16&nbsp;Aug&nbsp;2008 | 24&nbsp;Feb&nbsp;2018 | **3479** |
 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | 3x3x3 Multi-Blind | Single | 9 | 41/41 54:14 | 21&nbsp;Apr&nbsp;2012 | 11&nbsp;Sep&nbsp;2021 | **3430** |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | Square-1 | Average | 15 | 5.63 | 14&nbsp;Oct&nbsp;2017 | 14&nbsp;Nov&nbsp;2026 | **3318** |
-| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | Square-1 | Single | 12 | 3.87 | 17&nbsp;Nov&nbsp;2017 |  | **3293** |
-| [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 5x5x5 Blindfolded | Single | 5 | 3:15.72 | 19&nbsp;Jul&nbsp;2018 |  | **3049** |
-| [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 4x4x4 Blindfolded | Average | 3 | 1:46.85 |  4&nbsp;Aug&nbsp;2018 |  | **3033** |
+| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | Square-1 | Single | 12 | 3.87 | 17&nbsp;Nov&nbsp;2017 |  | **3294** |
+| [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 5x5x5 Blindfolded | Single | 5 | 3:15.72 | 19&nbsp;Jul&nbsp;2018 |  | **3050** |
+| [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 4x4x4 Blindfolded | Average | 3 | 1:46.85 |  4&nbsp;Aug&nbsp;2018 |  | **3034** |
 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | Pyraminx | Single | 2 | 0.91 | 21&nbsp;Apr&nbsp;2018 | 18&nbsp;Apr&nbsp;2026 | **2919** |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 3x3x3 Cube | Average | 13 | 4.67 | 30&nbsp;Jun&nbsp;2018 | 25&nbsp;Apr&nbsp;2026 | **2856** |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 6x6x6 Cube | Single | 8 | 1:44.97 | 21&nbsp;Feb&nbsp;2009 |  9&nbsp;Dec&nbsp;2016 | **2848** |
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 3x3x3 One-Handed | Single | 2 | 8.15 | 17&nbsp;Jul&nbsp;2015 |  4&nbsp;Mar&nbsp;2023 | **2787** |
 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) | 2x2x2 Cube | Single | 1 | 0.49 | 19&nbsp;Mar&nbsp;2016 |  4&nbsp;Nov&nbsp;2023 | **2786** |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 4x4x4 Cube | Average | 16 | 18.56 | 13&nbsp;Apr&nbsp;2019 |  | **2781** |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 4x4x4 Cube | Average | 16 | 18.56 | 13&nbsp;Apr&nbsp;2019 |  | **2782** |
 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) | Skewb | Single | 1 | 1.10 | 17&nbsp;Oct&nbsp;2015 | 13&nbsp;May&nbsp;2023 | **2765** |
 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 4x4x4 Blindfolded | Single | 5 | 1:36.14 |  4&nbsp;Aug&nbsp;2018 |  2&nbsp;Jan&nbsp;2026 | **2708** |
 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) | Square-1 | Single | 4 | 9.93 | 17&nbsp;Jul&nbsp;2009 |  9&nbsp;Dec&nbsp;2016 | **2702** |
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | Clock | Average | 8 | 5.08 | 16&nbsp;Aug&nbsp;2014 | 18&nbsp;Dec&nbsp;2021 | **2681** |
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 3x3x3 One-Handed | Average | 6 | 10.71 | 20&nbsp;Feb&nbsp;2016 | 10&nbsp;Jun&nbsp;2023 | **2667** |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 3x3x3 Blindfolded | Single | 5 | 15.02 | 10&nbsp;Aug&nbsp;2019 |  | **2662** |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 5x5x5 Cube | Average | 19 | 33.73 | 31&nbsp;Aug&nbsp;2019 |  | **2641** |
+| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 3x3x3 Blindfolded | Single | 5 | 15.02 | 10&nbsp;Aug&nbsp;2019 |  | **2663** |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 5x5x5 Cube | Average | 19 | 33.73 | 31&nbsp;Aug&nbsp;2019 |  | **2642** |
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 3x3x3 Cube | Average | 9 | 7.13 | 16&nbsp;Apr&nbsp;2011 | 30&nbsp;Jun&nbsp;2018 | **2632** |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 5x5x5 Cube | Single | 13 | 29.49 | 13&nbsp;Sep&nbsp;2019 |  | **2628** |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 6x6x6 Cube | Average | 10 | 1:05.78 | 13&nbsp;Sep&nbsp;2019 |  | **2628** |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 6x6x6 Cube | Single | 8 | 59.84 | 13&nbsp;Sep&nbsp;2019 |  | **2628** |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 5x5x5 Cube | Single | 13 | 29.49 | 13&nbsp;Sep&nbsp;2019 |  | **2629** |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 6x6x6 Cube | Average | 10 | 1:05.78 | 13&nbsp;Sep&nbsp;2019 |  | **2629** |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 6x6x6 Cube | Single | 8 | 59.84 | 13&nbsp;Sep&nbsp;2019 |  | **2629** |
 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) | 2x2x2 Cube | Average | 4 | 1.35 | 25&nbsp;Jun&nbsp;2016 | 26&nbsp;Aug&nbsp;2023 | **2618** |
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | Clock | Single | 5 | 3.93 |  9&nbsp;Jan&nbsp;2016 |  7&nbsp;Jan&nbsp;2023 | **2555** |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 4x4x4 Cube | Single | 10 | 15.18 | 21&nbsp;Dec&nbsp;2019 |  | **2529** |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 7x7x7 Cube | Average | 13 | 1:41.43 | 21&nbsp;Dec&nbsp;2019 |  | **2529** |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 4x4x4 Cube | Single | 10 | 15.18 | 21&nbsp;Dec&nbsp;2019 |  | **2530** |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 7x7x7 Cube | Average | 13 | 1:41.43 | 21&nbsp;Dec&nbsp;2019 |  | **2530** |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 3x3x3 Cube | Single | 10 | 3.62 |  6&nbsp;Jul&nbsp;2019 |  7&nbsp;Feb&nbsp;2026 | **2408** |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 7x7x7 Cube | Single | 9 | 2:02.65 | 21&nbsp;Feb&nbsp;2015 |  3&nbsp;Jul&nbsp;2021 | **2324** |
 | [Szymon Jeziorski](https://www.worldcubeassociation.org/persons/2013JEZI01) | 3x3x3 Fewest Moves | Single | 1 | 19 | 26&nbsp;Oct&nbsp;2018 |  1&nbsp;Feb&nbsp;2025 | **2290** |
@@ -45,7 +45,7 @@
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 3x3x3 Cube | Single | 4 | 5.81 | 13&nbsp;Aug&nbsp;2011 |  5&nbsp;Aug&nbsp;2017 | **2184** |
 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | 3x3x3 Blindfolded | Average | 4 | 25.45 |  9&nbsp;Nov&nbsp;2013 | 31&nbsp;Aug&nbsp;2019 | **2121** |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 7x7x7 Cube | Single | 13 | 2:43.15 | 21&nbsp;Feb&nbsp;2009 |  6&nbsp;Sep&nbsp;2014 | **2023** |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 7x7x7 Cube | Single | 10 | 1:32.69 |  3&nbsp;Jul&nbsp;2021 |  | **1969** |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 7x7x7 Cube | Single | 10 | 1:32.69 |  3&nbsp;Jul&nbsp;2021 |  | **1970** |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | Pyraminx | Average | 5 | 1.72 |  9&nbsp;Dec&nbsp;2017 |  4&nbsp;Mar&nbsp;2023 | **1911** |
 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) | Square-1 | Average | 8 | 13.39 | 27&nbsp;Jun&nbsp;2009 |  6&nbsp;Sep&nbsp;2014 | **1897** |
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 2x2x2 Cube | Single | 1 | 1.03 |  6&nbsp;Aug&nbsp;2010 | 26&nbsp;Sep&nbsp;2015 | **1877** |

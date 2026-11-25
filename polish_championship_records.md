@@ -1,7 +1,7 @@
 ## Polish Championship records
 
 *Note: This is a list of the best results from all Polish Championships. It corresponds to Olympic records for Olympic sports.*
-*Updated on 22 November 2026*
+*Updated on 25 November 2026*
 
 
 ### Single
@@ -10,14 +10,14 @@
 | :--- | ---: | :--- | :--- | :--- |
 | 3x3x3 Cube | 4.07 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) |
 | 2x2x2 Cube | 0.52 | [Mikołaj Zubowicz](https://www.worldcubeassociation.org/persons/2015ZUBO01) | [Polish Championship 2021](https://www.worldcubeassociation.org/competitions/PolishChampionship2021) |
-| 4x4x4 Cube | 17.99 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) |
+| 4x4x4 Cube | 17.78 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Polish Championship 2026](https://www.worldcubeassociation.org/competitions/PolishChampionship2026) |
 | 5x5x5 Cube | 33.61 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) |
 | 6x6x6 Cube | 1:02.12 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) |
-| 7x7x7 Cube | 1:46.31 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) |
+| 7x7x7 Cube | 1:41.03 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Polish Championship 2026](https://www.worldcubeassociation.org/competitions/PolishChampionship2026) |
 | 3x3x3 Blindfolded | 16.43 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023) |
-| 3x3x3 Fewest Moves | 19 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) | [Polish Championship 2018](https://www.worldcubeassociation.org/competitions/PolishChampionship2018) |
+| 3x3x3 Fewest Moves | 19 | [Szymon Jeziorski](https://www.worldcubeassociation.org/persons/2013JEZI01) | [Polish Championship 2018](https://www.worldcubeassociation.org/competitions/PolishChampionship2018) |
 | 3x3x3 One-Handed | 6.71 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) |
-| Megaminx | 26.99 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) |
+| Megaminx | 26.70 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | [Polish Championship 2026](https://www.worldcubeassociation.org/competitions/PolishChampionship2026) |
 | Pyraminx | 1.11 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023) |
 | Clock | 1.90 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) |
 | Skewb | 0.84 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) |
@@ -30,19 +30,19 @@
 
 | Event | Result | Person | Citizen of | Competition |
 | :--- | ---: | :--- | :--- | :--- |
-| 3x3x3 Cube | 5.06 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) |
-| 2x2x2 Cube | 1.02 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) |
-| 4x4x4 Cube | 19.90 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) |
-| 5x5x5 Cube | 36.59 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) |
+| 3x3x3 Cube | 4.87 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Polish Championship 2026](https://www.worldcubeassociation.org/competitions/PolishChampionship2026) |
+| 2x2x2 Cube | 0.86 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | [Polish Championship 2026](https://www.worldcubeassociation.org/competitions/PolishChampionship2026) |
+| 4x4x4 Cube | 19.56 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Polish Championship 2026](https://www.worldcubeassociation.org/competitions/PolishChampionship2026) |
+| 5x5x5 Cube | 36.32 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Polish Championship 2026](https://www.worldcubeassociation.org/competitions/PolishChampionship2026) |
 | 6x6x6 Cube | 1:06.98 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) |
-| 7x7x7 Cube | 1:49.91 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) |
-| 3x3x3 Blindfolded | 20.58 | [Stanisław Szyszka](https://www.worldcubeassociation.org/persons/2016SZYS02) | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) |
-| 3x3x3 Fewest Moves | 22.00 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) |
-| 3x3x3 One-Handed | 9.23 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) |
-| Megaminx | 30.80 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) |
-| Pyraminx | 1.80 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023) |
+| 7x7x7 Cube | 1:45.33 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Polish Championship 2026](https://www.worldcubeassociation.org/competitions/PolishChampionship2026) |
+| 3x3x3 Blindfolded | 19.23 | [Dominik Kobinski](https://www.worldcubeassociation.org/persons/2019KOBI01) | [Polish Championship 2026](https://www.worldcubeassociation.org/competitions/PolishChampionship2026) |
+| 3x3x3 Fewest Moves | 21.67 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | [Polish Championship 2026](https://www.worldcubeassociation.org/competitions/PolishChampionship2026) |
+| 3x3x3 One-Handed | 8.92 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | [Polish Championship 2026](https://www.worldcubeassociation.org/competitions/PolishChampionship2026) |
+| Megaminx | 30.07 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | [Polish Championship 2026](https://www.worldcubeassociation.org/competitions/PolishChampionship2026) |
+| Pyraminx | 1.65 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | [Polish Championship 2026](https://www.worldcubeassociation.org/competitions/PolishChampionship2026) |
 | Clock | 2.83 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) |
-| Skewb | 1.87 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024) |
+| Skewb | 1.69 | [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) | [Polish Championship 2026](https://www.worldcubeassociation.org/competitions/PolishChampionship2026) |
 | Square-1 | 5.81 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [Polish Championship 2025](https://www.worldcubeassociation.org/competitions/PolishChampionship2025) |
 | 4x4x4 Blindfolded | 2:15.31 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | [Polish Championship 2021](https://www.worldcubeassociation.org/competitions/PolishChampionship2021) |
 | 5x5x5 Blindfolded | 11:29.00 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) | [Polish Nationals 2017](https://www.worldcubeassociation.org/competitions/PolishNationals2017) |

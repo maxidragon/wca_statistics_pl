@@ -1,6 +1,6 @@
 ## Shortest time to achieve solves milestone
 
-*Updated on 22 November 2026*
+*Updated on 25 November 2026*
 
 
 ### 20000 Solves
@@ -56,7 +56,7 @@
 | 1814 | [Szymon Jaworski](https://www.worldcubeassociation.org/persons/2021JAWO01) |
 | 1828 | [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) |
 | 1961 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
-| 1990 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 1967 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) |
 
 ### 1000 Solves
 

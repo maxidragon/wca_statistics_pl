@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 22 November 2026*
+*Updated on 25 November 2026*
 
 | WRs | Person |
 | ---: | :--- |
@@ -9,101 +9,101 @@
 | 93 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 80 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
 | 76 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
+| 74 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 73 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) |
 | 73 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) |
-| 73 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 73 | [Paweł Włoszek](https://www.worldcubeassociation.org/persons/2006WLOS01) |
 | 71 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) |
 | 70 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
 | 61 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) |
-| 60 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
+| 61 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 59 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
 | 57 | [Piotr Frankowski](https://www.worldcubeassociation.org/persons/2006FRAN01) |
+| 57 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 56 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) |
-| 56 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 54 | [Michał Robaczyk](https://www.worldcubeassociation.org/persons/2006ROBA01) |
 | 52 | [Rafał Studnicki](https://www.worldcubeassociation.org/persons/2005STUD01) |
+| 52 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 52 | [Kamil Pawlak](https://www.worldcubeassociation.org/persons/2006PAWL01) |
-| 51 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
-| 50 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
+| 51 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
 | 49 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |
 | 48 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) |
-| 46 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) |
 | 46 | [Kalina Jakubowska](https://www.worldcubeassociation.org/persons/2009BRZE01) |
+| 46 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) |
 | 45 | [Wiktoria Zborowska](https://www.worldcubeassociation.org/persons/2003ZBOR01) |
 | 45 | [Karolina Wiącek](https://www.worldcubeassociation.org/persons/2008WIAC01) |
-| 44 | [Rafał Guzewicz](https://www.worldcubeassociation.org/persons/2006GUZE01) |
 | 44 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) |
+| 44 | [Rafał Guzewicz](https://www.worldcubeassociation.org/persons/2006GUZE01) |
 | 44 | [Tomasz Kiedrowicz](https://www.worldcubeassociation.org/persons/2006KIED01) |
-| 42 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 43 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 42 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) |
 | 42 | [Karol Cudzich](https://www.worldcubeassociation.org/persons/2006CUDZ01) |
 | 42 | [Błażej Morgała](https://www.worldcubeassociation.org/persons/2006MORG01) |
 | 41 | [Adam Joks](https://www.worldcubeassociation.org/persons/2005JOKS01) |
 | 41 | [Marek Kurcyus](https://www.worldcubeassociation.org/persons/2005KURC01) |
-| 41 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) |
 | 39 | [Łukasz Cichecki](https://www.worldcubeassociation.org/persons/2007CICH01) |
 | 38 | [Marek Wójtowicz](https://www.worldcubeassociation.org/persons/2008WOJT01) |
 | 38 | [Kamil Górski](https://www.worldcubeassociation.org/persons/2006GORS01) |
 | 38 | [Krzysztof Szwarc](https://www.worldcubeassociation.org/persons/2006SZWA01) |
 | 37 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) |
 | 36 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
+| 36 | [Grzegorz Prusak](https://www.worldcubeassociation.org/persons/2006PRUS01) |
 | 36 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) |
 | 36 | [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) |
-| 36 | [Grzegorz Prusak](https://www.worldcubeassociation.org/persons/2006PRUS01) |
 | 36 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) |
-| 35 | [Tonia Kowalczyk](https://www.worldcubeassociation.org/persons/2008KWAS01) |
 | 35 | [Kacper Pawlaczyk](https://www.worldcubeassociation.org/persons/2005PAWL01) |
+| 35 | [Tonia Kowalczyk](https://www.worldcubeassociation.org/persons/2008KWAS01) |
 | 35 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) |
 | 35 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) |
+| 35 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 34 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) |
 | 34 | [Jakub Cabaj](https://www.worldcubeassociation.org/persons/2008CABA03) |
-| 34 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
-| 33 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) |
-| 33 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) |
-| 33 | [Mateusz Fydrych](https://www.worldcubeassociation.org/persons/2011FYDR01) |
 | 33 | [Stefan Łapicki](https://www.worldcubeassociation.org/persons/2006LAPI01) |
+| 33 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) |
+| 33 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) |
+| 33 | [Mateusz Fydrych](https://www.worldcubeassociation.org/persons/2011FYDR01) |
 | 33 | [Klaudia Grabowska](https://www.worldcubeassociation.org/persons/2007GRAB01) |
 | 33 | [Magda Gancarz](https://www.worldcubeassociation.org/persons/2007GANC01) |
 | 33 | [Piotr Alexandrowicz](https://www.worldcubeassociation.org/persons/2007ALEX01) |
 | 32 | [Jakub Wojtaszewski](https://www.worldcubeassociation.org/persons/2013WOJT02) |
 | 32 | [Tomasz Seweryn](https://www.worldcubeassociation.org/persons/2006SEWE01) |
 | 31 | [Marek Pepke](https://www.worldcubeassociation.org/persons/2008PEPK01) |
-| 30 | [Krzysztof Kuncki](https://www.worldcubeassociation.org/persons/2010KUNC01) |
-| 30 | [Mateusz Burnicki](https://www.worldcubeassociation.org/persons/2006BURN01) |
+| 31 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) |
 | 30 | [Igor Kowalczyk](https://www.worldcubeassociation.org/persons/2013KOWA04) |
-| 30 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) |
+| 30 | [Mateusz Burnicki](https://www.worldcubeassociation.org/persons/2006BURN01) |
+| 30 | [Krzysztof Kuncki](https://www.worldcubeassociation.org/persons/2010KUNC01) |
 | 29 | [Michał Pawlak](https://www.worldcubeassociation.org/persons/2008PAWL03) |
-| 28 | [Michał Wojcieszek](https://www.worldcubeassociation.org/persons/2015WOJC02) |
-| 28 | [Kamil Mieńko](https://www.worldcubeassociation.org/persons/2011MIEN01) |
 | 28 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) |
-| 27 | [Michał Mlostek](https://www.worldcubeassociation.org/persons/2015MLOS01) |
-| 27 | [Kamil Zieliński](https://www.worldcubeassociation.org/persons/2008ZIEL01) |
-| 27 | [Kacper Stacha](https://www.worldcubeassociation.org/persons/2013STAC01) |
+| 28 | [Kamil Mieńko](https://www.worldcubeassociation.org/persons/2011MIEN01) |
+| 28 | [Michał Wojcieszek](https://www.worldcubeassociation.org/persons/2015WOJC02) |
 | 27 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) |
 | 27 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) |
-| 26 | [Sławomir Wolanin](https://www.worldcubeassociation.org/persons/2005WOLA01) |
+| 27 | [Kamil Zieliński](https://www.worldcubeassociation.org/persons/2008ZIEL01) |
+| 27 | [Kacper Stacha](https://www.worldcubeassociation.org/persons/2013STAC01) |
+| 27 | [Michał Mlostek](https://www.worldcubeassociation.org/persons/2015MLOS01) |
 | 26 | [Patrycja Michalska](https://www.worldcubeassociation.org/persons/2013MICH02) |
 | 26 | [Filip Miazek](https://www.worldcubeassociation.org/persons/2010MIAZ01) |
 | 26 | [Mateusz Cichoracki](https://www.worldcubeassociation.org/persons/2011CICH01) |
 | 26 | [Paweł Kowol](https://www.worldcubeassociation.org/persons/2011KOWO01) |
+| 26 | [Sławomir Wolanin](https://www.worldcubeassociation.org/persons/2005WOLA01) |
+| 25 | [Stanisław Dąbrowski](https://www.worldcubeassociation.org/persons/2016DABR03) |
 | 25 | [Tomasz Kaczorowski](https://www.worldcubeassociation.org/persons/2008KACZ01) |
 | 25 | [Tomasz Korzeniewski](https://www.worldcubeassociation.org/persons/2007KORZ01) |
 | 25 | [Barbara Olbromska](https://www.worldcubeassociation.org/persons/2006OLBR01) |
-| 25 | [Stanisław Dąbrowski](https://www.worldcubeassociation.org/persons/2016DABR03) |
-| 24 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) |
+| 24 | [Radosław Ciuk](https://www.worldcubeassociation.org/persons/2013CIUK01) |
 | 24 | [Piotr Pojda](https://www.worldcubeassociation.org/persons/2012POJD01) |
 | 24 | [Krzysztof Żerucha](https://www.worldcubeassociation.org/persons/2008ZERU01) |
 | 24 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
-| 24 | [Radosław Ciuk](https://www.worldcubeassociation.org/persons/2013CIUK01) |
-| 24 | [Marek Dąbrowski](https://www.worldcubeassociation.org/persons/2016DABR02) |
 | 24 | [Mateusz Adamczyk](https://www.worldcubeassociation.org/persons/2011ADAM03) |
-| 23 | [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) |
+| 24 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
+| 24 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) |
+| 24 | [Marek Dąbrowski](https://www.worldcubeassociation.org/persons/2016DABR02) |
+| 24 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 23 | [Kamil Michalak](https://www.worldcubeassociation.org/persons/2016MICH01) |
-| 23 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
-| 23 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
+| 23 | [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) |
 | 22 | [Piotr Kuchta](https://www.worldcubeassociation.org/persons/2012KUCH01) |
-| 22 | [Grzegorz Dzikiewicz](https://www.worldcubeassociation.org/persons/2008DZIK01) |
 | 22 | [Michał Tomański](https://www.worldcubeassociation.org/persons/2009TOMA01) |
+| 22 | [Grzegorz Dzikiewicz](https://www.worldcubeassociation.org/persons/2008DZIK01) |
 | 21 | [Konrad Stawski](https://www.worldcubeassociation.org/persons/2007STAW01) |
 
 

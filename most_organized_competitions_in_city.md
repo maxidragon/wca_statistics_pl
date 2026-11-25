@@ -1,7 +1,7 @@
 ## Most organized competitions in a city
 
 *Note: Only Polish organizers and Polish competitions are included.*
-*Updated on 22 November 2026*
+*Updated on 25 November 2026*
 
 
 ### Gdańsk
@@ -14,7 +14,7 @@ _Total competitions: 82_
 | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) | 25 |
 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 17 |
 | [Klaudia Milewczyk](https://www.worldcubeassociation.org/persons/2022MILE05) | 15 |
-| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 4 |
+| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 3 |
 | [Jan Wojcieszkiewicz](https://www.worldcubeassociation.org/persons/2023WOJC03) | 2 |
 | [Kalina Jakubowska](https://www.worldcubeassociation.org/persons/2009BRZE01) | 2 |
 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | 2 |

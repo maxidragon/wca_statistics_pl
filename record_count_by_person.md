@@ -1,7 +1,7 @@
 ## Record count by person
 
 *Note: Each record is counted once, at its highest level: a world record is not counted again as a European or national record.*
-*Updated on 22 November 2026*
+*Updated on 25 November 2026*
 
 | Person | Total | WR | ER | NR |
 | :--- | ---: | ---: | ---: | ---: |
@@ -24,8 +24,8 @@
 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | 16 | 14 | 0 | 2 |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 15 | 5 | 1 | 9 |
 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) | 15 | 4 | 2 | 9 |
+| [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 15 | 3 | 8 | 4 |
 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | 15 | 1 | 0 | 14 |
-| [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 14 | 2 | 8 | 4 |
 | [Kamil Zieliński](https://www.worldcubeassociation.org/persons/2008ZIEL01) | 14 | 0 | 0 | 14 |
 | [Piotr Alexandrowicz](https://www.worldcubeassociation.org/persons/2007ALEX01) | 13 | 1 | 1 | 11 |
 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) | 13 | 1 | 0 | 12 |

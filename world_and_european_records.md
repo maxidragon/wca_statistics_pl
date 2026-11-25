@@ -1,13 +1,14 @@
 ## World and European records set by Polish people
 
 *Note: All historical records are taken into account (i.e. not only the current ones). Records that were world records at the time are listed only in the world records table.*
-*Updated on 22 November 2026*
+*Updated on 25 November 2026*
 
 
 ### World records
 
 | Date | Event | Type | Result | Person | Competition |
 | :--- | :--- | :--- | ---: | :--- | :--- |
+| 20 Nov 2026 | 2x2x2 Cube | Average | 0.86 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | [Polish Championship 2026](https://www.worldcubeassociation.org/competitions/PolishChampionship2026/results/by_person#2021ZAJD03) |
 |  1 May 2026 | 5x5x5 Cube | Single | 29.49 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [All Rounders Katowice I 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceI2026/results/by_person#2016KOLA02) |
 |  1 May 2026 | 5x5x5 Cube | Average | 33.73 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [All Rounders Katowice I 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceI2026/results/by_person#2016KOLA02) |
 |  7 Feb 2026 | 3x3x3 Cube | Single | 2.76 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | [GLS Big Cubes Gdańsk 2026](https://www.worldcubeassociation.org/competitions/GLSBigCubesGdansk2026/results/by_person#2021ZAJD03) |

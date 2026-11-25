@@ -1,7 +1,7 @@
 ## Cities with the most competitions each year
 
 *Note: Only the 20 cities with the most competitions are listed for each year.*
-*Updated on 22 November 2026*
+*Updated on 25 November 2026*
 
 
 ### 2026

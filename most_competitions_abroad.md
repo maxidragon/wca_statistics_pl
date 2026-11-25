@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 22 November 2026*
+*Updated on 25 November 2026*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -51,6 +51,7 @@
 | 11 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
 | 11 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) |
 | 11 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
+| 11 | [Szymon Jaworski](https://www.worldcubeassociation.org/persons/2021JAWO01) |
 | 11 | [Wiktor Syrytczyk](https://www.worldcubeassociation.org/persons/2022SYRY01) |
 | 11 | [Krzysztof Wawrzyniak](https://www.worldcubeassociation.org/persons/2023WAWR01) |
 | 11 | [Kacper Borkowski](https://www.worldcubeassociation.org/persons/2023BORK03) |
@@ -65,7 +66,6 @@
 | 10 | [Patryk Pałka](https://www.worldcubeassociation.org/persons/2017PALK01) |
 | 10 | [Adelina Ilnicki](https://www.worldcubeassociation.org/persons/2020ILNI01) |
 | 10 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
-| 10 | [Szymon Jaworski](https://www.worldcubeassociation.org/persons/2021JAWO01) |
 | 10 | [Oskar Obeid](https://www.worldcubeassociation.org/persons/2022OBEI01) |
 | 10 | [Eryk Haoyan Klimek](https://www.worldcubeassociation.org/persons/2022KLIM01) |
 | 10 | [Hubert Darłak](https://www.worldcubeassociation.org/persons/2023DARL03) |

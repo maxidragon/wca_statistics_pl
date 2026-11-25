@@ -1,44 +1,44 @@
 ## Competitions per voivodeship
 
 *Note: Voivodeships are inferred from competition coordinates (approximate bounding box). *
-*Updated on 22 November 2026*
+*Updated on 25 November 2026*
 
 
 ### Pomorskie
-_Total competitions: 105_
+_Total competitions: 106_
 
 | Person | Competitions |
 | :--- | ---: |
 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 93 |
 | [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) | 73 |
-| [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 67 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 67 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 68 |
+| [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 68 |
 | [Karolina Wiącek](https://www.worldcubeassociation.org/persons/2008WIAC01) | 64 |
 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | 64 |
 | [Kalina Jakubowska](https://www.worldcubeassociation.org/persons/2009BRZE01) | 58 |
-| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 53 |
+| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 54 |
 | [Oskar Kaczmarek](https://www.worldcubeassociation.org/persons/2013KACZ01) | 53 |
-| [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) | 52 |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 52 |
+| [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) | 53 |
+| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 53 |
 | [Igor Ośmiałowski](https://www.worldcubeassociation.org/persons/2014OMIA01) | 51 |
 | [Marek Pepke](https://www.worldcubeassociation.org/persons/2008PEPK01) | 50 |
 | [Patrycja Michalska](https://www.worldcubeassociation.org/persons/2013MICH02) | 49 |
 | [Grzegorz Pacewicz](https://www.worldcubeassociation.org/persons/2014PACE01) | 47 |
-| [Kacper Grzelakowski](https://www.worldcubeassociation.org/persons/2017GRZE01) | 46 |
 | [Kamil Pawlak](https://www.worldcubeassociation.org/persons/2006PAWL01) | 46 |
-| [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 44 |
+| [Kacper Grzelakowski](https://www.worldcubeassociation.org/persons/2017GRZE01) | 46 |
+| [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 45 |
 | [Piotr Frankowski](https://www.worldcubeassociation.org/persons/2006FRAN01) | 41 |
 | [Przemysław Kanarski](https://www.worldcubeassociation.org/persons/2019KANA04) | 40 |
-| [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 39 |
-| [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | 38 |
+| [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 40 |
+| [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | 39 |
 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) | 37 |
-| [Cezary Mach](https://www.worldcubeassociation.org/persons/2018MACH04) | 36 |
-| [Alan Żeromski](https://www.worldcubeassociation.org/persons/2018ZERO01) | 36 |
-| [Joanna Kierznikiewicz](https://www.worldcubeassociation.org/persons/2022KIER01) | 34 |
-| [Julian Helowicz](https://www.worldcubeassociation.org/persons/2023HELO01) | 34 |
-| [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | 34 |
+| [Alan Żeromski](https://www.worldcubeassociation.org/persons/2018ZERO01) | 37 |
+| [Cezary Mach](https://www.worldcubeassociation.org/persons/2018MACH04) | 37 |
+| [Julian Helowicz](https://www.worldcubeassociation.org/persons/2023HELO01) | 35 |
+| [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | 35 |
 | [Piotr Kuchta](https://www.worldcubeassociation.org/persons/2012KUCH01) | 34 |
-| [Sebastian Kowalewski](https://www.worldcubeassociation.org/persons/2013KOWA01) | 34 |
+| [Joanna Kierznikiewicz](https://www.worldcubeassociation.org/persons/2022KIER01) | 34 |
+| [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 34 |
 
 ### Śląskie
 _Total competitions: 83_

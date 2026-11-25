@@ -1,13 +1,14 @@
 ## Highest registration fee at Polish competitions
 
 *Note: Only competitions with a PLN base fee are included.*
-*Updated on 22 November 2026*
+*Updated on 25 November 2026*
 
 
 ### 2026
 
 | Fee | Competition | Date |
 | ---: | :--- | :--- |
+| 160.00 PLN | [Polish Championship 2026](https://www.worldcubeassociation.org/competitions/PolishChampionship2026) | 2026-11-20 |
 | 100.00 PLN | [All Rounders Katowice I 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceI2026) | 2026-05-01 |
 | 100.00 PLN | [All Rounders Katowice II 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceII2026) | 2026-08-15 |
 | 100.00 PLN | [All Rounders Katowice III 2026](https://www.worldcubeassociation.org/competitions/AllRoundersKatowiceIII2026) | 2026-10-31 |
@@ -17,7 +18,6 @@
 | 95.00 PLN | [Cube Factory League Jeżów 2026](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueJezow2026) | 2026-04-18 |
 | 95.00 PLN | [GLS Gdańsk III 2026](https://www.worldcubeassociation.org/competitions/GLSGdanskIII2026) | 2026-04-25 |
 | 95.00 PLN | [GLS Gdańsk IV 2026](https://www.worldcubeassociation.org/competitions/GLSGdanskIV2026) | 2026-05-16 |
-| 95.00 PLN | [Cube Factory League Zgierz 2026](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueZgierz2026) | 2026-05-23 |
 
 ### 2025
 

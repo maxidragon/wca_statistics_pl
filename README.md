@@ -1,6 +1,6 @@
 All statistics are computed only for competitors from Poland/Polish competitions.
 
-[Results](#results) (28) · [Records](#records) (12) · [Podiums & medals](#podiums) (21) · [Milestones](#milestones) (8) · [Competing](#competing) (25) · [Travel](#travel) (9) · [Delegating](#delegating) (22) · [Organizing](#organizing) (5) · [Competitions](#competitions) (17)
+[Results](#results) (29) · [Records](#records) (12) · [Podiums & medals](#podiums) (21) · [Milestones](#milestones) (8) · [Competing](#competing) (25) · [Travel](#travel) (9) · [Delegating](#delegating) (22) · [Organizing](#organizing) (5) · [Competitions](#competitions) (17)
 
 ## Results {#results}
 
@@ -15,6 +15,7 @@ All statistics are computed only for competitors from Poland/Polish competitions
 - [Best first single](best_first_single)
 - [Best potential FMC mean](best_potential_fmc_mean)
 - [Best single counting into an average of 5](best_single_counting_into_average)
+- [Delegates rankings](delegates_rankings)
 - [Highest average percentage of available attempts used](average_attempts_used_percentage)
 - [Longest streak of competitions with a personal record done](longest_streak_of_personal_records)
 - [Megaminx results compared to 3x3 (Poland)](minx_to_333)

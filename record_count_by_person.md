@@ -1,7 +1,7 @@
 ## Record count by person
 
 *Note: Each record is counted once, at its highest level: a world record is not counted again as a European or national record.*
-*Updated on 25 November 2026*
+*Updated on 28 November 2026*
 
 | Person | Total | WR | ER | NR |
 | :--- | ---: | ---: | ---: | ---: |

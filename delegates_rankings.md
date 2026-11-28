@@ -1,7 +1,7 @@
 ## Delegates rankings
 
 *Note: Only current delegates (including trainees) are taken into account.*
-*Updated on 25 November 2026*
+*Updated on 28 November 2026*
 
 
 ### 3x3x3 Cube - Single

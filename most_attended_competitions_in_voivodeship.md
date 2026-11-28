@@ -1,7 +1,7 @@
 ## Competitions per voivodeship
 
 *Note: Voivodeships are inferred from competition coordinates (approximate bounding box). *
-*Updated on 25 November 2026*
+*Updated on 28 November 2026*
 
 
 ### Pomorskie
